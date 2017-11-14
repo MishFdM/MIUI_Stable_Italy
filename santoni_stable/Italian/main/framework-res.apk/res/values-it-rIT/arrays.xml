@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <integer-array name="animationboost_param_value">
-        <item>0x40C00000</item>
-        <item>0x00000001</item>
-        <item>0x40800000</item>
-        <item>0x0000044C</item>
-        <item>0x42804000</item>
-        <item>0x00000001</item>
-     </integer-array>
      <string-array name="app_ops_labels">
         <item>Prova ad abilitare il Wi-Fi</item>
         <item>Prova ad abilitare il Bluetooth</item>
      </string-array>
-     <integer-array name="config_dynamicHysteresisBrightLevels">
-        <item>100</item>
-     </integer-array>
-     <integer-array name="config_dynamicHysteresisDarkLevels">
-        <item>200</item>
-     </integer-array>
      <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Lavoro</item>
@@ -82,12 +68,6 @@
         <item>Altro</item>
         <item>Personalizzato</item>
      </string-array>
-     <integer-array name="panelview_flingboost_param_value">
-        <item>0x40C00000</item>
-        <item>0x00000001</item>
-        <item>0x40800000</item>
-        <item>0x00000514</item>
-     </integer-array>
      <string-array name="phoneTypes">
         <item>Casa</item>
         <item>Cellulare</item>
