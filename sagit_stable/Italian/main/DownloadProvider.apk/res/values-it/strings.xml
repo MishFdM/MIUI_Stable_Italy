@@ -10,11 +10,7 @@
      <string name="download_queued">In coda</string>
      <string name="download_remaining">%s rimanenti</string>
      <string name="download_running">In corso</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 1
-	%d: 1 Original: 0 -->
-     <!-- Original string: In progress, %s -->
-     <string name="download_running_percent">In corso, %d%%</string>
+     <string name="download_running_percent">In corso, %s</string>
      <string name="download_unknown_title">&lt;Senza nome></string>
      <string name="miota_package">com.android.updater</string>
      <string name="notif_title_file_size">Totale %1$d</string>
