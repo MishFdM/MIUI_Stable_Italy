@@ -70,16 +70,16 @@
         <item quantity="one">%d elemento selezionato</item>
      </plurals>
      <plurals name="delete_media_msg_format">
-        <item quantity="other">Eliminare %1$d elementi %2$s?</item>
-        <item quantity="one">Eliminare %1$d elemento %2$s?</item>
+        <item quantity="other">Delete %1$d items %2$s?</item>
+        <item quantity="one">Delete %1$d item %2$s?</item>
      </plurals>
      <plurals name="delete_photo_msg_format">
-        <item quantity="other">Eliminare %1$d foto %2$s?</item>
-        <item quantity="one">Eliminare questa foto %2$s?</item>
+        <item quantity="other">Delete %1$d photos %2$s?</item>
+        <item quantity="one">Delete this photo %2$s?</item>
      </plurals>
      <plurals name="delete_video_msg_format">
-        <item quantity="other">Eliminare %1$d video %2$s?</item>
-        <item quantity="one">Eliminare questo video %2$s?</item>
+        <item quantity="other">Delete %1$d videos %2$s?</item>
+        <item quantity="one">Delete this video %2$s?</item>
      </plurals>
      <plurals name="download_error">
         <item quantity="other">Errore download per %1$d file</item>

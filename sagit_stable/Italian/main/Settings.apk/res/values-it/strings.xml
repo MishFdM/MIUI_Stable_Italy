@@ -1458,7 +1458,7 @@ avviso"</string>
      <string name="edge_mode_photo_summary">Quando sei nella fotocamera, tocca il bordo per mettere a fuoco e premi di nuovo per scattare la foto</string>
      <string name="edge_mode_screenshot">Screenshot</string>
      <string name="edge_mode_screenshot_summary">Tocca due volte entrambi i bordi per eseguire uno screenshot</string>
-     <string name="edge_touch_volume">Regola il volume con i Bordi touch</string>
+     <string name="edge_touch_volume">Adjust volume on the edges</string>
      <string name="edit_rule">Modifica regole</string>
      <string name="edit_rules">Modifica</string>
      <string name="eighthours">8 ore</string>
@@ -1541,7 +1541,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
      <string name="erase_personal_data">Dati personali</string>
      <string name="erase_personal_data_description">Elimina il tuo Mi Account, i dati delle app e le impostazioni del sistema</string>
      <string name="erase_sd_data">Formatta la scheda SD</string>
-     <string name="erase_sd_data_description">La formattazione eliminerò tutti i file e i dati presenti sulla scheda SD</string>
+     <string name="erase_sd_data_description">La formattazione eliminerà tutti i file ed i dati presenti sulla scheda SD</string>
      <string name="erase_sure">Dati personali</string>
      <string name="error_apn_empty">Il campo APN non può essere vuoto.</string>
      <string name="error_mcc_not3">Il campo MCC deve contenere 3 cifre.</string>
@@ -1962,7 +1962,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="launch_defaults_none">Nessun valore predefinito impostato</string>
      <string name="launch_defaults_some">Alcuni valori predefiniti impostati</string>
      <string name="launch_google_search">Apri Google Search</string>
-     <string name="launch_recents">Launch Recents</string>
+     <string name="launch_recents">Apri Recenti</string>
      <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
      <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
      <string name="launcher_title">Launcher</string>
@@ -2610,7 +2610,7 @@ ed esegui il software."</string>
      <string name="notification_importance_unspecified">App determines importance for each notification</string>
      <string name="notification_listener_disable_warning_cancel">Annulla</string>
      <string name="notification_listener_disable_warning_confirm">Disattiva</string>
-     <string name="notification_listener_disable_warning_summary">If you turn off notification access for %1$s, Do Not Disturb access may also be turned off.</string>
+     <string name="notification_listener_disable_warning_summary">Se disattivi le notifiche per %1$s, potrebbe essere disattivata la funzione non disturbare.</string>
      <string name="notification_listener_security_warning_summary">%1$s sarà in grado di leggere tutte le notifiche pubblicate dal sistema o da qualsiasi app installata, le quali potrebbero includere informazioni personali come i nomi dei contatti e il testo dei messaggi ricevuti. Sarà inoltre in grado di ignorare tali notifiche o di attivare pulsanti di azione al loro interno.</string>
      <string name="notification_listener_security_warning_title">Attivare %1$s?</string>
      <string name="notification_log_details_actions">azioni</string>
@@ -2762,7 +2762,7 @@ ed esegui il software."</string>
      <string name="page_layout_page2_small_title">Molto piccolo</string>
      <string name="page_layout_page2_title">Anteprima</string>
      <string name="page_layout_small_title">Molto piccolo</string>
-     <string name="palm_enabled">Copri lo schermo per disattivare</string>
+     <string name="palm_enabled">Cover screen to turn it off</string>
      <string name="paper_mode_auto_twilight_summary">Modalità lettura programmata come chiaro di Luna</string>
      <string name="paper_mode_auto_twilight_title">Modalità chiaro di luna</string>
      <string name="paper_mode_customize_time_summary">Modalità lettura programmata ad orari specifici</string>
@@ -3687,15 +3687,15 @@ Come usare Mantieni su schermo:
      <string name="settings_toggle_position_divider_list">I comandi sopra la barra sono attivi</string>
      <string name="setup_add_fingerprint_failed_retry_text">"Couldn't add fingerprint"</string>
      <string name="setup_choose_unlock_fingerprint_msg">"Imposta la schermata di blocco prima di impostare l'impronta digitale."</string>
-     <string name="setup_choose_unlock_mixed_password_color_normal">Password</string>
-     <string name="setup_choose_unlock_mixed_password_color_pressed">Password</string>
+     <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Password&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Password&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
      <string name="setup_choose_unlock_mixpassword_title">Imposta password</string>
-     <string name="setup_choose_unlock_password_color_normal">PIN</string>
-     <string name="setup_choose_unlock_password_color_pressed">PIN</string>
+     <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
      <string name="setup_choose_unlock_password_msg">Inserisci 4 numeri</string>
      <string name="setup_choose_unlock_password_title">Imposta PIN</string>
-     <string name="setup_choose_unlock_pattern_color_normal">Sequenza</string>
-     <string name="setup_choose_unlock_pattern_color_pressed">Sequenza</string>
+     <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
      <string name="setup_choose_unlock_pattern_title">Disegna una sequenza</string>
      <string name="setup_choose_unlock_type_title">Imposta password</string>
      <string name="setup_fingerprint_enroll_enrolling_skip_message">"Hai scelto di usare la tua impronta digitale tra i metodi di sblocco del telefono. Se salti adesso, dovrai impostarlo successivamente. L'impostazione richiede circa un minuto."</string>
@@ -3994,7 +3994,7 @@ Per utilizzare questo ^1, devi prima impostarlo."</string>
      <string name="storage_external_title">Memoria portatile</string>
      <string name="storage_format">Formattazione</string>
      <string name="storage_format_failure">Impossibile formattare %1$s</string>
-     <string name="storage_format_success">%1$s è stato formattato</string>
+     <string name="storage_format_success">%1$s é in fase di formattazione</string>
      <string name="storage_internal_forget_confirm">Tutte le app, foto o dati contenuti su questo ^1 verranno cancellati definitivamente.</string>
      <string name="storage_internal_forget_confirm_title">Dimenticare ^1?</string>
      <string name="storage_internal_forget_details">"Per utilizzare applicazioni, foto o dati contenuti su questo ^1, si prega di reinserirlo. 
@@ -4061,7 +4061,7 @@ Dopo la formattazione, questo ^1 funzionerà solo su questo dispositivo.
 
 "<b>La formattazione eliminerà tutti i dati attualmente archiviati su ^1.</b>" Per evitare di perdere i dati, esegui un backup. "</string>
      <string name="storage_wizard_format_confirm_public_title">Formatta come archivio portatile</string>
-     <string name="storage_wizard_format_confirm_third_body">Il ^1 è stato formattato</string>
+     <string name="storage_wizard_format_confirm_third_body">La ^1 é in fase di formattazione</string>
      <string name="storage_wizard_format_confirm_title">Formatta come memoria interna</string>
      <string name="storage_wizard_format_progress_body">Non rimuovere ^1 durante la formattazione.</string>
      <string name="storage_wizard_format_progress_title">Formattazione di ^1…</string>
@@ -4121,7 +4121,7 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="supl_not_set">Non impostato</string>
      <string name="supplicant_state_label">Stato supplicant:</string>
      <string name="sure_sync_now">Sincronizzare adesso?</string>
-     <string name="suspend_gesture_enabled">Capovolgi il telefono per disattivare lo schermo</string>
+     <string name="suspend_gesture_enabled">Flip phone to turn off screen</string>
      <string name="suw_back_button_label">Indietro</string>
      <string name="suw_more_button_label">Altro</string>
      <string name="suw_next_button_label">Avanti</string>

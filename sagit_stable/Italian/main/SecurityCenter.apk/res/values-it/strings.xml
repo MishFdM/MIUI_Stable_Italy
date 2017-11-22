@@ -24,8 +24,8 @@
      <string name="access_control_need_to_unlock_nofingerprint">Inserisci password di sblocco</string>
      <string name="accessibility_service_description" />
      <string name="action_button_text_100">Ottimizza</string>
-     <string name="action_button_text_60">Ottimizzato</string>
-     <string name="action_button_text_60_80">Ottimizzato</string>
+     <string name="action_button_text_60">Ottimizza</string>
+     <string name="action_button_text_60_80">Ottimizza</string>
      <string name="action_button_text_80_100">Ottimizza</string>
      <string name="action_source_sms_title">SMS Bloccato</string>
      <string name="activity_title_antispam">Blacklist</string>
@@ -141,7 +141,7 @@
      <string name="app_manager_clear_failed_dlg_title">Cancella dati</string>
      <string name="app_manager_copy_pkg_to_clip">Copiato negli appunti</string>
      <string name="app_manager_default_close_summary">Nessuna impostazione predefinita.</string>
-     <string name="app_manager_default_open">Aperto predefinito</string>
+     <string name="app_manager_default_open">Open by default</string>
      <string name="app_manager_default_open_summary">Hai deciso di lanciare questa app in modo predefinito per attività specifiche.</string>
      <string name="app_manager_default_open_title">Cancella predefinite</string>
      <string name="app_manager_details_electric_title">Batteria</string>
@@ -161,8 +161,8 @@
      <string name="app_manager_loading_data">Caricamento dati…</string>
      <string name="app_manager_manage_space">Gestisci spazio</string>
      <string name="app_manager_menu_clear_data">Cancella dati</string>
-     <string name="app_manager_net_control_title">Limita utilizzo dati</string>
-     <string name="app_manager_net_mobile">Mobile</string>
+     <string name="app_manager_net_control_title">Utilizzo dati</string>
+     <string name="app_manager_net_mobile">Mobili</string>
      <string name="app_manager_net_wifi">Wi-Fi</string>
      <string name="app_manager_not_record">Nessun elemento</string>
      <string name="app_manager_notify_bar">Badge</string>
@@ -214,8 +214,8 @@
      <string name="app_name_securitycenter">Sicurezza</string>
      <string name="app_not_installed_toast">"L'applicazione non è installata sul tuo dispositivo."</string>
      <string name="app_right">Produzione ufficiale Xiaomi</string>
-     <string name="app_usage_never">Non utilizzati di recente</string>
-     <string name="app_usage_recently">Utilizzati di recente</string>
+     <string name="app_usage_never">Non utilizzata di recente</string>
+     <string name="app_usage_recently">Utilizzata di recente</string>
      <string name="app_version">Versione</string>
      <string name="app_wifi">Wi-Fi</string>
      <string name="application_item_already_permission">Autorizzata</string>
@@ -944,8 +944,8 @@ dall'operatore"</string>
      <string name="menu_bl_remove">Rimuovi dalla blacklist</string>
      <string name="menu_bl_sms_log">Controlla il registro dei messaggi bloccati</string>
      <string name="menu_call">Chiama</string>
-     <string name="menu_charge_bill">Top-up balance</string>
-     <string name="menu_charge_traffic">Buy data</string>
+     <string name="menu_charge_bill">Ricarica</string>
+     <string name="menu_charge_traffic">Acquista dati</string>
      <string name="menu_edit">Modifica</string>
      <string name="menu_item_about_content">Versione: %s</string>
      <string name="menu_item_about_summary">Versione: %s</string>
@@ -1181,7 +1181,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="optimize_result_title_sucurity_risk">Trovati rischi per la sicurezza</string>
      <string name="optimize_result_title_system_default_settings">Le impostazioni predefinite sono state modificate</string>
      <string name="optimize_result_title_uninstall_apps">App</string>
-     <string name="optimize_result_toast_system_default_settings">Ripristina le impostazioni predefinite</string>
+     <string name="optimize_result_toast_system_default_settings">Impostazioni predefinite ripristinate</string>
      <string name="optimize_result_toast_system_no_item_selected">Nessun elemento selezionato</string>
      <string name="optmizingbar_optimize_done">Ottimizzato</string>
      <string name="optmizingbar_ready">Ottimizzazione…</string>
@@ -1489,7 +1489,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="safe_result_item_info_system_scan">Monitoraggio pagamenti attivo</string>
      <string name="safe_result_item_info_system_version">"Sistema aggiornato all'ultima versione"</string>
      <string name="safepay_alert_dialog_button_continue">Procedi</string>
-     <string name="safepay_alert_dialog_button_risk">Ottimizza</string>
+     <string name="safepay_alert_dialog_button_risk">Fix</string>
      <string name="save_energy_text">"Limita l'avvio automatico e sincronizza per le app in background per ottenere il massimo dalla batteria"</string>
      <string name="save_energy_title">Ottimizza batteria</string>
      <string name="sc_allow_network_dialog_message">Questa applicazione deve utilizzare la connessione internet per funzionare correttamente.</string>
