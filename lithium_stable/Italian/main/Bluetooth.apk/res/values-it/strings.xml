@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="ErrorTooManyRequests">Troppe richieste in fase di elaborazione. Riprova più tardi.</string>
      <string name="ack_record">Registrazione ACK</string>
@@ -104,11 +103,11 @@
      <string name="pbap_authentication_timeout_message">"Timeout dell'ingresso della chiave di sessione con %1$s"</string>
      <string name="pbap_session_key_dialog_header">Chiave sessione Bluetooth necessaria</string>
      <string name="pbap_session_key_dialog_title">Digita la chiave di sessione per %1$s</string>
-     <string name="permdesc_bluetoothAvrcpDataManager">Allows the app to access the BluetoothAvrcpData manager and use it to display on UI.</string>
+     <string name="permdesc_bluetoothAvrcpDataManager">"Consente all'applicazione di accedere al gestore BluetoothAvrcpData e visualizzarlo nell'interfaccia."</string>
      <string name="permdesc_bluetoothShareManager">"Consente all'applicazione di accedere al gestore BluetoothShare e di utilizzarlo per trasferire i file."</string>
      <string name="permdesc_bluetoothWhitelist">"Consente all'applicazione di autorizzare temporaneamente un dispositivo Bluetooth, permettendo a tale dispositivo di inviare file a questo dispositivo senza la conferma dell'utente."</string>
      <string name="permdesc_handoverStatus">Consenti di ricevere informazioni sullo stato del Bluetooth.</string>
-     <string name="permlab_bluetoothAvrcpDataManager">Access avrcp metadata.</string>
+     <string name="permlab_bluetoothAvrcpDataManager">Accesso metadati avrcp.</string>
      <string name="permlab_bluetoothShareManager">Accedere al gestore dei download.</string>
      <string name="permlab_bluetoothWhitelist">"Autorizzazione dell'accesso del dispositivo Bluetooth."</string>
      <string name="permlab_handoverStatus">Ricevi trasmissione trasferimento BT.</string>

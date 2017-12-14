@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_package_delete_confirm_title">Avviso importante</string>
      <string name="add_frequent_phrases">Aggiungi frase</string>
@@ -162,9 +163,9 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="switch_brand_desc_tv">Servizi di sicurezza forniti da Graphite</string>
      <string name="switch_desc_tv">Due spazi. Un dispositivo.</string>
      <string name="switching_tv">Cambio in corso…</string>
-     <string name="total">DND</string>
+     <string name="total">Non disturbare</string>
      <string name="total_description">[DND] Silenzia i suoni e disattiva la vibrazione per tutti gli elementi ad esclusione della sveglia</string>
-     <string name="total_title">DND..</string>
+     <string name="total_title">Non disturbare</string>
      <string name="translation_more">Altro</string>
      <string name="translation_query_error">Impossibile trovare risultati</string>
      <string name="translation_query_error_network">Impossibile connettersi alla rete. Controlla le impostazioni e riprova.</string>
