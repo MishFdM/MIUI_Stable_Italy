@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Gestore installazione certificati</string>
      <string name="cert_is_added">%s è installato.</string>
@@ -24,8 +25,8 @@
      <string name="one_cacrt">un certificato CA</string>
      <string name="one_usercrt">un certificato utente</string>
      <string name="one_userkey">una chiave utente</string>
-     <string name="one_wapi_ascrt">Un certificato WAPI AS</string>
-     <string name="one_wapi_usercrt">Un certificato utente WAPI</string>
+     <string name="one_wapi_ascrt">one WAPI AS certificate</string>
+     <string name="one_wapi_usercrt">one WAPI user certificate</string>
      <string name="only_primary_user_allowed">Solo il proprietario di questo dispositivo può installare certificati.</string>
      <string name="p12_description">Certificati in keystore PKCS12.</string>
      <string name="password_empty_error">Digita la password.</string>
