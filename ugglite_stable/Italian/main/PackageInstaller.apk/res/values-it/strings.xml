@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
      <string name="abc_action_bar_home_description">Vai alla home</string>
@@ -155,8 +156,8 @@
      <string name="debug_networking_category">Reti</string>
      <string name="debug_view_attributes">Attiva controllo attributi visualizzazione</string>
      <string name="default_permission_description">"esegue un'azione sconosciuta"</string>
-     <string name="dev_logpersist_clear_warning_message">Quando non controlliamo più con logger persistente, richiediamo che i dati del logger sul tuo dispositivo vengano cancellati.</string>
-     <string name="dev_logpersist_clear_warning_title">Ripulire memoria logger persistenti?</string>
+     <string name="dev_logpersist_clear_warning_message">When we no longer are monitoring with the persistent logger, we are required to erase the logger data resident on your device.</string>
+     <string name="dev_logpersist_clear_warning_title">Clear logger persistent storage?</string>
      <string name="dev_settings_warning_message">"Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso."</string>
      <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
      <string name="development_settings_enable">Attiva le opzioni sviluppatore</string>
@@ -318,15 +319,10 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="picture_color_mode_desc">Use sRGB</string>
      <string name="pointer_location">Posizione puntatore</string>
      <string name="pointer_location_summary">Overlay schermo che mostra i dati touch correnti</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s alla carica completa</string>
      <string name="power_charging_duration_ac">%1$s - %2$s alla carica completa tramite CA</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
      <string name="power_charging_duration_usb">%1$s - %2$s alla carica completa tramite USB</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s lla carica completa con wireless</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration">%1$s – Tempo rimanente: %2$s circa</string>
      <string name="power_discharging_duration_short">%1$s - Tempo rimanente: %2$s</string>
      <string name="power_remaining_duration_only">Circa %1$s rimanenti</string>
@@ -354,8 +350,8 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="select_application">Seleziona applicazione</string>
      <string name="select_logd_size_dialog_title">Seleziona dimensioni Logger per buffer log</string>
      <string name="select_logd_size_title">Dimensioni buffer Logger</string>
-     <string name="select_logpersist_dialog_title">Seleziona buffer log per memorizzazione persistente su dispositivo</string>
-     <string name="select_logpersist_title">Memorizza dati logger persistenti su dispositivo</string>
+     <string name="select_logpersist_dialog_title">Select log buffers to store persistently on device</string>
+     <string name="select_logpersist_title">Store logger data persistently on device</string>
      <string name="select_usb_configuration_dialog_title">Seleziona configurazione USB</string>
      <string name="select_usb_configuration_title">Seleziona configurazione USB</string>
      <string name="select_webview_provider_dialog_title">"Imposta l'implementazione di WebView"</string>
@@ -460,7 +456,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione schermo wireless</string>
      <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
      <string name="wifi_no_internet">Nessun accesso ad internet rilevato, non verrà riconnesso automaticamente.</string>
-     <string name="wifi_no_internet_no_reconnect">"Nessuna accesso alla rete, non si verrà riconnesso automaticamente."</string>
+     <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_not_in_range">Fuori campo</string>
      <string name="wifi_remembered">Salvato</string>
      <string name="wifi_security_eap">802.1x EAP</string>
