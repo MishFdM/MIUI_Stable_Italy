@@ -220,8 +220,6 @@ La funzione di risparmio energetico viene disattivata automaticamente quando il 
      <string name="config_carrierDemoModePackages" />
      <string name="config_carrierDemoModePassword" />
      <string name="config_carrierDemoModeSetting" />
-     <string name="config_dataUsageSummaryComponent">com.android.settings/com.android.settings.Settings$DataUsageSummaryActivity</string>
-     <string name="config_networkOverLimitComponent">com.android.systemui/com.android.systemui.net.NetworkOverLimitActivity</string>
      <string name="contentServiceSync">Sinc</string>
      <string name="contentServiceSyncNotificationTitle">Sincronizzazione</string>
      <string name="contentServiceTooManyDeletesNotificationDesc">Troppe eliminazioni di %s.</string>
@@ -1512,6 +1510,5 @@ Vuoi chiuderla?"</string>
      <string name="zen_mode_feature_name">Non disturbare</string>
      <string name="zen_mode_forever">Fino alla disattivazione</string>
      <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
-     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
      <string name="zen_mode_until">Fino alle ore %1$s</string>
 </resources>

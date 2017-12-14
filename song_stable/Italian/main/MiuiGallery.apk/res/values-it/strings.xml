@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="__leak_canary_analysis_failed">Analisi perdita fallita</string>
-     <string name="__leak_canary_class_has_leaked">%s è passato</string>
-     <string name="__leak_canary_delete">Elimina</string>
-     <string name="__leak_canary_delete_all">Elimina tutto</string>
-     <string name="__leak_canary_display_activity_label">Perdite</string>
-     <string name="__leak_canary_failure_report">"Segnala questo errore su http://github.com/square/leakcanary
+     <string name="__leak_canary_analysis_failed">Leak analysis failed</string>
+     <string name="__leak_canary_class_has_leaked">%s has leaked</string>
+     <string name="__leak_canary_delete">Delete</string>
+     <string name="__leak_canary_delete_all">Delete all</string>
+     <string name="__leak_canary_display_activity_label">Leaks</string>
+     <string name="__leak_canary_failure_report">"Please report this failure to http://github.com/square/leakcanary
 "</string>
-     <string name="__leak_canary_leak_list_title">Perdite in %s</string>
-     <string name="__leak_canary_notification_message">Tocca per maggiori dettagli</string>
-     <string name="__leak_canary_share_heap_dump">Condividi heap dump</string>
-     <string name="__leak_canary_share_leak">Info condivisione</string>
-     <string name="__leak_canary_share_with">Condividi con…</string>
-     <string name="__leak_canary_toast_heap_dump">"Dump memoria, l'applicazione viene congelata."</string>
+     <string name="__leak_canary_leak_list_title">Leaks in %s</string>
+     <string name="__leak_canary_notification_message">Click for more details</string>
+     <string name="__leak_canary_share_heap_dump">Share heap dump</string>
+     <string name="__leak_canary_share_leak">Share info</string>
+     <string name="__leak_canary_share_with">Share with…</string>
+     <string name="__leak_canary_toast_heap_dump">Dumping memory, app will freeze. Brrrr.</string>
      <string name="accept">Accetta</string>
      <string name="accept_or_deny">%1$s album condivisi, %2$s con te.</string>
      <string name="add_automatically_alert_msg">Aggiungere automaticamente le foto da \"%1$s\" a questo album?</string>
@@ -835,7 +835,6 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="gif_tip">GIF</string>
      <string name="gigabyteShort">GB</string>
      <string name="grant_permission_go_and_set">Imposta</string>
-     <string name="grant_permission_item">\"%s\"</string>
      <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1145,8 +1144,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="search_feedback_false_positive_title">Sembra che siano \"%s\"</string>
      <string name="search_feedback_likely_check_title">Verifica</string>
      <string name="search_feedback_likely_title">Sembra che queste foto contengano \"%s\"</string>
-     <string name="search_feedback_task_finish_title">Tocca per ricevere la ricompensa!</string>
-     <string name="search_feedback_task_progress">%1$d/%2$d</string>
+     <string name="search_feedback_task_finish_title">Tap to receive reward!</string>
      <string name="search_feedback_task_request_award_failed">Impossibile ricevere la ricompensa. Prova di nuovo.</string>
      <string name="search_feedback_task_requesting_award">Ricezione ricompensa​…</string>
      <string name="search_hint">Cerca immagini</string>

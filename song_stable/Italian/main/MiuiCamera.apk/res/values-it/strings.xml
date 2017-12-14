@@ -57,12 +57,6 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_analyze_info_female">Donna</string>
      <string name="face_analyze_info_male">Uomo</string>
      <string name="face_beauty_advanced">Pro</string>
-     <string name="face_beauty_age_alias_0_7">0-7</string>
-     <string name="face_beauty_age_alias_18_30">18-30</string>
-     <string name="face_beauty_age_alias_31_44">31-44</string>
-     <string name="face_beauty_age_alias_45_60">45-60</string>
-     <string name="face_beauty_age_alias_60_m">60+</string>
-     <string name="face_beauty_age_alias_8_17">8-17</string>
      <string name="face_beauty_age_alias_female_0_7">Donna 0-7</string>
      <string name="face_beauty_age_alias_female_18_30">Donna 18-30</string>
      <string name="face_beauty_age_alias_female_31_44">Donna 31-44</string>
@@ -81,11 +75,9 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_2">Medio</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
-     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
      <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
      <string name="not_enough_space">Scheda SD piena.</string>
      <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
-     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
      <string name="pano_how_to_use_prompt_align_reference_line">Allinea la freccia con la linea di riferimento</string>
      <string name="pano_how_to_use_prompt_go_on_moving">Continua a ruotare…</string>
      <string name="pano_how_to_use_prompt_slow_down">Si prega di rallentare</string>
@@ -115,7 +107,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Misurazione a punto</string>
      <string name="pref_camera_autoexposure_title">Esposizione automatica</string>
      <string name="pref_camera_beautify_detail_default">0</string>
-     <string name="pref_camera_beautify_entry_auto">Off</string>
+     <string name="pref_camera_beautify_entry_auto">Auto</string>
      <string name="pref_camera_beautify_entry_high">Alto</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
@@ -338,9 +330,9 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
      <string name="pref_video_captrue_ability_title">Image capture while recording</string>
-     <string name="pref_video_focusmode_entry_auto">Tocca</string>
+     <string name="pref_video_focusmode_entry_auto">Tap</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
-     <string name="pref_video_focusmode_title">Messa a fuoco</string>
+     <string name="pref_video_focusmode_title">Focus mode</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
