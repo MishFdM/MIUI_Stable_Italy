@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="act_find_city_hint">Inserisci località</string>
      <string name="act_find_city_hot_attractions_title">Luoghi popolari</string>
