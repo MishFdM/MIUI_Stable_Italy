@@ -2,25 +2,25 @@
 <resources>
      <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d nuovi messaggi</item>
-        <item quantity="one">%1$d nuovo</item>
+		<item quantity="one">%1$d nuovo messaggio</item>
      </plurals>
      <plurals name="confirm_archive_conversation">
-        <item quantity="other">Archiviare %1$d conversazioni?</item>
-        <item quantity="one">Archiviare %1$d conversazione?</item>
+        <item quantity="other">Archiviare queste %1$d conversazioni?</item>
+        <item quantity="one">Archiviare questa conversazione?</item>
      </plurals>
      <plurals name="confirm_delete_conversation">
-        <item quantity="other">Eliminare %1$d conversazioni?</item>
-        <item quantity="one">Eliminare %1$d conversazione?</item>
+	    <item quantity="other">Eliminare queste %1$d conversazioni?</item>
+        <item quantity="one">Eliminare questa conversazione?</item>
      </plurals>
      <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Queste conversazioni contengono elementi uniti, sicuro di volerle eliminare?</item>
+	    <item quantity="other">Queste conversazioni contengono elementi uniti, sicuro di volerle eliminare?</item>
         <item quantity="one">Questa conversazione contiene elementi uniti, sicuro di volerla eliminare?</item>
      </plurals>
      <plurals name="confirm_delete_draft">
 	    <item quantity="other">Eliminare %1$d bozze?</item>
      </plurals>
-     <plurals name="contact_num_selected">
-        <item quantity="other">%d selezionati</item>
+     <plurals name="contact_num_selected">        
+	    <item quantity="other">%d selezionati</item>
         <item quantity="one">%d selezionato</item>
      </plurals>
      <plurals name="conversation_archived">
@@ -76,27 +76,27 @@
         <item quantity="one">Bozza</item>
      </plurals>
      <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d messaggi verranno eliminati definitivamente</item>
-        <item quantity="one">%1$d messaggio verrà eliminato definitivamente</item>
+	    <item quantity="other">%1$d messaggi verranno eliminati definitivamente.</item>
+        <item quantity="one">%1$d messaggio verrà eliminato definitivamente.</item>
      </plurals>
      <plurals name="month">
         <item quantity="other">%d mesi</item>
         <item quantity="one">%d mese</item>
      </plurals>
      <plurals name="move_conversation">
-        <item quantity="other">Sposta %1$d conversazioni</item>
-        <item quantity="one">Sposta %1$d conversazione</item>
+	    <item quantity="other">Sposta %1$d conversazioni</item>
+        <item quantity="one">Sposta conversazione</item>
      </plurals>
      <plurals name="new_incoming_messages_many">
-        <item quantity="other">%1$d nuovi messaggi</item>
-        <item quantity="one">%1$d nuovo messaggio</item>
+	    <item quantity="other">Mostra %1$d nuovi messaggi.</item>
+        <item quantity="one">Mostra %1$d nuovo messaggio.</item>
      </plurals>
      <plurals name="num_selected">
-        <item quantity="other">%d selezionati</item>
+	    <item quantity="other">%d selezionati</item>
         <item quantity="one">%d selezionato</item>
      </plurals>
      <plurals name="show_messages_read">
-        <item quantity="other">%1$d vecchi messaggi</item>
+	    <item quantity="other">%1$d vecchi messaggi</item>
         <item quantity="one">%1$d vecchio messaggio</item>
      </plurals>
 </resources>

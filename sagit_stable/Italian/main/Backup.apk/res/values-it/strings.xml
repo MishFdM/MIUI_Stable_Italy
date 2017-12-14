@@ -80,7 +80,7 @@
      <string name="current_pad_location">Tablet</string>
      <string name="current_phone_location">Telefono</string>
      <string name="current_sim">SIM card</string>
-     <string name="custom_progress">%d elementi</string>
+     <string name="custom_progress">%d items</string>
      <string name="data_item_desc">Dati</string>
      <string name="data_no_enough_space_message">Non hai abbastanza spazio nella memoria interna del dispositivo.</string>
      <string name="delete">Elimina</string>
@@ -253,7 +253,7 @@
      <string name="task_running_restore_hint">Servizio in esecuzione in background, riprova!</string>
      <string name="task_service_not_launched">Servizio non avviato, attendere…</string>
      <string name="task_stopped_exception">Processo fallito</string>
-     <string name="total_num">%d elementi totali</string>
+     <string name="total_num">%d items,</string>
      <string name="total_size">, %s</string>
      <string name="trans_backingup">Backup in corso…</string>
      <string name="trans_backingup_no_items">Sincronizzazione…</string>
