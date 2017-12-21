@@ -1515,6 +1515,5 @@ Vuoi chiuderla?"</string>
      <string name="zen_mode_feature_name">Non disturbare</string>
      <string name="zen_mode_forever">Fino alla disattivazione</string>
      <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
-     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
      <string name="zen_mode_until">Fino alle ore %1$s</string>
 </resources>

@@ -159,7 +159,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_bluetooth_scanning_bluetooth_error">Si è verificato un errore durante la scansione Bluetooth.</string>
      <string name="cit_bluetooth_scanning_opening_bluetooth">Scansione dispositivi Bluetooth…</string>
      <string name="cit_build_finger_failed">costruzione impronta FALLITO</string>
-     <string name="cit_build_finger_passed">construzione impronta PASSATO</string>
+     <string name="cit_build_finger_passed">costruzione impronta PASSATO</string>
      <string name="cit_button_light_off">Luce tasti spenta</string>
      <string name="cit_button_light_on">Luce tasti accesa</string>
      <string name="cit_calibration_fail">Calibrazione fallita</string>
