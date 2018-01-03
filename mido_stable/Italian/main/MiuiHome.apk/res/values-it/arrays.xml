@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="editing_mode_entries">
         <item>Sfondo</item>
@@ -35,6 +36,14 @@
      <string-array name="gadget_weather_theme_type_entries">
         <item>Predefinito</item>
         <item>Classico</item>
+     </string-array>
+     <string-array name="notgoogle">
+        <item>ID</item>
+        <item>RU</item>
+        <item>SG</item>
+        <item>MY</item>
+        <item>UA</item>
+        <item>HK</item>
      </string-array>
      <string-array name="transformation_entries">
         <item>Scorrimento senza rimbalzo</item>

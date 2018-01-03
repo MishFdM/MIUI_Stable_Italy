@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="add_channel">Aggiungi canale</string>
+     <string name="alert_message">Alert Message</string>
      <string name="alert_reminder_interval_summary" />
      <string name="alert_reminder_interval_title">Promemoria allerta</string>
      <string name="alert_sound_duration_summary" />
@@ -79,6 +80,7 @@
      <string name="delivery_time_heading">Ricevuto:</string>
      <string name="disable">Disabilita</string>
      <string name="done_text">Finito</string>
+     <string name="emergency_alert">Emergency Alert</string>
      <string name="emergency_alert_settings_title">Impostazioni allerta emergenza</string>
      <string name="enable">Abilita</string>
      <string name="enable_alert_speech_summary">Usa text-to-speech per ascoltare i messaggi di allerta</string>
@@ -123,6 +125,7 @@
      <string name="pws_other_message_identifiers">Allerta emergenza</string>
      <string name="reading_settings">Impostazioni lettura</string>
      <string name="receive_broad_cast">Ricevi SMS trasmissioni cella</string>
+     <string name="required_monthly_test">Required Monthly Test</string>
      <string name="show_cmas_opt_out_summary">Mostra una finestra di disattivazione dopo aver visualizzato il primo avviso CMAS (esclusi gli avvisi Presidenziali).</string>
      <string name="show_cmas_opt_out_title">Mostra finestra disattivazione</string>
      <string name="sms_cb_settings">Impostazioni di trasmissione cella</string>
