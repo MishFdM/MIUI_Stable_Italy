@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <integer-array name="config_data_usage_network_types">
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>40</item>
+        <item>41</item>
+     </integer-array>
+     <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="fingerprint_acquired_vendor">
+        <item>Prova di nuovo</item>
+        <item></item>
+        <item></item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item></item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item>"Troppo veloce! Impossibile riconoscere l'impronta"</item>
+        <item>Muovi un pò la tua impronta e riprova</item>
+        <item>Alza il tuo dito e rimettilo nuovamente sullo scansionatore</item>
+        <item>Mantienti il tuo dito sullo scansionatore un pò di più</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Muovi leggermente il tuo dito</item>
+        <item>Questa impronta è stata aggiunta, usa un altro dito</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+     </string-array>
+     <string-array name="organizationTypes">
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Cellulare</item>
+        <item>Lavoro</item>
+        <item>Fax lavoro</item>
+        <item>Fax casa</item>
+        <item>Cercapersone</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorAlertMessages">
+        <item>WLAN calling off</item>
+        <item>No cellular network available. Connect to an available WLAN Network to make calls.</item>
+        <item>String to be decided</item>
+        <item>Error02: DNS Error</item>
+        <item>Error03: DNS Error</item>
+        <item>Error04: DNS Error</item>
+        <item>Error041: DNS Error</item>
+        <item>Error05: Invalid SIM card</item>
+        <item>Error07: Unable to Connect</item>
+        <item>Error081: Unable to connect</item>
+        <item>Error082: Unable to Connect</item>
+        <item>Error08: Unable to Connect</item>
+        <item>REG91: Unable to Connect</item>
+        <item>Error010: Invalid Certificate</item>
+        <item>Error101: Invalid Certificate</item>
+        <item>Error111: Invalid Certificate</item>
+        <item>Error011: Invalid Certificate</item>
+        <item>Error403: Unknown user</item>
+        <item>Error403: Roaming not allowed</item>
+        <item>Error403: Mismatch identities</item>
+        <item>Error403: authentication scheme unsupported</item>
+        <item>Error403: handset is blacklisted</item>
+        <item>REG09: Missing 911 Address</item>
+        <item>REG99: Unable to Connect</item>
+        <item>REG99: Unable to Connect</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorCodes">
+        <item>100</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>1201</item>
+        <item>1202</item>
+        <item>1203</item>
+        <item>1041</item>
+        <item>1301</item>
+        <item>1401</item>
+        <item>1081</item>
+        <item>1082</item>
+        <item>1405</item>
+        <item>1406</item>
+        <item>1501</item>
+        <item>1101</item>
+        <item>1111</item>
+        <item>1504</item>
+        <item>1601</item>
+        <item>1602</item>
+        <item>1603</item>
+        <item>1604</item>
+        <item>1605</item>
+        <item>1701</item>
+        <item>1407</item>
+        <item>999</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>WLAN calling off</item>
+        <item>No cellular network available. Connect to an available WLAN Network to make calls.</item>
+        <item>String to be decided</item>
+        <item>Error02: DNS Error</item>
+        <item>Error03: DNS Error</item>
+        <item>Error04: DNS Error</item>
+        <item>Error041: DNS Error</item>
+        <item>Error05: Invalid SIM card</item>
+        <item>Error07: Unable to Connect</item>
+        <item>Error081: Unable to connect</item>
+        <item>Error082: Unable to Connect</item>
+        <item>Error08: Unable to Connect</item>
+        <item>REG91: Unable to Connect</item>
+        <item>Error010: Invalid Certificate</item>
+        <item>Error101: Invalid Certificate</item>
+        <item>Error111: Invalid Certificate</item>
+        <item>Error011: Invalid Certificate</item>
+        <item>Error403: Unknown user</item>
+        <item>Error403: Roaming not allowed</item>
+        <item>Error403: Mismatch identities</item>
+        <item>Error403: authentication scheme unsupported</item>
+        <item>Error403: handset is blacklisted</item>
+        <item>REG09: Missing 911 Address</item>
+        <item>REG99: Unable to Connect</item>
+        <item>REG99: Unable to Connect</item>
+     </string-array>
+</resources>
