@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="alert_reminder_interval_entries">
+        <item>Una volta</item>
+        <item>Ogni 2 minuti</item>
+        <item>Ogni 15 minuti</item>
+        <item>Disattivato</item>
+     </string-array>
+     <string-array name="alert_sound_duration_entries">
+        <item>2 seconds</item>
+        <item>4 seconds</item>
+        <item>6 seconds</item>
+        <item>8 seconds</item>
+        <item>10 seconds</item>
+     </string-array>
+</resources>
