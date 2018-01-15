@@ -93,6 +93,15 @@
      <string name="cached_garbage">Cache</string>
      <string name="call_log">Registro chiamate</string>
      <string name="cancel">Annulla</string>
+     <string name="cd_back">indietro</string>
+     <string name="cd_check_box_checked">verificato</string>
+     <string name="cd_check_box_middle">selezione parziale</string>
+     <string name="cd_check_box_unchecked">non verificato</string>
+     <string name="cd_list_item_collapse">chiuso</string>
+     <string name="cd_list_item_expanded">aperto</string>
+     <string name="cd_percent">percentuale</string>
+     <string name="cd_settings">impostazioni</string>
+     <string name="cd_sort_type">tipo di ordinamento</string>
      <string name="clean_content_all">Tutto</string>
      <string name="clean_content_one">1 file</string>
      <string name="clean_content_three">3 file</string>
@@ -298,8 +307,8 @@
      <string name="no_network">Impossibile collegarsi alla rete, riprova più tardi</string>
      <string name="no_network_btn">Riprova</string>
      <string name="notification_summary_after_auto_cleanup">Pulito %s.</string>
-     <string name="notification_summary_of_garbage_cleanup">Attenzione. Il cestino è oltre %s.</string>
-     <string name="notification_title_of_garbage_cleanup">Avviso dimensione cestino</string>
+     <string name="notification_summary_of_garbage_cleanup">Your trash is over %s.</string>
+     <string name="notification_title_of_garbage_cleanup">Trash size</string>
      <string name="notify_when">Ricevi una notifica quando il cestino raggiunge 100 MB</string>
      <string name="ok">OK</string>
      <string name="open">Attiva</string>
@@ -455,7 +464,7 @@
      <string name="virus_scan">Scansione virus</string>
      <string name="vungle_ad_name">Vungle</string>
      <string name="wechat_cache_files">Cache WeChat</string>
-     <string name="wechat_chat_clean_done">Sembra tutto OK</string>
+     <string name="wechat_chat_clean_done">Everything looks good</string>
      <string name="wechat_chat_data_type_cache">Cache WeChat</string>
      <string name="wechat_chat_data_type_cache_desc">Sarai in grado di ripristinare questi file dopo che ti sarai connesso ad Internet.</string>
      <string name="wechat_chat_data_type_chat">Cronologia chat</string>
@@ -476,7 +485,7 @@
      <string name="wechat_copy_video_failed_dialog_title">Non è stato possibile esportare</string>
      <string name="wechat_copying_video">Esportazione…</string>
      <string name="wechat_copying_video_dialog_checkbox">"Elimina i file dopo l'esportazione"</string>
-     <string name="wechat_copying_video_dialog_msg">I file verranno salvati in questa cartella: /DCIM/WeChat</string>
+     <string name="wechat_copying_video_dialog_msg">/DCIM/WeChat</string>
      <string name="wechat_copying_video_dialog_title">Esporta sulla Galleria</string>
      <string name="wechat_copying_video_empty">Nessun video da esportare</string>
      <string name="wechat_copying_video_success">Esportazione riuscita</string>
