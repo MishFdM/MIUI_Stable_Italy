@@ -494,8 +494,8 @@ Motivo: \"%s\"</string>
      <string name="group_delete_success_toast">Gruppo eliminato</string>
      <string name="group_detail_label_placeholder"> </string>
      <string name="group_edit_field_hint_text">Nome del gruppo</string>
-     <string name="group_member_remove_fail_toast">Not removed from group</string>
-     <string name="group_member_remove_success_toast">Removed from group</string>
+     <string name="group_member_remove_fail_toast">Non rimosso dal gruppo</string>
+     <string name="group_member_remove_success_toast">Rimosso dal gruppo</string>
      <string name="group_name">I miei gruppi</string>
      <string name="group_name_hint">Nome del gruppo</string>
      <string name="group_read_only">Non modificabile su questo dispositivo.</string>

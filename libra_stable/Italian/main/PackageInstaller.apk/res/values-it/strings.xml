@@ -49,12 +49,12 @@
      <string name="app_process_limit_title">Limite processi background</string>
      <string name="available_via_passpoint">Disponibile tramite %1$s</string>
      <string name="battery_info_status_charging">In carica</string>
-     <string name="battery_info_status_charging_ac">In carica tramite CA</string>
-     <string name="battery_info_status_charging_ac_short">In carica</string>
-     <string name="battery_info_status_charging_usb">In carica tramite USB</string>
-     <string name="battery_info_status_charging_usb_short">In carica</string>
-     <string name="battery_info_status_charging_wireless">In carica, wireless</string>
-     <string name="battery_info_status_charging_wireless_short">In carica</string>
+     <string name="battery_info_status_charging_ac">Charging on AC</string>
+     <string name="battery_info_status_charging_ac_short">Charging</string>
+     <string name="battery_info_status_charging_usb">Charging over USB</string>
+     <string name="battery_info_status_charging_usb_short">Charging</string>
+     <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
+     <string name="battery_info_status_charging_wireless_short">Charging</string>
      <string name="battery_info_status_discharging">Non in carica</string>
      <string name="battery_info_status_full">Carica</string>
      <string name="battery_info_status_not_charging">Non in carica</string>
@@ -94,7 +94,7 @@
      <string name="bluetooth_pan_user_profile_summary_connected">Collegato al dispositivo per accesso internet</string>
      <string name="bluetooth_profile_a2dp">Media audio</string>
      <string name="bluetooth_profile_headset">Audio telefono</string>
-     <string name="bluetooth_profile_hid">Input device</string>
+     <string name="bluetooth_profile_hid">Tastiera</string>
      <string name="bluetooth_profile_map">Accesso messaggi</string>
      <string name="bluetooth_profile_opp">Trasferimento file</string>
      <string name="bluetooth_profile_pan">Accesso internet</string>
@@ -119,7 +119,7 @@
      <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
-     <string name="connected_via_wfa">Collegato tramite assistente Wi-Fi</string>
+     <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
      <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file.
  Attenzione. Questa operazione eliminerà tutti i tuoi dati.
  Questa funzione è in versione alpha, pertanto potrebbe non funzionare correttamente.
@@ -179,8 +179,8 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="enable_opengl_traces_title">Attiva tracce OpenGL</string>
      <string name="enable_terminal_summary">"Abilita l'app Terminale che offre l'accesso alla shell locale"</string>
      <string name="enable_terminal_title">Terminale locale</string>
-     <string name="enable_webview_multiprocess">WebView multiprocesso</string>
-     <string name="enable_webview_multiprocess_desc">Esegui renderer WebView separatamente</string>
+     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
+     <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
      <string name="enabled_by_admin">"Attivata dall'amministratore"</string>
      <string name="force_allow_on_external">Forza autorizzazione app su memoria esterna</string>
      <string name="force_allow_on_external_summary">"Consente l'installazione di qualsiasi app su memoria esterna, indipendentemente dai valori manifest"</string>
@@ -315,9 +315,9 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="pointer_location">Posizione puntatore</string>
      <string name="pointer_location_summary">Overlay schermo che mostra i dati touch correnti</string>
      <string name="power_charging_duration">%1$s - %2$s alla carica completa</string>
-     <string name="power_charging_duration_ac">%1$s - %2$s alla carica completa tramite CA</string>
-     <string name="power_charging_duration_usb">%1$s - %2$s alla carica completa tramite USB</string>
-     <string name="power_charging_duration_wireless">%1$s - %2$s lla carica completa con wireless</string>
+     <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
+     <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
+     <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
      <string name="power_discharging_duration">%1$s – Tempo rimanente: %2$s circa</string>
      <string name="power_discharging_duration_short">%1$s - Tempo rimanente: %2$s</string>
      <string name="power_remaining_duration_only">Circa %1$s rimanenti</string>
@@ -424,7 +424,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="uninstalling">Disinstallazione...</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unknown_apps_admin_dlg_text">"L'amministratore non consente l'installazione di app ottenute da origini sconosciute."</string>
-     <string name="unknown_apps_dlg_text">"Il telefono è impostato per bloccare l'installazione di app ottenute da origini sconosciute."</string>
+     <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources.</string>
      <string name="usb_audio_disable_routing">Disattiva routing audio USB</string>
      <string name="usb_audio_disable_routing_summary">Disattiva routing automatico a periferiche audio USB</string>
      <string name="user_guest">Ospite</string>
