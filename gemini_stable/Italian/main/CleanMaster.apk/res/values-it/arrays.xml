@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="auto_clean_size">
         <item>100 MB</item>
@@ -7,10 +8,10 @@
         <item>1 GB</item>
      </string-array>
      <string-array name="auto_clean_time">
-        <item>Tutti i giorni</item>
-        <item>Ogni 3 giorni</item>
-        <item>Ogni 7 giorni</item>
-		<item>Ogni 15 giorni</item>
+        <item>Every day</item>
+        <item>Every 3 days</item>
+        <item>Every 7 days</item>
+        <item>Every 15 days</item>
      </string-array>
      <string-array name="auto_process_mode">
         <item>Mostra</item>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_package_delete_confirm_title">Avviso importante</string>
      <string name="add_frequent_phrases">Aggiungi frase</string>
@@ -21,6 +20,7 @@
      <string name="auto_start_warning_allow">Consenti</string>
      <string name="auto_start_warning_deny">Nega</string>
      <string name="auto_start_warning_title">"Consentire l'avvio automatico di %s in futuro?"</string>
+     <string name="autofill">Riempimento automatico</string>
      <string name="button_text_cancel">Annulla</string>
      <string name="button_text_delete">Elimina</string>
      <string name="button_text_delete_timer">Elimina (%d)</string>
