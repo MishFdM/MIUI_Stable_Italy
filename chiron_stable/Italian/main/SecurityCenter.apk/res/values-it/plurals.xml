@@ -14,8 +14,8 @@
         <item quantity="one">Richiesta per %d permesso</item>
      </plurals>
      <plurals name="app_manager_reject_count">
-        <item quantity="other">Bloccato %d volte</item>
-        <item quantity="one">Bloccato %d volta</item>
+        <item quantity="other">Blocked %d times</item>
+        <item quantity="one">Blocked %d time</item>
      </plurals>
      <plurals name="app_manager_start_count">
         <item quantity="other">%d volte</item>
@@ -150,9 +150,21 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d app bloccate</item>
         <item quantity="one">%d app bloccata</item>
      </plurals>
+     <plurals name="number_masked">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
+     </plurals>
+     <plurals name="number_masked_text">
+        <item quantity="other">%d notifiche sono state nascoste</item>
+        <item quantity="one">%d notifica è stata nascosta</item>
+     </plurals>
      <plurals name="number_to_lock">
         <item quantity="other">%d app non bloccate</item>
         <item quantity="one">%d app non bloccata</item>
+     </plurals>
+     <plurals name="number_to_mask_text">
+        <item quantity="other">%d notifiche sono visibili</item>
+        <item quantity="one">%d notifica è visibile</item>
      </plurals>
      <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d app non funzionano correttamente e consumano eccessivamente batteria"</item>
