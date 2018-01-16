@@ -103,14 +103,10 @@
      <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Work</string>
-     <string name="change_default_dialer_dialog_affirmative">Set Default</string>
+     <string name="change_default_dialer_dialog_affirmative">Set as default Phone app</string>
      <string name="change_default_dialer_dialog_negative">Cancel</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Make %s your default Phone app? -->
-     <string name="change_default_dialer_dialog_title">"Cambiare l'applicazione telefono predefinita?"</string>
-     <string name="change_default_dialer_warning_message">%s will be able to place and control all aspects of calls. Only apps you trust should be set as the default Phone app.</string>
+     <string name="change_default_dialer_dialog_title">Set %s as your default Phone app?</string>
+     <string name="change_default_dialer_warning_message">%s will be able to make and control all aspects of calls. Only apps you trust should be set as your default Phone app.</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="choose_profile">Choose Profile</string>
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
