@@ -7,11 +7,4 @@
         <item>Ogni 15 minuti</item>
         <item>Disattivato</item>
      </string-array>
-     <string-array name="alert_sound_duration_entries">
-        <item>2 secondi</item>
-        <item>4 secondi</item>
-        <item>6 secondi</item>
-        <item>8 secondi</item>
-        <item>10 secondi</item>
-     </string-array>
 </resources>

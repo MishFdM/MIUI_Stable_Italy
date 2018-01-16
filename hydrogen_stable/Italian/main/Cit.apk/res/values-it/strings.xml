@@ -36,9 +36,6 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
      <string name="cit_audio_cali_playing">Premi il pulsante per iniziare la calibrazione</string>
      <string name="cit_audio_cali_summary">Calibrazione Altoparlante</string>
      <string name="cit_audio_cali_title">Test calibrazione Altoparlante</string>
-     <string name="cit_audio_cali_valueF0">F0:</string>
-     <string name="cit_audio_cali_valueR">Ref_diff:</string>
-     <string name="cit_audio_cali_valueT">Temp_acc:</string>
      <string name="cit_audio_calibrating">Calibrazione in corso…</string>
      <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Test da Microfono post. ad Altoparlante</string>
@@ -102,7 +99,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_bluetooth_scanning_bluetooth_error">Si è verificato un errore durante la scansione Bluetooth.</string>
      <string name="cit_bluetooth_scanning_opening_bluetooth">Scansione dispositivi Bluetooth…</string>
      <string name="cit_build_finger_failed">costruzione impronta FALLITO</string>
-     <string name="cit_build_finger_passed">construzione impronta PASSATO</string>
+     <string name="cit_build_finger_passed">costruzione impronta PASSATO</string>
      <string name="cit_button_light_off">Luce tasti spenta</string>
      <string name="cit_button_light_on">Luce tasti accesa</string>
      <string name="cit_calibration_fail">Calibrazione fallita</string>

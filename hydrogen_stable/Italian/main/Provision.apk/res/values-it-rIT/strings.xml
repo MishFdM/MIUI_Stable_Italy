@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="accessibility_enabled">Accessibilità attivata.</string>
      <string name="agree">OK</string>
      <string name="agree_terms">Ho letto e accetto i Termini e le Condizioni</string>
      <string name="app_name">Introduzione</string>
@@ -13,15 +14,17 @@
      <string name="content_description_complete">Completato</string>
      <string name="content_description_miui_version">MIUI 9</string>
      <string name="content_description_start">Avvia</string>
+     <string name="continue_to_enable_accessibility">"Tieni due dita in basso per attivare l'accessibilità"</string>
      <string name="desc_extra_fingerprint" />
      <string name="desc_extra_international_fingerprint" />
      <string name="desc_fingerprint">Utilizza le tue impronte digitali per sbloccare il dispositivo, verificare le transazioni Mi Pay o per accedere ad app e servizi.</string>
      <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicazioni e servizi.</string>
      <string name="disagree">Annulla</string>
+     <string name="enable_accessibility_canceled">Accessibilità annullata.</string>
      <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
      <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
      <string name="enable_accessibility_dialog_positive_btn">OK</string>
-     <string name="fail_to_generate_qr_code">Generazione codice QR non riuscita, prego inserisci di nuovo il link di questa pagina.</string>
+     <string name="fail_to_generate_qr_code">"Couldn't generate QR code. Open this page again."</string>
      <string name="ime_privacy_policy">Termini della Privacy per la tastiera selezionata</string>
      <string name="ime_privacy_policy_no_network">Impossibile connettersi ad internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
      <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di messaggi, email, note, ecc. Successivamente potrai installare tastiere di terze parti."</string>
@@ -68,8 +71,8 @@ Leggi questo documento per la tastiera: "</string>
 
 Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di utilizzare MIUI."</string>
      <string name="title_fingerprint">Aggiungi la tua impronta digitale</string>
-     <string name="two_dimensional_code_scan">Scansione codice QR</string>
+     <string name="two_dimensional_code_scan">Scan QR code</string>
      <string name="user_agreement">Condizioni del Servizio</string>
-     <string name="user_strayed_warning">La pagina è progettata per il test di fabbrica, premi il pulsante indietro per uscire.</string>
+     <string name="user_strayed_warning">This page is designed for factory tests. Tap \"Back\" to exit.</string>
      <string name="welcome">Benvenuto</string>
 </resources>
