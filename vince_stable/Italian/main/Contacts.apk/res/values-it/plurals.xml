@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="abbrev_a_hour_ago">
         <item quantity="other">1 ora fa</item>
@@ -106,10 +105,6 @@
      <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contatti con numeri di telefono</item>
         <item quantity="one">1 contatto con numero di telefono</item>
-     </plurals>
-     <plurals name="livetalk_unit">
-        <item quantity="other">Minutes</item>
-        <item quantity="one">Minute</item>
      </plurals>
      <plurals name="merge_info">
         <item quantity="other">uniti da %0$d origini</item>

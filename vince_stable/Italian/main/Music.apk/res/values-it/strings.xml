@@ -346,6 +346,7 @@
      <string name="filter_by_size_min">%dKB</string>
      <string name="filter_by_size_prefix">"Dimensione minima: "</string>
      <string name="filter_by_size_summary">Non mostrare file audio piccoli</string>
+     <string name="filter_size_unit">%dKB</string>
      <string name="find_music">Copertine brani</string>
      <string name="follow">Segui</string>
      <string name="followed">Stai seguendo</string>
@@ -420,7 +421,7 @@ attendere o selezionare Musica Online."</string>
      <string name="ktv_playlist">Il mio KTV</string>
      <string name="latest_song">Riproduci cronologia (%d).</string>
      <string name="like">Mi piace</string>
-     <string name="list_detail_title">Dettagli</string>
+     <string name="list_detail_title">Details</string>
      <string name="list_item_play_FM_radio">Tocca per riprodurre la radio FM</string>
      <string name="list_item_play_all_tracks">Riproduci tutti i brani</string>
      <string name="load_shuffle">Caricamento</string>
@@ -573,6 +574,9 @@ attendere o selezionare Musica Online."</string>
      <string name="notification_recommend_title">Notifiche importanti</string>
      <string name="notification_setting">Impostazioni di notifica</string>
      <string name="notification_title_no_song">Guarda cosa ascoltano gli altri!</string>
+     <string name="nowplaying_circle_style">Circolare</string>
+     <string name="nowplaying_circle_style_rainbow">Arcobaleno</string>
+     <string name="nowplaying_circle_style_wave">Onda</string>
      <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
      <string name="nowplaying_menu_item_delete">Elimina</string>
      <string name="ok">OK</string>
@@ -797,8 +801,8 @@ attendere o selezionare Musica Online."</string>
      <string name="tab_album_list">Album</string>
      <string name="tab_artist">Artisti</string>
      <string name="tab_artist_list">Artisti</string>
-     <string name="tab_chinese">Cinese</string>
-     <string name="tab_europa_america">Occidentale</string>
+     <string name="tab_chinese">Chinese</string>
+     <string name="tab_europa_america">Western</string>
      <string name="tab_folder">Cartelle</string>
      <string name="tab_japanese_korean">J-Pop/K-Pop</string>
      <string name="tab_local_folder_list">Cartella</string>

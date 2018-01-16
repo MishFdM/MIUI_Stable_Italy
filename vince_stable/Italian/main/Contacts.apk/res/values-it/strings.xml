@@ -494,7 +494,8 @@ Motivo: \"%s\"</string>
      <string name="group_delete_success_toast">Gruppo eliminato</string>
      <string name="group_detail_label_placeholder"> </string>
      <string name="group_edit_field_hint_text">Nome del gruppo</string>
-     <string name="group_member_remove_toast">Removed from group</string>
+     <string name="group_member_remove_fail_toast">Non rimosso dal gruppo</string>
+     <string name="group_member_remove_success_toast">Rimosso dal gruppo</string>
      <string name="group_name">I miei gruppi</string>
      <string name="group_name_hint">Nome del gruppo</string>
      <string name="group_read_only">Non modificabile su questo dispositivo.</string>
@@ -586,11 +587,6 @@ Motivo: \"%s\"</string>
      <string name="list_filter_customize">Personalizza</string>
      <string name="list_filter_phones">Tutti i contatti con numeri di telefono</string>
      <string name="list_filter_single">Contatto</string>
-     <string name="live_talk_switch_on_toast">Turned on Top-up package successfully</string>
-     <string name="livetalk_charge">Top up</string>
-     <string name="livetalk_left">Remaining</string>
-     <string name="livetalk_switch_on">Turn on</string>
-     <string name="livetalk_title">Top-up package</string>
      <string name="loading_accounts">Caricamento informazioni SIM…</string>
      <string name="loading_group_members">Caricamento membri dei gruppi…</string>
      <string name="loading_groups">Caricamento gruppi…</string>
@@ -1200,6 +1196,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unknown_contact_name">Contatto sconosciuto</string>
+     <string name="unknown_details_add_to_contact">Esistente</string>
      <string name="unknown_details_new_contact">Nuovo contatto</string>
      <string name="update_sim_contact_photo_toast">Non è possibile impostare la foto per i contatti SIM</string>
      <string name="upgrade_in_progress">Elenco contatti in fase di aggiornamento.</string>

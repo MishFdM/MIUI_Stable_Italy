@@ -254,9 +254,9 @@
         <item>Maiuscoletto</item>
      </string-array>
      <string-array name="cellcular2wifi_entries">
-        <item>Connetti automaticamente</item>
-        <item>Connetti manualmente</item>
-        <item>Chiedi sempre</item>
+        <item>Automatically connect</item>
+        <item>Manually connect</item>
+        <item>Always ask</item>
      </string-array>
      <string-array name="change_security_lock_picker">
         <item>Sblocca col sorriso</item>
@@ -900,12 +900,6 @@
         <item>5 minuti</item>
         <item>10 minuti</item>
         <item>30 minuti</item>
-     </string-array>
-     <string-array name="edge_touch_volume_action">
-        <item>Press to adjust - Double press to trigger</item>
-        <item>Slide to adjust - Slide to trigger</item>
-        <item>Press to adjust - Press to trigger</item>
-        <item>Press to adjust - Press &amp; hold to trigger</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
