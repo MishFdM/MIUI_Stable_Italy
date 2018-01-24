@@ -86,17 +86,11 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="edit_skin_white">Tono</string>
      <string name="empty">" "</string>
      <string name="error_fail_to_start_audio_capture">"Impossibile registrare l'audio: il microfono potrebbe essere in uso da un'altra app."</string>
-     <string name="face_age_info">Age: %d</string>
+     <string name="face_age_info">Anni: %d</string>
      <string name="face_analyze_info">Age: %2$s (%1$s)</string>
      <string name="face_analyze_info_female">Donna</string>
      <string name="face_analyze_info_male">Uomo</string>
      <string name="face_beauty_advanced">Pro</string>
-     <string name="face_beauty_age_alias_0_7">0-7</string>
-     <string name="face_beauty_age_alias_18_30">18-30</string>
-     <string name="face_beauty_age_alias_31_44">31-44</string>
-     <string name="face_beauty_age_alias_45_60">45-60</string>
-     <string name="face_beauty_age_alias_60_m">60+</string>
-     <string name="face_beauty_age_alias_8_17">8-17</string>
      <string name="face_beauty_age_alias_female_0_7">Donna 0-7</string>
      <string name="face_beauty_age_alias_female_18_30">Donna 18-30</string>
      <string name="face_beauty_age_alias_female_31_44">Donna 31-44</string>
@@ -109,24 +103,24 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_age_alias_male_45_60">Uomo 45-60</string>
      <string name="face_beauty_age_alias_male_60_m">Uomo 60+</string>
      <string name="face_beauty_age_alias_male_8_17">Uomo 8-17</string>
-     <string name="face_beauty_close">Off</string>
+     <string name="face_beauty_close">Disattivato</string>
      <string name="face_beauty_intelligent_level_0">Disatt.</string>
      <string name="face_beauty_intelligent_level_1">Basso</string>
      <string name="face_beauty_intelligent_level_2">Medio</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
-     <string name="face_score_info">Score: %.1f</string>
+     <string name="face_score_info">Punto: %.1f</string>
      <string name="groupshot_mode_use_hint">"Camera will take multiple photos
 and then create a shot where everyone looks best."</string>
      <string name="hibernate_hint">Tap the screen to wake Camera</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
+     <string name="hint_device_water_mark">Il logo del dispositivo verrà aggiunto automaticamente.</string>
      <string name="hint_fast_motion">Il video che registri verrà riprodotto più velocemente.</string>
      <string name="hint_groupshot">"La fotocamera scatterà foto multiple
 e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="hint_slow_motion">Il video che registri verrà riprodotto più lentamente.</string>
      <string name="hunt_dual_water_mark">Il logo dual camera verrà aggiunto automaticamente.</string>
-     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
      <string name="install_confirmed">Installa</string>
      <string name="message_snap_double_confirm">La funzione attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
      <string name="module_name_beauty">Bellezza</string>
@@ -137,10 +131,10 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="module_name_portrait">Ritratto</string>
      <string name="module_name_square">Quadrato</string>
      <string name="module_name_video">Video</string>
+     <string name="multi_window_mode_not_supported">La fotocamera non funziona in modalità split screen</string>
      <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
      <string name="not_enough_space">Scheda SD piena.</string>
      <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
-     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
      <string name="pano_how_to_use_prompt_align_reference_line">Allinea la freccia con la linea di riferimento</string>
      <string name="pano_how_to_use_prompt_go_on_moving">Continua a ruotare…</string>
      <string name="pano_how_to_use_prompt_slow_down">Si prega di rallentare</string>
@@ -220,6 +214,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_delay_capture_entry_5s">5 sec</string>
      <string name="pref_camera_delay_capture_entry_audio">Audio</string>
      <string name="pref_camera_delay_capture_title">Autoscatto</string>
+     <string name="pref_camera_device_watermark_title">Logo dispositivo</string>
      <string name="pref_camera_exposuretime_entry_0.5">2s</string>
      <string name="pref_camera_exposuretime_entry_1">1s</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -299,8 +294,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_peak_title">Messa a fuoco Peak</string>
      <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
      <string name="pref_camera_picture_format_entry_raw">RAW</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Wide (16:9)</string>
-     <string name="pref_camera_picturesize_entry_standard">Standard (4:3)</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
+     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
      <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
      <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>
@@ -405,9 +400,9 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
      <string name="pref_video_captrue_ability_title">Image capture while recording</string>
-     <string name="pref_video_focusmode_entry_auto">Tocca</string>
+     <string name="pref_video_focusmode_entry_auto">Tap</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
-     <string name="pref_video_focusmode_title">Messa a fuoco</string>
+     <string name="pref_video_focusmode_title">Focus mode</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>

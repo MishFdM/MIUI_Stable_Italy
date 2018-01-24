@@ -3,10 +3,10 @@
 <resources>
      <string name="access_denied">Accesso negato</string>
      <string name="account">Account</string>
-     <string name="account_related">Il dispositivo è associato ad un Mi Account esistente (%s). Collegato alla rete per verificare il dispositivo.</string>
+     <string name="account_related">Il dispositivo è associato ad un Mi Account esistente (%s). Collegati alla rete per verificare il dispositivo.</string>
      <string name="activate">Attiva</string>
      <string name="activate_find_device_success">Trova dispositivo è stato attivato.</string>
-     <string name="activate_finddevice">Collegato alla rete per attivare il dispositivo</string>
+     <string name="activate_finddevice">Collegati alla rete per attivare il dispositivo</string>
      <string name="activate_number_change_dialog_message">Scegli il numero da attivare, durante la chiamata VoIP il ricevente vedrà questo numero</string>
      <string name="activating">Attivazione…</string>
      <string name="add_cloud_storage">Aggiungi spazio</string>
@@ -58,8 +58,10 @@ Ultimo backup: %2$s"</string>
      <string name="cloud_storage_is_full">Pieno</string>
      <string name="cloudservice_new_sync">Sincronizza %s con Mi Cloud</string>
      <string name="cmcc_micloud_dspt">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo</string>
-     <string name="connect_network">Collegato al Wi-Fi o inserisci una SIM</string>
-     <string name="connect_wlan">Collegato al Wi-Fi</string>
+     <string name="confirm_delete">Elimina</string>
+     <string name="confirm_save">Mantieni</string>
+     <string name="connect_network">Collegati al Wi-Fi o inserisci una SIM</string>
+     <string name="connect_wlan">Collegati al Wi-Fi</string>
      <string name="contact">Contatti</string>
      <string name="deskclock_backup">Backup orologi</string>
      <string name="detect_sim_card">Ricerca ancora una SIM</string>
@@ -88,8 +90,6 @@ Ultimo backup: %2$s"</string>
      <string name="find_device_disabling">Disattivazione…</string>
      <string name="find_device_dspt">Blocca o ripristina il dispositivo da remoto.</string>
      <string name="find_device_dspt_provision">Nel caso dovessi smarrire il tuo dispositivo, dirigiti su %s per localizzarlo, bloccarlo, o resettarlo. Puoi abilitare o disabilitare questa funzionalità quando vuoi dalle Impostazioni.</string>
-     <string name="find_device_dspt_provision_2">i.mi.com</string>
-     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" . Puoi attivare questa funzione in qualsiasi momento in Impostazioni."</string>
      <string name="find_device_dspt_provision_4">Se cambi SIM verrà inviato automaticamente un SMS per riattivare questa funzione.</string>
      <string name="find_device_enabling">Attivazione…</string>
@@ -98,7 +98,6 @@ Ultimo backup: %2$s"</string>
      <string name="find_device_error_server">Qualcosa non ha funzionato sul nostro server.</string>
      <string name="find_device_error_unknown">Errore sconosciuto</string>
      <string name="find_device_notice_p1">Visita</string>
-     <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"per trovare, bloccare, o ripristinare il tuo dispositivo.
 Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
      <string name="find_device_operation_failure_rpc">Impossibile completare questa operazione a causa di un errore RPC</string>
@@ -107,8 +106,8 @@ Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
      <string name="find_device_pref_alert_positive">OK</string>
      <string name="find_device_pref_alert_title">Ricorda il tuo Mi Account e la password</string>
      <string name="find_device_pref_initializing">Inizializzazione…</string>
-     <string name="find_device_reading_status">Stato caricamento…</string>
-     <string name="find_device_reading_status_failure">Impossibile caricare lo stato.</string>
+     <string name="find_device_reading_status">Loading status…</string>
+     <string name="find_device_reading_status_failure">"Couldn't load status."</string>
      <string name="find_device_send_sms_alert">Se cambi SIM, potrebbe essere inviato automaticamente un altro SMS per attivare questa funzione.</string>
      <string name="find_device_service_summary">Visita i.mi.com to per localizzare e bloccare dal remoto il dispositivo</string>
      <string name="find_device_service_summary_international">Visita i.mi.com to per localizzare e bloccare dal remoto il dispositivo</string>
@@ -248,8 +247,6 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_find_device_open_fail">Impossibile attivare Trova Dispositivo</string>
      <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
      <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
-     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-     <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
      <string name="micloud_find_device_verify_button">Riattiva Trova dispositivo</string>
      <string name="micloud_find_device_verify_close">Disattiva Trova dispositivo</string>
      <string name="micloud_find_device_verify_fail">Impossibile riattivare Trova dispositivo</string>
@@ -266,7 +263,7 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
      <string name="micloud_full_influence_title">Quando il tuo Mi Cloud è pieno…</string>
      <string name="micloud_main_battery_low">Batteria insufficiente per sincronizzare</string>
      <string name="micloud_main_battery_message">Metti in carica il dispositivo per sincronizzare</string>
-     <string name="micloud_main_button_activate">Attivato</string>
+     <string name="micloud_main_button_activate">Attiva</string>
      <string name="micloud_main_button_authorize">Autorizza</string>
      <string name="micloud_main_button_set_internet">Impostazioni</string>
      <string name="micloud_main_cancel_sync">Annulla sincronizzazione</string>
@@ -341,7 +338,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_more">Info aggiuntive</string>
      <string name="micloud_notif_content_battery_low">Livello batteria troppo basso.</string>
      <string name="micloud_notif_content_clipboard_push">Puoi incollarlo ovunque.</string>
-     <string name="micloud_notif_content_depend_wifi">Collegato ad una rete Wi-Fi per sincronizzare.</string>
+     <string name="micloud_notif_content_depend_wifi">Collegati ad una rete Wi-Fi per sincronizzare.</string>
      <string name="micloud_notif_content_dirty_data">Dettagli</string>
      <string name="micloud_notif_content_master_depend_wifi">Collegati prima alla rete Wi-Fi</string>
      <string name="micloud_notif_content_memory_low">Spazio di archiviazione insufficiente</string>
@@ -458,7 +455,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="pref_title_sync_contacts_title">Sincronizza i contatti</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizza foto solo con Wi-Fi</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
-     <string name="recommend_open_all_sync">Sincronizza tutti gli elementi</string>
+     <string name="recommend_open_all_sync">Tutti gli elementi sincronizzati</string>
      <string name="remind_later">Ricordamelo più tardi</string>
      <string name="restoreSync">Abilita sincronizzazione</string>
      <string name="search_cloudbackup_pref">Backup Cloud</string>
@@ -469,6 +466,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="search_finddevice_pref_desc">Attiva/disattiva Trova Telefono</string>
      <string name="search_finddevice_pref_key_words">trova telefono, trova telefono</string>
      <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/TROVA TELEFONO</string>
+     <string name="secret_photo">Foto nascoste</string>
      <string name="setting">Impostazioni</string>
      <string name="settings_backup_title">Backup impostazioni di sistema</string>
      <string name="share_cancel">Condivisione annullata</string>
@@ -507,8 +505,6 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="sync_dspt_entrance_provision_network">Questa app deve collegarsi ad internet per funzionare normalmente.La sincronizzazione dei dati potrebbe essere connessa alla rete dati ed aprire la rete Wi-Fi.</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Salta questo passaggio</u></string>
      <string name="sync_dspt_provision">"Sincronizza le foto, i contatti, le note e molto altro su tutti i tuoi dispositivi o accedi da "</string>
-     <string name="sync_dspt_provision2">i.mi.com</string>
-     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
      <string name="sync_dspt_provision3">". Puoi disattivare questa funzione in qualsiasi momento nelle Impostazioni."</string>
      <string name="sync_dspt_provision_header">Sincronizza</string>
      <string name="sync_dspt_provision_title">Mi Cloud</string>
@@ -555,6 +551,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="wipe_data_dialog_msg_and_on">, ed altri elementi</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">Alcuni dati non sono stati sincronizzati</string>
+     <string name="wipe_secret_photo_dialog_title">Le foto nascoste non vengono sincronizzate</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xmpp_server_addr" />
 </resources>

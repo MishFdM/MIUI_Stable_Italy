@@ -398,7 +398,7 @@ only in frame mode"</string>
      <string name="hw_test_fail">IR data send Unsuccess!</string>
      <string name="hw_test_finish">IR data send success</string>
      <string name="hwstart">test running...</string>
-     <string name="image_quality_test">IMAGE QUALITY TEST</string>
+     <string name="image_quality_test">IMAGEQUALITY TEST</string>
      <string name="imei">[ IMEI]:</string>
      <string name="imei_no">IMEI:</string>
      <string name="input_passwords">Please input password!</string>
@@ -625,11 +625,11 @@ mod:0-15"</string>
      <string name="radio_info_freq_label">[CHANNEL]:</string>
      <string name="radio_info_mcc_label">"[MCC]    :"</string>
      <string name="radio_info_mnc_label">"[MNC]    :"</string>
-     <string name="radio_info_neighboring_location_label">[Neighbor]</string>
+     <string name="radio_info_neighboring_location_label">Neighbor Cell Info:</string>
      <string name="radio_info_network_type_label">[RFMODE] :</string>
      <string name="radio_info_signal_cid_label">"[CID]    :"</string>
-     <string name="radio_info_signal_location_label">"[LAC]    :"</string>
-     <string name="radio_info_signal_strength_label">"[RSSI]   :"</string>
+     <string name="radio_info_signal_location_label">Cell Location Info:</string>
+     <string name="radio_info_signal_strength_label">Signal Strength:</string>
      <string name="radio_info_state_label">"[STATE]  :"</string>
      <string name="radiotest">Radio Test</string>
      <string name="radioteststate">Radio Test State:</string>
@@ -681,7 +681,7 @@ mod:0-15"</string>
      <string name="secureboot_state">Secureboot State:</string>
      <string name="seeking">\u0009Searching...</string>
      <string name="selectall">Select all</string>
-     <string name="selftest">SELF-TEST</string>
+     <string name="selftest">SELF TEST</string>
      <string name="send">Send</string>
      <string name="send_test">Send test</string>
      <string name="sensors_test">Sensors</string>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_package_delete_confirm_title">Avviso importante</string>
      <string name="add_frequent_phrases">Aggiungi frase</string>
@@ -21,6 +20,7 @@
      <string name="auto_start_warning_allow">Consenti</string>
      <string name="auto_start_warning_deny">Nega</string>
      <string name="auto_start_warning_title">"Consentire l'avvio automatico di %s in futuro?"</string>
+     <string name="autofill">Riempimento automatico</string>
      <string name="button_text_cancel">Annulla</string>
      <string name="button_text_delete">Elimina</string>
      <string name="button_text_delete_timer">Elimina (%d)</string>
@@ -105,6 +105,8 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="resource_select">Seleziona</string>
      <string name="screen_button_notification_text">Per attivarli premi contemporaneamente i tasti Home e Power.</string>
      <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
+     <string name="screen_on_proximity_sensor_hint">Disattiva questa funzione, premi il tasto del Volume Su.</string>
+     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Disattiva questa funzione, premi tasto Volume su.</string>
      <string name="screen_on_proximity_sensor_summary">Non coprire la parte superiore dello schermo</string>
      <string name="screen_on_proximity_sensor_title">Previeni chiamate dalla tasca</string>
      <string name="screen_paper_mode_enter_toast">Modalità lettura attivata. Puoi attivare/disattivare questa funzione in qualsiasi momento in Impostazioni aggiuntive > Modalità lettura.</string>
@@ -161,9 +163,9 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="switch_brand_desc_tv">Servizi di sicurezza forniti da Graphite</string>
      <string name="switch_desc_tv">Due spazi. Un dispositivo.</string>
      <string name="switching_tv">Cambio in corso…</string>
-     <string name="total">DND</string>
+     <string name="total">Non disturbare</string>
      <string name="total_description">[DND] Silenzia i suoni e disattiva la vibrazione per tutti gli elementi ad esclusione della sveglia</string>
-     <string name="total_title">DND..</string>
+     <string name="total_title">Non disturbare</string>
      <string name="translation_more">Altro</string>
      <string name="translation_query_error">Impossibile trovare risultati</string>
      <string name="translation_query_error_network">Impossibile connettersi alla rete. Controlla le impostazioni e riprova.</string>

@@ -103,7 +103,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_age_alias_male_45_60">Uomo 45-60</string>
      <string name="face_beauty_age_alias_male_60_m">Uomo 60+</string>
      <string name="face_beauty_age_alias_male_8_17">Uomo 8-17</string>
-     <string name="face_beauty_close">Off</string>
+     <string name="face_beauty_close">Disattivato</string>
      <string name="face_beauty_intelligent_level_0">Disatt.</string>
      <string name="face_beauty_intelligent_level_1">Basso</string>
      <string name="face_beauty_intelligent_level_2">Medio</string>
@@ -115,6 +115,7 @@ and then create a shot where everyone looks best."</string>
      <string name="hibernate_hint">Tap the screen to wake Camera</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
+     <string name="hint_device_water_mark">Il logo del dispositivo verrà aggiunto automaticamente.</string>
      <string name="hint_fast_motion">Il video che registri verrà riprodotto più velocemente.</string>
      <string name="hint_groupshot">"La fotocamera scatterà foto multiple
 e creerà una foto in cui tutti appariranno ancora più belli."</string>
@@ -130,6 +131,7 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="module_name_portrait">Ritratto</string>
      <string name="module_name_square">Quadrato</string>
      <string name="module_name_video">Video</string>
+     <string name="multi_window_mode_not_supported">La fotocamera non funziona in modalità split screen</string>
      <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
      <string name="not_enough_space">Scheda SD piena.</string>
      <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
@@ -212,6 +214,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_delay_capture_entry_5s">5 sec</string>
      <string name="pref_camera_delay_capture_entry_audio">Audio</string>
      <string name="pref_camera_delay_capture_title">Autoscatto</string>
+     <string name="pref_camera_device_watermark_title">Logo dispositivo</string>
      <string name="pref_camera_exposuretime_entry_0.5">2s</string>
      <string name="pref_camera_exposuretime_entry_1">1s</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -291,8 +294,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_peak_title">Messa a fuoco Peak</string>
      <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
      <string name="pref_camera_picture_format_entry_raw">RAW</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Wide (16:9)</string>
-     <string name="pref_camera_picturesize_entry_standard">Standard (4:3)</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
+     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
      <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
      <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>

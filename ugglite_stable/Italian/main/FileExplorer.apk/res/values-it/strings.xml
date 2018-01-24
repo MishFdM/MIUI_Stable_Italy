@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="a_week_share_rank">Classifica settimanale</string>
      <string name="action_mode_deselect_all">Deseleziona tutto</string>
@@ -191,6 +190,13 @@
      <string name="error_invalid_path">Percorso non corretto</string>
      <string name="error_not_support">Non supportato</string>
      <string name="error_open_file_failed_no_app_found">"Nessuna applicazione trovata per l'apertura del file"</string>
+     <string name="exo_controls_fastforward_description">Avanti</string>
+     <string name="exo_controls_next_description">Prossima traccia</string>
+     <string name="exo_controls_pause_description">Pausa</string>
+     <string name="exo_controls_play_description">Riproduci</string>
+     <string name="exo_controls_previous_description">Traccia precedente</string>
+     <string name="exo_controls_rewind_description">Indietro</string>
+     <string name="exo_controls_stop_description">Stop</string>
      <string name="extended_storage_file_can_not_open">Impossibile aprire il file. Copia il file nella memoria interna."</string>
      <string name="extract">Estrai</string>
      <string name="fail_to_create_folder_unknown">Impossibile creare: errore sconosciuto.</string>
@@ -522,6 +528,7 @@
      <string name="search_file_type_music">Musica</string>
      <string name="search_file_type_picture">Foto</string>
      <string name="search_file_type_video">Video</string>
+     <string name="search_guid_hint">Cerca file</string>
      <string name="search_hint">Inserisci una parte o il nome completo del file</string>
      <string name="search_history">Cronologia di ricerca</string>
      <string name="search_hot_sticker">Adesivi; Scarica adesivi</string>

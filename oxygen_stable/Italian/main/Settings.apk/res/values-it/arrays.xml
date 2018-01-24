@@ -254,9 +254,9 @@
         <item>Maiuscoletto</item>
      </string-array>
      <string-array name="cellcular2wifi_entries">
-        <item>Connetti automaticamente</item>
-        <item>Connetti manualmente</item>
-        <item>Chiedi sempre</item>
+        <item>Automatically connect</item>
+        <item>Manually connect</item>
+        <item>Always ask</item>
      </string-array>
      <string-array name="change_security_lock_picker">
         <item>Sblocca col sorriso</item>
@@ -901,12 +901,6 @@
         <item>10 minuti</item>
         <item>30 minuti</item>
      </string-array>
-     <string-array name="edge_touch_volume_action">
-        <item>Regolazione tocco - Attiva con doppio tocco</item>
-        <item>Regolazione scorrimento - Attiva con scorrimento</item>
-        <item>Regolazione tocco - Attiva con il tocco</item>
-        <item>Regolazione tocco - Attiva tenendo premuto</item>
-     </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
         <item>Logcat</item>
@@ -934,6 +928,11 @@
      <string-array name="fluency_mode_summaries">
         <item>Migliora le prestazioni del sistema</item>
         <item>Potrebbe influire sulle prestazioni del sistema</item>
+     </string-array>
+     <string-array name="handy_mode_size_text_entries">
+        <item>4.5 pollici</item>
+        <item>4.0 pollici</item>
+        <item>3.5 pollici</item>
      </string-array>
      <string-array name="haptic_feedback_level_texts">
         <item>Disattivata</item>
@@ -1209,14 +1208,6 @@
         <item>1 ora</item>
         <item>2 ore</item>
         <item>8 ore</item>
-     </string-array>
-     <string-array name="standard_configuration_version_description_primary">
-        <item>CPU</item>
-        <item>Battery capacity</item>
-        <item>Rear camera</item>
-        <item>Screen size</item>
-        <item>Resolution</item>
-        <item>Android version</item>
      </string-array>
      <string-array name="startup_hips_action">
         <item>Consenti</item>

@@ -129,11 +129,7 @@ Please contact Xiaomi customer service."</string>
      <string name="mibi_giftcard_record">Le mie carte regalo</string>
      <string name="mibi_giftcard_title">Le me carte regalo Mi Credit</string>
      <string name="mibi_giftcard_will_expire">Scaduta il %1$s</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 1
-	%d: 1 Original: 0 -->
-     <!-- Original string: %1$s Mi Credit coupon available -->
-     <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Sconto Mi Credit disponibile&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="mibi_giftcard_with_num">%1$s Mi Credit coupon available</string>
      <string name="mibi_header_network_error">Impossibile connettersi alla rete</string>
      <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
      <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>

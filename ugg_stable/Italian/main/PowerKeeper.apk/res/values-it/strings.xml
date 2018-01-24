@@ -83,6 +83,8 @@
      <string name="new_group_name">Modalità ospite</string>
      <string name="no_applications">Vuoto</string>
      <string name="none">Nessun processo</string>
+     <string name="nonui_mode_config_description">"Non attivare lo schermo al ricevimento delle notifiche, disattiva la luce per le notifiche, impronte e tasti touch quando il dispositivo è in tasca."</string>
+     <string name="nonui_mode_config_title">Modalità non interattiva</string>
      <string name="normal">Modalità predefinita</string>
      <string name="operation_create_group">Nome</string>
      <string name="operation_create_group_message">Inserisci il nome del nuovo gruppo</string>

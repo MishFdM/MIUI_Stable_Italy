@@ -789,18 +789,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="sendstartpage">Pagina iniziale</string>
      <string name="share_image_text">Sto guardando una foto bellissima</string>
      <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Browser needs to connect to the internet to work normally. To improve security and receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info. -->
-     <string name="show_check_security_url_check_tip_dialog_description">"Raccoglieremo ed utilizzeremo i tuoi dati personali se scegli di utilizzare il nostro servizio.
-Questi sono i dati che raccoglieremo:
-1. URL sicuri: raccoglieremo gli URL dei siti che visiti mentre utilizzi il nostro servizio.
-2. Dati sulla posizione: avremo accesso ai dati sulla tua posizione.
-Utilizzeremo i dati in questo modo:
-1. Sicurezza: utilizziamo i tuoi dati per proteggere il tuo dispositivo da truffe e virus, oltre che per motivi di archiviazione e backup.
-2. Contenuto: i tuoi dati ci aiutano a fornire contenuti delle news personalizzate.
-Per navigare correttamente devi essere collegato ad Internet. Per poter utilizzare il Browser devi accettare %2$s e %1$s.​"</string>
+     <string name="show_check_security_url_check_tip_dialog_description">"Browser needs to connect to the internet to work normally. To improve security and receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
      <string name="show_check_security_url_check_tip_dialog_description_international">Browser needs to connect to the internet to work normally. To receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
      <string name="show_security_tip_dialog_title">Termini del Servizio</string>
      <string name="show_weather_location_getter_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security, receive more relevant recommendations and weather info, allow Browser to get the URLs of the websites you visit and access your location info.</string>
