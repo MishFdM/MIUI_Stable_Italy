@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_info">Registra, tocca per fermare</string>
+     <string name="app_info">Recording, tap to stop</string>
      <string name="app_name">Registrazione schermo</string>
      <string name="app_notification_title">Registrazione schermo</string>
      <string name="auto_stop_title">Video salvato con successo!</string>
@@ -37,7 +37,7 @@
      <string name="low_battery_title">Batteria quasi scarica</string>
      <string name="low_battery_warning">La batteria è quasi scarica. La registrazione video è stata fermata e salvata.</string>
      <string name="low_memory">Hai meno di 200MB di spazio disponibile. Puoi registrare fino a 5 minuti.</string>
-     <string name="low_memory_dior">Hai meno di 500MB di memoria disponibile. Adesso puoi registrare fino a 12 minuti.</string>
+     <string name="low_memory_dior">You have less than 500MB of available storage. You can record up to 12 minutes now.</string>
      <string name="low_memory_title">Non hai abbastanza spazio</string>
      <string name="low_momery_warning">Non hai spazio di archiviazione sufficiente. La registrazione video è stata fermata e salvata.</string>
      <string name="memory_not_allowed">Spazio non disponibile. Libera lo spazio prima di registrare.</string>

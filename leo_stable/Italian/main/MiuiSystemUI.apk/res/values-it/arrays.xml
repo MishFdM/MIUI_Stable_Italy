@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
@@ -43,7 +44,7 @@
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
         <item>Logcat</item>
-        <item>Systrace (Grafica)</item>
+        <item>Traccia (Grafica)</item>
         <item>Richiamo su glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
@@ -93,12 +94,12 @@
         <item>16M</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
-        <item>Disattivto</item>
+        <item>Disattivato</item>
         <item>Mostra regione di ritaglio non rettangolare in blu</item>
         <item>Evidenzia comandi di disegno testati in verde</item>
      </string-array>
      <string-array name="track_frame_time_entries">
-        <item>Disattivto</item>
+        <item>Disattivato</item>
         <item>Su schermo tramite barre</item>
         <item>Su adb shell dumpsys gfxinfo</item>
      </string-array>
