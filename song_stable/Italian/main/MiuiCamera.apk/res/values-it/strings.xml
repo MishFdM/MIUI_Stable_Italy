@@ -69,7 +69,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_age_alias_male_45_60">Uomo 45-60</string>
      <string name="face_beauty_age_alias_male_60_m">Uomo 60+</string>
      <string name="face_beauty_age_alias_male_8_17">Uomo 8-17</string>
-     <string name="face_beauty_close">Off</string>
+     <string name="face_beauty_close">Disattivato</string>
      <string name="face_beauty_intelligent_level_0">Disatt.</string>
      <string name="face_beauty_intelligent_level_1">Basso</string>
      <string name="face_beauty_intelligent_level_2">Medio</string>
@@ -247,8 +247,8 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_picturesize_entry_3328x1872">6M(3328x1872)</string>
      <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
      <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Wide (16:9)</string>
-     <string name="pref_camera_picturesize_entry_standard">Standard (4:3)</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
+     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
      <string name="pref_camera_recordlocation_entry_off">Disattivato</string>
      <string name="pref_camera_recordlocation_entry_on">Attivato</string>
