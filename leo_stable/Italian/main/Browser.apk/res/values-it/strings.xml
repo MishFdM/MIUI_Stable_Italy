@@ -302,10 +302,6 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="enable_geolocation_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="enter_developer_mode">Modalità sviluppatore</string>
      <string name="enter_incongnito_mode">Entra in modalità incognito</string>
-     <string name="error_console_eval_button_text">Abilita</string>
-     <string name="error_console_eval_text_hint">Abilita JavaScript</string>
-     <string name="error_console_header_text_maximized">JavaScript console</string>
-     <string name="error_console_header_text_minimized">Mostra console JavaScript</string>
      <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo Mi Account.</string>
      <string name="error_not_acceptable">Sincronizzazione disattivata.</string>
      <string name="error_title">Impossibile sincronizzare</string>
@@ -764,7 +760,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="search_google">Google</string>
      <string name="search_hint">Cerca o digita un URL</string>
      <string name="search_keyword_browser">Browser</string>
-     <string name="search_label">Browser</string>
      <string name="search_path_browser">Impostazioni/Applicazioni di sistema/Browser</string>
      <string name="search_settings_description">Segnalibri e cronologia web</string>
      <string name="search_shipin">Video</string>
@@ -847,10 +842,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="tab_quicklinks">Utilità</string>
      <string name="tab_yellowpage">In evidenza</string>
      <string name="tabs_description">Tab</string>
-     <string name="tae_sdk_login_qr_icon_close"></string>
-     <string name="tae_sdk_login_qr_icon_taobao"></string>
-     <string name="tae_sdk_qr_login_icon_password"></string>
-     <string name="tae_sdk_qr_login_icon_scan"></string>
      <string name="time_picker_dialog_am">AM</string>
      <string name="time_picker_dialog_hour_minute_separator">:</string>
      <string name="time_picker_dialog_minute_second_separator">:</string>

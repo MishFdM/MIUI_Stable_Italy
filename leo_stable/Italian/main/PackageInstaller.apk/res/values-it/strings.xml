@@ -112,7 +112,6 @@
      <string name="cancel">Annulla</string>
      <string name="category_personal">Personale</string>
      <string name="category_work">Lavoro</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="charge_length_format">%1$s fa</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
@@ -198,7 +197,6 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="grant_dialog_button_deny_anyway">Nega comunque</string>
      <string name="hdcp_checking_dialog_title">Comportamento di verifica HDCP</string>
      <string name="hdcp_checking_title">Verifica HDCP</string>
-     <string name="help_app_permissions" />
      <string name="help_feedback_label">Guida e feedback</string>
      <string name="home">Home page Impostazioni</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
@@ -291,7 +289,6 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="no_apps">Nessuna app</string>
      <string name="no_new_perms">Questo aggiornamento non richiede nuove autorizzazioni.</string>
      <string name="no_permissions">Nessuna autorizzazione</string>
-     <string name="oem_preferred_feedback_reporter" />
      <string name="oem_unlock_enable">Sblocco OEM</string>
      <string name="oem_unlock_enable_summary">Consenti al bootloader di essere sbloccato</string>
      <string name="ok">OK</string>
@@ -301,7 +298,6 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="out_of_space_dlg_text">Impossibile installare %1$s. Libera dello spazio e riprova.</string>
      <string name="out_of_space_dlg_title">Spazio esaurito</string>
      <string name="overlay_display_devices_title">Simula display secondari</string>
-     <string name="permdesc_togglePermissions">Consente di lanciare la UI per gestire i permessi delle app. Non dovrebbe mai essere necessario per le app normali.</string>
      <string name="permission_request_title">Richiesta di autorizzazione</string>
      <string name="permission_review_title_template_install">"Scegli i dati a cui l'app %1$s può accedere"</string>
      <string name="permission_review_title_template_update">"L'app %1$s è stata aggiornata. Scegli a quali dati può accedere."</string>
@@ -309,7 +305,6 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="permission_summary_enforced_by_policy">Applicata in base alle norme</string>
      <string name="permission_title">Autorizzazioni %1$s</string>
      <string name="permission_warning_template">Consentire a %1$s di %2$s?</string>
-     <string name="permlab_togglePermissions">Comandi permessi</string>
      <string name="picture_color_mode">Modalità colori immagini</string>
      <string name="picture_color_mode_desc">Use sRGB</string>
      <string name="pointer_location">Posizione puntatore</string>
@@ -428,8 +423,6 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="usb_audio_disable_routing">Disattiva routing audio USB</string>
      <string name="usb_audio_disable_routing_summary">Disattiva routing automatico a periferiche audio USB</string>
      <string name="user_guest">Ospite</string>
-     <string name="v7_preference_off">OFF</string>
-     <string name="v7_preference_on">ON</string>
      <string name="verify_apps_over_usb_summary">Controlla che le applicazioni installate tramite ADB/ADT non abbiano un comportamento dannoso.</string>
      <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
      <string name="vpn_settings_not_available">Le impostazioni VPNnon sono disponibili per questo utente</string>
@@ -452,18 +445,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="wifi_no_internet">Nessun accesso ad internet rilevato, non verrà riconnesso automaticamente.</string>
      <string name="wifi_not_in_range">Fuori campo</string>
      <string name="wifi_remembered">Salvato</string>
-     <string name="wifi_security_eap">802.1x EAP</string>
      <string name="wifi_security_none">Nessuno</string>
-     <string name="wifi_security_passpoint">Passpoint</string>
-     <string name="wifi_security_short_eap">802.1x</string>
-     <string name="wifi_security_short_wep">WEP</string>
-     <string name="wifi_security_short_wpa">WPA</string>
-     <string name="wifi_security_short_wpa2">WPA2</string>
-     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-     <string name="wifi_security_wep">WEP</string>
-     <string name="wifi_security_wpa">WPA PSK</string>
-     <string name="wifi_security_wpa2">WPA2 PSK</string>
-     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
      <string name="wifi_verbose_logging">Attiva registrazione dettagliata Wi-Fi</string>
      <string name="wifi_verbose_logging_summary">Aumenta il livello di registrazione Wi-Fi, mostrando il SSID RSSI nel selettore Wi-Fi</string>
      <string name="window_animation_scale_title">Scala animazione finestra</string>

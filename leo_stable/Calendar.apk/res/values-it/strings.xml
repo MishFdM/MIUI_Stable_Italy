@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
-<resources>
-     <string name="copy_email">Copia indirizzo email</string>
-     <string name="copy_number">Copia numero di telefono</string>
-     <string name="done">Return</string>
-</resources>

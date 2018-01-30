@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="all_month_str">
         <item>Gen</item>
@@ -51,23 +52,6 @@
         <item>Messaggi più vecchi</item>
         <item>Lista conversazioni</item>
      </string-array>
-     <string-array name="signature_normal_string_array">
-        <item>Blog:</item>
-        <item>Sito:</item>
-        <item>Email:</item>
-        <item>Cell:</item>
-        <item>Telefono:</item>
-        <item>T:</item>
-        <item>www.</item>
-        <item>F:</item>
-        <item>E:</item>
-        <item>E-mail:</item>
-        <item>Tel:</item>
-        <item>Fax:</item>
-        <item>Mail:</item>
-        <item>QQ:</item>
-        <item>MSN:</item>
-     </string-array>
      <string-array name="signature_normal_string_array_next">
         <item>Indirizzo:</item>
         <item>Tel:</item>
@@ -77,15 +61,6 @@
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>Codice postale:</item>
-     </string-array>
-     <string-array name="signature_special_string_array">
-        <item>Avviso:</item>
-        <item>Avviso Email</item>
-        <item>Inviato da WPSMail</item>
-        <item>Inviato da</item>
-        <item>Inviato con</item>
-        <item>Grazie,</item>
-        <item>Cordiali saluti</item>
      </string-array>
      <string-array name="signature_special_string_array_next">
         <item>Grazie,</item>
