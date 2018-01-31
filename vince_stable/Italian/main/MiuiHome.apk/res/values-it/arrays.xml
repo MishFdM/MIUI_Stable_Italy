@@ -37,6 +37,14 @@
         <item>Predefinito</item>
         <item>Classico</item>
      </string-array>
+     <string-array name="notgoogle">
+        <item>ID</item>
+        <item>RU</item>
+        <item>SG</item>
+        <item>MY</item>
+        <item>UA</item>
+        <item>HK</item>
+     </string-array>
      <string-array name="transformation_entries">
         <item>Scorrimento senza rimbalzo</item>
         <item>Dissolvenza</item>
