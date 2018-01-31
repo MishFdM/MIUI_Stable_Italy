@@ -27,6 +27,7 @@
      <string name="account_none">Nessuno</string>
      <string name="account_none_binded_info">Nessuno</string>
      <string name="account_none_user_name">Nessuno</string>
+     <string name="account_notification_message">Sessione Xiaomi account scaduta, accedere di nuovo!</string>
      <string name="account_protection">Protezione account</string>
      <string name="account_protection_off">Disattivata</string>
      <string name="account_protection_on">Attivata</string>
@@ -211,7 +212,7 @@ Per attivare il tuo account, segui il
  link nel messaggio che ti abbiamo inviato."</string>
      <string name="passport_completed">Finito</string>
      <string name="passport_confirm_recycle_account">Sì</string>
-     <string name="passport_continue">Continue</string>
+     <string name="passport_continue">Continua</string>
      <string name="passport_copy_message_text_success">Copiato correttamente</string>
      <string name="passport_copy_message_vcode">Copia codice</string>
      <string name="passport_delete_account">Esci</string>
@@ -417,6 +418,7 @@ Per attivare il tuo account, segui il
      <string name="sina_weibo">Sina Weibo</string>
      <string name="sms_send_success">Inviato</string>
      <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
+     <string name="talkback_scan_barcode">Scansiona il codice QR</string>
      <string name="trusted_browsers">Browser sicuri</string>
      <string name="trusted_browsers_prompt">Il browser non sarà più sicuro se elimini i cookies.</string>
      <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova dispositivo</string>

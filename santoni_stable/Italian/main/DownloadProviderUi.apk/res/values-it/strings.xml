@@ -25,7 +25,7 @@
      <string name="app_label">Download</string>
      <string name="auth_activity_title">Account Xunlei</string>
      <string name="auth_fail">"Impossibile ottenere l'autorizzazione"</string>
-     <string name="bind_xunlei_account">Associa un account Xunlei</string>
+     <string name="bind_xunlei_account">Add Xunlei Account</string>
      <string name="bt_download">Download</string>
      <string name="bt_path_not_exit">Questo percorso non esiste</string>
      <string name="bt_restart_dialog_message">Riavviare tutti i download nella cartella BT?</string>
