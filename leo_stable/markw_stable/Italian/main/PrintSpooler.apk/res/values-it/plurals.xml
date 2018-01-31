@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="composite_notification_title_template">
+        <item quantity="other">%1$d print jobs</item>
+        <item quantity="one">%1$d print job</item>
+     </plurals>
+     <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s stampanti trovate</item>
+        <item quantity="one">%1$s stampante trovata</item>
+     </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_name">Servizio Wfd</string>
+     <string name="perm_desc">Accesso alle API Qualcomm WLAN Display Stack</string>
+     <string name="perm_label">QC WLAN Display Stack</string>
+</resources>
