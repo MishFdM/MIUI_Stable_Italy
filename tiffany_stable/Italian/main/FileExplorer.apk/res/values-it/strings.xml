@@ -68,7 +68,7 @@
      <string name="category_file">File</string>
      <string name="category_files">File</string>
      <string name="category_installed_app">App installate</string>
-     <string name="category_midrive">KuaiPan</string>
+     <string name="category_midrive">Mi Drive</string>
      <string name="category_music">Musica</string>
      <string name="category_other">Altro</string>
      <string name="category_photo">Foto</string>
@@ -162,7 +162,6 @@
      <string name="dialog_type_image">Immagine</string>
      <string name="dialog_type_text">Testo</string>
      <string name="dialog_type_video">Video</string>
-     <string name="directory_info_divider">"  |  "</string>
      <string name="disk_available">Disponibile:</string>
      <string name="disk_total">Totale:</string>
      <string name="dislike_toast">Questi video non ti verranno consigliati.</string>
@@ -184,13 +183,20 @@
      <string name="error_contains_sharer_path">"Impossibile crittografare i file in /MIUI/Gallery/cloud/sharer, sposta il file in un'altra cartella e prova di nuovo"</string>
      <string name="error_create_dir">Impossibile creare la cartella</string>
      <string name="error_create_file">Impossibile creare il file</string>
-     <string name="error_delete_failed">Impossibile leiminare il file</string>
+     <string name="error_delete_failed">Impossibile eliminare il file</string>
      <string name="error_filename_too_long">Nome troppo lungo</string>
      <string name="error_folder_already_exists">IL file è già esistente</string>
      <string name="error_info_cant_send_folder">La cartella non può essere trasferita</string>
      <string name="error_invalid_path">Percorso non corretto</string>
      <string name="error_not_support">Non supportato</string>
      <string name="error_open_file_failed_no_app_found">"Nessuna applicazione trovata per l'apertura del file"</string>
+     <string name="exo_controls_fastforward_description">Avanti</string>
+     <string name="exo_controls_next_description">Prossima traccia</string>
+     <string name="exo_controls_pause_description">Pausa</string>
+     <string name="exo_controls_play_description">Riproduci</string>
+     <string name="exo_controls_previous_description">Traccia precedente</string>
+     <string name="exo_controls_rewind_description">Indietro</string>
+     <string name="exo_controls_stop_description">Stop</string>
      <string name="extended_storage_file_can_not_open">Impossibile aprire il file. Copia il file nella memoria interna."</string>
      <string name="extract">Estrai</string>
      <string name="fail_to_create_folder_unknown">Impossibile creare: errore sconosciuto.</string>
@@ -218,15 +224,15 @@
      <string name="force_touch_search">Ricerca file</string>
      <string name="found_router">Router collegato</string>
      <string name="found_usb">Archiviazione USB collegata</string>
-     <string name="ftp_account_req_notice">Username e password, 4~16 caratteri, numeri, lettere, case sensitive</string>
+     <string name="ftp_account_req_notice">Nome utente e password, 4~16 caratteri, numeri, lettere, case sensitive</string>
      <string name="ftp_anonymous_login">FTP Anonimo</string>
      <string name="ftp_invalid_username_or_password">Errore di autenticazione</string>
      <string name="ftp_open_port_error">Impossibile aprire la porta FTP selezionata, verificare la connessione di rete e riprovare.</string>
      <string name="ftp_password_hint">Password</string>
      <string name="ftp_port_number">Porta</string>
      <string name="ftp_transfer_secure">Trasferimento FTP sicuro</string>
-     <string name="ftp_username_and_passworld">Username e password</string>
-     <string name="ftp_username_hint">Username</string>
+     <string name="ftp_username_and_passworld">Nome utente e password</string>
+     <string name="ftp_username_hint">Nome utente</string>
      <string name="full_gems">Scambia le tue gemme</string>
      <string name="gbk_summary">Codifica che migliora la visualizzazione del testo cinese semplificato</string>
      <string name="gbk_title">GBK</string>
@@ -306,11 +312,9 @@
      <string name="message_comment_prefix">Commento:</string>
      <string name="message_my_received_notification">Nuovo messaggio</string>
      <string name="message_my_received_praise">Mi piace ricevuti</string>
-     <string name="message_my_received_praise_count">+%1$s</string>
      <string name="message_praise_comment">Ti piace questo commento</string>
      <string name="message_praise_video">Ti piace questo video</string>
      <string name="message_reply_prefix">Rispondi</string>
-     <string name="message_reply_suffix">:</string>
      <string name="mi_router_label">Mi Router</string>
      <string name="midrop_msg_1">Attiva Mi Drop su altri dispositivi</string>
      <string name="midrop_msg_2">Quando Mi Drop è attivo, puoi cercare dispositivi vicini ed inviare file</string>
@@ -406,7 +410,7 @@
      <string name="operation_unfavorite">Rimuovi dai Preferiti</string>
      <string name="original_user_desc">Carica regolarmente video originali per conquistare lo status di Creatore</string>
      <string name="original_user_qq_group">Entra nel gruppo QQ del Team Talenti</string>
-     <string name="original_user_register"> • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; joined the community</string>
+     <string name="original_user_register"> • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; è entrato nella community</string>
      <string name="original_user_signal">Team Talenti</string>
      <string name="original_user_title">Congratulazioni per essere diventato membro del Team Talenti!</string>
      <string name="original_user_verify">• Grazie per far parte del gruppo!</string>
@@ -416,7 +420,7 @@
      <string name="other_user_no_liked_video_tip">Nessun video piaciuto.</string>
      <string name="overwrite_msg">\"%s\" è già esistente. Tocca per sostituirlo con il nuovo file.</string>
      <string name="pad">Memoria interna</string>
-     <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
+     <string name="partial_cancel_successful">Impossibile rimuovere alcuni file. Gli altri file verranno spostati in %s.</string>
      <string name="partial_delete_failure">Non è stato possibile eliminare alcuni file, riprova</string>
      <string name="partial_encrypt_success">Non è stato possibile nascondere alcuni file, riprova"</string>
      <string name="path_download">Gestisci i tuoi download</string>
@@ -427,7 +431,7 @@
      <string name="permission_denial">Impossibile accedere ai file. Consenti ad Explorer di accedere ai file nelle impostazioni.</string>
      <string name="permission_required">Impossibile accedere ai file. Concedi ad Explorer di accedere ai file nelle impostazioni.</string>
      <string name="petabyteShort">PB</string>
-     <string name="phone">Menoria interna</string>
+     <string name="phone">Memoria interna</string>
      <string name="phone_bind_skip">Rinuncia ai premi, salta ></string>
      <string name="phone_bind_tip">Collegando il telefono puoi entrare nella classifica degli argomenti e vincere fantastici premi ogni settimana!</string>
      <string name="phone_bind_title">Collega telefono</string>
@@ -524,6 +528,7 @@
      <string name="search_file_type_music">Musica</string>
      <string name="search_file_type_picture">Foto</string>
      <string name="search_file_type_video">Video</string>
+     <string name="search_guid_hint">Cerca file</string>
      <string name="search_hint">Inserisci una parte o il nome completo del file</string>
      <string name="search_history">Cronologia di ricerca</string>
      <string name="search_hot_sticker">Adesivi; Scarica adesivi</string>

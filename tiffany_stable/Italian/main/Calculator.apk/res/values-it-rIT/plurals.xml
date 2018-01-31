@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="mortgage_summary_years">
+    <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d anni (%2$d mesi)</item>
         <item quantity="one">%1$d anno (%2$d mesi)</item>
-     </plurals>
+    </plurals>
 </resources>

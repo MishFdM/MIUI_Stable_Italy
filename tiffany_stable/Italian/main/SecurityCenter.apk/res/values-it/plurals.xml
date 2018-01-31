@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="add_game_notification_title">
         <item quantity="other">%d giochi aggiunti</item>
@@ -13,24 +14,24 @@
         <item quantity="one">Richiesta per %d permesso</item>
      </plurals>
      <plurals name="app_manager_reject_count">
-        <item quantity="other">Bloccato %d volte</item>
-        <item quantity="one">Bloccato %d volta</item>
+        <item quantity="other">Blocked %d times</item>
+        <item quantity="one">Blocked %d time</item>
      </plurals>
      <plurals name="app_manager_start_count">
         <item quantity="other">%d volte</item>
         <item quantity="one">%d volta</item>
      </plurals>
      <plurals name="app_usage_day">
-        <item quantity="other">"Non utilizzato da %d giorni"</item>
-        <item quantity="one">"Non utilizzato da %d giorno"</item>
+        <item quantity="other">"Non utilizzata da %d giorni"</item>
+        <item quantity="one">"Non utilizzata da %d giorno"</item>
      </plurals>
      <plurals name="app_usage_month">
-        <item quantity="other">"Non utilizzato da %d mesi"</item>
-        <item quantity="one">"Non utilizzato da %d mese"</item>
+        <item quantity="other">"Non utilizzata da %d mesi"</item>
+        <item quantity="one">"Non utilizzata da %d mese"</item>
      </plurals>
      <plurals name="app_usage_year">
-        <item quantity="other">"Non utilizzato da %d anni"</item>
-        <item quantity="one">"Non utilizzato da %d anno"</item>
+        <item quantity="other">"Non utilizzata da %d anni"</item>
+        <item quantity="one">"Non utilizzata da %d anno"</item>
      </plurals>
      <plurals name="cache_check_content">
         <item quantity="other">Protezione di %d app</item>
@@ -149,9 +150,21 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d app bloccate</item>
         <item quantity="one">%d app bloccata</item>
      </plurals>
+     <plurals name="number_masked">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
+     </plurals>
+     <plurals name="number_masked_text">
+        <item quantity="other">%d notifiche sono state nascoste</item>
+        <item quantity="one">%d notifica è stata nascosta</item>
+     </plurals>
      <plurals name="number_to_lock">
         <item quantity="other">%d app non bloccate</item>
         <item quantity="one">%d app non bloccata</item>
+     </plurals>
+     <plurals name="number_to_mask_text">
+        <item quantity="other">%d notifiche sono visibili</item>
+        <item quantity="one">%d notifica è visibile</item>
      </plurals>
      <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d app non funzionano correttamente e consumano eccessivamente batteria"</item>

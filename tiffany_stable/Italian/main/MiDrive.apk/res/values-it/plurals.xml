@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="days">
         <item quantity="other">%1$d giorni</item>
@@ -17,6 +16,10 @@
         <item quantity="few">%1$d giorni fà</item>
         <item quantity="many">%1$d giorni fà</item>
      </plurals>
+     <plurals name="delete_files">
+        <item quantity="other">Eliminare %1$d file?</item>
+        <item quantity="one">Eliminare questo file?</item>
+     </plurals>
      <plurals name="delete_files_confirm">
         <item quantity="other">Eliminare %1$d file</item>
         <item quantity="zero">Eliminare %1$d file</item>
@@ -24,6 +27,10 @@
         <item quantity="two">Eliminare %1$d file</item>
         <item quantity="few">Eliminare %1$d file</item>
         <item quantity="many">Eliminare %1$d file</item>
+     </plurals>
+     <plurals name="delete_folders">
+        <item quantity="other">Eliminare %1$d cartelle?</item>
+        <item quantity="one">Eliminare questa cartella?</item>
      </plurals>
      <plurals name="delete_folders_confirm">
         <item quantity="other">" e %1$d cartelle?"</item>
