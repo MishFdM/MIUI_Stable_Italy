@@ -270,7 +270,16 @@ only in frame mode"</string>
      <string name="charger_in_test">Charger plug in</string>
      <string name="charger_out_test">Charger plug out</string>
      <string name="choose_channel">Channel select</string>
+     <string name="cit_apk_signature_failed">apk signature FAILED</string>
+     <string name="cit_apk_signature_passed">apk signature PASSED</string>
+     <string name="cit_build_finger_failed">build fingerprint FAILED</string>
+     <string name="cit_build_finger_passed">build fingerprint PASSED</string>
+     <string name="cit_get_signature_failed">get signature FAILED</string>
      <string name="cit_nv_flag">"CIT NV Flag: "</string>
+     <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
+     <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
+     <string name="cit_signature_check_label">signature check:</string>
+     <string name="cit_te_test_fail">TE test fail</string>
      <string name="cit_tp_default_info">null</string>
      <string name="close">have not otp partition</string>
      <string name="combile">Assemble</string>
@@ -443,7 +452,6 @@ the selected?"</string>
      <string name="longitude">Longitude :</string>
      <string name="magnetic">Magnetic</string>
      <string name="magnetic_calibration_hint">Need calibration, Please rotate the device like 8 shape to calibrate</string>
-     <string name="magnetic_chip_loss_hint">Chip self-test data:</string>
      <string name="magnetic_info_finish">Finished</string>
      <string name="magnetic_info_hint">Please rotate the device like 8 shape</string>
      <string name="magnetic_test">Magnetic sensor</string>

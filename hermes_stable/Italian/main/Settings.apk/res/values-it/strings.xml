@@ -374,11 +374,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="battery_msg_unaccounted">"Il consumo della batteria è una stima del consumo energetico e non include tutte le fonti che influiscono sul suo consumo. Indica la differenza tra la stima del consumo energetico e il consumo reale della batteria."</string>
      <string name="battery_saver">Risparmio batteria</string>
      <string name="battery_saver_turn_on_automatically_never">Mai</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 1 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: at %1$d%% battery -->
-     <string name="battery_saver_turn_on_automatically_pct">al %1$s di batteria</string>
+     <string name="battery_saver_turn_on_automatically_pct">al %1$d%% di batteria</string>
      <string name="battery_saver_turn_on_automatically_title">Attiva automaticamente</string>
      <string name="battery_settings">Batteria</string>
      <string name="battery_settings_title">Batteria</string>
@@ -540,11 +536,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="bluetooth_pairing_key_msg">Codice di abbinamento</string>
      <string name="bluetooth_pairing_pin_error_message">"Impossibile eseguire l'abbinamento con %1$s. La passkey o il PIN è errato."</string>
      <string name="bluetooth_pairing_rejected_error_message">Abbinamento rifiutato da %1$s.</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Bluetooth pairing request -->
-     <string name="bluetooth_pairing_request">Associare con %1$s?</string>
+     <string name="bluetooth_pairing_request">Richiesta associazione bluetooth</string>
      <string name="bluetooth_pairing_will_share_phonebook">"L'abbinamento consente l'accesso ai contatti e al registro chiamate."</string>
      <string name="bluetooth_pan_nap_profile_summary_connected">Connessione Internet locale condivisa con dispositivo</string>
      <string name="bluetooth_pan_profile_summary_use_for">Usa per accesso Internet</string>
@@ -1111,16 +1103,16 @@ avviso"</string>
      <string name="display_settings">Schermo</string>
      <string name="display_settings_title">Schermo</string>
      <string name="dlg_cancel">Annulla</string>
-     <string name="dlg_confirm_uicc_unmount_text">If you eject UICC storage, some apps may stop and be unavailable until you remount UICC storage.</string>
-     <string name="dlg_confirm_uicc_unmount_title">Eject UICC storage?</string>
+     <string name="dlg_confirm_uicc_unmount_text">If you unmount the UICC storage, some apps you are using will stop and may be unavailable until you remount the UICC storage.</string>
+     <string name="dlg_confirm_uicc_unmount_title">Unmount UICC storage?</string>
      <string name="dlg_confirm_unmount_text">Se smonti la scheda SD, alcune applicazioni in uso verranno interrotte e potrebbero risultare non disponibili finché non rimonterai la scheda SD.</string>
      <string name="dlg_confirm_unmount_title">Smontare la scheda SD?</string>
-     <string name="dlg_confirm_usb_unmount_text">If you eject USB storage, some apps may stop and be unavailable until you remount USB storage.</string>
-     <string name="dlg_confirm_usb_unmount_title">Eject USB storage?</string>
-     <string name="dlg_error_uicc_unmount_text">"Couldn't eject UICC storage. Try again later."</string>
+     <string name="dlg_confirm_usb_unmount_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
+     <string name="dlg_confirm_usb_unmount_title">Unmount USB storage?</string>
+     <string name="dlg_error_uicc_unmount_text">"Couldn't unmount UICC storage. Try again later."</string>
      <string name="dlg_error_unmount_text">"Impossibile disattivare l'archivio USB. Riprova più tardi."</string>
      <string name="dlg_error_unmount_title" />
-     <string name="dlg_error_usb_unmount_text">"Couldn't eject USB storage. Try again later."</string>
+     <string name="dlg_error_usb_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
      <string name="dlg_ok">OK</string>
      <string name="dndm_alarm_content">Suoni</string>
      <string name="dndm_alarm_content_all">Consenti tutto</string>
@@ -1398,11 +1390,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="free_wifi_connect_summary">Questa connessione Wi-Fi libera è in parte offerta da %1$s. Tocca per connetterti.</string>
      <string name="free_wifi_connect_title">Wi-Fi disponibile</string>
      <string name="free_wifi_connected">Connesso ad un Wi-Fi libero</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 1
-	%d: 1 Original: 0 -->
-     <!-- Original string: %1$s users connected -->
-     <string name="free_wifi_connected_count">%1$d people connected</string>
+     <string name="free_wifi_connected_count">%1$s people connected</string>
      <string name="free_wifi_connected_time">Durata: %1$s</string>
      <string name="free_wifi_connecting">Connessione in corso\u2026</string>
      <string name="free_wifi_login_again">Accedi nuovamente</string>
@@ -1541,7 +1529,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="internal_format">Erase internal storage</string>
      <string name="internal_format_summary">"Erase all data on your device's internal storage"</string>
      <string name="internal_media_format_button_text">Erase internal storage</string>
-     <string name="internal_media_format_desc">Erase internal storage? &lt;b&gt;All&lt;/b&gt; of your data will be deleted. Phone will restart after internal storage is erased.</string>
+     <string name="internal_media_format_desc">Erase internal storage? <b>All</b> of your data will be deleted. Phone will restart after internal storage is erased.</string>
      <string name="internal_media_format_final_desc">"Erase internal storage? You can't reverse this action! Phone will restart after internal storage is erased."</string>
      <string name="internal_media_format_title">Erase internal storage</string>
      <string name="internal_memory">Archivio interno</string>
@@ -1916,14 +1904,14 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
      <string name="media_button">Tasto media</string>
      <string name="media_category">Multimedia</string>
      <string name="media_feedback_enable_title">Vibra a ritmo</string>
-     <string name="media_format_button_text">Erase SD card</string>
-     <string name="media_format_desc">Erase the SD card? You will lose &lt;b&gt;all&lt;/b&gt; data on the card!</string>
+     <string name="media_format_button_text">Erase USB storage</string>
+     <string name="media_format_desc">Erase all USB storage? You will lose <b>all</b> stored data!</string>
      <string name="media_format_final_button_text">Erase everything</string>
-     <string name="media_format_final_desc">"Erase the SD card, deleting all files stored there? You can't reverse this action!"</string>
-     <string name="media_format_gesture_explanation">You need to draw your unlock pattern to confirm that you want to erase the SD card.</string>
+     <string name="media_format_final_desc">"Erase the USB storage, deleting all files stored there? You can't reverse this action!"</string>
+     <string name="media_format_gesture_explanation">You need to draw your unlock pattern to confirm that you want to erase the USB storage.</string>
      <string name="media_format_gesture_prompt">Draw your unlock pattern</string>
-     <string name="media_format_summary">Erases all data on the SD card</string>
-     <string name="media_format_title">Erase SD card</string>
+     <string name="media_format_summary">Erases all data in USB storage</string>
+     <string name="media_format_title">Erase USB storage</string>
      <string name="media_volume_option_title">Media</string>
      <string name="media_volume_summary">Imposta il volume di musica e video</string>
      <string name="media_volume_title">Applicazioni multimediali</string>
@@ -2072,9 +2060,20 @@ ed esegui il software."</string>
      <string name="music_dirac_mode_piston_color">Color Edition</string>
      <string name="music_dirac_mode_piston_standard">Edizione standard</string>
      <string name="music_dirac_mode_piston_youth">Edizione Youth</string>
+     <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
+     <string name="music_dolby_effects">Dolby effects</string>
+     <string name="music_dolby_eq_enter_alert_msg">You can only use the equalizer in Dolby music mode. Enable it now?</string>
+     <string name="music_dolby_eq_enter_alert_title">Turn on Dolby music</string>
+     <string name="music_dolby_ieq_flat">Off</string>
+     <string name="music_dolby_ieq_focused">Focused</string>
+     <string name="music_dolby_ieq_open">Open</string>
+     <string name="music_dolby_ieq_rich">Rich</string>
      <string name="music_dolby_mode_movie">Film</string>
      <string name="music_dolby_mode_music">Musica</string>
      <string name="music_dolby_mode_off">Disattivato</string>
+     <string name="music_dolby_preset_select">Please select an Intelligent Equalizer mode</string>
+     <string name="music_dolby_surround_virtualizer">Surround Virtualizer</string>
+     <string name="music_dolby_volume_leveler">Volume Leveler</string>
      <string name="music_equalizer">Equalizzatore</string>
      <string name="music_equalizer_summary">Regola separatamente i livelli per diversi tipi di musica</string>
      <string name="music_hd_title">Audio HD Sound</string>
@@ -2319,33 +2318,13 @@ ed esegui il software."</string>
      <string name="power_cell">Cellulare in standby</string>
      <string name="power_center">Ottimizzazione</string>
      <string name="power_charge_remaining">%1$s carica</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 2 Original: 1
-	%d: 0 Original: 1 -->
-     <!-- Original string: %1$d%% - %2$s until full -->
-     <string name="power_charging_duration">%1$s - %2$s fino alla carica completa</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 2 Original: 1
-	%d: 0 Original: 1 -->
-     <!-- Original string: %1$d%% - %2$s until full on AC -->
-     <string name="power_charging_duration_ac">%1$s - %2$s fino alla carica completa su AC</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 2 Original: 1
-	%d: 0 Original: 1 -->
-     <!-- Original string: %1$d%% - %2$s until full over USB -->
-     <string name="power_charging_duration_usb">%1$s - %2$s fino alla carica completa su USB</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 2 Original: 1
-	%d: 0 Original: 1 -->
-     <!-- Original string: %1$d%% - %2$s until full from wireless -->
-     <string name="power_charging_duration_wireless">%1$s - %2$s fino alla carica completa su Wireless</string>
+     <string name="power_charging_duration">%1$d%% - %2$s fino alla carica completa</string>
+     <string name="power_charging_duration_ac">%1$d%% - %2$s fino alla carica completa su AC</string>
+     <string name="power_charging_duration_usb">%1$d%% - %2$s fino alla carica completa su USB</string>
+     <string name="power_charging_duration_wireless">%1$d%% - %2$s fino alla carica completa su Wireless</string>
      <string name="power_checker">Controllo batteria</string>
      <string name="power_discharge_remaining">%1$s rimanente</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 2 Original: 1
-	%d: 0 Original: 1 -->
-     <!-- Original string: %1$d%% - approx. %2$s left -->
-     <string name="power_discharging_duration">%1$s - appross. meno di %2$s</string>
+     <string name="power_discharging_duration">%1$d%% - appross. meno di %2$s</string>
      <string name="power_flashlight">Torcia</string>
      <string name="power_hide_mode_summary">"Consente di risparmiare batteria controllando l'attività in background, le connessioni Wi-Fi e dati e l'uso del GPS di ciascuna app"</string>
      <string name="power_hide_mode_title">Gestisci il consumo da parte delle app</string>
@@ -2503,11 +2482,7 @@ ed esegui il software."</string>
      <string name="process_stats_run_time">Tempo di esecuzione</string>
      <string name="process_stats_summary">Statistiche tecniche sui processi in esecuzione</string>
      <string name="process_stats_summary_title">Statistiche sui processi</string>
-     <!-- MNPS mismatch found! Translated: 3 Original: 2
-	%s: 3 Original: 2
-	%d: 0 Original: 0 -->
-     <!-- Original string: %1$s apps over %2$s -->
-     <string name="process_stats_total_duration">%1$s di %2$s usati in %3$s</string>
+     <string name="process_stats_total_duration">%1$s apps over %2$s </string>
      <string name="process_stats_type_background">in background</string>
      <string name="process_stats_type_cached">in cache</string>
      <string name="process_stats_type_foreground">in primo piano</string>
@@ -3139,11 +3114,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="sim_editor_name">Nome SIM</string>
      <string name="sim_editor_num_format">Display numbers</string>
      <string name="sim_editor_number">Numero</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: SIM card -->
-     <string name="sim_editor_title">SIM slot %1$d</string>
+     <string name="sim_editor_title">SIM slot</string>
      <string name="sim_enable_disable_lock_not_supported">"Unable to Change SIM/RUIM Lock.
  SIM/RUIM doesn't support it."</string>
      <string name="sim_enable_sim_lock">Blocca la SIM</string>
@@ -3525,20 +3496,20 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
      <string name="turn_on_torch">Attiva la Torcia</string>
      <string name="turn_update_keyguard_password_wait_dialog">Modifica password</string>
-     <string name="uicc_eject">Eject UICC storage</string>
-     <string name="uicc_eject_summary">Eject UICC storage to remove it safely</string>
-     <string name="uicc_format">Clear UICC storage</string>
-     <string name="uicc_format_summary">Erase all data on UICC storage (e.g., music and photos)</string>
-     <string name="uicc_insert_summary">Connect UICC storage</string>
-     <string name="uicc_media_format_button_text">Clear UICC storage</string>
-     <string name="uicc_media_format_desc">Clear UICC storage? You will lose &lt;b&gt;all&lt;/b&gt; files saved there.</string>
-     <string name="uicc_media_format_final_desc">All files stored on the UICC storage will be deleted permanently.</string>
-     <string name="uicc_media_format_gesture_explanation">Draw your unlock pattern to confirm that you want to clear UICC storage.</string>
-     <string name="uicc_media_format_summary">Erase all data on UICC storage</string>
-     <string name="uicc_media_format_title">Clear UICC storage</string>
+     <string name="uicc_eject">Unmount UICC storage</string>
+     <string name="uicc_eject_summary">Unmount the UICC storage so you can safely remove it</string>
+     <string name="uicc_format">Erase UICC storage</string>
+     <string name="uicc_format_summary">Erases all data on the UICC storage, such as music and photos</string>
+     <string name="uicc_insert_summary">Insert an UICC storage for mounting</string>
+     <string name="uicc_media_format_button_text">Erase UICC storage</string>
+     <string name="uicc_media_format_desc">Erase the UICC storage? You will lose <b>all</b> data on the storage!</string>
+     <string name="uicc_media_format_final_desc">"Erase the UICC storage, deleting all files stored there? You can't reverse this action!"</string>
+     <string name="uicc_media_format_gesture_explanation">You need to draw your unlock pattern to confirm that you want to erase the UICC storage.</string>
+     <string name="uicc_media_format_summary">Erases all data on the UICC storage</string>
+     <string name="uicc_media_format_title">Erase UICC storage</string>
      <string name="uicc_mount">Mount UICC storage</string>
      <string name="uicc_mount_summary" />
-     <string name="uicc_unmount_inform_text">UICC storage will be ejected.</string>
+     <string name="uicc_unmount_inform_text">UICC storage will be unmounted.</string>
      <string name="under_keyguard">Schermata di blocco</string>
      <string name="unimportant">UnImportant</string>
      <string name="uninstall_all_users_text">Disinstalla per tutti gli utenti</string>
@@ -3628,12 +3599,12 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="usb_install_app">Installa tramite USB</string>
      <string name="usb_install_app_desc">Consenti installazione app tramite USB</string>
      <string name="usb_label_installer_cd">Install file-transfer tools</string>
-     <string name="usb_media_format_button_text">Clear USB storage</string>
-     <string name="usb_media_format_desc">Clear USB storage? You will lose &lt;b&gt;all&lt;/b&gt; files saved there.</string>
-     <string name="usb_media_format_final_desc">All files stored on the USB storage will be deleted permanently.</string>
-     <string name="usb_media_format_gesture_explanation">Draw your unlock pattern to confirm that you want to clear USB storage.</string>
-     <string name="usb_media_format_summary">Erase all data on USB storage</string>
-     <string name="usb_media_format_title">Clear USB storage</string>
+     <string name="usb_media_format_button_text">Erase USB storage</string>
+     <string name="usb_media_format_desc">Erase the USB storage? You will lose <b>all</b> data on the storage!</string>
+     <string name="usb_media_format_final_desc">"Erase the USB storage, deleting all files stored there? You can't reverse this action!"</string>
+     <string name="usb_media_format_gesture_explanation">You need to draw your unlock pattern to confirm that you want to erase the USB storage.</string>
+     <string name="usb_media_format_summary">Erases all data on the USB storage</string>
+     <string name="usb_media_format_title">Erase USB storage</string>
      <string name="usb_mount">Monta memoria USB</string>
      <string name="usb_mount_summary" />
      <string name="usb_msd_driver_installer_summary">Ottieni driver per Windows e OSX</string>
@@ -3654,7 +3625,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="usb_tethering_turnon_subtext">Collegare per attivare</string>
      <string name="usb_tethering_unavailable_subtext">USB non connessa</string>
      <string name="usb_title">USB</string>
-     <string name="usb_unmount_inform_text">USB storage will be ejected.</string>
+     <string name="usb_unmount_inform_text">USB storage will be unmounted.</string>
      <string name="use_default_tts_settings_summary">Default settings below override app settings</string>
      <string name="use_default_tts_settings_title">Always use my settings</string>
      <string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
@@ -3946,7 +3917,7 @@ Wi‑Fi Assistant"</string>
      <string name="wifi_connect_cmcc_dialog_content">Collegato ai servizi dati su rete CMCC.</string>
      <string name="wifi_connect_cmcc_dialog_not_remind">Non mostrare più</string>
      <string name="wifi_connect_cmcc_dialog_title">Notifica utilizzo dati</string>
-     <string name="wifi_connect_failed_message">"Couldn't connect to WLAN network"</string>
+     <string name="wifi_connect_failed_message">Impossibile collegare il dispositivo alla rete Wi-Fi.</string>
      <string name="wifi_context_menu_change_password">Cambia password</string>
      <string name="wifi_context_menu_change_wapi_certificate">Cambia certificato WAPI</string>
      <string name="wifi_context_menu_connect">Connetti</string>
@@ -4095,8 +4066,8 @@ Wi‑Fi Assistant"</string>
 
 Consentirlo a tutte le app che vogliono eseguire la ricerca?"</string>
      <string name="wifi_scan_notify_remember_choice">Non mostrare più</string>
-     <string name="wifi_scan_notify_text_location_off">"Apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
-     <string name="wifi_scan_notify_text_location_on">"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
+     <string name="wifi_scan_notify_text_location_off">"Apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced > Scanning always available."</string>
+     <string name="wifi_scan_notify_text_location_on">"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced > Scanning always available."</string>
      <string name="wifi_security">Sicurezza</string>
      <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
      <string name="wifi_security_WAPI_PSK">WAPI PSK</string>

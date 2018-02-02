@@ -376,51 +376,15 @@ Libera almeno %s"</string>
      <string name="trans_intro_desc_new">"Tap \"Sono il ricevente\". Verrà generato un codice QR."</string>
      <string name="trans_intro_desc_old">"Tap \"sono il mittente\". Scansiona il codice QR sul nuovo telefono, aspetta finché Mi Mover rileva i file da trasferire, quindi tocca \"Invia\"."</string>
      <string name="trans_intro_desc_private">"Mi Mover non può accedere alle foto presenti nell'album nascosto perché sono crittografate. Puoi ripristinare queste foto da Mi Cloud su di un nuovo dispositivo."</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: 1. How do I use Mi Mover to move data from an iOS device? -->
-     <string name="trans_intro_question_1">%d. Come posso utilizzare Mi Mover per trasferire i dati da un dispositivo iOS?</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: 2. How do I use Mi Mover to move data from an Android device? -->
-     <string name="trans_intro_question_2">%d. Come posso utilizzare Mi Mover per trasferire i dati da un dispositivo Android?</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: 3. What should I do if Mi Mover got stuck on a certain step? -->
-     <string name="trans_intro_question_3"> %d. Cosa devo fare se Mi Mover si blocca in uno dei passaggi?</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: "4. Why can't I use WLAN during transfers?" -->
-     <string name="trans_intro_question_4">"%d. Perché non posso usare la rete Wi-Fi durante il trasferimento?"</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: "5. Why does Mi Mover tell me there isn't enough storage space on my old phone?" -->
-     <string name="trans_intro_question_5">"%d. Perché Mi Mover che non ho spazio sufficiente sul mio vecchio telefono?"</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: "6. Why aren't some apps transferred successfully?" -->
-     <string name="trans_intro_question_6">"%d. Perché alcune app non vengono trasferite correttamente?"</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: "7. Why won't some apps start on a new device?" -->
-     <string name="trans_intro_question_7">"%d. Perché alcune app non si avviano sul nuovo dispositivo?"</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: "8. Why isn't WeChat history fully transferred?" -->
-     <string name="trans_intro_question_8">"%d. Perché la cronologia di WeChat non è stata trasferita completamente?"</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 0 Original: 0
-	%d: 1 Original: 0 -->
-     <!-- Original string: "9. Which items can't be transferred?" -->
-     <string name="trans_intro_question_9">"%d. Quali elementi non possono essere trasferiti?"</string>
+         <string name="trans_intro_question_1">1. Come posso utilizzare Mi Mover per trasferire i dati da un dispositivo iOS?</string>
+     <string name="trans_intro_question_2">2. Come posso utilizzare Mi Mover per trasferire i dati da un dispositivo Android?</string>
+     <string name="trans_intro_question_3">3. Cosa devo fare se Mi Mover si blocca in uno dei passaggi?</string>
+     <string name="trans_intro_question_4">"4. Perché non posso usare la rete Wi-Fi durante il trasferimento?"</string>
+     <string name="trans_intro_question_5">"5. Perché Mi Mover che non ho spazio sufficiente sul mio vecchio telefono?"</string>
+     <string name="trans_intro_question_6">"6. Perché alcune app non vengono trasferite correttamente?"</string>
+     <string name="trans_intro_question_7">"7. Perché alcune app non si avviano sul nuovo dispositivo?"</string>
+     <string name="trans_intro_question_8">"8. Perché la cronologia di WeChat non è stata trasferita completamente?"</string>
+     <string name="trans_intro_question_9">"9. Quali elementi non possono essere trasferiti?"</string>
      <string name="trans_intro_title">FAQ</string>
      <string name="trans_intro_title_account">Account e password:</string>
      <string name="trans_intro_title_multiapp">Dati app clonate:</string>

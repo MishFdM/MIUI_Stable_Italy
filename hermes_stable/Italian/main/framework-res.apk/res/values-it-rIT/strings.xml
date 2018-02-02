@@ -8,6 +8,9 @@
      <string name="CLIRDefaultOnNextCallOn">ID chiamante generalmente limitato. Prossima chiamata: limitato</string>
      <string name="CLIRPermanent">"Impossibile modificare l'impostazione dell'ID del chiamante."</string>
      <string name="CfMmi">Deviazione chiamate</string>
+     <string name="China_Mobile">China Mobile</string>
+     <string name="China_Telecom">China Telecom</string>
+     <string name="China_Unicom">China Unicom</string>
      <string name="ClipMmi">ID chiamante in entrata</string>
      <string name="ClirMmi">ID chiamante in uscita</string>
      <string name="CndMmi">Recapito numero chiamante</string>
@@ -185,6 +188,8 @@ La funzione di risparmio energetico viene disattivata automaticamente quando il 
      <string name="common_name_prefixes" />
      <string name="common_name_suffixes" />
      <string name="condition_provider_service_binding_label">Provider condizioni</string>
+     <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
+     <string name="config_partial_segment_expire_age">2592000000</string>
      <string name="config_tether_apndata" />
      <string name="config_webViewPackageName">com.google.android.webview</string>
      <string name="configure_input_methods">Choose keyboards</string>
@@ -228,6 +233,15 @@ utilizzando %s"</string>
      <string name="day_picker_description">Month grid of days</string>
      <string name="days">giorni</string>
      <string name="decline">Rifiuto</string>
+     <string name="def_custom_sys_alarm" />
+     <string name="def_custom_sys_mms" />
+     <string name="def_custom_sys_notification" />
+     <string name="def_custom_sys_ringtone" />
+     <string name="def_custom_sys_ringtone2" />
+     <string name="def_custom_sys_ringtone3" />
+     <string name="def_wifi_direct_name" />
+     <string name="def_wifi_wifihotspot_pass" />
+     <string name="def_wifi_wifihotspot_ssid" />
      <string name="defaultVoiceMailAlphaTag">Segreteria</string>
      <string name="default_audio_route_category_name">Sistema</string>
      <string name="default_audio_route_name">Telefono</string>
@@ -289,49 +303,21 @@ utilizzando %s"</string>
      <string name="eventTypeCustom">Personalizzato</string>
      <string name="eventTypeOther">Altri</string>
      <string name="expires_on">Scade il:</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Unmount SD card before removing to avoid data loss. -->
-     <string name="ext_media_badremoval_notification_message">Smonta %s prima della rimozione per evitare perdite di dati</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: SD card unexpectedly removed -->
-     <string name="ext_media_badremoval_notification_title">%s rimozione inaspettata</string>
+     <string name="ext_media_badremoval_notification_message">Smonta prima della rimozione per evitare perdite di dati</string>
+     <string name="ext_media_badremoval_notification_title">rimozione inaspettata</string>
      <string name="ext_media_checking_notification_message">Ricerca errori.</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Preparing SD card -->
-     <string name="ext_media_checking_notification_title">Preparazione %s</string>
-     <string name="ext_media_nofs_notification_message">SD card is blank or has unsupported filesystem.</string>
-     <string name="ext_media_nofs_notification_title">Blank SD card</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: SD card removed. Insert a new one. -->
-     <string name="ext_media_nomedia_notification_message">%s rimosso; inseriscine uno nuovo</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Removed SD card -->
-     <string name="ext_media_nomedia_notification_title">Rimosso %s</string>
-     <string name="ext_media_safe_unmount_notification_message">You can safely remove SD card.</string>
-     <string name="ext_media_safe_unmount_notification_title">SD card safe to remove</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: SD card is damaged. Try reformatting it. -->
-     <string name="ext_media_unmountable_notification_message">%s è corrotto. Premi per aggiustare.</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Damaged SD card -->
-     <string name="ext_media_unmountable_notification_title">Corrotto %s</string>
+     <string name="ext_media_checking_notification_title">Preparazione USB</string>
+     <string name="ext_media_nofs_notification_message">USB storage is blank or has unsupported filesystem.</string>
+     <string name="ext_media_nofs_notification_title">Blank USB storage</string>
+     <string name="ext_media_nomedia_notification_message">USB rimosso; inseriscine uno nuovo</string>
+     <string name="ext_media_nomedia_notification_title">Rimosso USB</string>
+     <string name="ext_media_safe_unmount_notification_message">You can safely remove USB storage.</string>
+     <string name="ext_media_safe_unmount_notification_title">USB storage safe to remove</string>
+     <string name="ext_media_unmountable_notification_message">USB è corrotto. Premi per aggiustare.</string>
+     <string name="ext_media_unmountable_notification_title">Corrotto USB</string>
      <string name="extmedia_format_button_format">Format</string>
-     <string name="extmedia_format_message">All data on your card will be lost.</string>
-     <string name="extmedia_format_title">Format SD card?</string>
+     <string name="extmedia_format_message">"All files stored in your USB storage will be erased. This action can't be reversed!"</string>
+     <string name="extmedia_format_title">Format USB storage?</string>
      <string name="extract_edit_menu_button">Edit</string>
      <string name="faceunlock_multiple_failures">Numero massimo di tentativi di Sblocco col sorriso superato</string>
      <string name="factorytest_failed">Test di fabbrica non riuscito</string>
@@ -346,7 +332,7 @@ utilizzando %s"</string>
      <string name="find_previous">Trova precedente</string>
      <string name="fingerprints">Fingerprint:</string>
      <string name="force_close">OK</string>
-     <string name="format_error">"Couldn't erase SD card."</string>
+     <string name="format_error">"Couldn't erase USB storage."</string>
      <string name="forward_intent_to_owner">"Stai utilizzando l'app al di fuori del tuo profilo di lavoro"</string>
      <string name="forward_intent_to_work">"Stai utilizzando l'app nel tuo profilo di lavoro"</string>
      <string name="gadget_host_error_inflating">Aggiunta del widget non riuscita.</string>
@@ -355,6 +341,7 @@ utilizzando %s"</string>
      <string name="global_action_lock">Blocco schermo</string>
      <string name="global_action_lockdown">Blocca ora</string>
      <string name="global_action_power_off">Spegni</string>
+     <string name="global_action_reboot">Riavvio</string>
      <string name="global_action_settings">Impostazioni</string>
      <string name="global_action_silent_mode_off_status">Audio attivo</string>
      <string name="global_action_silent_mode_on_status">Audio non attivo</string>
@@ -534,6 +521,7 @@ Riprova tra %d secondi."</string>
      <string name="launch_warning_title">Applicazione reindirizzata</string>
      <string name="list_delimeter">", "</string>
      <string name="loading">Caricamento…</string>
+     <string name="locale_codes" />
      <string name="locale_replacement" />
      <string name="lock_pattern_view_aspect">quadrato</string>
      <string name="lock_to_app_description">"Schermo fisso blocca il display in un'unica via.
@@ -557,6 +545,7 @@ Per sbloccare, premi e tieni premuti insieme i pulsanti Home e Power."</string>
      <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
      <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
      <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
+     <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
      <string name="lockscreen_battery_short">%d%%</string>
      <string name="lockscreen_carrier_default">Nessun servizio</string>
      <string name="lockscreen_charged">Charged</string>
@@ -595,6 +584,7 @@ Visita "<b>google.com/accounts/recovery</b>."</string>
      <string name="lockscreen_plugged_in">Charging, %d%%</string>
      <string name="lockscreen_return_to_call">Torna a chiamata</string>
      <string name="lockscreen_screen_locked">Schermo bloccato.</string>
+     <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
      <string name="lockscreen_sim_locked_message">La SIM è bloccata.</string>
      <string name="lockscreen_sim_puk_locked_instructions">"Consulta la Guida dell'utente o contatta il servizio clienti."</string>
      <string name="lockscreen_sim_puk_locked_message">La SIM è bloccata tramite PUK.</string>
@@ -627,7 +617,7 @@ Riprova tra %d secondi."</string>
      <string name="managed_profile_label_badge">%1$s lavoro</string>
      <string name="me">Io</string>
      <string name="media_bad_removal">SD card was removed before being unmounted.</string>
-     <string name="media_checking">SD card is currently being checked.</string>
+     <string name="media_checking">USB storage is currently being checked.</string>
      <string name="media_removed">SD card has been removed.</string>
      <string name="media_route_button_content_description">Trasmetti</string>
      <string name="media_route_chooser_extended_settings">Impostazioni</string>
@@ -640,7 +630,7 @@ Riprova tra %d secondi."</string>
      <string name="media_route_status_in_use">In uso</string>
      <string name="media_route_status_not_available">Non disponibili</string>
      <string name="media_route_status_scanning">Ricerca in corso…</string>
-     <string name="media_shared">SD card is currently in use by a computer.</string>
+     <string name="media_shared">USB storage is currently in use by a computer.</string>
      <string name="media_unknown_state">External media in unknown state.</string>
      <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
      <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
@@ -1233,8 +1223,8 @@ per l'account %s."</string>
      <string name="permlab_modifyNetworkAccounting">"modifica calcolo dell'utilizzo della rete"</string>
      <string name="permlab_modifyParentalControls">modify parental controls</string>
      <string name="permlab_modifyPhoneState">modify phone state</string>
-     <string name="permlab_mount_format_filesystems">erase SD Card</string>
-     <string name="permlab_mount_unmount_filesystems">access SD Card filesystem</string>
+     <string name="permlab_mount_format_filesystems">erase USB storage</string>
+     <string name="permlab_mount_unmount_filesystems">access USB storage filesystem</string>
      <string name="permlab_movePackage">move app resources</string>
      <string name="permlab_nfc">controllo Near Field Communication</string>
      <string name="permlab_packageVerificationAgent">verify packages</string>
@@ -1395,12 +1385,15 @@ per l'account %s."</string>
      <string name="print_service_installed_message">Tocca per attivare</string>
      <string name="print_service_installed_title">Servizio %s installato</string>
      <string name="progress_erasing">"Cancellazione dell'archivio USB…"</string>
-     <string name="progress_unmounting">Unmounting SD card…</string>
+     <string name="progress_nomediapresent">No removable media present…</string>
+     <string name="progress_unmounting">Unmounting USB storage…</string>
      <string name="quick_contacts_not_available">Nessuna applicazione trovata per la visualizzazione di questo contatto.</string>
      <string name="reason_service_unavailable">Servizio di stampa non attivo</string>
      <string name="reason_unknown">sconosciuto</string>
+     <string name="reboot_confirm">Il tuo dispositivo verrà riavviato.</string>
      <string name="reboot_safemode_confirm">Riavviare in modalità provvisoria? Ciò comporterà la disattivazione di tutte le applicazioni di terze parti installate. Verranno ripristinate al prossimo riavvio.</string>
      <string name="reboot_safemode_title">Riavvia in modalità provvisoria</string>
+     <string name="reboot_title">Riavvio</string>
      <string name="recent_tasks_title">Recenti</string>
      <string name="relationTypeAssistant">Assistente</string>
      <string name="relationTypeBrother">Fratello</string>
@@ -1546,12 +1539,15 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="ssl_ca_cert_warning">Network may be monitored</string>
      <string name="ssl_certificate">Certificato di sicurezza</string>
      <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
-     <string name="storage_external_usb">External USB storage</string>
-     <string name="storage_ic_usb1">External IC-USB storage1</string>
-     <string name="storage_ic_usb2">External IC-USB storage2</string>
+     <string name="stk_cc_ss_to_dial">La richiesta SS è stata modificata in richiesta DIAL.</string>
+     <string name="stk_cc_ss_to_ss">La richiesta SS è stata modificata in nuova richiesta SS.</string>
+     <string name="stk_cc_ss_to_ussd">La richiesta SS è stata modificata in richiesta USSD.</string>
+     <string name="stk_cc_ussd_to_dial">La richiesta USSD è stata modificata in richiesta DIAL.</string>
+     <string name="stk_cc_ussd_to_ss">La richiesta USSD è stata modificata in richiesta SS.</string>
+     <string name="stk_cc_ussd_to_ussd">La richiesta USSD è stata modificata in nuova richiesta USSD.</string>
      <string name="storage_internal">Memoria interna</string>
-     <string name="storage_phone">Phone storage</string>
      <string name="storage_sd_card">Scheda SD</string>
+     <string name="storage_uicc">UICC storage</string>
      <string name="storage_usb">Archivio USB</string>
      <string name="submit">Invia</string>
      <string name="sync_binding_label">Sinc</string>
@@ -1562,6 +1558,9 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="sync_undo_deletes">Annulla le eliminazioni</string>
      <string name="terabyteShort">TB</string>
      <string name="tethered_notification_message">Tocca per configurare</string>
+     <string name="tethered_notification_multi_device_message">%1$s dispositivi connessi</string>
+     <string name="tethered_notification_no_device_message">Nessun dispositivo connesso</string>
+     <string name="tethered_notification_one_device_message">%1$s dispositivo connesso</string>
      <string name="tethered_notification_title">Tethering o hotspot attivo</string>
      <string name="textSelectionCABTitle">Selezione testo</string>
      <string name="text_copied">Testo copiato negli appunti.</string>
@@ -1582,6 +1581,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="upload_file">Scegli file</string>
      <string name="usb_accessory_notification_title">Collegato a un accessorio USB</string>
      <string name="usb_cd_installer_notification_title">Collegato come installer</string>
+     <string name="usb_charging_notification_title">Collegato in modalità ricarica</string>
+     <string name="usb_choose_notification_title">Touch for choose USB options.</string>
      <string name="usb_mtp_notification_title">Collegato come dispositivo multimediale</string>
      <string name="usb_notification_message">Tocca per altre opzioni USB</string>
      <string name="usb_ptp_notification_title">Collegato come fotocamera</string>
