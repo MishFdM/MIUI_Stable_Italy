@@ -292,42 +292,42 @@ utilizzando %s"</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
-     <!-- Original string: Unmount SD card before removing to avoid data loss. -->
+     <!-- Original string: Unmount USB storage before removing to avoid data loss. -->
      <string name="ext_media_badremoval_notification_message">Smonta %s prima della rimozione per evitare perdite di dati</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
-     <!-- Original string: SD card unexpectedly removed -->
+     <!-- Original string: USB storage unexpectedly removed -->
      <string name="ext_media_badremoval_notification_title">%s rimozione inaspettata</string>
      <string name="ext_media_checking_notification_message">Ricerca errori.</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
-     <!-- Original string: Preparing SD card -->
+     <!-- Original string: Preparing USB storage -->
      <string name="ext_media_checking_notification_title">Preparazione %s</string>
      <string name="ext_media_nofs_notification_message">SD card is blank or has unsupported filesystem.</string>
      <string name="ext_media_nofs_notification_title">Blank SD card</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
-     <!-- Original string: SD card removed. Insert a new one. -->
+     <!-- Original string: USB storage removed. Insert new media. -->
      <string name="ext_media_nomedia_notification_message">%s rimosso; inseriscine uno nuovo</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
-     <!-- Original string: Removed SD card -->
+     <!-- Original string: Removed USB storage -->
      <string name="ext_media_nomedia_notification_title">Rimosso %s</string>
      <string name="ext_media_safe_unmount_notification_message">You can safely remove SD card.</string>
      <string name="ext_media_safe_unmount_notification_title">SD card safe to remove</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
-     <!-- Original string: SD card is damaged. Try reformatting it. -->
+     <!-- Original string: USB storage is damaged. Try reformatting it. -->
      <string name="ext_media_unmountable_notification_message">%s è corrotto. Premi per aggiustare.</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
-     <!-- Original string: Damaged SD card -->
+     <!-- Original string: Damaged USB storage -->
      <string name="ext_media_unmountable_notification_title">Corrotto %s</string>
      <string name="extmedia_format_button_format">Format</string>
      <string name="extmedia_format_message">All data on your card will be lost.</string>
@@ -1574,18 +1574,6 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="time_picker_increment_minute_button">Aumenta minuti</string>
      <string name="time_picker_increment_set_pm_button">Imposta PM</string>
      <string name="time_placeholder">--</string>
-     <string name="timepicker_ampm_circle_radius_multiplier">0.19</string>
-     <string name="timepicker_circle_radius_multiplier">0.82</string>
-     <string name="timepicker_circle_radius_multiplier_24HourMode">0.85</string>
-     <string name="timepicker_numbers_radius_multiplier_inner">0.6</string>
-     <string name="timepicker_numbers_radius_multiplier_normal">0.81</string>
-     <string name="timepicker_numbers_radius_multiplier_outer">0.83</string>
-     <string name="timepicker_selection_radius_multiplier">0.16</string>
-     <string name="timepicker_text_size_multiplier_inner">0.14</string>
-     <string name="timepicker_text_size_multiplier_normal">0.17</string>
-     <string name="timepicker_text_size_multiplier_outer">0.11</string>
-     <string name="timepicker_transition_end_radius_multiplier">1.3</string>
-     <string name="timepicker_transition_mid_radius_multiplier">0.95</string>
      <string name="turn_off_radio">Disattiva wireless</string>
      <string name="turn_on_radio">Attiva wireless</string>
      <string name="tutorial_double_tap_to_zoom_message_short">Tocca due volte per il comando dello zoom</string>

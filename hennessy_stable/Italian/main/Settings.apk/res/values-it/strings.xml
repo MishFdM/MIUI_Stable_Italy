@@ -2644,11 +2644,6 @@ ed esegui il software."</string>
  Non perderai i dati delle app."</string>
      <string name="reset_app_preferences_title">Reimpostare preferenze app?</string>
      <string name="reset_legacy_password_settings_preface_text">Devi ripristinare la tua password della Schermata di blocco.</string>
-     <string name="reset_network_desc">"Verranno reimpostate tutte le impostazioni di rete, tra cui:
-
-"<li>Wi-Fi</li>"
-"<li>Dati cellulare</li>"
-"<li>Bluetooth</li>"</string>
      <string name="reset_second_space_passwd">Reimpostazione password spazio Secondario</string>
      <string name="reset_second_space_passwd_cancel">Annulla</string>
      <string name="reset_second_space_passwd_confirm">Continua</string>
@@ -3951,6 +3946,7 @@ Wi‑Fi Assistant"</string>
      <string name="wifi_connect_cmcc_dialog_content">Collegato ai servizi dati su rete CMCC.</string>
      <string name="wifi_connect_cmcc_dialog_not_remind">Non mostrare più</string>
      <string name="wifi_connect_cmcc_dialog_title">Notifica utilizzo dati</string>
+     <string name="wifi_connect_failed_message">The phone was unable to connect to this Wi‑Fi network.</string>
      <string name="wifi_context_menu_change_password">Cambia password</string>
      <string name="wifi_context_menu_change_wapi_certificate">Cambia certificato WAPI</string>
      <string name="wifi_context_menu_connect">Connetti</string>
