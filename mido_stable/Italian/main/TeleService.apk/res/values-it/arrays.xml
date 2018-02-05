@@ -45,7 +45,7 @@
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
+        <item>Systrace (Grafici)</item>
         <item>Call stack su glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">

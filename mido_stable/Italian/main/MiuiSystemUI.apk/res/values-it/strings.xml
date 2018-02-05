@@ -96,12 +96,12 @@
      <string name="audio_effect_settings">Imposta tipologia di cuffie</string>
      <string name="available_via_passpoint">Disponibile tramite %1$s</string>
      <string name="battery_info_status_charging">Ricarica</string>
-     <string name="battery_info_status_charging_ac">Ricarica su AC</string>
-     <string name="battery_info_status_charging_ac_short">Ricarica</string>
-     <string name="battery_info_status_charging_usb">Ricarica da USB</string>
-     <string name="battery_info_status_charging_usb_short">Ricarica</string>
-     <string name="battery_info_status_charging_wireless">Ricarica wireless</string>
-     <string name="battery_info_status_charging_wireless_short">Ricarica</string>
+     <string name="battery_info_status_charging_ac">Charging on AC</string>
+     <string name="battery_info_status_charging_ac_short">Charging</string>
+     <string name="battery_info_status_charging_usb">Charging over USB</string>
+     <string name="battery_info_status_charging_usb_short">Charging</string>
+     <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
+     <string name="battery_info_status_charging_wireless_short">Charging</string>
      <string name="battery_info_status_discharging">Non in carica</string>
      <string name="battery_info_status_full">Completa</string>
      <string name="battery_info_status_not_charging">Non in carica</string>
@@ -110,6 +110,7 @@
      <string name="battery_low_title">"Collega l'alimentatore"</string>
      <string name="battery_profiles">Profili utilizzo batteria</string>
      <string name="block_notification_content_text">"%1$s notifiche non verranno più mostrate. Puoi modificare nelle Impostazioni."</string>
+     <string name="block_notification_desc">"Le notifiche dell'app non verranno più mostrate. Puoi modificare nelle Impostazioni."</string>
      <string name="block_notification_text">Nascondi</string>
      <string name="block_record_notification_text">%1$s. Tocca per vedere</string>
      <string name="block_record_notification_title">Blocca elemento</string>
@@ -193,7 +194,7 @@
      <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione dispositivo non funzionerà su questo dispositivo mentre questa opzione sarà attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Permettere sblocco OEM?</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
-     <string name="connected_via_wfa">Collegato tramite assistente Wi-Fi</string>
+     <string name="connected_via_wfa">Connected via WLAN assistant</string>
      <string name="convert_to_fbe_warning">"Converti partizione dati a file basato su crittografia.
  !!Attenzione!! Questa procedura cancellerà tutti i tuoi dati.
  Questa funzionalità è in stadio alpha, e potrebbe non funzionare correttamente.
@@ -234,6 +235,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="demo_mode">Modalità demo</string>
      <string name="description_direction_left">Scorri a sinistra per %s.</string>
      <string name="description_direction_up">Scorri in alto per %s.</string>
+     <string name="description_image_button_answer">Rispondi</string>
+     <string name="description_image_button_reject">Rifiuta</string>
      <string name="description_target_search">Cerca</string>
      <string name="dev_settings_warning_message">Queste impostazioni sono destinate al solo scopo di sviluppo. Esse possono causare malfunzionamenti al dispositivo o alle applicazioni.</string>
      <string name="dev_settings_warning_title">Abilitare opzioni sviluppatore?</string>
@@ -267,8 +270,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="enable_power_save_mode">Attiva Risparmio Batteria</string>
      <string name="enable_terminal_summary">Abilita app terminale per accesso locale shell</string>
      <string name="enable_terminal_title">Terminale locale</string>
-     <string name="enable_webview_multiprocess">Webview multi processo</string>
-     <string name="enable_webview_multiprocess_desc">Esegui render WebView separatamente</string>
+     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
+     <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
      <string name="enabled_by_admin">"Abilitato dall'amministratore"</string>
      <string name="expanded_confirm_disable_notification">Conferma</string>
      <string name="expanded_notification_manager">Gest. notifiche</string>
@@ -321,9 +324,9 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="label_view">Visualizza</string>
      <string name="launch_defaults_none">Nessuna impostazione predefinita</string>
      <string name="launch_defaults_some">Alcune impostazioni predefinite</string>
-     <string name="legacy_dhcp_client_summary">Usa il client DHCP da Lollipop anziché utilizzare la nuova versione.</string>
+     <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
      <string name="list_delimeter">", "</string>
-     <string name="lland">Suolo Lollipop</string>
+     <string name="lland">Solo Lollipop</string>
      <string name="loading_desktop">Solo un secondo…</string>
      <string name="local_backup_password_summary_change">Premi per cambiare o rimuovere le password dei backup desktop completati</string>
      <string name="local_backup_password_summary_none">I backup desktop completati non sono attualmente protetti</string>
@@ -405,15 +408,10 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="picture_color_mode_desc">Usa sRGB</string>
      <string name="pointer_location">Locazione puntatore</string>
      <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s fino al completamento</string>
-     <string name="power_charging_duration_ac">%1$s - %2$s fino al completamento su AC</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_usb">%1$s - %2$s fino al completamento da USB</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_wireless">%1$s - %2$s fino al completamento da wireless</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
+     <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
+     <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
+     <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
      <string name="power_discharging_duration">%1$s - appross. %2$s rimanenti</string>
      <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
      <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
@@ -488,6 +486,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="screenshot_saving_ticker">Salvataggio schermata…</string>
      <string name="screenshot_saving_title">Salvataggio schermata…</string>
      <string name="screenshot_send">Invia</string>
+     <string name="search_hint">Cerca siti web, app, contatti, video...</string>
      <string name="select_application">Seleziona applicazioni</string>
      <string name="select_logd_size_dialog_title">Seleziona dimensione logger per log buffer</string>
      <string name="select_logd_size_title">Dimensione buffer logger</string>
@@ -504,8 +503,8 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="share">Condividi</string>
      <string name="show_all_anrs">Mostra tutti gli ANR</string>
      <string name="show_all_anrs_summary">Mostra finestra di dialogo per app in background che non rispondono</string>
-     <string name="show_cpu_usage">Mostra utilizzo CPU</string>
-     <string name="show_cpu_usage_summary">"L'overlay schermo mostrerà l'attuale utilizzo CPU"</string>
+     <string name="show_cpu_usage">Show CPU usage</string>
+     <string name="show_cpu_usage_summary">Show CPU usage using screen overlay</string>
      <string name="show_demo_mode">Mostra modalità demo</string>
      <string name="show_hw_layers_updates">Mostra aggiornamenti layer hardware</string>
      <string name="show_hw_layers_updates_summary">Fai lampeggiare di verde i layer hardware quando essi si aggiornano</string>
@@ -522,7 +521,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_date_format_12">EEEE, dd MMMM</string>
-     <string name="status_bar_date_formatter">%2$s</string>
      <string name="status_bar_network_flow_content">"Oggi: %1$s   Rimanente: %2$s"</string>
      <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento soglia: &lt;font color=%2$s>%3$s&lt;/font></string>
      <string name="status_bar_network_flow_limit">"   Limite mensile: %1$s"</string>
@@ -546,7 +544,6 @@ scorri in basso per bloccare"</string>
      <string name="status_bar_safepay_scanning">Analizzo ambiente di pagamento…</string>
      <string name="status_bar_safepay_unknown">Sicurezza ambiente sconosciuta.</string>
      <string name="status_bar_settings_airplane">Modalità aereo</string>
-     <string name="status_bar_settings_battery_meter_format">%d%%</string>
      <string name="status_bar_settings_signal_meter_disconnected">Nessuna connessione</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connesso</string>
      <string name="status_bar_style_settings">Impostazioni</string>
@@ -656,8 +653,8 @@ scorri in basso per bloccare"</string>
      <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
      <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
      <string name="wifi_disabled_wifi_failure">Errore connessione Wi-Fi</string>
-     <string name="wifi_display_certification">Certificazione display Wireless</string>
-     <string name="wifi_display_certification_summary">Mostra opzioni per certificazione display wireless</string>
+     <string name="wifi_display_certification">Certificazione schermo wireless</string>
+     <string name="wifi_display_certification_summary">Mostra opzioni per certificazione schermo wireless</string>
      <string name="wifi_fail_to_scan">"Impossibile scansionare le reti</string>
      <string name="wifi_no_internet">Nessun accesso ad Internet, non si riconnetterà automaticamente.</string>
      <string name="wifi_not_in_range">Fuori portata</string>
