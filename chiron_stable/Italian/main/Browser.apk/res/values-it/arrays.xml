@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
+     <string-array name="bookmarks_es_vodafone">
+        <item>Mi Web</item>
+        <item>http://miweb.vodafone.es</item>
+        <item>Vodafone Start</item>
+        <item>http://start.vodafone.com</item>
+        <item>Mi Vodafone</item>
+        <item>http://m.vodafone.es</item>
+     </string-array>
      <string-array name="menu_theme_setting">
         <item>Bianco</item>
         <item>Giallo</item>
