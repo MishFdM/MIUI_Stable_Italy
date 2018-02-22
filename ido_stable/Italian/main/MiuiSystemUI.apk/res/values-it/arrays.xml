@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="carrier_name">
+        <item>SmarToneVodafone</item>
+        <item>SmarToneVodafone 3G</item>
+     </string-array>
+     <string-array name="carrier_simple_name">
+        <item>SMC HK</item>
+        <item>SMC HK 3G</item>
+     </string-array>
+     <string-array name="multi_window_pkgs_whitelist">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.miui.video</item>
+        <item>com.sina.weibo</item>
+        <item>com.baidu.BaiduMap</item>
+        <item>com.qiyi.video</item>
+        <item>com.ss.android.article.news</item>
+        <item>com.facebook.katana</item>
+        <item>com.netease.cloudmusic</item>
+        <item>com.UCMobile</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.taobao.taobao</item>
+        <item>com.jingdong.app.mall</item>
+        <item>com.miui.weather2</item>
+        <item>com.xiaomi.shop</item>
+     </string-array>
+     <string-array name="weather_type">
+        <item>Sole</item>
+        <item>Nuvoloso</item>
+        <item>Coperto</item>
+        <item>Nebbia</item>
+        <item>Forte temporale</item>
+        <item>Acquazzone</item>
+        <item>Temporale</item>
+        <item>Burrasca</item>
+        <item>Pioggia</item>
+        <item>Forte pioggia</item>
+        <item>Pioggia moderata</item>
+        <item>Pioggia leggera</item>
+        <item>Pioggia e neve</item>
+        <item>Nevischio</item>
+        <item>Neve</item>
+        <item>Grande nevicata</item>
+        <item>Nevicata moderata</item>
+        <item>Nevicata leggera</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Sabbia</item>
+        <item>Ventoso</item>
+        <item>Grandine</item>
+        <item>Polvere</item>
+        <item>Foschia</item>
+        <item>Nevischio</item>
+        <item></item>
+     </string-array>
+</resources>
