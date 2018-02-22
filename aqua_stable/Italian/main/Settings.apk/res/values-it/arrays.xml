@@ -882,6 +882,10 @@
         <item>Blocco applicazioni</item>
         <item>Spazio Secondario</item>
      </string-array>
+     <string-array name="connect_mode_entries">
+        <item>Compatibility</item>
+        <item>High speed</item>
+     </string-array>
      <string-array name="data_usage_data_range">
         <item>Ultimi 30 giorni</item>
         <item>Imposta ciclo di utilizzo...</item>

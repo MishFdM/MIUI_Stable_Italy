@@ -306,7 +306,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="app_overlay_permission_preference">Permessi di disegnare su altre app </string>
      <string name="app_permissions">Permessi app</string>
      <string name="app_permissions_group_summary" formatted="false">%d of %d apps allowed</string>
-     <string name="app_permissions_summary">%d of %d apps allowed additional access</string>
+     <string name="app_permissions_summary" formatted="false">%d of %d apps allowed additional access</string>
      <string name="app_process_limit_title">Limite processi background</string>
      <string name="app_restrictions_custom_label">Imposta restrizioni applicazioni</string>
      <string name="app_sees_restricted_accounts">Questa app può accedere ai tuoi account</string>
@@ -545,7 +545,8 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="bluetooth_a2dp_profile_summary_connected">Collegato ad audio media</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio media</string>
      <string name="bluetooth_advanced_titlebar">Bluetooth avanzato</string>
-     <string name="bluetooth_ask_discovery"> An app wants to make your phone visible to other Bluetooth devices for %1$d seconds.string>
+     <string name="bluetooth_ask_discovery">" An app wants to make your phone visible to other Bluetooth devices for %1$d seconds.string>
+     <string name="bluetooth_ask_enablement">An app wants to turn Bluetooth ON for this device."</string>
      <string name="bluetooth_ask_enablement">An app wants to turn Bluetooth ON for this device.</string>
      <string name="bluetooth_ask_enablement_and_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices for %1$d seconds.</string>
      <string name="bluetooth_ask_enablement_and_discovery_detected">" desidera attivare il Bluetooth e rendere il tuo dispositivo visibile ad altri dispositivi per %1$d secondi."</string>
@@ -4184,7 +4185,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tether_settings_title_wifi">Hotspot Wi-Fi</string>
      <string name="tether_share_qrcode_title">Condividi codice QR</string>
      <string name="tethering_help_button_text">Guida</string>
-     <string name="tethering_help_dialog_text">&lt;b&gt;USB tethering&lt;/b&gt;" 
+     <string name="tethering_help_dialog_text">"&lt;b&gt;USB tethering&lt;/b&gt;" 
  You can tether your Android device to your computer with a USB cable, to share your device's Internet connection with your computer. 
 
 1.USB tethering works with Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux. 
@@ -4196,7 +4197,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
 
 1.When your device is serving as a WLAN hotspot, you can't use your device's applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
 
-2.You configure the hotspot with the WLAN hotspot settings."</string>
+2.You configure the hotspot with the WLAN hotspot settings.""</string>
      <string name="tethering_help_dialog_title">Help</string>
      <string name="tethering_no_sim_alert_title">No SIM Card</string>
      <string name="tethering_no_sim_card_text">Please install SIM card in order to share your data connection with other devices using Mobile HotSpot or USB tethering for Internet access.</string>
