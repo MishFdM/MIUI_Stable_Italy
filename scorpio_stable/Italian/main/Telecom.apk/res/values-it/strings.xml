@@ -103,11 +103,7 @@
      <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Work</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Change default Dialer app? -->
-     <string name="change_default_dialer_dialog_title">Set %s as your default Phone app?</string>
+     <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
      <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
      <string name="change_default_dialer_with_previous_app_set_text">Use %1$s instead of %2$s as your default dialer app?</string>
      <string name="charge_length_format">%1$s ago</string>
