@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Ritardo estremamente breve(%1$d ms)</item>
@@ -45,17 +46,17 @@
         <item quantity="one">Rimuovere la lingua selezionata?</item>
      </plurals>
      <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d app possono aprire i link supportati</item>
-        <item quantity="zero">Nessuna app puà aprire i link suportati</item>
-        <item quantity="one">"Un'app può aprire i link supportati"</item>
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">No app can open any supported link</item>
+        <item quantity="one">One app can open its supported links</item>
      </plurals>
      <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d persone collegate</item>
         <item quantity="one">%1$d persona collegata</item>
      </plurals>
      <plurals name="high_power_count">
-        <item quantity="other">"%d app può ignorare l'ottimizzazione della batteria"</item>
-        <item quantity="one">"1 app può ignorare l'ottimizzazione della batteria"</item>
+        <item quantity="other">%d apps allowed to ignore battery optimization</item>
+        <item quantity="one">1 app allowed to ignore battery optimization</item>
      </plurals>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">La password deve contenere almeno %d lettere.</item>
@@ -122,8 +123,8 @@
         <item quantity="one">%d permesso concesso</item>
      </plurals>
      <plurals name="print_settings_title">
-        <item quantity="other">%d attività di stampa</item>
-        <item quantity="one">1 attività di stampa</item>
+        <item quantity="other">%d print jobs</item>
+        <item quantity="one">1 print job</item>
      </plurals>
      <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d permessi aggiuntivi</item>
