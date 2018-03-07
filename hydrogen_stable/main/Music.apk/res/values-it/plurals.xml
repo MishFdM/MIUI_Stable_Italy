@@ -42,12 +42,9 @@
         <item quantity="one">"Associazione album e testi interrotta. Vuoi annullare l'ottimizzazione delle informazioni album e testi per %d brano?"</item>
      </plurals>
      <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Creato il %1$s
-		sul totale %2$d brani</item>
-		<item quantity="zero">Creato il %1$s
-		sul totale %2$d brani</item>
-        <item quantity="one">Creato il %1$s
-		sul totale %2$d brano</item>
+        <item quantity="other">Creato il %1$s sul totale %2$d brani</item>
+		<item quantity="zero">Creato il %1$s sul totale %2$d brani</item>
+        <item quantity="one">Creato il %1$s sul totale %2$d brano</item>
      </plurals>
      <plurals name="Nstop_backup_songs_message">
         <item quantity="other">Non è stato eseguito il backup di %d brani su Mi Cloud. Interrompere?</item>
