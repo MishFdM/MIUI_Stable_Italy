@@ -44,6 +44,7 @@
      <string name="audio_chat">Chat vocale</string>
      <string name="auto_nickname">Automatico</string>
      <string name="auto_set_nickname">Automatico</string>
+     <string name="back_description">Indietro</string>
      <string name="back_view_description">Tocca per tornare indietro</string>
      <string name="batch_delete">Eliminazione multipla</string>
      <string name="blacklist">Blocca</string>
@@ -90,7 +91,6 @@
      <string name="call_radio">Chiama radiotelefono</string>
      <string name="call_record_setting_miui">Impostazioni registrazione</string>
      <string name="call_settings">Impostazioni</string>
-     <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
      <string name="call_sim1_description">SIM 1</string>
      <string name="call_sim1_menu_title">Chiama con SIM 1</string>
      <string name="call_sim2_description">SIM 2</string>
@@ -102,6 +102,8 @@
      <string name="call_work">Chiama n. lavoro</string>
      <string name="call_work_mobile">Chiama n. cellulare lavoro</string>
      <string name="call_work_pager">Chiama cercapersone lavoro</string>
+     <string name="calllog_call_note_menu">Note chiamate</string>
+     <string name="calllog_call_record_menu">Chiamate registrate</string>
      <string name="calllog_menu_blacklist">Blocca</string>
      <string name="calllog_menu_edit_before_call">Modifica</string>
      <string name="calllog_menu_send_sms">Invia un messaggio</string>
@@ -242,6 +244,9 @@ Le schede contatti sono disattivate"</string>
      <string name="contact_editor_prompt_multiple_accounts">Sincronizzare il nuovo contatto con:</string>
      <string name="contact_editor_prompt_one_account">Il nuovo contatto verrà sincronizzato con %1$s.</string>
      <string name="contact_editor_prompt_zero_accounts">Non verrà effettuato il backup del nuovo contatto. Vuoi aggiungere un account per gestire il backup dei contatti online?</string>
+     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+     <string name="contact_import_methods_dialog_title">Seleziona il metodo di importazione</string>
      <string name="contact_is_readOnly">Non è possibile modificare i contatti in sola lettura</string>
      <string name="contact_list_loading">Caricamento…</string>
      <string name="contact_pick_photo">Immagine</string>
@@ -260,6 +265,8 @@ Le schede contatti sono disattivate"</string>
      <string name="contacts_unavailable_add_account">Accedi ad un account</string>
      <string name="contacts_unavailable_create_contact">Crea nuovo contatto</string>
      <string name="contacts_unavailable_import_contacts">Importa contatti</string>
+     <string name="contacts_unavailable_import_from_old_device">Importa da un dispositivo più vecchio</string>
+     <string name="contacts_unavailable_import_sim_contacts">Importa contatti SIM</string>
      <string name="convenient_service">Servizi</string>
      <string name="copy_number">Copia</string>
      <string name="copy_text">Copia negli appunti</string>
@@ -332,6 +339,7 @@ Le schede contatti sono disattivate"</string>
      <string name="description_minus_button">elimina</string>
      <string name="description_plus_button">più</string>
      <string name="description_quick_contact_for">Accesso rapido ai contatti per %1$s</string>
+     <string name="description_quick_dial_button">Quick dial</string>
      <string name="description_search_button">cerca</string>
      <string name="description_send_message">Invia messaggio a %1$s</string>
      <string name="description_send_text_message">Invia messaggio di testo a %1$s</string>
@@ -388,6 +396,7 @@ Le schede contatti sono disattivate"</string>
      <string name="dialer_empty_text_loading">Caricamento…</string>
      <string name="dialer_empty_text_no_call_log">Nessun contatto recente</string>
      <string name="dialer_empty_text_no_search_result">Nessun contatto trovato</string>
+     <string name="dialer_firewall_entry_name">Log chiamate bloccate</string>
      <string name="dialer_menu_description">Tocca per mostrare il tastierino</string>
      <string name="dialer_menu_title">Opzioni menu</string>
      <string name="dialer_returnToInCallScreen">Ritorna alla chiamata in corso</string>
@@ -539,6 +548,7 @@ Motivo: \"%s\"</string>
      <string name="import_name">Nome</string>
      <string name="import_one_vcard_string">Importa un file vCard</string>
      <string name="import_selected_sim_entries_miui">Importa i contatti selezionati</string>
+     <string name="import_sim_contacts_hint_title">Importa contatti SIM</string>
      <string name="import_sim_entries_finish">Importazione contatti da SIM eseguita</string>
      <string name="import_sim_entry_miui">Importa</string>
      <string name="import_to_xiaomi_account_confirm">Importa</string>
@@ -548,15 +558,6 @@ Motivo: \"%s\"</string>
      <string name="import_to_xiaomi_account_title">Vuoi importare i seguenti contatti sul tuo Mi Account?</string>
      <string name="import_vcard_description">Importa contatti dalla tua scheda SD</string>
      <string name="import_vcard_dialog_message">Importare vCard?</string>
-     <string name="import_weibo_dialog_title">Import Weibo contacts</string>
-     <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
-     <string name="import_weibo_error_no_network">"Can't connect to the network. Check your data connection and try again."</string>
-     <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Mi Account.</string>
-     <string name="import_weibo_error_unknown">Unknown error</string>
-     <string name="import_weibo_error_user_cancel">Import canceled</string>
-     <string name="import_weibo_fetch_followers">Fetching contacts…</string>
-     <string name="import_weibo_notification_title_done">Updated %s contacts</string>
-     <string name="import_weibo_progress_name">Matching \"%1$s\"…</string>
      <string name="importing_sim_contacts_miui">Importazione contatti dalla SIM…</string>
      <string name="importing_sim_contacts_miui_prepare">"Preparazione per l'impostazione…"</string>
      <string name="importing_vcard_canceled_title">Importazione di %s annullata</string>
@@ -568,7 +569,6 @@ Motivo: \"%s\"</string>
      <string name="keep_local">Memorizza in locale</string>
      <string name="keep_local_btn">Usa la memoria interna del dispositivo"</string>
      <string name="label_custom_type">Personalizzato</string>
-     <string name="label_duplicate_count">(%1$d)</string>
      <string name="label_no_duplicate_contacts">Nessun duplicato rilevato</string>
      <string name="label_notes">Note</string>
      <string name="label_sip_address">Chiamate Internet</string>
@@ -752,56 +752,6 @@ Motivo: \"%s\"</string>
      <string name="noContactHelpTextAccountsInfo" />
      <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina i dati dei contatti usando il Mi Account"</string>
      <string name="noContacts">Nessun contatto.</string>
-     <string name="noContactsHelpText">"You don't have any contacts to display.
-
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
-     <string name="noContactsHelpTextForCreateShortcut">"You don't have any contacts to display."</string>
-     <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
-     <string name="noContactsHelpTextWithSyncForCreateShortcut">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)"</string>
-     <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
-
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
-     <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
      <string name="noContactsWithPhoneNumbers">Nessun contatti con numeri di telefono.</string>
      <string name="noFavoritesHelpText">"Nessun Preferito.
 
@@ -870,6 +820,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="path_key_rebuild_t9_index_title">Applicazioni di sistema/Contatti/Organizza Contatti/Ricostruzione indice dati</string>
      <string name="path_key_sim_manage">Applicazioni di sistema/Contatti/Organizza Contatti/SIM</string>
      <string name="path_preference_contacts_filter">Applicazioni di sistema/Contatti/Preferenze schermo/Configura lista contatti</string>
+     <string name="path_quick_dial_setting">Applicazioni di sistema/Contatti/Chiamata rapida</string>
      <string name="path_remove_duplicate">Applicazioni di sistema/Contatti/Organizza Contatti/Unisci contatti doppi</string>
      <string name="path_share_visible_contacts">Applicazioni di sistema/Contatti/Importa/Esporta Contatti/Condividi Contatti</string>
      <string name="path_sim_capacity">Applicazioni di sistema/Contatti/Archivio SIM</string>
@@ -879,7 +830,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="payphone">Telefonata a pagamento</string>
      <string name="people">Contatti</string>
      <string name="phoneLabelsGroup">Telefono</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_number_too_long_toast">Numero troppo lungo</string>
      <string name="phone_primary">Primario</string>
      <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -978,6 +928,12 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="pull_to_refresh_release_label">Rilascia per aggiornare</string>
      <string name="qr_card_card">Il mio QR Code</string>
      <string name="qrcode_card_title">Codice QR del profilo</string>
+     <string name="quick_dial_setting_delete_dialog_message">Eliminare il numero di chiamata rapida assegnato?</string>
+     <string name="quick_dial_setting_delete_dialog_option_delete">Elimina</string>
+     <string name="quick_dial_setting_hint">Tocca il tasto per assegnare o rimuovere un numero di chiamata rapida. Tieni premuto il tasto assegnato ad un numero per chiamarlo rapidamente.</string>
+     <string name="quick_dial_setting_set_dialog_message">Assegnare un numero di chiamata rapida a questo tasto?</string>
+     <string name="quick_dial_setting_set_dialog_option_set">Sì</string>
+     <string name="quick_dial_setting_title">Chiamata rapida</string>
      <string name="quickcontact_missing_app">Nessuna applicazione trovata per gestire questa azione.</string>
      <string name="quit_dialog_confirm_message">Non hai unito nessun contatto</string>
      <string name="quit_dialog_confirm_title">Nessun contatto unito</string>
@@ -1046,6 +1002,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="search_key_rebuild_t9_index_title">Organizza;Contatti;t9</string>
      <string name="search_key_sim_manage">Organizza;Contatti</string>
      <string name="search_preference_contacts_filter">Contatti;Display</string>
+     <string name="search_quick_dial_setting">Contacts</string>
      <string name="search_remove_duplicate">Organizza;Contatti</string>
      <string name="search_results_searching">Ricerca…</string>
      <string name="search_settings_description">I nomi dei tuoi contatti</string>
