@@ -7,11 +7,13 @@
      </string-array>
      <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
+        <item>Giorni feriali</item>
         <item>Lun-Ven</item>
         <item>Personalizza</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Tutti i giorni</item>
+        <item>Giorni feriali</item>
         <item>Lun-Ven</item>
         <item>Personalizza</item>
      </string-array>
@@ -23,6 +25,10 @@
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
+     </string-array>
+     <string-array name="ap_identify">
+        <item>default</item>
+        <item>iPhone</item>
      </string-array>
      <string-array name="apn_auth_entries">
         <item>Nessuno</item>
@@ -881,6 +887,10 @@
         <item>File explorer</item>
         <item>Blocco applicazioni</item>
         <item>Spazio Secondario</item>
+     </string-array>
+     <string-array name="connect_mode_entries">
+        <item>Compatibilità</item>
+        <item>Alta velocità</item>
      </string-array>
      <string-array name="data_usage_data_range">
         <item>Ultimi 30 giorni</item>

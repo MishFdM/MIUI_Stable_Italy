@@ -253,8 +253,13 @@
      <string name="callFailed_data_limit_reached_description">Chiamata terminata a causa del limite dati cellulare raggiunto.</string>
      <string name="callFailed_destination_out_of_order">Destinazione fuori servizio</string>
      <string name="callFailed_dialToDial">Richiesta DIAL modificata in richiesta DIAL con numero diverso.</string>
+     <string name="callFailed_dialToDialVideo">Richiesta DIAL modificata in Video DIAL.</string>
      <string name="callFailed_dialToSs">Richiesta DIAL modificata in richiesta SS.</string>
      <string name="callFailed_dialToUssd">Richiesta DIAL modificata in richiesta USSD.</string>
+     <string name="callFailed_dialVideoToDial">Richiesta Video DIAL modificata in DIAL.</string>
+     <string name="callFailed_dialVideoToDialVideo">Richiesta Video DIAL modificata in Video DIAL con numero diverso.</string>
+     <string name="callFailed_dialVideoToSs">Richiesta Video DIAL modificata in richiesta SS.</string>
+     <string name="callFailed_dialVideoToUssd">Richiesta Video DIAL modificata in richiesta USSD.</string>
      <string name="callFailed_dsac_restricted">Tutte le chiamate sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_emergency">Le chiamate di emergenza sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_normal">Le chiamate normali sono limitate dal controllo di accesso.</string>
@@ -515,9 +520,9 @@
      <string name="debug_networking_category">Networking</string>
      <string name="debug_view_attributes">Abilita ispezione attribuiti di visualizzazione</string>
      <string name="default_notification_description">Suono predefinito (%1$s)</string>
-     <string name="default_preference_summary_domain_address">&lt;Not set&gt;</string>
-     <string name="default_preference_summary_password">&lt;Not set&gt;</string>
-     <string name="default_preference_summary_username">&lt;Not set&gt;</string>
+     <string name="default_preference_summary_domain_address">&lt;Not set></string>
+     <string name="default_preference_summary_password">&lt;Not set></string>
+     <string name="default_preference_summary_username">&lt;Not set></string>
      <string name="delete">Elimina</string>
      <string name="delete_fdn_contact">Elimina numero a selezione fissa</string>
      <string name="deleting_fdn_contact">Eliminazione numero a selezione fissa…</string>
@@ -552,7 +557,9 @@
      <string name="dial_related_setting_catory">Componi</string>
      <string name="dialerKeyboardHintText">Usa la tastiera per chiamare</string>
      <string name="dialog_alert_title">Cautela</string>
+     <string name="dialog_cancel">Annulla</string>
      <string name="dialog_network_priority_title">Priorità</string>
+     <string name="dialog_report">Segnala</string>
      <string name="dialpad_0_letters">+</string>
      <string name="dialpad_1_letters" />
      <string name="dialpad_2_letters">ABC</string>
@@ -606,6 +613,8 @@
      <string name="dtmf_tone_entries_normal">Normale</string>
      <string name="dtmf_tones_summary">Imposta la lunghezza dei toni DTMF</string>
      <string name="dtmf_tones_title">Toni DTMF</string>
+     <string name="dual_4g_switch_summary">Consenti la connessione 4G per entrambi gli slot SIM.</string>
+     <string name="dual_4g_switch_title">Doppio 4G</string>
      <string name="duration_disable_summary">Durata schermo disattivata</string>
      <string name="duration_enable_summary">Durata schermo attivata</string>
      <string name="edit_fdn_contact">Modifica numero a selezione fissa</string>
@@ -645,6 +654,7 @@
      <string name="enable_disable_retail_directory">Elenco venditori al dettaglio</string>
      <string name="enable_disable_stock_quotes">Quotazione di borsa</string>
      <string name="enable_disable_technology_news">Notizie di tecnologia</string>
+     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE richiede la connessione 4G per entrambi gli slot SIM. PAssare al doppio 4G adesso?</string>
      <string name="enable_fdn">Attiva NSSF</string>
      <string name="enable_fdn_ok">NSF disattivati</string>
      <string name="enable_freeform_support">Abilita finestre di libero formato</string>
@@ -870,6 +880,9 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="missed_call_notify_times_summary">Scegli il numero di promemoria che desideri ricevere per le chiamate perse (i promemoria avvengono ad intervalli di 5 minuti)</string>
      <string name="missed_call_notify_times_title">Promemoria chiamate perse</string>
      <string name="missed_call_notify_twice">2 volte</string>
+     <string name="miui_network_selection_reset_text">Ripristina</string>
+     <string name="miui_notification_network_selection_title">Nessun servizio SIM</string>
+     <string name="miui_notification_network_selection_title_by_sim">Nessun servizio SIM %s</string>
      <string name="mmiCancelled">Codice MMI annullato</string>
      <string name="mmiStarted">Codice MMI inizializzato</string>
      <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
@@ -879,6 +892,8 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="mock_location_app">Seleziona imitazione locazione app</string>
      <string name="mock_location_app_not_set">Nessuna imitazione locazione app impostata</string>
      <string name="mock_location_app_set">Imitazione locazione app: %1$s</string>
+     <string name="modem_dialog_body">La rete mobile non è stabile, causa interruzioni o problemi di rete.Inviare una segnalazione a Mi analizzarla? Questa segnalazione potrebbe contenere informazioni sui dati personali. Il tuo rapporto verrà utilizzato unicamente per la risoluzione del problema e non verrà mai condiviso a scopi commerciali.</string>
+     <string name="modem_dialog_title">La rete mobile non è stabile</string>
      <string name="msim_apn_not_set">Non impostato</string>
      <string name="msim_default_setting">Impostazioni predefinite</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
@@ -926,7 +941,6 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="network_lte">LTE (raccomandato)</string>
      <string name="network_message">Messaggio di rete</string>
      <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
-     <string name="network_operator_settings_package">com.android.phone</string>
      <string name="network_query_error">Errore durante la ricerca reti.</string>
      <string name="network_settings_auto_select_title">Non selezionare automaticamente le reti</string>
      <string name="network_settings_automatically_option">Seleziona automaticamente operatore preferito (%s)</string>
@@ -1021,6 +1035,7 @@ Dopo aver premuto \"Attiva\", ascolta le istruzioni fornite per attivare il tuo 
 Dovresti trovare una zona dove c'è migliore copertura (vicino una finestra o all'esterno). 
 
 Riprova o chiama il servizio clienti per altre opzioni."</string>
+     <string name="other_available_phone_accounts">Altri account disponibili</string>
      <string name="other_settings">Altre impostazioni di chiamata</string>
      <string name="other_settings_category">Altro</string>
      <string name="overlay_display_devices_title">Simula schermi secondari</string>
@@ -1070,6 +1085,7 @@ Invio toni"</string>
      <string name="payphone">Cabina telefonica</string>
      <string name="phoneAppLabel">Telefono</string>
      <string name="phoneIconLabel">Telefono</string>
+     <string name="phone_account_settings">Account chiamate</string>
      <string name="phone_accounts">Impostazioni account telefono</string>
      <string name="phone_accounts_add_sip_account">Aggiunti account SIP</string>
      <string name="phone_accounts_all_calling_accounts">Tutti gli account di chiamata</string>
@@ -1139,18 +1155,18 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_mode_cdma_lte_evdo_choice">CDMA + LTE/EvDo</string>
      <string name="preferred_network_mode_cdma_only_summary">Modalità di rete preferita: solo CDMA</string>
      <string name="preferred_network_mode_cdma_summary">Modalità di rete preferita: CDMA</string>
-     <string name="preferred_network_mode_cdma_wo_evdo_choice">CDMA w/o EvDo</string>
+     <string name="preferred_network_mode_cdma_wo_evdo_choice">CDMA con/senza EvDo</string>
      <string name="preferred_network_mode_dialogtitle">Tipologia rete preferita</string>
      <string name="preferred_network_mode_dialogtitle_cmcc">Network mode</string>
-     <string name="preferred_network_mode_evdo_only_choice">EvDo only</string>
+     <string name="preferred_network_mode_evdo_only_choice">Solo EvDo</string>
      <string name="preferred_network_mode_evdo_only_summary">Modalità di rete preferita: solo EvDo</string>
-     <string name="preferred_network_mode_global_choice">Global</string>
+     <string name="preferred_network_mode_global_choice">Globale</string>
      <string name="preferred_network_mode_global_summary">Modalità di rete preferita: Globale (CDMA/EVDO/LTE/GSM/WCDMA)</string>
-     <string name="preferred_network_mode_gsm_only_choice">GSM only</string>
+     <string name="preferred_network_mode_gsm_only_choice">Solo GSM</string>
      <string name="preferred_network_mode_gsm_only_summary">Modalità di rete preferita: solo GSM</string>
      <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA auto</string>
      <string name="preferred_network_mode_gsm_wcdma_lte_choice">GSM/WCDMA/LTE</string>
-     <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferred</string>
+     <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferiti</string>
      <string name="preferred_network_mode_gsm_wcdma_summary">Modalità di rete preferita: GSM / WCDMA</string>
      <string name="preferred_network_mode_lte_cdma_evdo_summary">Modalità di rete preferita: CDMA+LTE/EVDO</string>
      <string name="preferred_network_mode_lte_cdma_summary">Modalità di rete preferita: LTE/CDMA</string>
@@ -1173,7 +1189,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_choice">TD-SCDMA/GSM/WCDMA/LTE</string>
      <string name="preferred_network_mode_td_scdma_lte_choice">TD-SCDMA/LTE</string>
      <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</string>
-     <string name="preferred_network_mode_td_scdma_only_choice">TD-SCDMA only</string>
+     <string name="preferred_network_mode_td_scdma_only_choice">Solo TD-SCDMA</string>
      <string name="preferred_network_mode_td_scdma_wcdma_choice">TD-SCDMA/WCDMA</string>
      <string name="preferred_network_mode_td_scdma_wcdma_lte_choice">TD-SCDMA/WCDMA/LTE</string>
      <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
@@ -1182,7 +1198,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_mode_tdscdma_summary">Modalità rete preferita: TDSCDMA</string>
      <string name="preferred_network_mode_tdscdma_wcdma_summary">Preferred network mode: TDSCDMA / WCDMA</string>
      <string name="preferred_network_mode_title">Tipologia rete preferita</string>
-     <string name="preferred_network_mode_wcdma_only_choice">WCDMA only</string>
+     <string name="preferred_network_mode_wcdma_only_choice">Solo WCDMA</string>
      <string name="preferred_network_mode_wcdma_only_summary">Modalità di rete preferita: solo WCDMA</string>
      <string name="preferred_network_mode_wcdma_perf_summary">Modalità di rete preferita: WCDMA preferita</string>
      <string name="preferred_network_restrict_network_changed_incall">Impossibile cambiare rete durante una chiamata</string>
@@ -1198,6 +1214,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_type_pref_entries_only_3g">Solo reti 3G</string>
      <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
      <string name="preferred_network_type_title">Tipologia di rete preferita</string>
+     <string name="preferred_phone_account">Account chiamata preferito</string>
      <string name="private_num">Numero privato</string>
      <string name="process_kernel_label">Android OS</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
@@ -1215,6 +1232,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="puk_lock_warning">La tua SIM verrà disabilitata se fallisci un altro tentativo.</string>
      <string name="puk_requested">Password non corretta, PIN bloccato. Ora è richiesto il PUK.</string>
      <string name="puk_unlocked">La tua SIM è stata sbloccata. Il dispositivo verrà sbloccato…</string>
+     <string name="quick_dial_setting_title">Chiamata rapida</string>
      <string name="radio_off_during_emergency_call">Impossibile attivare la modalità aereo durante una chiamata di emergenza.</string>
      <string name="radio_off_error">Attiva la radio prima di visualizzare queste impostazioni.</string>
      <string name="reading_settings">Lettura impostazioni…</string>
@@ -1321,6 +1339,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="simContacts_emptyLoading">Lettura dalla carta SIM…</string>
      <string name="simContacts_title">Gestione contatti sulla carta SIM</string>
      <string name="simFdnContacts_empty">Nessun contatto di chiamata rapida.</string>
+     <string name="sim_accounts">Account SIM</string>
      <string name="sim_card_num">SIM %s</string>
      <string name="sim_contact_name">Nome</string>
      <string name="sim_contact_number">Numero</string>
@@ -1487,7 +1506,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tts_lang_use_system">Utilizza lingua di sistema</string>
      <string name="tts_play_example_summary">Avvia una piccola dimostrazione di sintesi vocale</string>
      <string name="tts_play_example_title">Ascolta un esempio</string>
-     <string name="tts_reset_speech_pitch_summary">"Resetta l'intonazione al punto in cui il testo é parlato in maniera predefinita."</string>
+     <string name="tts_reset_speech_pitch_summary">"Resetta l'intonazione al punto in cui il testo è parlato in maniera predefinita."</string>
      <string name="tts_reset_speech_pitch_title">Resetta intonazione parlato</string>
      <string name="tts_settings">Impostazioni testo parlato</string>
      <string name="tts_settings_title">Output testo parlato</string>
@@ -1500,6 +1519,8 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tty_mode_not_allowed_video_call">La modifica della modalità TTY non è consentita durante una videochiamata</string>
      <string name="tty_mode_option_summary">Imposta modalità TTY</string>
      <string name="tty_mode_option_title">Modalità TTY</string>
+     <string name="turn_off_dual_4g_failed">Impossibile disattivare il doppio 4G.</string>
+     <string name="turn_on_dual_4g_failed">Impossibile attivare il doppio 4G.</string>
      <string name="turnover_mute_summary">Quando il dispositivo è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
      <string name="turnover_mute_title">Capovolgi per silenziare la suoneria</string>
      <string name="undefined">Non definita</string>
@@ -1559,6 +1580,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="volte_provision_text">Rileva VoLTE se non supportato dalla tua SIM, attivare adesso?</string>
      <string name="volte_provision_title">Introduzione VoLTE</string>
      <string name="volte_switch_not_support_summary">Le chiamate VoLTE non sono supportate da questa SIM dati.</string>
+     <string name="volte_switch_not_support_summary2">"Le chiamate VoLTE non sono supportate dall'operatore."</string>
      <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
      <string name="volte_switch_title">VoLTE attivato</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
