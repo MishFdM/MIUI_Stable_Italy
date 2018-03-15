@@ -112,7 +112,6 @@
      <string name="cancel">Annulla</string>
      <string name="category_personal">Personale</string>
      <string name="category_work">Lavoro</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="charge_length_format">%1$s fa</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
@@ -120,10 +119,7 @@
      <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
-     <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file.
- Attenzione. Questa operazione eliminerà tutti i tuoi dati.
- Questa funzione è in versione alpha, pertanto potrebbe non funzionare correttamente.
- Premi \"Cancella e converti...\" per continuare."</string>
+     <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file. Attenzione. Questa operazione eliminerà tutti i tuoi dati. Questa funzione è in versione alpha, pertanto potrebbe non funzionare correttamente. Premi \"Cancella e converti...\" per continuare."</string>
      <string name="convert_to_file_encryption">Converti in crittografia basata su file</string>
      <string name="convert_to_file_encryption_done">Crittografia su base file già eseguita</string>
      <string name="convert_to_file_encryption_enabled">Converti...</string>
@@ -163,14 +159,10 @@
      <string name="disable_overlays_summary">Usa sempre GPU per la composizione dello schermo</string>
      <string name="disabled_by_admin">"Disattivata dall'amministratore"</string>
      <string name="disabled_by_admin_summary_text">"Gestita dall'amministratore"</string>
-     <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+     <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione. Tutti i dati utente precedenti verranno salvati."</string>
      <string name="dlg_app_replacement_title">Sostituire applicazione?</string>
      <string name="dlg_ok">OK</string>
-     <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+     <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema. Tutti i dati utente precedenti verranno salvati."</string>
      <string name="done">Fine</string>
      <string name="enable_adb">Debug USB</string>
      <string name="enable_adb_summary">Modalità debug quando collegato via USB</string>
@@ -311,7 +303,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="permission_warning_template">Consentire a %1$s di %2$s?</string>
      <string name="permlab_togglePermissions">Comandi permessi</string>
      <string name="picture_color_mode">Modalità colori immagini</string>
-     <string name="picture_color_mode_desc">Use sRGB</string>
+     <string name="picture_color_mode_desc">Usa sRGB</string>
      <string name="pointer_location">Posizione puntatore</string>
      <string name="pointer_location_summary">Overlay schermo che mostra i dati touch correnti</string>
      <string name="power_charging_duration">%1$s - %2$s alla carica completa</string>
@@ -364,7 +356,6 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="show_touches">Mostra tocchi</string>
      <string name="show_touches_summary">Mostra feedback visivi per i tocchi</string>
      <string name="simulate_color_space">Simula spazio colore</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="strict_mode">Attiva StrictMode</string>
      <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
      <string name="system_warning">Se neghi questa autorizzazione, le funzionalità di base del dispositivo potrebbero non funzionare più come previsto.</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="about_smart_sms_title">Partner messaggi Smart</string>
+     <string name="about_smart_sms_title">Smart messages partner</string>
      <string name="action_firewall_setting">Blacklist</string>
      <string name="activity_not_found">Applicazione non installata sul telefono.</string>
      <string name="activity_not_found_uri">Impossibile trovare programmi per questo</string>
@@ -65,7 +65,6 @@
      <string name="check_all">Seleziona tutto</string>
      <string name="class_0_message_activity">Messaggio classe 0</string>
      <string name="close">Chiudi</string>
-     <string name="cloud_recommend_msg">Tap to sync messages with Mi Cloud.</string>
      <string name="cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
      <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
      <string name="cloud_state_syncing">Sincronizzazione con Mi Cloud…</string>
@@ -409,7 +408,7 @@
      <string name="pref_summary_wake_up_screen">Attiva lo schermo alla ricezione di un nuovo SMS</string>
      <string name="pref_switch_sdk_setting">Cambia servizio provider smart SMS</string>
      <string name="pref_system_title">Sistema</string>
-     <string name="pref_title_about_smart_sms">Informazioni sul partner peri messaggi Smart</string>
+     <string name="pref_title_about_smart_sms">About Smart messages partner</string>
      <string name="pref_title_allow_si_sl_push">Consenti push WAP</string>
      <string name="pref_title_allow_upload_message_info">Carica messaggi spam</string>
      <string name="pref_title_auto_delete">Elimina i vecchi messaggi</string>
