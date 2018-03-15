@@ -21,7 +21,7 @@
      <string name="CwMmi">Avviso di chiamata</string>
      <string name="DndMmi">Non disturbare</string>
      <string name="Midnight">Mezzanotte</string>
-     <string name="NetworkPreferenceSwitchSummary">To improve reception, try changing the type selected at Settings &gt; Cellular networks &gt; Preferred network type.</string>
+     <string name="NetworkPreferenceSwitchSummary">To improve reception, try changing the type selected at Settings > Cellular networks > Preferred network type.</string>
      <string name="NetworkPreferenceSwitchTitle">Can’t reach network</string>
      <string name="Noon">Mezzogiorno</string>
      <string name="PinMmi">Modifica PIN</string>
@@ -989,7 +989,7 @@ Riprova tra %d secondi."</string>
      <string name="permgrouplab_sensors">Sensori</string>
      <string name="permgrouplab_sms">SMS</string>
      <string name="permgrouplab_storage">Archiviazione</string>
-     <string name="permission">Permission</string>
+     <string name="permission">Permesso</string>
      <string name="permission_remember_choice">Remember</string>
      <string name="permission_request_notification_title">Autorizzazione richiesta</string>
      <string name="permission_request_notification_with_subtitle">"Autorizzazione richiesta

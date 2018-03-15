@@ -103,10 +103,10 @@
      <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Work</string>
-     <string name="change_default_dialer_dialog_affirmative">Set as default Phone app</string>
+     <string name="change_default_dialer_dialog_affirmative">Set Default</string>
      <string name="change_default_dialer_dialog_negative">Cancel</string>
-     <string name="change_default_dialer_dialog_title">Make %s your default Phone app?</string>
-     <string name="change_default_dialer_warning_message">%s will be able to make and control all aspects of calls. Only apps you trust should be set as your default Phone app.</string>
+     <string name="change_default_dialer_dialog_title"> Make %s your default Phone app?</string>
+     <string name="change_default_dialer_warning_message">%s will be able to place and control all aspects of calls. Only apps you trust should be set as the default Phone app.</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="choose_profile">Choose Profile</string>
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
@@ -233,7 +233,7 @@
      <string name="notification_missedCall_message">Messaggio</string>
      <string name="notification_missedCallsMsg">%s chiamate perse</string>
      <string name="notification_missedCallsTitle">Chiamate perse</string>
-     <string name="notification_missedWorkCallTitle">Missed work call</string>
+     <string name="notification_missedWorkCallTitle">Chiamata lavoro persa</string>
      <string name="notification_pullcall">Calls on Secondary</string>
      <string name="oem_preferred_feedback_reporter" />
      <string name="oem_unlock_enable">OEM unlocking</string>
