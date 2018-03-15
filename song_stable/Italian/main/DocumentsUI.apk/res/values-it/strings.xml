@@ -90,7 +90,6 @@
      <string name="sort_date">By date modified</string>
      <string name="sort_name">By name</string>
      <string name="sort_size">By size</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="title_open">Apri da</string>
      <string name="title_save">Salva in</string>
      <string name="toast_failed_delete">Impossibile eliminare alcuni documenti</string>

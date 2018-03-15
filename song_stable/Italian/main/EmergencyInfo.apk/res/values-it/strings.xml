@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="a_negative">A, negativo</string>
      <string name="a_positive">A, positivo</string>
@@ -77,8 +78,6 @@
      <string name="bluetooth_disable_absolute_volume_summary">Disables the Bluetooth absolute volume feature in case of volume issues with remote devices such as unacceptably loud volume or lack of control.</string>
      <string name="bluetooth_disconnected">Disconnected</string>
      <string name="bluetooth_disconnecting">Disconnecting…</string>
-     <string name="bluetooth_dun_profile_summary_connected">Connected to Dun Server</string>
-     <string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network access</string>
      <string name="bluetooth_headset_profile_summary_connected">Connected to phone audio</string>
      <string name="bluetooth_headset_profile_summary_use_for">Use for phone audio</string>
      <string name="bluetooth_hid_profile_summary_connected">Connected to input device</string>
@@ -101,7 +100,6 @@
      <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
      <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
      <string name="bluetooth_profile_a2dp">Media audio</string>
-     <string name="bluetooth_profile_dun">Dial-up Network Access</string>
      <string name="bluetooth_profile_headset">Phone audio</string>
      <string name="bluetooth_profile_hid">Input device</string>
      <string name="bluetooth_profile_map">Message Access</string>
@@ -132,6 +130,8 @@
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
      <string name="clear_all">Pulisci tutto</string>
      <string name="clear_all_message">Pulire tutte le informazioni e contatti?</string>
+     <string name="config_feedbackIntentExtraKey" />
+     <string name="config_feedbackIntentNameKey" />
      <string name="config_helpIntentExtraKey" />
      <string name="config_helpIntentNameKey" />
      <string name="config_helpPackageNameKey" />
@@ -256,10 +256,15 @@
      <string name="picture_color_mode_desc">Use sRGB</string>
      <string name="pointer_location">Pointer location</string>
      <string name="pointer_location_summary">Screen overlay showing current touch data</string>
+     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s until full</string>
      <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
+     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
+     <string name="power_charging_duration_short">%1$s - %2$s</string>
      <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
+     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
+     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
      <string name="power_discharging_duration_short">%1$s - %2$s left</string>
      <string name="power_remaining_duration_only">Approx. %1$s left</string>
@@ -270,6 +275,9 @@
      <string name="remove_contact">Rimuovi %1$s dai contatti di emergenza?</string>
      <string name="remove_contact_icon_text">Rimuovi contatto</string>
      <string name="remove_dob_icon_text">Rimuovi data di nascita</string>
+     <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
+     <string name="retail_demo_reset_next">Next</string>
+     <string name="retail_demo_reset_title">Password required</string>
      <string name="running_process_item_user_label">User: %1$s</string>
      <string name="runningservices_settings_summary">View and control currently running services</string>
      <string name="runningservices_settings_title">Running services</string>

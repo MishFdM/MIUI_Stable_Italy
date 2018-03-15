@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -42,7 +41,6 @@
      <string name="add_new_control">Aggiungi telecomando</string>
      <string name="add_new_stb">Aggiungi set-top box</string>
      <string name="add_new_tv">Aggiungere una nuova TV…</string>
-     <string name="adv">广告</string>
      <string name="agree">Accetto</string>
      <string name="airkan_disconnect">Nessun dispositivo connesso</string>
      <string name="airkan_disconnect_display_name">Nessun dispositivo connesso</string>
@@ -82,7 +80,6 @@
      <string name="app_uninstall">Disinstalla</string>
      <string name="app_update">Aggiorna</string>
      <string name="app_version">Versione %1$s</string>
-     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
      <string name="append_ok_key_after_num">Aggiungi tasto di conferma dopo il tasto numerico</string>
      <string name="application">App</string>
      <string name="back">Indietro</string>
@@ -356,14 +353,7 @@ Try the following to fix the issue:
      <string name="jump_to_mivideo">Visualizza sul dispositivo mobile</string>
      <string name="just_now">Proprio adesso</string>
      <string name="just_used">Proprio adesso</string>
-     <string name="key_ff">快进</string>
-     <string name="key_next">下一个</string>
-     <string name="key_pause">暂停</string>
-     <string name="key_play">播放</string>
-     <string name="key_pre">上一个</string>
      <string name="key_press_vibrate">Vibra al tocco</string>
-     <string name="key_rew">快退</string>
-     <string name="key_stop">停止</string>
      <string name="laboratory">Experimental</string>
      <string name="last_bak_time">Ultimo backup: %1$s</string>
      <string name="last_use_frame">%1$s fa</string>
@@ -460,7 +450,6 @@ Assicurati che %1$s risponda."</string>
      <string name="match_tv_name_ch_inc">Canale +</string>
      <string name="match_tv_name_source">Sorgente</string>
      <string name="match_tv_name_volume">Volume +</string>
-     <string name="match_tv_name_volume_dec">音量减</string>
      <string name="match_type_selection_des">Seleziona il dispositivo da abbinare</string>
      <string name="match_type_selection_title">Tipo di dispositivo</string>
      <string name="match_voh_intro_open">Rilascia quando il proiettore si accende</string>
@@ -901,7 +890,6 @@ direttamente dalla Schermata di blocco"</string>
      <string name="splash_desc">Controlla ogni cosa con un semplice tocco!</string>
      <string name="start_diagnosis">Prova</string>
      <string name="start_match">Accoppia</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="stb">Ricevitore via cavo/satellite</string>
      <string name="stb_power">Set-top box on/off</string>
      <string name="steps">Tentativo #%d</string>
@@ -922,8 +910,6 @@ direttamente dalla Schermata di blocco"</string>
      <string name="tab_store">Store</string>
      <string name="technical_support">Supporto tecnico</string>
      <string name="temperature">Temp</string>
-     <string name="temperature_des">温度减</string>
-     <string name="temperature_inc">温度加</string>
      <string name="temprature_frame">%1$d ℃</string>
      <string name="time_error">"Sembra che l'ora sia sbagliata"</string>
      <string name="timer">Timer</string>

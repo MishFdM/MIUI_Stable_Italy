@@ -6,12 +6,9 @@
      <string name="access_token_invalid_warning">"L'account Weibo non è valido"</string>
      <string name="account">Account</string>
      <string name="account_bind_devices">Dispositivi</string>
-     <string name="account_bind_new_phone">Add new phone</string>
-     <string name="account_bind_phone_notice">Use this phone number to sign in to your account, reset your password, or change security settings.</string>
      <string name="account_bind_secure_email_title">Aggiungi email</string>
      <string name="account_bind_secure_phone_title">Aggiungi numero di telefono</string>
      <string name="account_bind_settings">Account</string>
-     <string name="account_binded_phone">Phone %d</string>
      <string name="account_crop_user_avatar">Taglia immagine</string>
      <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
      <string name="account_error_all_space_user_name">Il nome non può essere composto solo da spazi</string>
@@ -19,6 +16,8 @@
      <string name="account_error_longer_user_name">Il nome non può superare i 20 caratteri</string>
      <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
      <string name="account_error_user_birthday">La data di compleanno indicata non è valida</string>
+     <string name="account_error_user_name">Il nome inserito non è valido</string>
+     <string name="account_global_region">Stranieri</string>
      <string name="account_has_been_set">Modifica</string>
      <string name="account_limit_update_birthday">Siamo spiacenti, non possiamo elaborare la richiesta in questo momento.</string>
      <string name="account_mibi_center">Mi Credit</string>
@@ -60,6 +59,8 @@
      <string name="account_user_using_qq_avatar">Usa la foto profilo di QQ</string>
      <string name="account_user_using_weibo_avatar">Usa la foto profilo di Sina Weibo</string>
      <string name="account_xiaomi_service">Servizi</string>
+     <string name="action_add_phone">Aggiungi numero di telefono</string>
+     <string name="action_update_phone">Cambia numero di telefono</string>
      <string name="activate_email_notice">Assicurati di attivare il tuo account entro 24 ore</string>
      <string name="activity_not_found_notice">"Impossibile trovare l'applicazione"</string>
      <string name="add_account">Aggiungi account</string>
@@ -80,7 +81,6 @@
      <string name="change_email_address">Modifica indirizzo email</string>
      <string name="change_password">Cambia password</string>
      <string name="change_phone_number">Modifica numero di telefono</string>
-     <string name="checking_phone_num_availible">Verifying phone…</string>
      <string name="cloud_service">Mi Cloud</string>
      <string name="completed">Completato</string>
      <string name="confirm_activate_email">Verificato</string>
@@ -120,7 +120,7 @@
      <string name="find_device_account_error">"Impossibile recuperare lo stato a causa di un errore con l'account"</string>
      <string name="find_device_activate_account">Attiva account</string>
      <string name="find_device_bad_response_error">Impossibile recuperare lo stato, riprova più tardi</string>
-     <string name="find_device_display_id">Sblocca numero: %s</string>
+     <string name="find_device_display_id">Unlock number: %s</string>
      <string name="find_device_error_password_not_confirmed">Impossibile disattivare Trova Dispositivo. Inserisci il tuo Mi Account.</string>
      <string name="find_device_error_password_recently_changed">Hai modificato la password negli ultimi 3 giorni. Impossibile disattivare Trova Dispositivo per motivi di sicurezza.</string>
      <string name="find_device_interrupted">"L'operazione è stata interrotta, riprova più tardi"</string>
@@ -138,10 +138,12 @@
      <string name="find_device_request_prepare_error">Impossibile recuperare lo stato, riprova più tardi</string>
      <string name="find_device_unknown_error">Impossibile recuperare lo stato, riprova più tardi</string>
      <string name="first_login_time">Primo tentativo di accesso: %s</string>
+     <string name="get_back_pwd">Ripristino password</string>
      <string name="get_device_list_failed">Impossibile recuperare la lista dispositivi</string>
      <string name="get_phone_bind_exceed_limit">"Il numero di telefono collegato all'account ha raggiunto il massimo di account collegati(3), non può essere collegato ad altri account"</string>
      <string name="get_phone_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questo numero. Aspetta 24 ore e riprova.</string>
      <string name="guest_account_label">Account Ospite Mi</string>
+     <string name="identity">Identificazione</string>
      <string name="input_email_address_notice">Useremo questa email per verificare il tuo account</string>
      <string name="io_error_title">Conferma la tua rete</string>
      <string name="just_a_second">Attendi…</string>
@@ -171,6 +173,7 @@
      <string name="my_device_title">Dispositivo attuale</string>
      <string name="no_network_btn">Aggiorna</string>
      <string name="no_network_title">Impossibile collegarsi alla rete</string>
+     <string name="no_phone">Nessun numero di telefono</string>
      <string name="no_response_retry">Nessuna risposta, riprova.</string>
      <string name="no_sim_card_or_unactivated">"La SIM non è installata o attivata"</string>
      <string name="nobind">Non collegato</string>
@@ -211,6 +214,7 @@
 Per attivare il tuo account, segui il 
  link nel messaggio che ti abbiamo inviato."</string>
      <string name="passport_completed">Finito</string>
+     <string name="passport_confirm_login">Continua</string>
      <string name="passport_confirm_recycle_account">Sì</string>
      <string name="passport_continue">Continua</string>
      <string name="passport_copy_message_text_success">Copiato correttamente</string>
@@ -249,6 +253,10 @@ Per attivare il tuo account, segui il
      <string name="passport_forget_password"><u>Password dimenticata</u></string>
      <string name="passport_forget_password_no_underline">Password dimenticata</string>
      <string name="passport_get_back_pwd">Recupera password</string>
+     <string name="passport_get_innetdate_agree">Controlla</string>
+     <string name="passport_get_innetdate_disagree">No</string>
+     <string name="passport_get_innetdate_msg">Sembra che il numero %s sia stato recuperato dal tuo operatore. Controllare quando il numero apparirà online?</string>
+     <string name="passport_get_innetdate_title">Controlla quando il numero è andato online</string>
      <string name="passport_get_verify_code">Ricevi il codice</string>
      <string name="passport_getting_activator_phone">Acquisizione informazioni SIM…</string>
      <string name="passport_getting_verify_code">Ricezione</string>
@@ -348,6 +356,7 @@ Per attivare il tuo account, segui il
      <string name="passport_skip_setup_account_msg">Puoi impostare un Mi Account più tardi nelle Impostazioni.</string>
      <string name="passport_skip_setup_account_title">Salta configurazione</string>
      <string name="passport_sms_send_success">Invio</string>
+     <string name="passport_sms_verification_code_login">Accesso codice verifica SMS</string>
      <string name="passport_sync_account_data">Informazioni di sincronizzazione account…</string>
      <string name="passport_sync_account_data_failed_warning">Le informazioni del tuo account sono in fase di sincronizzazione, puoi accedere con il tuo ID Mi Account. Se vuoi accedere utilizzando il tuo numero di telefono o la tua email or email, attendi fino alla completa sincronizzazione.</string>
      <string name="passport_title_reg">Crea un account</string>
@@ -378,12 +387,15 @@ Per attivare il tuo account, segui il
      <string name="passport_wrong_vcode">Il codice inserito non è corretto</string>
      <string name="passport_yes">Sì</string>
      <string name="phone_activated">%s attivato</string>
+     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
      <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
      <string name="push_notification_content">Premi per ricevere il codice di verifica</string>
      <string name="push_notification_title">"Hai effettuato l'accesso Mi Account tramite un dispositivo sconosciuto"</string>
      <string name="push_notify_dialog_message">Un nuovo dispositivo sta cercando di accedere al tuo Mi Account. Inserisci il codice di verifica sul tuo nuovo dispositivo per completare la verifica di sicurezza. Se non lo hai richiesto tu, modifica la password del tuo Mi Account.</string>
      <string name="push_notify_dialog_title">Verifica di Sicurezza Accesso</string>
      <string name="qq">QQ</string>
+     <string name="recycle_phone_notification_msg">Sembra che il tuo numero di telefono sia stato recuperato. Tocca per aggiornare.</string>
+     <string name="recycle_phone_notification_title">Rischio di sicurezza per il Mi Account</string>
      <string name="remove_device_success_notice">Rimuovendo questo dispositivo dai dispositivi sicuri, potresti aver bisogno di eseguire di nuovo il processo di verifica al prossimo accesso.</string>
      <string name="remove_trust_btn">Rimuovi dai dispositivi sicuri</string>
      <string name="remove_trust_notice">Rimuovi dai dispositivi sicuri ed esci</string>
@@ -415,6 +427,10 @@ Per attivare il tuo account, segui il
      <string name="select_location_title">Seleziona la tua località</string>
      <string name="send_email_activate_message">Email di verifica inviata</string>
      <string name="service_error">Errore di servizio</string>
+     <string name="set_success">Modificato correttamente</string>
+     <string name="sign_in">Accesso in corso</string>
+     <string name="sim_changed_notification_msg">Tocca per aggiornare la recovery del tuo telefono e mantieni il tuo account al sicuro.</string>
+     <string name="sim_changed_notification_title">Hai cambiato numero di telefono?</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="sms_send_success">Inviato</string>
      <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
@@ -430,6 +446,7 @@ Per attivare il tuo account, segui il
      <string name="update_contacts">Aggiorna contatti</string>
      <string name="update_email_address_dialog_message">Devi verificare la tua identità prima di aggiornare la tua email.</string>
      <string name="update_email_address_dialog_title">Aggiorna Email</string>
+     <string name="update_phone_notice">Modifica impostazioni di sicurezza</string>
      <string name="update_phone_number_notice_message">Devi verificare la tua identità prima di poter aggiornare il numero.</string>
      <string name="updated_nothing">Non è stato aggiornato nulla</string>
      <string name="user_avatar_update_title">Aggiorna immagine profilo</string>

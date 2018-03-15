@@ -105,11 +105,7 @@
      <string name="category_work">Work</string>
      <string name="change_default_dialer_dialog_affirmative">Set as default Phone app</string>
      <string name="change_default_dialer_dialog_negative">Cancel</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Set %s as your default Phone app? -->
-     <string name="change_default_dialer_dialog_title"> Change default Dialer app?</string>
+     <string name="change_default_dialer_dialog_title"> Set %s as your default Phone app?</string>
      <string name="change_default_dialer_warning_message">%s will be able to make and control all aspects of calls. Only apps you trust should be set as your default Phone app.</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="choose_profile">Choose Profile</string>
