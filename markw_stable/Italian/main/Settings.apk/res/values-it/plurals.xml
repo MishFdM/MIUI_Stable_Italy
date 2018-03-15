@@ -18,17 +18,17 @@
         <item quantity="one">%d dispositivo</item>
      </plurals>
      <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d app possono aprire i link supportati</item>
-        <item quantity="zero">Nessuna app puà aprire i link suportati</item>
-        <item quantity="one">"Un'app può aprire i link supportati"</item>
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">No app can open any supported link</item>
+        <item quantity="one">One app can open its supported links</item>
      </plurals>
      <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d persone collegate</item>
         <item quantity="one">%1$d persona collegata</item>
      </plurals>
      <plurals name="high_power_count">
-        <item quantity="other">"%d app può ignorare l'ottimizzazione della batteria"</item>
-        <item quantity="one">"1 app può ignorare l'ottimizzazione della batteria"</item>
+        <item quantity="other">%d apps allowed to ignore battery optimization</item>
+        <item quantity="one">1 app allowed to ignore battery optimization</item>
      </plurals>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">La password deve contenere almeno %d lettere.</item>

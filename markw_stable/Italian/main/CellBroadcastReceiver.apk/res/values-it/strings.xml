@@ -13,7 +13,7 @@
      <string name="category_brazil_settings_title">Impostazioni per il Brasile</string>
      <string name="category_dev_settings_title">Opzioni sviluppatore</string>
      <string name="category_etws_settings_title">Impostazioni ETWS</string>
-     <string name="category_india_settings_title">Settings for India</string>
+     <string name="category_india_settings_title">Impostazioni per India</string>
      <string name="cb_channel_50_name">Channel 50</string>
      <string name="cb_channel_dialog_channel_name">Channel name (0-10 characters)</string>
      <string name="cb_channel_dialog_channel_number">Channel number (0-65534)</string>
@@ -93,8 +93,8 @@
      <string name="enable_alert_vibrate_title">Vibra</string>
      <string name="enable_channel_50_alerts_summary">Il canale 50 viene utilizzato in Brasile per le informazioni di aggiornamento di zona</string>
      <string name="enable_channel_50_alerts_title">Mostra trasmissioni canale 50</string>
-     <string name="enable_channel_60_alerts_summary">Channel 60 is used in India for Operator specific information</string>
-     <string name="enable_channel_60_alerts_title">Show channel 60 broadcasts</string>
+     <string name="enable_channel_60_alerts_summary">"Il canale 60 viene utilizzato in India per informazioni specifiche dell'operatore"</string>
+     <string name="enable_channel_60_alerts_title">Mostra trasmissioni canale 60</string>
      <string name="enable_cmas_amber_alerts_summary">Mostra bollettini di emergenza su rapimenti bambini (allarme AMBER)</string>
      <string name="enable_cmas_amber_alerts_title">Mostra allarmi AMBER</string>
      <string name="enable_cmas_extreme_threat_alerts_summary">Mostra avvisi per minacce estreme a persone o proprietà</string>

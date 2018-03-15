@@ -14,7 +14,7 @@
         <item>Verticale</item>
         <item>Orizzontale</item>
      </string-array>
-    <string-array name="pdf_printer_media_sizes">
+     <string-array name="pdf_printer_media_sizes">
         <item>ISO_A0</item>
         <item>ISO_A1</item>
         <item>ISO_A2</item>

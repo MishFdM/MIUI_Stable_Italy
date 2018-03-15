@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -81,7 +80,6 @@
      <string name="app_uninstall">Disinstalla</string>
      <string name="app_update">Aggiorna</string>
      <string name="app_version">Versione %1$s</string>
-     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
      <string name="append_ok_key_after_num">Aggiungi tasto di conferma dopo il tasto numerico</string>
      <string name="application">App</string>
      <string name="back">Indietro</string>
@@ -649,7 +647,7 @@ Assicurati che %1$s risponda."</string>
      <string name="passport_quick_login_step2_title">Verifica in 2 passi</string>
      <string name="passport_quick_login_title">Inserisci la tua password</string>
      <string name="passport_quick_register">Sign up</string>
-     <string name="passport_quick_register_notice">&lt;u&gt;"Don't have a Mi Account? Create one."&lt;/u&gt;</string>
+     <string name="passport_quick_register_notice">"&lt;u&gt;Don't have a Mi Account? Create one.&lt;/u&gt;"</string>
      <string name="passport_re_get_verify_code">Ottieni codice e riprova</string>
      <string name="passport_re_register">Accedi di nuovo</string>
      <string name="passport_recycle_account_prompt">"Questo è il tuo Mi Account?"</string>
@@ -892,7 +890,6 @@ direttamente dalla Schermata di blocco"</string>
      <string name="splash_desc">Controlla ogni cosa con un semplice tocco!</string>
      <string name="start_diagnosis">Prova</string>
      <string name="start_match">Accoppia</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="stb">Ricevitore via cavo/satellite</string>
      <string name="stb_power">Set-top box on/off</string>
      <string name="steps">Tentativo #%d</string>
