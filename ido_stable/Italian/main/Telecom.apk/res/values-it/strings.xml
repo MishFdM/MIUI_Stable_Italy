@@ -6,12 +6,12 @@
      <string name="accessibility_speakerphone_enabled">Vivavoce attivato.</string>
      <string name="add_vm_number_str">Aggiungi numero</string>
      <string name="callFailed_simError">SIM card error</string>
-     <string name="can_not_dial_vt_while_voice_prompt">"Can't make a video call while a voice call is in progress"</string>
-     <string name="can_not_dial_while_vt_prompt">"Can't dial while a video call in process"</string>
+     <string name="can_not_dial_vt_while_voice_prompt">Impossibile effettuare video chiamate quando è in corso una chiamata</string>
+     <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
      <string name="close">Close</string>
      <string name="default_connection_manager_component" />
-     <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
-     <string name="dial_vt_fail_prompt">"Current network doesn't support VoLTE. Switch to regular voice call?"</string>
+     <string name="dial_conference_fail_prompt">"Impossibile avviare l'audioconferenza, la rete non supporta la tecnologia VoLTE."</string>
+     <string name="dial_vt_fail_prompt">La rete non supporta VoLTE. Effettuare una chiamata normale?</string>
      <string name="handle_restricted">LIMITATO</string>
      <string name="headset_plugin_view_text">Headset is plugged in.</string>
      <string name="headset_plugin_view_title">Headset</string>
@@ -52,7 +52,7 @@
      <string name="test_account_3_short_description">Chatta con gli utenti di Chat Network</string>
      <string name="unknown">Sconosciuto</string>
      <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY Mode to make video calls.</string>
-     <string name="voice_dial_out">Voice call</string>
+     <string name="voice_dial_out">Chiamata vocale</string>
      <string name="voice_report_incoming_call">Chiamata</string>
      <string name="voice_report_unknown_num">Numero sconosciuto</string>
 </resources>

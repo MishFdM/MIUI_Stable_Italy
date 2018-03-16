@@ -24,7 +24,7 @@
      <string name="menu_end_session">Fine Sessione</string>
      <string name="service_name">Nome servizio</string>
      <string name="stk_app_state">Stato applicazione</string>
-     <string name="stk_dialog_accept">SÌ</string>
+     <string name="stk_dialog_accept">SI</string>
      <string name="stk_dialog_reject">NO</string>
      <string name="stk_dialog_title">Strumenti SIM</string>
      <string name="stk_intent_permission">Consenti Strumenti SIM</string>
