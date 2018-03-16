@@ -25,7 +25,7 @@
         <item>Scala animazione 10x</item>
      </string-array>
      <string-array name="ap_identify">
-        <item>Default</item>
+        <item>default</item>
         <item>iPhone</item>
      </string-array>
      <string-array name="apn_auth_entries">
@@ -93,21 +93,21 @@
         <item>Geolocalizzazione</item>
         <item>Ottieni statistiche uso</item>
         <item>Muto/non muto microfono</item>
-        <item>Toast window</item>
-        <item>Progetto media</item>
+        <item>Finestra toast</item>
+        <item>Media project</item>
         <item>Attiva VPN</item>
-        <item>WLAN change</item>
-        <item>Bluetooth change</item>
-        <item>Send MMS</item>
-        <item>Read MMS</item>
-        <item>Write MMS</item>
-        <item>Auto start</item>
-        <item>Nfc change</item>
-        <item>Delete SMS</item>
-        <item>Delete MMS</item>
-        <item>Delete contacts</item>
-        <item>Delete call log</item>
-        <item>Data change</item>
+        <item>Cambia wlan</item>
+        <item>Cambia bluetooth</item>
+        <item>Invia MMS</item>
+        <item>Leggi MMS</item>
+        <item>Scrivi MMS</item>
+        <item>Auto avvio</item>
+        <item>Cambia Nfce</item>
+        <item>Elimina SMS</item>
+        <item>Elimina MMS</item>
+        <item>Elimina contatti</item>
+        <item>Elimina registro chiamate</item>
+        <item>Cambia dati</item>
      </string-array>
      <string-array name="app_ops_permissions">
         <item>Allowed</item>
@@ -160,21 +160,21 @@
         <item>monitora localizzazione a consumo elevato</item>
         <item>ottieni statistiche uso</item>
         <item>muto/non muto microfono</item>
-        <item>toast window</item>
+        <item>finestra toast</item>
         <item>media project</item>
         <item>attiva VPN</item>
-        <item>wlan change</item>
-        <item>bluetooth change</item>
-        <item>send MMS</item>
-        <item>read MMS</item>
-        <item>write MMS</item>
-        <item>auto start</item>
-        <item>nfc change</item>
-        <item>delete SMS</item>
-        <item>delete MMS</item>
-        <item>delete contacts</item>
-        <item>delete call log</item>
-        <item>data change</item>
+        <item>cambia wi-fi</item>
+        <item>cambia bluetooth</item>
+        <item>invia MMS</item>
+        <item>leggi MMS</item>
+        <item>scrivi MMS</item>
+        <item>auto avvio</item>
+        <item>cambia Nfce</item>
+        <item>elimina SMS</item>
+        <item>elimina MMS</item>
+        <item>elimina contatti</item>
+        <item>elimina registro chiamate</item>
+        <item>cambia dati</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Limite predefinito</item>
@@ -259,6 +259,26 @@
         <item>Tutte le notifiche compariranno in una cartella separata</item>
      </string-array>
      <string-array name="city_name">
+        <item>Midway</item>
+        <item>Regina</item>
+        <item>Manaus</item>
+        <item>Recife</item>
+        <item>Godthab</item>
+        <item>South_Georgia</item>
+        <item>Azores</item>
+        <item>Windhoek</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Oral</item>
+        <item>Yekaterinburg</item>
+        <item>Katmandu</item>
+        <item>Krasnoyarsk</item>
+        <item>Irkutsk</item>
+        <item>Yakutsk</item>
+        <item>Hobart</item>
+        <item>Vladivostok</item>
+        <item>Magadan</item>
+        <item>Majuro</item>
         <item>Abidjan</item>
         <item>Accra</item>
         <item>Addis Ababa</item>
@@ -384,7 +404,7 @@
         <item>Phnom Penh</item>
         <item>Pyongyang</item>
         <item>Qatar</item>
-        <item>Rangoon</item>
+        <item>Yangon</item>
         <item>Riyadh</item>
         <item>Seoul</item>
         <item>Shanghai</item>
@@ -517,7 +537,7 @@
         <item>Frankfurt</item>
         <item>Hanoi</item>
         <item>Ankara</item>
-        <item>Bangalore</item>
+        <item>Bengaluru</item>
         <item>Brasília</item>
         <item>Cape Town</item>
         <item>Islamabad</item>
@@ -535,7 +555,7 @@
         <item>Monrovia</item>
         <item>Colombo</item>
         <item>Chihuahua</item>
-        <item>Gurgaon</item>
+        <item>Gurugram</item>
         <item>Manchester</item>
         <item>Kyiv</item>
         <item>St. Petersburg</item>
@@ -550,6 +570,26 @@
         <item>Quito</item>
      </string-array>
      <string-array name="city_timezone">
+        <item>Pacific/Midway</item>
+        <item>America/Regina</item>
+        <item>America/Manaus</item>
+        <item>America/Recife</item>
+        <item>America/Godthab</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Africa/Windhoek</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Kathmandu</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Hobart</item>
+        <item>Asia/Vladivostok</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Majuro</item>
         <item>Africa/Abidjan</item>
         <item>Africa/Accra</item>
         <item>Africa/Addis_Ababa</item>
@@ -675,7 +715,7 @@
         <item>Asia/Phnom_Penh</item>
         <item>Asia/Pyongyang</item>
         <item>Asia/Qatar</item>
-        <item>Asia/Rangoon</item>
+        <item>Asia/Yangon</item>
         <item>Asia/Riyadh</item>
         <item>Asia/Seoul</item>
         <item>Asia/Shanghai</item>
@@ -888,7 +928,7 @@
         <item>Normale</item>
         <item>Grande</item>
         <item>Enorme</item>
-        <item>godzilla</item>
+        <item>Gigante</item>
      </string-array>
      <string-array name="entries_zen_mode">
         <item>Off</item>

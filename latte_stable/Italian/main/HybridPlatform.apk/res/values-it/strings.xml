@@ -85,6 +85,9 @@
      <string name="permission_dialog_block">BLOCCA</string>
      <string name="permission_dialog_message">%1$s vuole %2$s.</string>
      <string name="platform_incompatible">Platform is too old to run %1$s, please upgrade platform.</string>
+     <string name="platform_notification_name">Instant messages</string>
+     <string name="platform_notification_summary">Use compatible apps without installing them</string>
+     <string name="platform_notification_title">Notifications</string>
      <string name="search_menu_title">Cerca</string>
      <string name="share_dialog_cancel">cancel</string>
      <string name="share_dialog_title">Share to</string>

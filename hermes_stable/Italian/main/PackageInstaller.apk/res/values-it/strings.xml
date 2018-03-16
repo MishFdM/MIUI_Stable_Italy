@@ -41,16 +41,12 @@ Allow this now and in the future?"</string>
      <string name="cta_button_text_cancel">Exit</string>
      <string name="cta_dialog_msg">Security requires internet connection to get updates, as well as access to location to work normally.</string>
      <string name="cta_dialog_title">Internet connection</string>
-     <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+     <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione. Tutti i dati utente precedenti verranno salvati."</string>
      <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) will replace the currently installed version (%3$s). All existing app data will be saved.</string>
      <string name="dlg_app_replacement_title">Sostituire applicazione?</string>
-     <string name="dlg_appstore_notice">Get this app from our official &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
+     <string name="dlg_appstore_notice">Get this app from our official &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
      <string name="dlg_ok">OK</string>
-     <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+     <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema. Tutti i dati utente precedenti verranno salvati."</string>
      <string name="done">Fine</string>
      <string name="high_risk_perms">High-risk permissions</string>
      <string name="install">Installa</string>
@@ -66,7 +62,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="install_failed_system_incompatible">"This app isn't compatible with MIUI"</string>
      <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
      <string name="install_failed_verify_timeout">A timeout occurred while trying to verify this package. Try to install it again later.</string>
-     <string name="install_from_appstore_hint">We recommend you to install the app from &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
+     <string name="install_from_appstore_hint">We recommend you to install the app from &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
      <string name="installing">Installazione...</string>
      <string name="launch">Apri</string>
      <string name="lift_ban">Allow</string>
@@ -171,7 +167,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="uninstall_update_title">Disinstalla aggiornamento</string>
      <string name="uninstalling">Disinstallazione...</string>
      <string name="unknown">Sconosciuto</string>
-     <string name="unknown_apps_dlg_text">"Il telefono è impostato per bloccare l'installazione di app ottenute da origini sconosciute."</string>
+     <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources.</string>
      <string name="unknown_apps_dlg_text1">"Your phone is set to block the installation of apps from unknown sources. You can turn this feature off in "</string>
      <string name="unknown_apps_dlg_text2">\"Settings\"</string>
      <string name="unknown_apps_dlg_text3">.</string>
@@ -180,7 +176,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="unlike">No thanks</string>
      <string name="virus_scan_caller_unknown">Unknown</string>
      <string name="virus_scan_clear">Remove</string>
-     <string name="virus_scan_install">&lt;u&gt;Install anyway&lt;/u&gt;</string>
+     <string name="virus_scan_install"><u>Install anyway</u></string>
      <string name="virus_scan_is_risk">"This app poses a risk to your device's security."</string>
      <string name="virus_scan_is_virus">This app contains a virus.</string>
      <string name="waiting_tip">This may take a while, but well worth it</string>

@@ -26,7 +26,7 @@
      <string name="callBarringFailMmi">"Errore su Blocco chiamate."</string>
      <string name="cfServiceNotForwarded">"Non inoltrato"</string>
      <string name="checkPwdLen">"Verifica che la lunghezza del codice sia compreso tra 4 e 8 cifre."</string>
-     <string name="color_picker_select">-&gt;</string>
+     <string name="color_picker_select">-></string>
      <string name="config_mm_package_name">com.aspire.mm</string>
      <string name="confirm_button_cancel">Cancel</string>
      <string name="confirm_button_no">No</string>

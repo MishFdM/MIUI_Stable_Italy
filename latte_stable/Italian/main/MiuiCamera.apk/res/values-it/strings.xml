@@ -344,8 +344,8 @@ touch the Shutter button"</string>
      <string name="pref_camera_picturesize_entry_3328x1872">6M(3328x1872)</string>
      <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
      <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Wide (16:9)</string>
-     <string name="pref_camera_picturesize_entry_standard">Standard (4:3)</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
+     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
      <string name="pref_camera_picturesize_title">Picture size</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
      <string name="pref_camera_powermode_default">Normal_Power</string>

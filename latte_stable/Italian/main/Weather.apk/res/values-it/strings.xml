@@ -59,7 +59,7 @@
      <string name="aqi_quality_major_pollutants">Inquinanti maggiori</string>
      <string name="aqi_quality_map_edit_text_hint">Ricerca qualità aria</string>
      <string name="aqi_quality_map_title">Mappa qualità aria</string>
-     <string name="aqi_quality_no2_desc">Diossido notrogeno</string>
+     <string name="aqi_quality_no2_desc">Diossido nitrogeno</string>
      <string name="aqi_quality_o3_desc">Ozono</string>
      <string name="aqi_quality_pm10_desc">Grandi particelle non inalabili</string>
      <string name="aqi_quality_pm25_desc">Polveri sottili</string>
@@ -142,12 +142,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="indices_title_sport">Sport</string>
      <string name="indices_title_uv">Indice UV</string>
      <string name="indices_title_visibility">Visibilità</string>
-     <string name="information_manager_default_weather_bg">Sfondo meteo predefinito</string>
      <string name="information_manager_extension">Estensione meteo</string>
-     <string name="information_manager_information">Informazioni Meteo</string>
-     <string name="information_manager_wlan">Aggiorna quando connesso a Wi-Fi</string>
-     <string name="information_menu_title" />
-     <string name="information_set">Informazioni</string>
      <string name="information_views" />
      <string name="install">Installa</string>
      <string name="international_detail_menu_title">Dettagli</string>
@@ -163,8 +158,8 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="lunar_calendar" />
      <string name="menu_add_city">Aggiungi/elimina città</string>
      <string name="menu_location">Località</string>
-     <string name="menu_minute_rain">Previsioni precipitazioni a due ore</string>
-     <string name="menu_speeker">Trasmissione vocale</string>
+     <string name="menu_minute_rain">2-hour precipitation forecast</string>
+     <string name="menu_speeker">Voice broadcast</string>
      <string name="mi_pad2">latte</string>
      <string name="minute_rain_after_an_hour">"Tra un'ora"</string>
      <string name="minute_rain_after_two_hour">Tra due ore</string>
@@ -199,9 +194,13 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="precipitation_degree_three">moderata</string>
      <string name="precipitation_degree_two">leggera</string>
      <string name="pressure_connect">%1$s MB</string>
+     <string name="pull_fresh_updated">Aggiornato con successo</string>
+     <string name="pull_fresh_updating">Aggiornamento…</string>
      <string name="radar_cloud_image_title">Mappa Radar</string>
      <string name="rainfall_settings_summary">Impostazioni piovosità</string>
      <string name="rainfall_settings_title">Avvisi piovosità</string>
+     <string name="real_time_sunrise">Alba %1$s</string>
+     <string name="real_time_sunset">Tramonto %1$s</string>
      <string name="realtime_aqi_title">Indice Qualità Aria</string>
      <string name="realtime_humidity_title">Umidità relativa</string>
      <string name="realtime_temperature_no_data">N/A</string>
@@ -229,7 +228,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="some_where_on_earth">In qualche luogo nel mondo</string>
      <string name="sunrise">Alba</string>
      <string name="sunset">Tramonto</string>
-     <string name="temperature_unit">%1$s°</string>
      <string name="title_share_link">Condividi URL</string>
      <string name="top_pollution_co">CO</string>
      <string name="top_pollution_no2">NO2</string>
@@ -258,6 +256,8 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="update_night_setting_summary_text">Nessun aggiornamento automatico dalle 23:00 alle 07:00 dopo la chiusura</string>
      <string name="update_night_setting_title_text">Aggiorna automaticamente di notte</string>
      <string name="update_setting_title_text">Impostazioni di aggiornamento</string>
+     <string name="updated_a_moment_ago">Aggiornato poco fa</string>
+     <string name="updating">Aggiornamento…</string>
      <string name="video_dialog_no_play" />
      <string name="video_dialog_play" />
      <string name="video_dialog_subtitle" />
@@ -269,7 +269,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="wind_direction_no_data">Vento</string>
      <string name="wind_miles_unit">%1$smph</string>
      <string name="wind_unit">%1$s km/h</string>
-     <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzioni prima di elimiare l'app."</string>
+     <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzioni prima di eliminare l'app."</string>
      <string name="xiaomi_weather_description_title">Informazioni</string>
      <string name="yes_vote_ratio">Per %1$s%%</string>
      <string name="your_location">La tua posizione</string>

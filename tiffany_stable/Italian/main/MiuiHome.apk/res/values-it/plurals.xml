@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
+     <plurals name="announce_for_drag">
+        <item quantity="other">spostamento di %1$d elementi</item>
+        <item quantity="one">spostamento</item>
+     </plurals>
      <plurals name="delete_wallpapers_message">
         <item quantity="other">Eliminare %1$d sfondi?</item>
         <item quantity="one">Eliminare %1$d sfondo?</item>

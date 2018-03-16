@@ -19,13 +19,9 @@
      <string name="button_text_next_step">Next</string>
      <string name="button_text_next_step_timer">Next (%d)</string>
      <string name="cancel">Annulla</string>
-     <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+     <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione. Tutti i dati utente precedenti verranno salvati."</string>
      <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) will replace the currently installed version (%3$s). All existing app data will be saved.</string>
-     <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+     <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema. Tutti i dati utente precedenti verranno salvati."</string>
      <string name="done">Fine</string>
      <string name="install">Installa</string>
      <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
@@ -69,13 +65,13 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="uninstall_update_title">Disinstalla aggiornamento</string>
      <string name="uninstalling">Disinstallazione...</string>
      <string name="unknown">Sconosciuto</string>
-     <string name="unknown_apps_dlg_text">"Il telefono è impostato per bloccare l'installazione di app ottenute da origini sconosciute."</string>
+     <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources.</string>
      <string name="unknown_apps_dlg_title">Install blocked</string>
      <string name="update_log_default">No change log.</string>
      <string name="update_time">%4$s released on %2$s/%3$s/%1$s.</string>
      <string name="update_title">%1$s is up to date.</string>
      <string name="virus_scan_clear">Remove</string>
-     <string name="virus_scan_install">&lt;u&gt;Install anyway&lt;/u&gt;</string>
+     <string name="virus_scan_install"><u>Install anyway</u></string>
      <string name="virus_scan_is_risk">"This app poses a risk to your device's security."</string>
      <string name="virus_scan_is_virus">This app contains a virus.</string>
      <string name="warn_message">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using this app.</string>

@@ -59,7 +59,7 @@
      <string name="call_forwarding_settings_with_label">Call forwarding settings (%s)</string>
      <string name="call_settings">Chiamate</string>
      <string name="call_settings_primary_user_only">"Impostazioni di chiamata possono essere modificate solo dall'utente primario."</string>
-     <string name="call_settings_with_label">Call settings (%s)</string>
+     <string name="call_settings_with_label">Impostazioni di chiamata (%s)</string>
      <string name="calling_via_template">Chiamo via %s</string>
      <string name="cancel">Annulla</string>
      <string name="card_title_call_ended">Chiamata terminata</string>
@@ -304,9 +304,9 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="network_2G">2G</string>
      <string name="network_3G">3G</string>
      <string name="network_4G">4G (raccomandato)</string>
-     <string name="network_error_message">Error message</string>
+     <string name="network_error_message">Impossibile collegarsi alla rete</string>
      <string name="network_global">Globale</string>
-     <string name="network_info_message">Network message</string>
+     <string name="network_info_message">Messaggio di rete</string>
      <string name="network_lte">LTE (raccomandato)</string>
      <string name="network_query_error">Errore durante la ricerca reti.</string>
      <string name="networks">Operatori di rete</string>
@@ -390,7 +390,7 @@ Invio toni"</string>
      <string name="payphone">Cabina telefonica</string>
      <string name="phoneAppLabel">Telefono</string>
      <string name="phoneIconLabel">Telefono</string>
-     <string name="phone_account_wifi_calling">WLAN calling</string>
+     <string name="phone_account_wifi_calling">WLAN calls</string>
      <string name="phone_accounts">Impostazioni account telefono</string>
      <string name="phone_accounts_add_sip_account">Aggiunti account SIP</string>
      <string name="phone_accounts_ask_every_time">Chiedi sempre</string>
@@ -574,23 +574,23 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voicemail">Segreteria telefonica</string>
      <string name="voicemail_abbreviated">Segr:</string>
      <string name="voicemail_default">Il mio operatore</string>
-     <string name="voicemail_notification_ringtone_title">Suona</string>
-     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrazione</string>
-     <string name="voicemail_notification_vibrate_when_title">Vibra</string>
+     <string name="voicemail_notification_ringtone_title">Sound</string>
+     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
+     <string name="voicemail_notification_vibrate_when_title">Vibrate</string>
      <string name="voicemail_number_not_set">Non impostato</string>
      <string name="voicemail_provider">Servizio di segreteria</string>
      <string name="voicemail_settings">Impostazioni segreteria</string>
      <string name="voicemail_settings_number_label">Numero della segreteria telefonica</string>
      <string name="wait_prompt_str">"Inviare i seguenti toni?
 "</string>
-     <string name="wifi_calling_call_assistant">Call assistant</string>
+     <string name="wifi_calling_call_assistant">Calling assistant</string>
      <string name="wifi_calling_call_assistant_configure">Configure</string>
      <string name="wifi_calling_call_assistant_none">None</string>
-     <string name="wifi_calling_do_not_use">Do not use WLAN calling</string>
-     <string name="wifi_calling_do_not_use_call_assistant">Do not use call assistant</string>
-     <string name="wifi_calling_select_call_assistant">Choose call assistant</string>
-     <string name="wifi_calling_select_call_assistant_summary">Choose an app or service to manage the networks used for calls</string>
-     <string name="wifi_calling_use_call_assistant">Use call assistant</string>
+     <string name="wifi_calling_do_not_use">"Don't use WLAN calls"</string>
+     <string name="wifi_calling_do_not_use_call_assistant">"Don't use Calling assistant"</string>
+     <string name="wifi_calling_select_call_assistant">Choose Calling assistant</string>
+     <string name="wifi_calling_select_call_assistant_summary">Manage the networks used for calls with</string>
+     <string name="wifi_calling_use_call_assistant">Use Calling assistant</string>
      <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
      <string name="wild_prompt_str">Sostituire carattere con</string>
 </resources>

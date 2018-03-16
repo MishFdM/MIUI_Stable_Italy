@@ -195,7 +195,7 @@
      <string name="music_quality">Music quality</string>
      <string name="music_settings">Musica</string>
      <string name="my_account">Mi Account</string>
-     <string name="my_music">Mia Musica</string>
+     <string name="my_music">My Music</string>
      <string name="my_music_empty">Playlist vuota</string>
      <string name="my_music_empty_goto_online">Nessun brano trovato</string>
      <string name="my_playlist">Playlist</string>
@@ -316,6 +316,6 @@
      <string name="upgrade_remind">Aggiornamento disponibile</string>
      <string name="upgrade_suggest">"Abbiamo interrotto il nostro servizio di streaming a causa di problemi con i diritti d'autore. Aggiorna all'ultima versione per ascoltare musica di alta qualità."</string>
      <string name="upgrade_waringing">Potrai ascoltare soltanto la musica archiviata in locale.</string>
-     <string name="valid_period">"Validità: "</string>
+     <string name="valid_period">Validità: </string>
      <string name="vip_recommend_title">Get higher quality music</string>
 </resources>

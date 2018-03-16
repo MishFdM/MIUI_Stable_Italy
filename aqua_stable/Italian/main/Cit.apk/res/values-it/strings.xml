@@ -116,6 +116,8 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_external_sd_check_title">Test Scheda SD</string>
      <string name="cit_fail">Fallito</string>
      <string name="cit_finger_check_title">Test Lettore Impronte</string>
+     <string name="cit_flash_life_check_summary">Vita stimata flash del dispositivo</string>
+     <string name="cit_flash_life_check_title">Vita del flash</string>
      <string name="cit_fm_audio_path">Configura path audio</string>
      <string name="cit_fm_audio_path_headset">Cuffie</string>
      <string name="cit_fm_audio_path_speaker">Altoparlante</string>

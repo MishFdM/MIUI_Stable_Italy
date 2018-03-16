@@ -22,6 +22,7 @@
      <string name="app_widget">Note</string>
      <string name="call_folder_name">Note di chiamata</string>
      <string name="cancel_alarm_description">Annulla sveglia</string>
+     <string name="cloud_service_state_open_reminder">Attiva la sincronizzazione con Mi Cloud per sincronizzare le note.</string>
      <string name="cloud_trash_bin_title">Elimina le note su Mi Cloud</string>
      <string name="cta_reminder">Questa app necessita di collegarsi alla rete per eseguir eil backup delle note su Mi Cloud, oltre che per leggere i tuoi contati per etichettare le note che prendi durante le chiamate.</string>
      <string name="db_downgrade_clear_button">Cancella i dati app</string>
@@ -120,7 +121,7 @@
      <string name="recover_notes_hint">Rilevati dati anomali nella nota, prova a recuperarla su <b>i.mi.com</b></string>
      <string name="redo">Ripristina</string>
      <string name="refuse_to_share_as_pic_because_of_content">Questa nota è troppo grande per essere condivisa.</string>
-     <string name="refuse_to_share_as_pic_because_of_loading">Attendi fino a che la nota non è stata caricata e prova di nuovo.</string>
+     <string name="refuse_to_share_as_pic_because_of_loading">Wait until the note is loaded and try again.</string>
      <string name="rename_folder_dialog_tile">Rinomina cartella</string>
      <string name="root_folder_name">Note veloci</string>
      <string name="search">Note</string>

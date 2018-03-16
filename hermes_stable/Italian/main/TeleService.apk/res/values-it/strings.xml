@@ -277,7 +277,9 @@
      <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
      <string name="dial_related_setting_catory">Componi</string>
      <string name="dialerKeyboardHintText">Usa la tastiera per chiamare</string>
+     <string name="dialog_cancel">Annulla</string>
      <string name="dialog_network_priority_title">Priorità</string>
+     <string name="dialog_report">Segnala</string>
      <string name="dialpad_0_letters">+</string>
      <string name="dialpad_0_number">0</string>
      <string name="dialpad_1_letters" />
@@ -338,6 +340,8 @@
      <string name="dtmf_tone_entries_normal">Normale</string>
      <string name="dtmf_tones_summary">Imposta la lunghezza dei toni DTMF</string>
      <string name="dtmf_tones_title">Toni DTMF</string>
+     <string name="dual_4g_switch_summary">Consenti la connessione 4G per entrambi gli slot SIM.</string>
+     <string name="dual_4g_switch_title">Doppio 4G</string>
      <string name="dual_mic_summary">Suppress your background noise during calls</string>
      <string name="dual_mic_title">Noise Reduction</string>
      <string name="edit_fdn_contact">Modifica numero a selezione fissa</string>
@@ -374,6 +378,7 @@
      <string name="enable_disable_retail_directory">Elenco venditori al dettaglio</string>
      <string name="enable_disable_stock_quotes">Quotazione di borsa</string>
      <string name="enable_disable_technology_news">Notizie di tecnologia</string>
+     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE richiede la connessione 4G per entrambi gli slot SIM. PAssare al doppio 4G adesso?</string>
      <string name="enable_fdn">Attiva NSSF</string>
      <string name="enable_fdn_ok">NSF disattivati</string>
      <string name="enable_in_progress">Attendere…</string>
@@ -567,10 +572,15 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="missed_call_notify_times_summary">Scegli il numero di promemoria che desideri ricevere per le chiamate perse (i promemoria avvengono ad intervalli di 5 minuti)</string>
      <string name="missed_call_notify_times_title">Promemoria chiamate perse</string>
      <string name="missed_call_notify_twice">2 volte</string>
+     <string name="miui_network_selection_reset_text">Ripristina</string>
+     <string name="miui_notification_network_selection_title">Nessun servizio SIM</string>
+     <string name="miui_notification_network_selection_title_by_sim">Nessun servizio SIM %s</string>
      <string name="mmiCancelled">Codice MMI annullato</string>
      <string name="mmiStarted">Codice MMI inizializzato</string>
      <string name="mobile_network_settings_not_available">Le impostazioni delle rete cellulare non sono disponibili per questo utente</string>
      <string name="mobile_networks">Impostazione reti mobili</string>
+     <string name="modem_dialog_body">La rete mobile non è stabile, causa interruzioni o problemi di rete.Inviare una segnalazione a Mi analizzarla? Questa segnalazione potrebbe contenere informazioni sui dati personali. Il tuo rapporto verrà utilizzato unicamente per la risoluzione del problema e non verrà mai condiviso a scopi commerciali.</string>
+     <string name="modem_dialog_title">La rete mobile non è stabile</string>
      <string name="msim_apn_not_set">Non impostato</string>
      <string name="msim_default_setting">Impostazioni predefinite</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
@@ -725,6 +735,7 @@ Dopo aver premuto \"Attiva\", ascolta le istruzioni fornite per attivare il tuo 
 Dovresti trovare una zona dove c'è migliore copertura (vicino una finestra o all'esterno). 
 
 Riprova o chiama il servizio clienti per altre opzioni."</string>
+     <string name="other_available_phone_accounts">Altri account disponibili</string>
      <string name="other_settings">Altre impostazioni di chiamata</string>
      <string name="other_settings_category">Altro</string>
      <string name="overseas_roaming_setting">Roaming dati</string>
@@ -773,8 +784,8 @@ Invio toni"</string>
      <string name="payphone">Cabina telefonica</string>
      <string name="phoneAppLabel">Telefono</string>
      <string name="phoneIconLabel">Telefono</string>
-     <string name="phone_account_settings">Phone account settings</string>
-     <string name="phone_account_wifi_calling">WLAN calling</string>
+     <string name="phone_account_settings">Account chiamate</string>
+     <string name="phone_account_wifi_calling">WLAN calls</string>
      <string name="phone_accounts">Impostazioni account telefono</string>
      <string name="phone_accounts_accounts_header">Accounts</string>
      <string name="phone_accounts_add_sip_account">Aggiunti account SIP</string>
@@ -851,6 +862,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_type_pref_entries_only_3g">Solo reti 3G</string>
      <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
      <string name="preferred_network_type_title">Tipologia di rete preferita</string>
+     <string name="preferred_phone_account">Account chiamata preferito</string>
      <string name="private_num">Numero privato</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
      <string name="proxy_address">ProxyAddress</string>
@@ -865,6 +877,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="puk_lock_warning">La tua SIM verrà disabilitata se fallisci un altro tentativo.</string>
      <string name="puk_requested">Password non corretta, PIN bloccato. Ora è richiesto il PUK.</string>
      <string name="puk_unlocked">La tua SIM è stata sbloccata. Il dispositivo verrà sbloccato…</string>
+     <string name="quick_dial_setting_title">Chiamata rapida</string>
      <string name="radio_off_error">Attiva la radio prima di visualizzare queste impostazioni.</string>
      <string name="reading_settings">Lettura impostazioni…</string>
      <string name="regional_disable">Notizie regionali disattivate</string>
@@ -938,6 +951,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="simContacts_emptyLoading">Lettura dalla carta SIM…</string>
      <string name="simContacts_title">Gestione contatti sulla carta SIM</string>
      <string name="simFdnContacts_empty">Nessun contatto di chiamata rapida.</string>
+     <string name="sim_accounts">Account SIM</string>
      <string name="sim_card_num">SIM %s</string>
      <string name="sim_contact_name">Nome</string>
      <string name="sim_contact_number">Numero</string>
@@ -1060,6 +1074,8 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="transport_title">Tipo di trasporto</string>
      <string name="tty_mode_option_summary">Imposta modalità TTY</string>
      <string name="tty_mode_option_title">Modalità TTY</string>
+     <string name="turn_off_dual_4g_failed">Impossibile disattivare il doppio 4G.</string>
+     <string name="turn_on_dual_4g_failed">Impossibile attivare il doppio 4G.</string>
      <string name="turnover_mute_summary">Quando il dispositivo è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
      <string name="turnover_mute_title">Capovolgi per silenziare la suoneria</string>
      <string name="unblock_pin2">Unblock PIN2</string>
@@ -1086,9 +1102,9 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voicemail">Segreteria telefonica</string>
      <string name="voicemail_abbreviated">Segr:</string>
      <string name="voicemail_default">Il mio operatore</string>
-     <string name="voicemail_notification_ringtone_title">Suona</string>
-     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrazione</string>
-     <string name="voicemail_notification_vibrate_when_title">Vibra</string>
+     <string name="voicemail_notification_ringtone_title">Sound</string>
+     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
+     <string name="voicemail_notification_vibrate_when_title">Vibrate</string>
      <string name="voicemail_number_not_set">Non impostato</string>
      <string name="voicemail_provider">Servizio di segreteria</string>
      <string name="voicemail_provider_summary">Scelta servizio di segreteria</string>
@@ -1101,19 +1117,20 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="volte_provision_text">Rileva VoLTE se non supportato dalla tua SIM, attivare adesso?</string>
      <string name="volte_provision_title">Introduzione VoLTE</string>
      <string name="volte_switch_not_support_summary">Le chiamate VoLTE non sono supportate da questa SIM dati.</string>
+     <string name="volte_switch_not_support_summary2">"Le chiamate VoLTE non sono supportate dall'operatore."</string>
      <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
      <string name="volte_switch_title">VoLTE attivato</string>
      <string name="wait_prompt_str">"Inviare i seguenti toni?
 "</string>
-     <string name="wifi_calling_call_assistant">Call assistant</string>
+     <string name="wifi_calling_call_assistant">Calling assistant</string>
      <string name="wifi_calling_call_assistant_configure">Configure</string>
-     <string name="wifi_calling_call_assistant_configure_no_selection">Call assistant off</string>
+     <string name="wifi_calling_call_assistant_configure_no_selection">Calling assistant off</string>
      <string name="wifi_calling_call_assistant_none">None</string>
-     <string name="wifi_calling_do_not_use">Do not use WLAN calling</string>
-     <string name="wifi_calling_do_not_use_call_assistant">Do not use call assistant</string>
-     <string name="wifi_calling_select_call_assistant">Choose call assistant</string>
-     <string name="wifi_calling_select_call_assistant_summary">Choose an app or service to manage the networks used for calls</string>
-     <string name="wifi_calling_use_call_assistant">Use call assistant</string>
+     <string name="wifi_calling_do_not_use">"Don't use WLAN calls"</string>
+     <string name="wifi_calling_do_not_use_call_assistant">"Don't use Calling assistant"</string>
+     <string name="wifi_calling_select_call_assistant">Choose Calling assistant</string>
+     <string name="wifi_calling_select_call_assistant_summary">Manage the networks used for calls with</string>
+     <string name="wifi_calling_use_call_assistant">Use Calling assistant</string>
      <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
      <string name="wild_prompt_str">Sostituire carattere con</string>
      <string name="wrong_password">Password errata</string>

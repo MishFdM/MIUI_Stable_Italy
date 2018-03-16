@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="mibi_app_name">Mi Credit</string>
+     <string name="mibi_applock_config">Impossibile impostare App lock quando è in uso lo Split Screen.</string>
      <string name="mibi_applock_dialog_cancel">Non adesso</string>
      <string name="mibi_applock_dialog_content">A causa di un aggiornamento di sistema, la sequenza di sblocco attuale è scaduta. Imposta una nuova sequenza di blocco.</string>
      <string name="mibi_applock_dialog_ok">Imposta</string>
@@ -11,6 +12,7 @@
      <string name="mibi_bill_delete_dialog_title">Elimina %1$s</string>
      <string name="mibi_bill_delete_message">Eliminare “%1$s”?</string>
      <string name="mibi_bill_menu_delete_item">Elimina</string>
+     <string name="mibi_bill_record">Transazioni</string>
      <string name="mibi_bill_record_empty">Nessun elemento.</string>
      <string name="mibi_btn_agree">OK</string>
      <string name="mibi_btn_back">Indietro</string>
@@ -25,9 +27,9 @@
      <string name="mibi_btn_recharge_large">Ricarica</string>
      <string name="mibi_btn_recharge_other">Ricarica</string>
      <string name="mibi_btn_recharge_success_quick">Ricarica completata</string>
+     <string name="mibi_business_title">Altri servizi</string>
      <string name="mibi_button_bind_phone">Collega adesso</string>
      <string name="mibi_button_call">Chiama</string>
-     <string name="mibi_button_call_frozen_service">24-hour online support</string>
      <string name="mibi_button_cancel">Annulla</string>
      <string name="mibi_button_confirm">Conferma</string>
      <string name="mibi_button_count_down_finish">OK(%1$s)</string>
@@ -39,6 +41,7 @@
      <string name="mibi_button_retry">Riprova</string>
      <string name="mibi_cancel">Annulla</string>
      <string name="mibi_change_security_lock">Altri blocco schermo</string>
+     <string name="mibi_check_giftcard">Mostra coupon</string>
      <string name="mibi_click_retry">%1$s, tocca per riprovare</string>
      <string name="mibi_colon">": "</string>
      <string name="mibi_deduct_goods_name">Prodotto</string>
@@ -84,15 +87,13 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_error_common_summary">Errore di sistema. Riprova più tardi.</string>
      <string name="mibi_error_deduct">Impossibile attivare il protocollo di pagamento automatico</string>
      <string name="mibi_error_expired_summary">Il tuo ordine è scaduto</string>
-     <string name="mibi_error_frozen_service_num">400-100-2234</string>
-     <string name="mibi_error_frozen_service_time">Monday to Sunday</string>
-     <string name="mibi_error_frozen_summary">"Your account is frozen. 
-Please contact Xiaomi customer service."</string>
+     <string name="mibi_error_frozen_service_num">400-100-3399</string>
      <string name="mibi_error_has_bought_summary">Hai già acquistato questo prodotto.</string>
      <string name="mibi_error_illegal_order_summary">Errore ordine. Riprova più tardi</string>
      <string name="mibi_error_invalid_device">Dispositivo non valido.</string>
      <string name="mibi_error_mili_summary">Saldo insufficiente.</string>
      <string name="mibi_error_network_summary">Impossibile collegarsi alla rete.</string>
+     <string name="mibi_error_no_available_channels">Spiacenti, nessun canale disponibile in questo momento.</string>
      <string name="mibi_error_pay_result_uncertain">Pagamento non sicuro.</string>
      <string name="mibi_error_recharge_process_fail">Operazione di ricarica fallito.</string>
      <string name="mibi_error_recharge_result_fail">Ricarica fallita.</string>
@@ -109,17 +110,21 @@ Please contact Xiaomi customer service."</string>
      <string name="mibi_frozen">Bloccato</string>
      <string name="mibi_frozen_prim">Account bloccato</string>
      <string name="mibi_frozen_sub">"E' stata rilevata un'attività sospetta"</string>
+     <string name="mibi_frozen_text">Il tuo account è stato bloccato. Contatta il nostro servizio di assistenza</string>
+     <string name="mibi_frozen_text_pad">Il tuo account è bloccato. Contatta 400–100–3399.</string>
      <string name="mibi_get_phone_format_error">Verifica il numero di telefono</string>
      <string name="mibi_get_phone_num_prefix">+39</string>
      <string name="mibi_get_phone_num_summary">Immetti il numero di telefono utilizzato per i pagamenti</string>
      <string name="mibi_get_phone_num_title">Immetti numero di telefono</string>
      <string name="mibi_get_phone_sms_prompt">Codice di verifica inviato a %1$s</string>
      <string name="mibi_giftcard_acitivity_and_denomination">%2$s-Carta regalo Mi Credit da %1$s</string>
-     <string name="mibi_giftcard_define_detail">Utilizza queste carte regalo come dei normali Mi Credit. Sarà possibile ricevere schede regalo dopo aver partecipato agli eventi e alle promozioni Xiaomi.</string>
+     <string name="mibi_giftcard_define_detail">Use these gift cards just like regular Mi Credits. You may receive gift cards after participating in Xiaomi events and promotions.</string>
      <string name="mibi_giftcard_denom">Mi Credit</string>
      <string name="mibi_giftcard_denom_available">Mi Credit disponibile</string>
      <string name="mibi_giftcard_denom_frozen">Mi Credit bloccata</string>
-     <string name="mibi_giftcard_empty">Nessuna carta regalo</string>
+     <string name="mibi_giftcard_discount">Sconti</string>
+     <string name="mibi_giftcard_discount_detail">Sconto (spendi %1$s Mi Credit)</string>
+     <string name="mibi_giftcard_empty">No gift cards.</string>
      <string name="mibi_giftcard_has_expired">Scaduta il %1$s</string>
      <string name="mibi_giftcard_hint">I crediti Mi aggiunti tramite carta regalo verranno spesi automaticamente per primi.</string>
      <string name="mibi_giftcard_payment">Certificati regalo</string>
@@ -127,9 +132,9 @@ Please contact Xiaomi customer service."</string>
      <string name="mibi_giftcard_push_notification_prime_title">Hai ricevuto un certificato regalo</string>
      <string name="mibi_giftcard_push_notification_sub_title">%1$s: %2$s Mi Credit donati.</string>
      <string name="mibi_giftcard_record">Le mie carte regalo</string>
-     <string name="mibi_giftcard_title">Le me carte regalo Mi Credit</string>
+     <string name="mibi_giftcard_title">Mi Credit Gift Card</string>
      <string name="mibi_giftcard_will_expire">Scaduta il %1$s</string>
-     <string name="mibi_giftcard_with_num">%1$s Mi Credit coupon available</string>
+     <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Sconto Mi Credit disponibile&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
      <string name="mibi_header_network_error">Impossibile connettersi alla rete</string>
      <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
      <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
@@ -142,6 +147,7 @@ Please contact Xiaomi customer service."</string>
      <string name="mibi_list_item_bottom_hint">Hai raggiunto la fine della lista</string>
      <string name="mibi_login">Accedi</string>
      <string name="mibi_memu_refresh">Aggiorna</string>
+     <string name="mibi_menu_feedback">Feedback</string>
      <string name="mibi_menu_lock">Sequenza di sblocco</string>
      <string name="mibi_menu_qa">FAQ</string>
      <string name="mibi_menu_shotcut">Posiziona in Home</string>
@@ -179,6 +185,9 @@ Please contact Xiaomi customer service."</string>
      <string name="mibi_order_pay_back">Conferma</string>
      <string name="mibi_order_pay_type">Metodo di pagamento</string>
      <string name="mibi_order_pay_type_title">Seleziona metodo di pagamento</string>
+     <string name="mibi_order_pay_uncertain_button">Fatto</string>
+     <string name="mibi_order_pay_uncertain_detail">Se il pagamento non dovesse riuscire, chiama %1$s</string>
+     <string name="mibi_order_pay_uncertain_summary">Conferma pagamento</string>
      <string name="mibi_order_title">Pagamento</string>
      <string name="mibi_other_denomiantion">Seleziona ammontare</string>
      <string name="mibi_partner_giftcard_payment_with_append">Applica %1$s</string>
@@ -187,10 +196,11 @@ Please contact Xiaomi customer service."</string>
      <string name="mibi_password_hint">Immetti la password del tuo account</string>
      <string name="mibi_password_prompt">Per rendere sicure le tue spese, verifica il tuo Mi account</string>
      <string name="mibi_payment_recharge_group_title">Scegli metodo di ricarica</string>
-     <string name="mibi_payment_success_label">Hai pagato %1$s Mi Credit</string>
+     <string name="mibi_payment_success_label">"You've paid%1$sMi Credit"</string>
      <string name="mibi_payment_success_title">Pagamento ricevuto</string>
      <string name="mibi_payment_with_login_title">Mi Credit</string>
      <string name="mibi_paytool_alipay">Alipay</string>
+     <string name="mibi_paytool_app_not_installed">Non hai installato %1$s. Scaricare ed installare ora?"</string>
      <string name="mibi_paytool_error_install">"Errore nell'installazione del plugin di sicurezza mobile %1$s"</string>
      <string name="mibi_paytool_error_msp">%1$s non riuscito</string>
      <string name="mibi_paytool_mipay">Mi Pay</string>
@@ -233,7 +243,7 @@ Please contact Xiaomi customer service."</string>
      <string name="mibi_progress_submit_hint">La ricarica verrà effettuata sul saldo del tuo account entro 3 minuti.</string>
      <string name="mibi_progress_submit_recharge_summary">Ricarica: %1$s Mi Credit.</string>
      <string name="mibi_progress_submit_title">Richiesta inviata</string>
-     <string name="mibi_progress_success_pay_summary">Ricarica di %1$s Mi Credit，%2$s Mi Credit spesi</string>
+     <string name="mibi_progress_success_pay_summary">%1$s Mi Credits recharged，%2$s Mi Credits paied</string>
      <string name="mibi_progress_success_pay_title">Pagamento di %1$s Mi Credit completato</string>
      <string name="mibi_progress_success_recharge_summary">Bilancio account: %1$s Mi Credit.</string>
      <string name="mibi_progress_success_recharge_title">Ricarica di %1$s Mi Credit completata</string>
@@ -258,6 +268,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="mibi_recharge_grid_item_more">Altro</string>
      <string name="mibi_recharge_grid_mibi_picker_hint">Seleziona ammontare</string>
      <string name="mibi_recharge_grid_money_picker_hint">Seleziona ammontare</string>
+     <string name="mibi_recharge_label">Ricarica</string>
      <string name="mibi_recharge_mibi_title">Mi Credit</string>
      <string name="mibi_recharge_novalid_method">Nessun metodo di ricarica valido.</string>
      <string name="mibi_recharge_other">Visualizza altri metodi</string>
@@ -272,14 +283,13 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="mibi_signing_success_sub">Il rinnovo dei pagamenti verrà effettuato utilizzando %1$s</string>
      <string name="mibi_signing_success_title">Selezionato con successo</string>
      <string name="mibi_sms_code_empty">Inserisci il codice di verifica inviato al tuo telefono.</string>
-     <string name="mibi_sms_code_error">Si è verificato un errore nel codice di verifica del telefon, riprova</string>
+     <string name="mibi_sms_code_error">Si è verificato un errore nel codice di verifica del telefono, riprova</string>
      <string name="mibi_sms_code_hint">Immetti codice di verifica a 6 cifre</string>
      <string name="mibi_string_with_bracket">(%s)</string>
      <string name="mibi_summary_bind_phone">Per garantire la sicurezza del tuo account, completa il pagamento dopo aver abbinato il numero di telefono.</string>
      <string name="mibi_summary_custom_service_phone">Tel:</string>
      <string name="mibi_summary_sms_code">Immetti il codice di verifica inviato a %1$s，e quindi termina il pagamento</string>
      <string name="mibi_tianyi_create_order">SMS China Unicom</string>
-     <string name="mibi_title_bill_record">Payment history</string>
      <string name="mibi_title_bind_phone">Abbina numero di telefono.</string>
      <string name="mibi_title_custom_service_phone">Contatta il supporto clienti</string>
      <string name="mibi_title_discounts">Sconti</string>
@@ -312,7 +322,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_auto_generate_pwd">Genera password sicura</string>
      <string name="passport_back">Indietro</string>
      <string name="passport_bad_authentication">Nome utente o password non validi</string>
-     <string name="passport_barcode_add_account_prompt">""Per connettere un account, scansiona il codice QR dopo aver completato l'accesso"."</string>
+     <string name="passport_barcode_add_account_prompt">"Per connettere un account, scansiona il codice QR dopo aver completato l'accesso."</string>
      <string name="passport_change_account"><u>Cambia account</u></string>
      <string name="passport_change_phone_number">Cambia numeri</string>
      <string name="passport_checking_account">Verifica password…</string>
@@ -358,7 +368,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_get_verify_code">Ottieni codice</string>
      <string name="passport_getting_verify_code">Ottenimento</string>
      <string name="passport_i_know">Fatto</string>
-     <string name="passport_identitfication_expired">Codice di verifica scaduto, ricomincia</string>
+     <string name="passport_identitfication_expired">Verification code expired, start over</string>
      <string name="passport_imei_permission_denied_message">"Stiamo richiedendo l'autorizzazione per ottenere l'IMEI del tuo dispositivo. Il Mi Account utilizza l'IMEI per identificare il dispositivo su cui accedi o ti registri, e questo per mantenere al sicuro il tuo Mi Account."</string>
      <string name="passport_imei_permission_denied_title">Richiesto permesso IMEI</string>
      <string name="passport_input_captcha_hint">Immetti codice</string>
@@ -381,7 +391,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_password_req_notice">La password deve contenere almeno 8-16 caratteri fra numeri e lettere (maiuscole e minuscole).</string>
      <string name="passport_phone_num_hint_text">Numero di telefono</string>
      <string name="passport_prev">Indietro</string>
-     <string name="passport_privacy_policy">Privacy Policy</string>
+     <string name="passport_privacy_policy">Informativa sulla Privacy</string>
      <string name="passport_pwd_generate_failure">Impossibile generare password</string>
      <string name="passport_pwd_generating">Generazione…</string>
      <string name="passport_quick_login_dialog_step2_title">Verifica in 2 passaggi</string>
@@ -442,7 +452,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_user_agreement_p1">Accetto</string>
      <string name="passport_user_agreement_p2">Accordo Utente</string>
      <string name="passport_user_agreement_p3"> e </string>
-     <string name="passport_user_agreement_p4">Privacy Policy</string>
+     <string name="passport_user_agreement_p4">Iformativa sulla privacy</string>
      <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
      <string name="passport_vcode_prompt_long">Immetti codice di verifica</string>
      <string name="passport_vcode_sms_send_prompt">Invia codice di verifica a %s</string>
