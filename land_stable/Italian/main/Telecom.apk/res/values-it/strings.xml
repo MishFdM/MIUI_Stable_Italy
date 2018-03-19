@@ -7,7 +7,7 @@
      <string name="callFailed_simError">SIM card error</string>
      <string name="can_not_dial_vt_while_voice_prompt">Impossibile effettuare video chiamate quando è in corso una chiamata</string>
      <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
-     <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
+     <string name="change_default_dialer_dialog_title"> Change default Dialer app?</string>
      <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
      <string name="change_default_dialer_with_previous_app_set_text">Use %1$s instead of %2$s as your default dialer app?</string>
      <string name="close">Close</string>

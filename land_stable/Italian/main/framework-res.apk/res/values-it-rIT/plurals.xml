@@ -2,16 +2,16 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="duration_hours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">1 ora</item>
+        <item quantity="other">%d hours</item>
+        <item quantity="one">1 hour</item>
      </plurals>
      <plurals name="duration_minutes">
-        <item quantity="other">%d minuti</item>
-        <item quantity="one">1 minuto</item>
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minute</item>
      </plurals>
      <plurals name="duration_seconds">
-        <item quantity="other">%d secondi</item>
-        <item quantity="one">1 secondo</item>
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">1 second</item>
      </plurals>
      <plurals name="last_num_days">
         <item quantity="other">Ultimi %d giorni</item>
