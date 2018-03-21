@@ -14,8 +14,8 @@
         <item quantity="one">%d song added</item>
      </plurals>
      <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d nuovi</item>
-		<item quantity="one">1 nuovo</item>
+        <item quantity="other">%d nuovi brani</item>
+		<item quantity="one">1 nuovo brano</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d brani aggiunti alla playlist</item>

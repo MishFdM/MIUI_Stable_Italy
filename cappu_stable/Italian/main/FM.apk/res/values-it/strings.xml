@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="alert_frequency_duplicate">Frequenza già esistente</string>
      <string name="alert_invalid_frequency">Frequenza non valida!</string>
@@ -22,6 +21,7 @@
      <string name="label_recording">Registrazione: %s</string>
      <string name="menu_exit">Esci</string>
      <string name="menu_headset">Passa alle cuffie</string>
+     <string name="menu_label">Menu</string>
      <string name="menu_new_station">Aggiungi stazione</string>
      <string name="menu_record_list">Lista registrazioni</string>
      <string name="menu_record_start">Inizia registrazione</string>
@@ -35,6 +35,7 @@
      <string name="msg_do_not_support_fm">La Radio FM non è supportata su questo dispositivo.</string>
      <string name="msg_fm_starting">Avvio…</string>
      <string name="msg_noantenna_message">Inserisci le cuffie per migliorare la qualità della ricezione.</string>
+     <string name="msg_try_plug_headset">Collega le cuffie e prova dinuovo.</string>
      <string name="new_frequency">Nuova frequenza</string>
      <string name="next_station">successiva</string>
      <string name="notification_rec_title">Tocca per vedere la registrazione</string>

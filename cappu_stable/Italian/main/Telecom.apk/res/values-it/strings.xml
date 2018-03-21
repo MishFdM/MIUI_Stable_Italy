@@ -97,7 +97,7 @@
      <string name="button_convert_fbe">Wipe and convert…</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Work</string>
-     <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
+     <string name="change_default_dialer_dialog_title"> Change default Dialer app?</string>
      <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
      <string name="change_default_dialer_with_previous_app_set_text">Use %1$s instead of %2$s as your default dialer app?</string>
      <string name="charge_length_format">%1$s ago</string>
@@ -208,7 +208,7 @@
      <string name="notification_missedCall_message">Messaggio</string>
      <string name="notification_missedCallsMsg">%s chiamate perse</string>
      <string name="notification_missedCallsTitle">Chiamate perse</string>
-     <string name="notification_missedWorkCallTitle">Missed work call</string>
+     <string name="notification_missedWorkCallTitle">Chiamata lavoro persa</string>
      <string name="oem_preferred_feedback_reporter" />
      <string name="oem_unlock_enable">OEM unlocking</string>
      <string name="oem_unlock_enable_summary">Allow the bootloader to be unlocked</string>

@@ -134,8 +134,13 @@
      <string name="callFailed_data_limit_reached_description">Chiamata terminata a causa del limite dati cellulare raggiunto.</string>
      <string name="callFailed_destination_out_of_order">Destinazione fuori servizio</string>
      <string name="callFailed_dialToDial">Richiesta DIAL modificata in richiesta DIAL con numero diverso.</string>
+     <string name="callFailed_dialToDialVideo">Richiesta DIAL modificata in Video DIAL.</string>
      <string name="callFailed_dialToSs">Richiesta DIAL modificata in richiesta SS.</string>
      <string name="callFailed_dialToUssd">Richiesta DIAL modificata in richiesta USSD.</string>
+     <string name="callFailed_dialVideoToDial">Richiesta Video DIAL modificata in DIAL.</string>
+     <string name="callFailed_dialVideoToDialVideo">Richiesta Video DIAL modificata in Video DIAL con numero diverso.</string>
+     <string name="callFailed_dialVideoToSs">Richiesta Video DIAL modificata in richiesta SS.</string>
+     <string name="callFailed_dialVideoToUssd">Richiesta Video DIAL modificata in richiesta USSD.</string>
      <string name="callFailed_dsac_restricted">Tutte le chiamate sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_emergency">Le chiamate di emergenza sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_normal">Le chiamate normali sono limitate dal controllo di accesso.</string>
@@ -542,7 +547,6 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="network_info_message">Messaggio di rete</string>
      <string name="network_lte">LTE (raccomandato)</string>
      <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
-     <string name="network_operator_settings_package">com.android.phone</string>
      <string name="network_query_error">Errore durante la ricerca reti.</string>
      <string name="networks">Operatori di rete</string>
      <string name="newPin2Label">Nuovo PIN2</string>
@@ -874,7 +878,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tts_lang_use_system">Utilizza lingua di sistema</string>
      <string name="tts_play_example_summary">Avvia una piccola dimostrazione di sintesi vocale</string>
      <string name="tts_play_example_title">Ascolta un esempio</string>
-     <string name="tts_reset_speech_pitch_summary">"Resetta l'intonazione al punto in cui il testo é parlato in maniera predefinita."</string>
+     <string name="tts_reset_speech_pitch_summary">"Resetta l'intonazione al punto in cui il testo è parlato in maniera predefinita."</string>
      <string name="tts_reset_speech_pitch_title">Resetta intonazione parlato</string>
      <string name="tts_settings">Impostazioni testo parlato</string>
      <string name="tts_settings_title">Output testo parlato</string>

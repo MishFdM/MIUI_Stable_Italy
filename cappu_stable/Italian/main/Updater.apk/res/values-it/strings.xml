@@ -90,7 +90,7 @@
      <string name="home_delay_cancel">Cancel</string>
      <string name="home_delay_msg">Updates will be installed between 2:00 and 5:00 AM if the battery is at least %s full.</string>
      <string name="home_delay_ok">OK</string>
-     <string name="home_delay_title">Update tonight</string>
+     <string name="home_delay_title">Update is available</string>
      <string name="home_dialog_more_button">View details ></string>
      <string name="home_dialog_msg">Updates are ready to install. Tap \"Reboot\" to finish.</string>
      <string name="home_dialog_negative_button">Not now</string>

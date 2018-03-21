@@ -45,6 +45,10 @@
         <item quantity="other">%d dispositivi</item>
         <item quantity="one">%d dispositivo</item>
      </plurals>
+     <plurals name="custom_progress">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+     </plurals>
      <plurals name="data_item_count">
         <item quantity="other">%d items</item>
         <item quantity="one">%d item</item>
@@ -225,6 +229,10 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
      <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d app possono mostrare le notifiche</item>
         <item quantity="one">%d app può mostrare le notifiche</item>
+     </plurals>
+     <plurals name="total_num">
+        <item quantity="other">%d items,</item>
+        <item quantity="one">%d item,</item>
      </plurals>
      <plurals name="trans_time_format_hours">
         <item quantity="other">%d hours</item>
