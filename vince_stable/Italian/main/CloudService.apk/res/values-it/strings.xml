@@ -393,6 +393,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_privacy_licence_agreed">Agree with Mi Cloud privacy policy.</string>
      <string name="micloud_privacy_licence_privacy_policy">privacy policy</string>
      <string name="micloud_privacy_more">more</string>
+     <string name="micloud_privacy_progress_content">Granting authorization…</string>
      <string name="micloud_privacy_warning_button">Back</string>
      <string name="micloud_privacy_warning_content">"Can't active Mi Cloud. Try it later."</string>
      <string name="micloud_privacy_warning_title">Hint</string>
