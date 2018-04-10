@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="a_negative">A, negativo</string>
      <string name="a_positive">A, positivo</string>
@@ -131,14 +132,10 @@
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
      <string name="clear_all">Pulisci tutto</string>
      <string name="clear_all_message">Pulire tutte le informazioni e contatti?</string>
-     <string name="config_helpIntentExtraKey" />
-     <string name="config_helpIntentNameKey" />
-     <string name="config_helpPackageNameKey" />
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
      <string name="connected_via_passpoint">Connected via %1$s</string>
      <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
-     <string name="content_description_menu_button">Menu</string>
      <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
  This feature is alpha, and may not work correctly.
@@ -169,8 +166,6 @@
      <string name="debug_monitoring_category">Monitoring</string>
      <string name="debug_networking_category">Networking</string>
      <string name="debug_view_attributes">Enable view attribute inspection</string>
-     <string name="dev_logpersist_clear_warning_message">When we no longer are monitoring with the persistent logger, we are required to erase the logger data resident on your device.</string>
-     <string name="dev_logpersist_clear_warning_title">Clear logger persistent storage?</string>
      <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
      <string name="dev_settings_warning_title">Allow development settings?</string>
      <string name="development_settings_enable">Enable developer options</string>
@@ -219,6 +214,7 @@
      <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
      <string name="launch_defaults_none">No defaults set</string>
      <string name="launch_defaults_some">Some defaults set</string>
+     <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
      <string name="local_backup_password_summary_change">Tap to change or remove the password for desktop full backups</string>
      <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
      <string name="local_backup_password_title">Desktop backup password</string>
@@ -255,10 +251,15 @@
      <string name="picture_color_mode_desc">Use sRGB</string>
      <string name="pointer_location">Pointer location</string>
      <string name="pointer_location_summary">Screen overlay showing current touch data</string>
+     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s until full</string>
      <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
+     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
+     <string name="power_charging_duration_short">%1$s - %2$s</string>
      <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
+     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
+     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
      <string name="power_discharging_duration_short">%1$s - %2$s left</string>
      <string name="power_remaining_duration_only">Approx. %1$s left</string>
@@ -279,12 +280,9 @@
      <string name="screen_zoom_summary_large">Large</string>
      <string name="screen_zoom_summary_small">Small</string>
      <string name="screen_zoom_summary_very_large">Larger</string>
-     <string name="search_menu_title">Search</string>
      <string name="select_application">Select application</string>
      <string name="select_logd_size_dialog_title">Select Logger sizes per log buffer</string>
      <string name="select_logd_size_title">Logger buffer sizes</string>
-     <string name="select_logpersist_dialog_title">Select log buffers to store persistently on device</string>
-     <string name="select_logpersist_title">Store logger data persistently on device</string>
      <string name="select_usb_configuration_dialog_title">Select USB Configuration</string>
      <string name="select_usb_configuration_title">Select USB Configuration</string>
      <string name="select_webview_provider_dialog_title">"Imposta l'implementazione di WebView"</string>
@@ -293,6 +291,8 @@
      <string name="settings_package">com.android.settings</string>
      <string name="show_all_anrs">Show all ANRs</string>
      <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
+     <string name="show_cpu_usage">Show CPU usage</string>
+     <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
      <string name="show_hw_layers_updates">Show hardware layers updates</string>
      <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
      <string name="show_hw_screen_updates">Show GPU view updates</string>
@@ -307,7 +307,6 @@
      <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
      <string name="tab_title_contacts">Contatti</string>
      <string name="tab_title_info">Informazioni</string>
-     <string name="tap_pencil">If this is your phone, tap the pencil icon to add information that will be displayed here in case of emergency</string>
      <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
      <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
      <string name="tether_settings_title_usb">USB tethering</string>
@@ -380,7 +379,6 @@
      <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
      <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
      <string name="wifi_no_internet">"No Internet Access Detected, won't automatically reconnect."</string>
-     <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_not_in_range">Not in range</string>
      <string name="wifi_remembered">Saved</string>
      <string name="wifi_security_eap">802.1x EAP</string>
