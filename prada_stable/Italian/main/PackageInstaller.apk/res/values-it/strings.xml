@@ -37,14 +37,10 @@ Allow this now and in the future?"</string>
      <string name="current_permission_template">%1$s di %2$s</string>
      <string name="default_permission_description">"esegue un'azione sconosciuta"</string>
      <string name="devicePerms">Accesso dispositivo</string>
-     <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+     <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione. Tutti i dati utente precedenti verranno salvati."</string>
      <string name="dlg_app_replacement_title">Sostituire applicazione?</string>
      <string name="dlg_ok">OK</string>
-     <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema.
-
-Tutti i dati utente precedenti verranno salvati."</string>
+     <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema. Tutti i dati utente precedenti verranno salvati."</string>
      <string name="done">Fine</string>
      <string name="grant_confirm_question">"Vuoi concedere le autorizzazioni che seguono? Concederai l'accesso a:"</string>
      <string name="grant_dialog_button_allow">Consenti</string>
@@ -125,7 +121,6 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="screen_overlay_title">Overlay schermo rilevato</string>
      <string name="security_settings_desc">Consenti a questa applicazione di:</string>
      <string name="settings">Impostazioni</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="system_warning">Se neghi questa autorizzazione, le funzionalità di base del dispositivo potrebbero non funzionare più come previsto.</string>
      <string name="uninstall_activity_text">%1$s fa parte della seguente applicazione:</string>
      <string name="uninstall_application_text">Vuoi disinstallare questa applicazione?</string>
@@ -144,7 +139,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="uninstalling">Disinstallazione...</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unknown_apps_admin_dlg_text">"L'amministratore non consente l'installazione di app ottenute da origini sconosciute."</string>
-     <string name="unknown_apps_dlg_text">"Il telefono è impostato per bloccare l'installazione di app ottenute da origini sconosciute."</string>
+     <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources.</string>
      <string name="unknown_apps_dlg_title">Install blocked</string>
      <string name="v7_preference_off">OFF</string>
      <string name="v7_preference_on">ON</string>
