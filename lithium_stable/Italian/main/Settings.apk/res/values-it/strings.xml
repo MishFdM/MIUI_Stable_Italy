@@ -1325,6 +1325,7 @@ avviso"</string>
      <string name="disable_service_title">Interrompere %1$s?</string>
      <string name="disable_text">Disattiva</string>
      <string name="disabled">Disattivato</string>
+     <string name="disabled_authorised_apps_title">Revoked authorization</string>
      <string name="disabled_because_no_backup_security">Imposta prima una Schermata di blocco</string>
      <string name="disabled_by_admin">"Disattivato dall'amministratore"</string>
      <string name="disabled_by_admin_summary_text">"Controllato dall'amministratore"</string>
@@ -1478,6 +1479,8 @@ avviso"</string>
      <string name="enable_webview_multiprocess">Multiprocess WebView</string>
      <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
      <string name="enable_wifi_display">Abilita schermo wireless</string>
+     <string name="enabled_authorised_apps_summary">Your authorization will be revoked after you toggle switches of individual apps.</string>
+     <string name="enabled_authorised_apps_title">Granted authorization</string>
      <string name="enabled_by_admin">"Attivato dall'amministratore"</string>
      <string name="enalbe_identify_iPhone">Identificazione AP</string>
      <string name="encrypt_dont_require_password">No thanks</string>
@@ -2943,6 +2946,22 @@ ed esegui il software."</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
      <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
      <string name="priority_storage_title">Impostazioni di archiviazione</string>
+     <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authotization for Mi Cloud services (including sync and backups)."</string>
+     <string name="privacy_authorize_dialog_agree">Agree</string>
+     <string name="privacy_authorize_dialog_exit">Exit</string>
+     <string name="privacy_authorize_dialog_message"><Data>"In order to use the basic features of Mi Cloud services, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a>.​"</Data></string>
+     <string name="privacy_authorize_network_error">Connect to the network and try again.</string>
+     <string name="privacy_authorize_privacy_policy">Privacy Policy</string>
+     <string name="privacy_authorize_revoke">Revoke</string>
+     <string name="privacy_authorize_revoke_dialog_msg">After you revoke authorization, the app will stop collecting data, and all the related data will be deleted from the servers. This might make the app virtually unusable. Revoke authorization anyway?</string>
+     <string name="privacy_authorize_revoke_dialog_title">Revoking authorization</string>
+     <string name="privacy_authorize_revoke_failed">"Couldn't revoke authorization"</string>
+     <string name="privacy_authorize_revoke_success">Revoked authorization successfully</string>
+     <string name="privacy_authorize_revoke_time">Revoke (%1$ds)</string>
+     <string name="privacy_authorize_revoke_title">Authorization &amp; revocation</string>
+     <string name="privacy_authorize_revoking">Revoking authorization…</string>
+     <string name="privacy_authorize_success">Granted authorization successfully</string>
+     <string name="privacy_authorize_title">Granting authorization</string>
      <string name="privacy_close_dlg_button_ok">Disattiva</string>
      <string name="privacy_close_dlg_msg">Quando la password di protezione è disattivata, i tuoi elementi non saranno più protetti.</string>
      <string name="privacy_close_dlg_title">Attenzione</string>
@@ -4509,6 +4528,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
      <string name="use_location_title">Posizione e ricerca Google</string>
      <string name="use_personalized_ad_service">Pubblicità personalizzate</string>
+     <string name="use_personalized_ad_service_summary">When the recommendation feature is switched off, you will still see the same quantity of ads as when it’s on, but not based on your behavior data or your personal information.</string>
      <string name="use_privacy_password_immediate">Utilizza</string>
      <string name="use_system_language_to_select_input_method_subtypes">Usa lingua di sistema</string>
      <string name="use_this_wlan">Usa questa rete Wi-Fi</string>
