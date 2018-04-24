@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="antispam_local_marked">Segnalato localmente</string>
      <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
@@ -85,6 +86,9 @@
      <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
      <string name="conference_callers_exceeded">Limite partecipanti superato</string>
      <string name="contacts_icon_label">Contatti</string>
+     <string name="crbt_second_hold_prompt">%s is on hold…</string>
+     <string name="crbt_second_hold_prompt_conference">Conference call is on hold…</string>
+     <string name="crbt_second_hold_prompt_no_name">Previous call is on hold…</string>
      <string name="default_area_code_setting">Prefisso internazionale predefinito</string>
      <string name="description_image_button_answer">Scorri in alto per rispondere</string>
      <string name="description_image_button_dialpad">Tastierino</string>
