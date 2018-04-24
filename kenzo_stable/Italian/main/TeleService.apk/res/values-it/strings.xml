@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Result_title">Result...</string>
+     <string name="Result_title">Result</string>
      <string name="accessibility_settings_activity_title">Accessibilità</string>
      <string name="add">Aggiungi</string>
      <string name="addSimEntries">Add SIM contact</string>
@@ -264,7 +264,7 @@
      <string name="cell_bc_sms_enable">SMS diffusi dalla cella attivati</string>
      <string name="cell_broadcast_settings">Trasmissioni di emergenza</string>
      <string name="cell_broadcast_sms">SMS diffusi dalla cella</string>
-     <string name="cf_mobile_date">Please turn on mobile data and make sure that WLAN is off</string>
+     <string name="cf_mobile_date">Turn on mobile data and make sure WLAN is off</string>
      <string name="cfb_title">Inoltra se sei in conversazione</string>
      <string name="cfnrc_title">Inoltra se non sei raggiungibile</string>
      <string name="cfnrc_title_cta">Inoltra se non sei raggiungibile</string>
@@ -345,7 +345,9 @@
      <string name="dial_emergency_error">Chiamata non effettuata. %s non è un numero di emergenza.</string>
      <string name="dial_related_setting_catory">Componi</string>
      <string name="dialerKeyboardHintText">Usa la tastiera per chiamare</string>
+     <string name="dialog_cancel">Annulla</string>
      <string name="dialog_network_priority_title">Priorità</string>
+     <string name="dialog_report">Segnala</string>
      <string name="dialpad_0_labels" />
      <string name="dialpad_0_letters">+</string>
      <string name="dialpad_1_labels" />
@@ -408,6 +410,8 @@
      <string name="dtmf_tone_entries_normal">Normale</string>
      <string name="dtmf_tones_summary">Imposta la lunghezza dei toni DTMF</string>
      <string name="dtmf_tones_title">Toni DTMF</string>
+     <string name="dual_4g_switch_summary">Consenti la connessione 4G per entrambi gli slot SIM.</string>
+     <string name="dual_4g_switch_title">Doppio 4G</string>
      <string name="duration_disable_summary">Durata schermo disattivata</string>
      <string name="duration_enable_summary">Durata schermo attivata</string>
      <string name="editContact">Edit</string>
@@ -446,6 +450,7 @@
      <string name="enable_disable_retail_directory">Elenco venditori al dettaglio</string>
      <string name="enable_disable_stock_quotes">Quotazione di borsa</string>
      <string name="enable_disable_technology_news">Notizie di tecnologia</string>
+     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE richiede la connessione 4G per entrambi gli slot SIM. PAssare al doppio 4G adesso?</string>
      <string name="enable_fdn">Attiva NSSF</string>
      <string name="enable_fdn_ok">NSF disattivati</string>
      <string name="enable_in_progress">Attendere…</string>
@@ -475,7 +480,7 @@
      <string name="error_updating_title">Errore impostazioni chiamate</string>
      <string name="exception_error">Errore di rete o della carta SIM.</string>
      <string name="exportAllcontatsFailed">"Couldn't export all contacts to SIM"</string>
-     <string name="exportAllcontatsNoContacts">No Contacts found to export to SIM</string>
+     <string name="exportAllcontatsNoContacts">No contacts found to export to SIM</string>
      <string name="exportAllcontatsSuccess">Successfully exported all contacts to SIM</string>
      <string name="exportContactScreen">Export phone contacts to SIM</string>
      <string name="exportContacts">Exporting contacts to SIM card…</string>
@@ -528,10 +533,10 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="importingSimContacts">Importazione contatti dalla SIM</string>
      <string name="ims_settings">Impostazioni IMS</string>
      <string name="incall_error_call_failed">Chiamata non effettuata.</string>
-     <string name="incall_error_ecm_emergency_only">Uscita da chiamata di emergenza in modalità richiamata, per non effettuare chiamate di emergenza.</string>
+     <string name="incall_error_ecm_emergency_only">Exit emergency callback mode to make a non-emergency call.</string>
      <string name="incall_error_emergency_only">Non registrato sulla rete.</string>
      <string name="incall_error_local_low_battery">Call is failed due to low battery.</string>
-     <string name="incall_error_low_battery">Call is failed due to remote device low battery.</string>
+     <string name="incall_error_low_battery">"Couldn't connect due to remote device's low battery."</string>
      <string name="incall_error_missing_voicemail_number">Numero sconosciuto voicemail.</string>
      <string name="incall_error_no_phone_number_supplied">Chiamata non effettuata, non è stato immesso nessun numero valido.</string>
      <string name="incall_error_out_of_service">Rete mobile non disponibile.</string>
@@ -580,13 +585,13 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="labelCFNRc">Inoltra quando non sei raggiungibile</string>
      <string name="labelCFNRc_cdma">Forward Implicitly</string>
      <string name="labelCFNRy">Inoltra quando non hai risposto</string>
-     <string name="labelCFType">Impostazioni inoltro chiamata</string>
+     <string name="labelCFType">Call forwarding settings</string>
      <string name="labelCFU">Inoltra sempre</string>
      <string name="labelCFVideo">Video</string>
      <string name="labelCFVoice">Voce</string>
      <string name="labelCW">Chiamate in attesa</string>
      <string name="labelCallerId">ID chiamante</string>
-     <string name="labelCbCancelAll">Cancel all callbarring</string>
+     <string name="labelCbCancelAll">Turn off call barring</string>
      <string name="labelCbChangePassword">Change password</string>
      <string name="labelCdmaMore_with_label">Impostazioni chiamate CDMA (%s)</string>
      <string name="labelGSMMore">Impostazioni chiamate GSM</string>
@@ -632,9 +637,9 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="maintenance_enable">Notizie sulla manutenzione attivate</string>
      <string name="manageConferenceLabel">Gestisci chiamata conferenza</string>
      <string name="manage_fdn_list">Lista NSF</string>
-     <string name="managed_roaming_dialog_content">Network with limited service found. View available networks?</string>
-     <string name="managed_roaming_title">Managed roaming</string>
-     <string name="managed_roaming_title_sub">Managed roaming (SUB%d)</string>
+     <string name="managed_roaming_dialog_content">Network with Limited Service found. Do you want to initiate a Network Search?</string>
+     <string name="managed_roaming_title">Managed Roaming</string>
+     <string name="managed_roaming_title_sub">Managed Roaming (SUB%d)</string>
      <string name="menu_add">Aggiungi contatto</string>
      <string name="menu_delete">Elimina contatto</string>
      <string name="menu_dial_string">Call</string>
@@ -661,10 +666,15 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="missed_call_notify_times_summary">Scegli il numero di promemoria che desideri ricevere per le chiamate perse (i promemoria avvengono ad intervalli di 5 minuti)</string>
      <string name="missed_call_notify_times_title">Promemoria chiamate perse</string>
      <string name="missed_call_notify_twice">2 volte</string>
+     <string name="miui_network_selection_reset_text">Ripristina</string>
+     <string name="miui_notification_network_selection_title">Nessun servizio SIM</string>
+     <string name="miui_notification_network_selection_title_by_sim">Nessun servizio SIM %s</string>
      <string name="mmiCancelled">Codice MMI annullato</string>
      <string name="mmiStarted">Codice MMI inizializzato</string>
      <string name="mobile_network_settings_not_available">Le impostazioni delle rete cellulare non sono disponibili per questo utente</string>
      <string name="mobile_networks">Impostazione reti mobili</string>
+     <string name="modem_dialog_body">La rete mobile non è stabile, causa interruzioni o problemi di rete.Inviare una segnalazione a Mi analizzarla? Questa segnalazione potrebbe contenere informazioni sui dati personali. Il tuo rapporto verrà utilizzato unicamente per la risoluzione del problema e non verrà mai condiviso a scopi commerciali.</string>
+     <string name="modem_dialog_title">La rete mobile non è stabile</string>
      <string name="msim_apn_not_set">Non impostato</string>
      <string name="msim_default_setting">Impostazioni predefinite</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
@@ -739,7 +749,7 @@ Sarà usata al suo posto la rete preferita."</string>
      <string name="new_password_label">Nuova password (4 cifre)</string>
      <string name="new_pin2_label">Nuovo PIN2</string>
      <string name="new_pin_label">Nuovo PIN</string>
-     <string name="no_call_barring">No callbarring</string>
+     <string name="no_call_barring">Call barring is off</string>
      <string name="no_change">Nessuna modifica effettuata.</string>
      <string name="no_checked_network">"Non sarai in grado di connetterti alla rete mobile ed effettuare chiamate, selezionare un'altra rete?"</string>
      <string name="no_internet_available">Per eseguire una chiamata via internet, verifica prima la tua connessione internet.</string>
@@ -779,7 +789,7 @@ Sarà usata al suo posto la rete preferita."</string>
      <string name="onscreenSwapCallsText">Scambia</string>
      <string name="onscreenVideoCallText">Videochiamata</string>
      <string name="open_miui">Apri</string>
-     <string name="operation_successfully">Operation successful</string>
+     <string name="operation_successfully">Done</string>
      <string name="optional_summary">Opzionale</string>
      <string name="ota_activate">Attivato</string>
      <string name="ota_call_end">Indietro</string>
@@ -807,6 +817,7 @@ Dopo aver premuto \"Attiva\", ascolta le istruzioni fornite per attivare il tuo 
 Dovresti trovare una zona dove c'è migliore copertura (vicino una finestra o all'esterno). 
 
 Riprova o chiama il servizio clienti per altre opzioni."</string>
+     <string name="other_available_phone_accounts">Altri account disponibili</string>
      <string name="other_settings">Altre impostazioni di chiamata</string>
      <string name="other_settings_category">Altro</string>
      <string name="overseas_roaming_setting">Roaming dati</string>
@@ -855,6 +866,7 @@ Invio toni"</string>
      <string name="payphone">Cabina telefonica</string>
      <string name="phoneAppLabel">Telefono</string>
      <string name="phoneIconLabel">Telefono</string>
+     <string name="phone_account_settings">Account chiamate</string>
      <string name="phone_accounts">Impostazioni account telefono</string>
      <string name="phone_accounts_add_sip_account">Aggiunti account SIP</string>
      <string name="phone_accounts_all_calling_accounts">Tutti gli account di chiamata</string>
@@ -954,7 +966,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_mode_td_scdma_wcdma_lte_choice">TD-SCDMA/WCDMA/LTE</string>
      <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Preferred network mode: TD-SCDMA/WCDMA/LTE</string>
      <string name="preferred_network_mode_td_scdma_wcdma_summary">Preferred network mode: TD-SCDMA/WCDMA</string>
-     <string name="preferred_network_mode_tdscdma_summary">Modalità rete preferita: TDSCDMA</string>
+     <string name="preferred_network_mode_tdscdma_summary">Preferred network mode: TDSCDMA</string>
      <string name="preferred_network_mode_title">Tipologia rete preferita</string>
      <string name="preferred_network_mode_wcdma_only_choice">WCDMA only</string>
      <string name="preferred_network_mode_wcdma_only_summary">Modalità di rete preferita: solo WCDMA</string>
@@ -973,6 +985,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
      <string name="preferred_network_type_title">Tipologia di rete preferita</string>
      <string name="preferred_networks" />
+     <string name="preferred_phone_account">Account chiamata preferito</string>
      <string name="private_num">Numero privato</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
      <string name="proxy_address">ProxyAddress</string>
@@ -981,7 +994,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="pstn_phone">Chiamate via telefono cellulare</string>
      <string name="psw_enter_new">New password</string>
      <string name="psw_enter_old">Old password</string>
-     <string name="psw_reenter_new">Reenter your password</string>
+     <string name="psw_reenter_new">Enter password again</string>
      <string name="puk2_blocked">PUK2 è bloccato permanentemente.</string>
      <string name="puk2_label">Inserisci il codice PUK2</string>
      <string name="puk2_requested">Password non corretta, PIN2 bloccato. Richiesto PUK2.</string>
@@ -991,6 +1004,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
      <string name="puk_unlock_success">PUK unlock successful.</string>
      <string name="puk_unlocked">La tua SIM è stata sbloccata. Il dispositivo verrà sbloccato…</string>
+     <string name="quick_dial_setting_title">Chiamata rapida</string>
      <string name="radio_off_error">Attiva la radio prima di visualizzare queste impostazioni.</string>
      <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
      <string name="rc_unlock_success">RUIM Corporate unlock successful.</string>
@@ -1089,6 +1103,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="simContacts_emptyLoading">Lettura dalla carta SIM…</string>
      <string name="simContacts_title">Gestione contatti sulla carta SIM</string>
      <string name="simFdnContacts_empty">Nessun contatto di chiamata rapida.</string>
+     <string name="sim_accounts">Account SIM</string>
      <string name="sim_card_num">SIM %s</string>
      <string name="sim_contact_name">Nome</string>
      <string name="sim_contact_number">Numero</string>
@@ -1227,6 +1242,8 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tty_mode_not_allowed_video_call">La modifica della modalità TTY non è consentita durante una videochiamata</string>
      <string name="tty_mode_option_summary">Imposta modalità TTY</string>
      <string name="tty_mode_option_title">Modalità TTY</string>
+     <string name="turn_off_dual_4g_failed">Impossibile disattivare il doppio 4G.</string>
+     <string name="turn_on_dual_4g_failed">Impossibile attivare il doppio 4G.</string>
      <string name="turnover_mute_summary">Quando il dispositivo è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
      <string name="turnover_mute_title">Capovolgi per silenziare la suoneria</string>
      <string name="undefined">Non definita</string>
@@ -1271,6 +1288,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="volte_provision_text">Rileva VoLTE se non supportato dalla tua SIM, attivare adesso?</string>
      <string name="volte_provision_title">Introduzione VoLTE</string>
      <string name="volte_switch_not_support_summary">Le chiamate VoLTE non sono supportate da questa SIM dati.</string>
+     <string name="volte_switch_not_support_summary2">"Le chiamate VoLTE non sono supportate dall'operatore."</string>
      <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
      <string name="volte_switch_title">VoLTE attivato</string>
      <string name="wait_prompt_str">"Inviare i seguenti toni?
@@ -1278,6 +1296,6 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="wifi_calling">Chiamate Wi-Fi</string>
      <string name="wild_prompt_str">Sostituire carattere con</string>
      <string name="wrong_password">Password errata</string>
-     <string name="xdivert_summary">CFNRc Settings</string>
+     <string name="xdivert_summary">CFNRc settings</string>
      <string name="xdivert_title">X-Divert</string>
 </resources>

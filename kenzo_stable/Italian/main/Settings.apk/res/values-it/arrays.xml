@@ -25,7 +25,7 @@
         <item>Scala animazione 10x</item>
      </string-array>
      <string-array name="ap_identify">
-        <item>Default</item>
+        <item>default</item>
         <item>iPhone</item>
      </string-array>
      <string-array name="apn_auth_entries">
@@ -96,7 +96,7 @@
         <item>Attiva VPN</item>
         <item>Scrivi sfondo</item>
         <item>Assisti struttura</item>
-        <item>assisti screenshot</item>
+        <item>Assisti screenshot</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>

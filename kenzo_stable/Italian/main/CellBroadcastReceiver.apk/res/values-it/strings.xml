@@ -15,6 +15,9 @@
      <string name="category_india_settings_title">Impostazioni per India</string>
      <string name="cb_other_message_identifiers">Trasmissione cella</string>
      <string name="cell_broadcast_settings_not_available">Impostazioni per la trasmissione di cella non disponibili per questo utente</string>
+     <string name="cmas_alert_message">Alert Message</string>
+     <string name="cmas_alert_message_chinese">警訊通知</string>
+     <string name="cmas_alert_message_english">Alert Message</string>
      <string name="cmas_amber_alert">Rapimento bambino (Allerta Amber)</string>
      <string name="cmas_category_cbrne">Chimico/Biologico/Nucleare/Esplosivo</string>
      <string name="cmas_category_env">Ambientale</string>
@@ -40,6 +43,8 @@
      <string name="cmas_opt_out_dialog_text">Attualmente stai ricevendo gli Avvisi di Emergenza. Vuoi continuare a riceverli?</string>
      <string name="cmas_presidential_level_alert">Allerta presidenziale</string>
      <string name="cmas_required_monthly_test">Test mensile allerta emergenza</string>
+     <string name="cmas_required_monthly_test_chinese">每月測試用訊息</string>
+     <string name="cmas_required_monthly_test_english">Required Monthly Test</string>
      <string name="cmas_response_assess">Adattamento</string>
      <string name="cmas_response_avoid">Evitamento</string>
      <string name="cmas_response_evacuate">Evacuazione</string>
@@ -93,7 +98,11 @@
      <string name="no_cell_broadcasts">Non ci sono avvisi attivi nella tua area. Puoi modificare le impostazioni di avviso utilizzando il menu delle impostazioni.</string>
      <string name="notification_multiple">%s allarmi non letti.</string>
      <string name="notification_multiple_title">Nuovo allarme</string>
+     <string name="pws_cmas_presidential_level_alert_chinese">國家級警報</string>
+     <string name="pws_cmas_presidential_level_alert_english">Presidential Alert</string>
      <string name="pws_other_message_identifiers">Allerta emergenza</string>
+     <string name="pws_other_message_identifiers_chinese">緊急警報</string>
+     <string name="pws_other_message_identifiers_english">Emergency Alert</string>
      <string name="show_cmas_opt_out_summary">Mostra una finestra di disattivazione dopo aver visualizzato il primo avviso CMAS (esclusi gli avvisi Presidenziali).</string>
      <string name="show_cmas_opt_out_title">Mostra finestra disattivazione</string>
      <string name="sms_cb_settings">Impostazioni di trasmissione cella</string>
