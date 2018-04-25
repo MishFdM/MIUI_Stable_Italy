@@ -1258,38 +1258,14 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="pointer_location">Posizione indicatore</string>
      <string name="pointer_location_summary">"L'overlay schermo mostra gli attuali dati touch"</string>
      <string name="port_title">Numero porta</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 - ^2 until fully charged -->
-     <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 - about ^2 left -->
-     <string name="power_discharging_duration">%1$s - appross. %2$s rimanenti</string>
+     <string name="power_charging_duration">^1 - ^2 fino a completamento</string>
+     <string name="power_discharging_duration">^1 - about ^2 rimanenti</string>
      <string name="power_discharging_duration_enhanced">^1 - about ^2 left based on your usage</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 - ^2 left -->
-     <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 left until fully charged -->
-     <string name="power_remaining_charging_duration_only">%1$s rimanenti per la carica completa</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: About ^1 left -->
-     <string name="power_remaining_duration_only">Approx. %1$s rimanenti</string>
+     <string name="power_discharging_duration_short">^1 - ^2 rimanenti</string>
+     <string name="power_remaining_charging_duration_only">^1 rimanenti per la carica completa</string>
+     <string name="power_remaining_duration_only">Approx. ^1 rimanenti</string>
      <string name="power_remaining_duration_only_enhanced">About ^1 left based on your usage</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 left -->
-     <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
+     <string name="power_remaining_duration_only_short">^1 rimanenti</string>
      <string name="power_remaining_duration_only_short_enhanced">^1 left based on your usage</string>
      <string name="preference_auto_ip_summary_disable">Disattivato</string>
      <string name="preference_category_ringtone">Suoneria e vibrazione</string>

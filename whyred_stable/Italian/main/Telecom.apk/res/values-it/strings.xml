@@ -316,38 +316,14 @@ Sample Rate"</string>
      <string name="picture_color_mode_desc">Use sRGB</string>
      <string name="pointer_location">Pointer location</string>
      <string name="pointer_location_summary">Screen overlay showing current touch data</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 - ^2 until fully charged -->
-     <string name="power_charging_duration">%1$s - %2$s until full</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 - about ^2 left -->
-     <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
+     <string name="power_charging_duration">^1 - ^2 until fully charged l</string>
+     <string name="power_discharging_duration">^1 - about ^2 left</string>
      <string name="power_discharging_duration_enhanced">^1 - about ^2 left based on your usage</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 - ^2 left -->
-     <string name="power_discharging_duration_short">%1$s - %2$s left</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 left until fully charged -->
-     <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: About ^1 left -->
-     <string name="power_remaining_duration_only">Approx. %1$s left</string>
+     <string name="power_discharging_duration_short">^1 - ^2 left</string>
+     <string name="power_remaining_charging_duration_only">^1 left until fully charged</string>
+     <string name="power_remaining_duration_only">About ^1 left</string>
      <string name="power_remaining_duration_only_enhanced">About ^1 left based on your usage</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: ^1 left -->
-     <string name="power_remaining_duration_only_short">%1$s left</string>
+     <string name="power_remaining_duration_only_short">^1 left</string>
      <string name="power_remaining_duration_only_short_enhanced">^1 left based on your usage</string>
      <string name="preference_summary_default_combination">%1$s / %2$s</string>
      <string name="remaining_length_format">%1$s left</string>
