@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Pagina avanti indietro</item>
+        <item>Cambia scheda</item>
+        <item>Nessuno</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Predefinita</item>
+        <item>Personalizza</item>
+     </string-array>
+     <string-array name="pref_nav_mode_summary">
+        <item>Telefono</item>
+        <item>Tablet</item>
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+     </string-array>
+     <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+        <item>Cancella</item>
+        <item>No</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Segui</item>
+     </string-array>
+     <string-array name="shortcut_dialog_title">
+        <item>Messaggio dal browser</item>
+        <item>Segui le Olimpiadi con Xiaomi</item>
+     </string-array>
+     <string-array name="suggestion_weather_condition_message">
+        <item>Clear</item>
+        <item>Partly cloudy</item>
+        <item>Cloudy</item>
+        <item>Shower</item>
+        <item>Thunderstorm</item>
+        <item>Hail</item>
+        <item>Sleet</item>
+        <item>Light rain</item>
+        <item>Moderate rain</item>
+        <item>Heavy rain</item>
+        <item>Rainstorm</item>
+        <item>Torrential rain</item>
+        <item>Extreme rainstorm</item>
+        <item>Snow shower</item>
+        <item>Light snow</item>
+        <item>Moderate snow</item>
+        <item>Heavy snow</item>
+        <item>Blizzard</item>
+        <item>Fog</item>
+        <item>Freezing rain</item>
+        <item>Sandstorm</item>
+        <item>Light to moderate rain</item>
+        <item>Moderate to heavy rain</item>
+        <item>Heavy to torrential rain</item>
+        <item>Torrential rain to downpour</item>
+        <item>Downpour to extreme rainstorm</item>
+        <item>Light to moderate snow</item>
+        <item>Moderate to heavy snow</item>
+        <item>Heavy snow to blizzard</item>
+        <item>Floating dust</item>
+        <item>Raising sand</item>
+        <item>Sandstorm</item>
+        <item>Dense fog</item>
+        <item>Strong fog</item>
+        <item>Haze</item>
+        <item>Moderate haze</item>
+        <item>Heavy haze</item>
+        <item>Severe haze</item>
+        <item>Dense fog</item>
+        <item>Strong dense fog</item>
+        <item>None</item>
+        <item>Rain</item>
+        <item>Snow</item>
+     </string-array>
+</resources>
