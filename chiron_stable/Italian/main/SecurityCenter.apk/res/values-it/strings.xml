@@ -769,6 +769,7 @@ se se dimenticata"</string>
      <string name="gb_description_image_button_reject">Rifiuta</string>
      <string name="gb_description_image_button_video_answer">Video chiamata</string>
      <string name="gb_new_feature">Nuova funzione</string>
+     <string name="gdpr_msg"><Data>"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a>."</Data></string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
