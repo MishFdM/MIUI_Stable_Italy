@@ -78,6 +78,10 @@
      <string name="button_confirm">Consenti</string>
      <string name="button_exit">Esci</string>
      <string name="button_not_allow">Annulla</string>
+     <string name="button_settings_cancel">Cancel</string>
+     <string name="button_settings_confirm">Revoke</string>
+     <string name="button_settings_confirm_to_revoke_msg">"You won't be able to use Weather after revoking authorization."</string>
+     <string name="button_settings_confirm_to_revoke_title">Revoke authorization?</string>
      <string name="button_sure_abandon">Annullare le modifiche?</string>
      <string name="card_vote_item_vs">VS</string>
      <string name="change_alert">Controlla la connessione di rete e prova di nuovo</string>
@@ -110,6 +114,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="edit_alert_city_title">Gestisci avvisi</string>
      <string name="edit_city">Modifica</string>
      <string name="empty">" "</string>
+     <string name="eu_region_version_first_start_network_msg">"By using this product, you agree that Xiaomi will collect, process, and use you personal information, including the coordinates of the cities you search, and other types of data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we collect and process information. By tapping \"Agree\", you agree to Xiaomi's %1$s and %2$s."</string>
      <string name="feedback_heavy_rain">Forte pioggia</string>
      <string name="feedback_heavy_snow">Neve</string>
      <string name="feedback_light_rain">Pioggia leggera</string>
@@ -159,7 +164,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="international_details_title">Dettagli</string>
      <string name="international_details_uv_index_title">INDICE UV</string>
      <string name="international_details_wind_title">VENTO</string>
-     <string name="international_version_first_start_network_msg">"By using this product, you agree to Xiaomi's%1$s.This app needs to connect the network, upload the city information you entered in order to obtain the corresponding city weather data. Click agree to continue."</string>
      <string name="it_is_going_to_rain">Sta iniziando a piovere</string>
      <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
@@ -199,12 +203,19 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="particulate_matter_exceeded">Alto</string>
      <string name="particulate_matter_not_exceeded">Normale</string>
      <string name="particulate_matter_serious_exceeded">Troppo alto</string>
+     <string name="policy_settings">Terms and conditions</string>
      <string name="precipitation_degree_five">temporale</string>
      <string name="precipitation_degree_four">forte</string>
      <string name="precipitation_degree_one">nessuna</string>
      <string name="precipitation_degree_three">moderata</string>
      <string name="precipitation_degree_two">leggera</string>
      <string name="pressure_connect">%1$s MB</string>
+     <string name="privacy_grant_failed">"Couldn't grant authorization. Wait a minute or two and try again."</string>
+     <string name="privacy_grant_or_revoke_settings">Granting &amp; revoking authorization</string>
+     <string name="privacy_grant_success">Granted authorization successfully</string>
+     <string name="privacy_revoke_failed">"Couldn't revoke authorization. Wait a minute or two and try again."</string>
+     <string name="privacy_revoke_success">Revoked authorization successfully</string>
+     <string name="privacy_settings">Privacy Policy</string>
      <string name="pull_fresh_updated">Aggiornato con successo</string>
      <string name="pull_fresh_updating">Aggiornamento…</string>
      <string name="radar_cloud_image_title">Mappa Radar</string>
