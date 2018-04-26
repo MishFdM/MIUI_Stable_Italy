@@ -2698,6 +2698,14 @@ ed esegui il software."</string>
      <string name="oem_unlock_enable_summary">Consenti al dispositivo lo sblocco OEM</string>
      <string name="ok_rules">finito</string>
      <string name="okay">OK</string>
+     <string name="oldman_app_label">Lite mode</string>
+     <string name="oldman_installed_current_btn">Restore original Home screen</string>
+     <string name="oldman_installed_current_des">"You've set Lite mode as your default Home screen. Tap the button below to switch back to the originsl Home screen."</string>
+     <string name="oldman_installed_not_current_btn">Set as default Home screen</string>
+     <string name="oldman_installed_not_current_des">Lite mode is installed on your device. You can use it as your default Home screen.</string>
+     <string name="oldman_mode_entry_name">Lite mode</string>
+     <string name="oldman_uninstalled_btn">Install</string>
+     <string name="oldman_uninstalled_des">Lite mode gets rid of the visual clutter and keeps your Home screen simple and minimalist.</string>
      <string name="one_cacrt">un certificato CA</string>
      <string name="one_usercrt">un certificato utente</string>
      <string name="one_userkey">una chiave utente</string>
@@ -2947,7 +2955,7 @@ ed esegui il software."</string>
      <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authotization for Mi Cloud services (including sync and backups)."</string>
      <string name="privacy_authorize_dialog_agree">Agree</string>
      <string name="privacy_authorize_dialog_exit">Exit</string>
-     <string name="privacy_authorize_dialog_message"><Data>"In order to use the basic features of Mi Cloud services, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a>.​"</Data></string>
+     <string name="privacy_authorize_dialog_message">"<Data>"In order to use the basic features of Mi Cloud services, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a>.​"</Data>"</string>
      <string name="privacy_authorize_network_error">Connect to the network and try again.</string>
      <string name="privacy_authorize_privacy_policy">Privacy Policy</string>
      <string name="privacy_authorize_revoke">Revoke</string>
