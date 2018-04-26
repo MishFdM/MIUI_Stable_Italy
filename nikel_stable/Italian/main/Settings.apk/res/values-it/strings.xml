@@ -1177,6 +1177,7 @@ avviso"</string>
      <string name="disable_service_title">Interrompere %1$s?</string>
      <string name="disable_text">Disattiva</string>
      <string name="disabled">Disattivato</string>
+     <string name="disabled_authorised_apps_title">Revoked authorization</string>
      <string name="disabled_because_no_backup_security">Imposta prima una Schermata di blocco</string>
      <string name="disconnect">Disconnetti</string>
      <string name="display_auto_rotate_rotate">Attivata</string>
@@ -1310,6 +1311,8 @@ avviso"</string>
      <string name="enable_terminal_title">Terminale locale</string>
      <string name="enable_text">Attiva</string>
      <string name="enable_wifi_display">Abilita schermo wireless</string>
+     <string name="enabled_authorised_apps_summary">Your authorization will be revoked after you toggle switches of individual apps.</string>
+     <string name="enabled_authorised_apps_title">Granted authorization</string>
      <string name="enalbe_identify_iPhone">Identificazione AP</string>
      <string name="encrypt_dont_require_password">No thanks</string>
      <string name="encrypt_dont_require_pattern">No thanks</string>
@@ -2115,6 +2118,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="menu_stats_unplugged">%1$s dallo scollegamento</string>
      <string name="menu_use_uss">Utilizza Uss</string>
      <string name="mi_shopping_mall">Mi Store</string>
+     <string name="mi_upi_settings">Mi Pay Account</string>
      <string name="misc_files">File vari</string>
      <string name="misc_files_selected_count">selezionati %1$d di %2$d</string>
      <string name="misc_files_selected_count_bytes">%1$s su %2$s</string>
@@ -2362,6 +2366,14 @@ ed esegui il software."</string>
      <string name="oem_unlock_enable">Abilita sblocco OEM</string>
      <string name="oem_unlock_enable_summary">Consenti al dispositivo lo sblocco OEM</string>
      <string name="okay">OK</string>
+     <string name="oldman_app_label">Lite mode</string>
+     <string name="oldman_installed_current_btn">Restore original Home screen</string>
+     <string name="oldman_installed_current_des">"You've set Lite mode as your default Home screen. Tap the button below to switch back to the originsl Home screen."</string>
+     <string name="oldman_installed_not_current_btn">Set as default Home screen</string>
+     <string name="oldman_installed_not_current_des">Lite mode is installed on your device. You can use it as your default Home screen.</string>
+     <string name="oldman_mode_entry_name">Lite mode</string>
+     <string name="oldman_uninstalled_btn">Install</string>
+     <string name="oldman_uninstalled_des">Lite mode gets rid of the visual clutter and keeps your Home screen simple and minimalist.</string>
      <string name="onekey_migrate">Trasferisci</string>
      <string name="online_resource_entry">Online resources</string>
      <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
@@ -2593,6 +2605,22 @@ ed esegui il software."</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
      <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
      <string name="priority_storage_title">Impostazioni di archiviazione</string>
+     <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authotization for Mi Cloud services (including sync and backups)."</string>
+     <string name="privacy_authorize_dialog_agree">Agree</string>
+     <string name="privacy_authorize_dialog_exit">Exit</string>
+     <string name="privacy_authorize_dialog_message"><Data>"In order to use the basic features of Mi Cloud services, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a>.​"</Data></string>
+     <string name="privacy_authorize_network_error">Connect to the network and try again.</string>
+     <string name="privacy_authorize_privacy_policy">Privacy Policy</string>
+     <string name="privacy_authorize_revoke">Revoke</string>
+     <string name="privacy_authorize_revoke_dialog_msg">After you revoke authorization, the app will stop collecting data, and all the related data will be deleted from the servers. This might make the app virtually unusable. Revoke authorization anyway?</string>
+     <string name="privacy_authorize_revoke_dialog_title">Revoking authorization</string>
+     <string name="privacy_authorize_revoke_failed">"Couldn't revoke authorization"</string>
+     <string name="privacy_authorize_revoke_success">Revoked authorization successfully</string>
+     <string name="privacy_authorize_revoke_time">Revoke (%1$ds)</string>
+     <string name="privacy_authorize_revoke_title">Authorization &amp; revocation</string>
+     <string name="privacy_authorize_revoking">Revoking authorization…</string>
+     <string name="privacy_authorize_success">Granted authorization successfully</string>
+     <string name="privacy_authorize_title">Granting authorization</string>
      <string name="privacy_close_dlg_button_ok">Disattiva</string>
      <string name="privacy_close_dlg_msg">Quando la password di protezione è disattivata, i tuoi elementi non saranno più protetti.</string>
      <string name="privacy_close_dlg_title">Attenzione</string>
@@ -4027,6 +4055,7 @@ Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare i
      <string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
      <string name="use_location_title">Posizione e ricerca Google</string>
      <string name="use_personalized_ad_service">Pubblicità personalizzate</string>
+     <string name="use_personalized_ad_service_summary">When the recommendation feature is switched off, you will still see the same quantity of ads as when it’s on, but not based on your behavior data or your personal information.</string>
      <string name="use_privacy_password_immediate">Utilizza</string>
      <string name="use_system_language_to_select_input_method_subtypes">Usa lingua di sistema</string>
      <string name="use_this_wlan">Usa questa rete Wi-Fi</string>

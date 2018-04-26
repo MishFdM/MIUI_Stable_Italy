@@ -211,6 +211,7 @@
      <string name="pm_root_success_title">Accesso root attivato</string>
      <string name="post_sina">Post on Sina Weibo</string>
      <string name="previous">Indietro</string>
+     <string name="privacy_revoke_msg">Updater allows you to keep MIUI and its features up to date. After you revoke authorization, the app will stop collecting data, and all the related data (including the data about devices which require updates) will be deleted from this device and the servers. Refusing to update your device might bring security risks. Revoke authorization anyway?</string>
      <string name="provision_activate_device">Attivazione dispositivo…</string>
      <string name="provision_check_sim">Verifica SIM</string>
      <string name="provision_connect_wifi">Connessione a Wi-Fi</string>
