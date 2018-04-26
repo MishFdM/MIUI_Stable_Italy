@@ -2362,6 +2362,14 @@ ed esegui il software."</string>
      <string name="oem_unlock_enable">Abilita sblocco OEM</string>
      <string name="oem_unlock_enable_summary">Consenti al dispositivo lo sblocco OEM</string>
      <string name="okay">OK</string>
+     <string name="oldman_app_label">Lite mode</string>
+     <string name="oldman_installed_current_btn">Restore original Home screen</string>
+     <string name="oldman_installed_current_des">"You've set Lite mode as your default Home screen. Tap the button below to switch back to the originsl Home screen."</string>
+     <string name="oldman_installed_not_current_btn">Set as default Home screen</string>
+     <string name="oldman_installed_not_current_des">Lite mode is installed on your device. You can use it as your default Home screen.</string>
+     <string name="oldman_mode_entry_name">Lite mode</string>
+     <string name="oldman_uninstalled_btn">Install</string>
+     <string name="oldman_uninstalled_des">Lite mode gets rid of the visual clutter and keeps your Home screen simple and minimalist.</string>
      <string name="onekey_migrate">Trasferisci</string>
      <string name="online_resource_entry">Online resources</string>
      <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
