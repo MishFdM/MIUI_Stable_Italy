@@ -1009,6 +1009,7 @@ Frequenza Campione"</string>
      <string name="checking_decryption">Verifica…</string>
      <string name="checking_find_device_status">Verifica stato Trova dispositivo\u2026</string>
      <string name="checking_for_updates">Ricerca aggiornamenti in corso\u2026</string>
+     <string name="choose_a_card_to_reset">Select SIM card to reset</string>
      <string name="choose_profile">Scegli il profilo</string>
      <string name="choose_smartcover_type">Scegli il tipo di custodia</string>
      <string name="choose_spell_checker">Scegli controllo ortografico</string>
@@ -1032,7 +1033,8 @@ Frequenza Campione"</string>
      <string name="close_demo_mode">Annulla</string>
      <string name="close_gesture">Chiudi gesture in uso</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
-     <string name="close_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
+     <string name="close_optimization_message">Text layout, accounts, and other parts off MIUI might be affected after you turn this feature off.</string>
+     <string name="close_optimization_option">Turn off</string>
      <string name="cloud_backup_section_title">Mi Cloud backup</string>
      <string name="cloud_backup_settings_section_title">Impostazioni backup</string>
      <string name="cloud_restore_section_summary">Ripristino app, layout Home e impostazioni di sistema</string>
@@ -2961,7 +2963,8 @@ ed esegui il software."</string>
      <string name="open_demo_mode">Apri</string>
      <string name="open_demo_mode_warning_message">"Quando la modalità Demo è attiva, l'orologio nella barra di stato si fermerà, la batteria e le icone di segnale verranno mostrate come piene. Puoi disattivare la funzione Demo o riavviare il dispositivo per modificare questa impostazione."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
-     <string name="open_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
+     <string name="open_optimization_message">Turn on optimization to enjoy a smoother, faster UI.</string>
+     <string name="open_optimization_option">Turn on</string>
      <string name="open_personal_assistant_dialog_btn_cancel">Annulla</string>
      <string name="open_personal_assistant_dialog_btn_confirm">OK</string>
      <string name="open_personal_assistant_dialog_desc">Non potrai utilizzare Assistente Smart e ricevere i suoi aggiornamenti. Disattivare adesso?.</string>
@@ -2972,8 +2975,6 @@ ed esegui il software."</string>
      <string name="opening_paragraph_delete_profile_unknown_company">Questo profilo di lavoro è gestito da:</string>
      <string name="operator_warning">"Il conteggio dell'operatore potrebbe differire dal conteggio del dispositivo"</string>
      <string name="optimization_cancel">Annulla</string>
-     <string name="optimization_close">Disattiva e riavvia</string>
-     <string name="optimization_open">Attiva</string>
      <string name="ota_disable_automatic_update">Aggiornamenti di sistema automatici</string>
      <string name="other_advanced_settings">Impostazioni aggiuntive</string>
      <string name="other_device_info">Altro</string>
@@ -3456,9 +3457,12 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_app_preferences_title">Reimpostare preferenze app?</string>
      <string name="reset_dashboard_title">Reimposta</string>
      <string name="reset_legacy_password_settings_preface_text">Devi ripristinare la tua password della Schermata di blocco.</string>
+     <string name="reset_network_bluetooth">Bluetooth</string>
      <string name="reset_network_button_text">Ripristina impostazioni</string>
+     <string name="reset_network_category">This will reset all network settings, including:</string>
      <string name="reset_network_complete_toast">Impostazioni di rete ripristinate correttamente</string>
      <string name="reset_network_confirm_title">Ripristinare?</string>
+     <string name="reset_network_data">Mobile data</string>
      <string name="reset_network_desc">"Verranno reimpostate tutte le impostazioni di rete, tra cui:
 
 "<li>Wi-Fi</li>"
@@ -3467,6 +3471,7 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_network_final_button_text">Ripristina</string>
      <string name="reset_network_final_desc">"Ripristinare le impostazioni di rete? Quest'azione è irreversibile!"</string>
      <string name="reset_network_title">Ripristino impostazioni di rete</string>
+     <string name="reset_network_wifi">WLAN</string>
      <string name="reset_second_space_passwd">Reimpostazione password spazio Secondario</string>
      <string name="reset_second_space_passwd_cancel">Annulla</string>
      <string name="reset_second_space_passwd_confirm">Continua</string>
