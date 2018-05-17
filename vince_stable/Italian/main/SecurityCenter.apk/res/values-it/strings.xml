@@ -600,6 +600,9 @@ se se dimenticata"</string>
      <string name="dialog_no_longer_alert">Non mostrare più</string>
      <string name="dialog_roaming_message">"Consenti a questa applicazione di utilizzare i dati roaming all'estero?"</string>
      <string name="dialog_roaming_title">Roaming estero</string>
+     <string name="dialog_roaming_warning_checkbox">"Don't show again"</string>
+     <string name="dialog_roaming_warning_message">The carrier will charge you a fee after you turn on international data roaming. Turn on anyway?</string>
+     <string name="dialog_roaming_warning_ok">Turn on</string>
      <string name="dialog_text">Crea un collegamento in Home per Game Speed Booster</string>
      <string name="dialog_title_attention">Attenzione</string>
      <string name="dialog_title_auto_start_declare">"Info sull'avvio automatico"</string>
@@ -769,7 +772,7 @@ se se dimenticata"</string>
      <string name="gb_description_image_button_reject">Rifiuta</string>
      <string name="gb_description_image_button_video_answer">Video chiamata</string>
      <string name="gb_new_feature">Nuova funzione</string>
-     <string name="gdpr_msg"><Data>"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a>."</Data></string>
+     <string name="gdpr_msg">"<Data>"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a>."</Data>"</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
@@ -982,6 +985,7 @@ dall'operatore"</string>
      <string name="main_toolbar_statistic">Statistiche utilizzo dati</string>
      <string name="main_used_bill">%s CNY</string>
      <string name="man_add_application">Aggiungi manualmente app in avvio automatico</string>
+     <string name="managed_user_title">All work apps</string>
      <string name="manual_input_free_traffic">Imposta utilizzo dati fuori soglia</string>
      <string name="manual_input_traffic">Imposta utilizzo dati</string>
      <string name="manual_item_white_list_summary">Non ottimizzare le app selezionate</string>
