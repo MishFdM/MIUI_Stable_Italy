@@ -6,7 +6,7 @@
      <string name="PrivacyContactDes1">"I contatti diventeranno privati.
 I messaggi compariranno solo nello Spazio secondario."</string>
      <string name="PrivacyContactDes2">"Se hai utilizzato i messaggi nello spazio Primario,
-questa funzione verrà aggiunta automaticamente allo spazio Secondario."</string>
+questa funzionalità verrà aggiunta automaticamente allo spazio Secondario."</string>
      <string name="add_finger_print">Aggiungi impronta</string>
      <string name="air_space_created">Spazio di lavoro creato correttamente</string>
      <string name="air_space_deleted">Spazio di lavoro eliminato correttamente</string>
@@ -146,11 +146,11 @@ Puoi anche scaricarli separatamente"</string>
      <string name="need_reset_passwd">Ripristina la password prima di accedere allo spazio di lavoro</string>
      <string name="need_set_second_space_desc">"Aggiungi una password prima di inserire l'impronta digitale sul Spazio Secondario"</string>
      <string name="need_set_second_space_pwd_first">Imposta prima la password del Spazio Secondario</string>
-     <string name="newSecondSpace">Attiva lo Spazio Secondario</string>
+     <string name="newSecondSpace">Attiva lo spazio Secondario</string>
      <string name="next_setp">Avanti</string>
      <string name="no_match_repate_scanner">Impossibile trovare impronte corrispondenti, scansiona di nuovo</string>
      <string name="normal_app">Spazio Primario</string>
-     <string name="not_support_air_space">Questa funzione non è supportata sul tuo telefono</string>
+     <string name="not_support_air_space">Questa funzionalità non è supportata sul tuo telefono</string>
      <string name="not_support_multiple_users">Gli spazi multipli non sono supportati</string>
      <string name="notificationSetPassword">Imposta password</string>
      <string name="notificationSetPasswordDes">Proteggi i dati dello Spazio Secondario</string>

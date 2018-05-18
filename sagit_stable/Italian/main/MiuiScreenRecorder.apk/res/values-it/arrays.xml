@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="screenrecorder_settings_bit_rate">
         <item>200 Mbps</item>
@@ -23,8 +24,8 @@
         <item>Orizzontale</item>
      </string-array>
      <string-array name="screenrecorder_settings_sound">
-        <item>Muto</item>
+        <item>Silenziato</item>
         <item>Microfono</item>
-        <item>Speaker</item>
+        <item>Altoparlante</item>
      </string-array>
 </resources>
