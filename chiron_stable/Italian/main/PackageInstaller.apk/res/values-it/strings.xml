@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
      <string name="abc_action_bar_home_description">Vai alla home</string>
@@ -20,7 +20,7 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Comprimi</string>
-     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzione è sperimentale e potrebbe influire sulle prestazioni.</string>
+     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale e potrebbe influire sulle prestazioni.</string>
      <string name="accessibility_display_daltonizer_preference_title">Correzione del colore</string>
      <string name="accessibility_no_wifi">Wi-Fi disconnesso.</string>
      <string name="accessibility_wifi_off">Wi-Fi disattivato.</string>
@@ -38,8 +38,8 @@
      <string name="allow_mock_location">Posizioni fittizie</string>
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
      <string name="animator_duration_scale_title">Scala durata animatore</string>
-     <string name="anonymous_source_continue">Continue</string>
-     <string name="anonymous_source_warning">Your phone and personal data are more vulnerable to attack by unknown apps. By installing this app, you agree that you are responsible for any damage to your phone or loss of data that may result from its use.</string>
+     <string name="anonymous_source_continue">Continua</string>
+     <string name="anonymous_source_warning">"Il telefono e i dati personali sono più vulnerabili agli attacchi di app sconosciute. Installando questa app, l'utente accetta di essere responsabile per eventuali danni al telefono o perdita di dati che potrebbero derivare dal suo utilizzo."</string>
      <string name="apn_settings_not_available">I nomi dei Punti di Accesso non sono disponibili per questo utente</string>
      <string name="app_name">Installazione pacchetti</string>
      <string name="app_name_unknown">Sconosciuto</string>
@@ -66,7 +66,7 @@
      <string name="bluetooth_connected_no_map">Connesso (nessun messaggio di accesso)</string>
      <string name="bluetooth_connecting">Connessione...</string>
      <string name="bluetooth_disable_absolute_volume">Disattiva volume assoluto</string>
-     <string name="bluetooth_disable_absolute_volume_summary">Consente di disattivare la funzione del volume assoluto Bluetooth in caso di problemi con il volume dei dispositivi remoti, ad esempio un volume troppo alto o la mancanza di controllo.</string>
+     <string name="bluetooth_disable_absolute_volume_summary">Consente di disattivare la funzionlità del volume assoluto Bluetooth in caso di problemi con il volume dei dispositivi remoti, ad esempio un volume troppo alto o la mancanza di controllo.</string>
      <string name="bluetooth_disconnected">Disconnesso</string>
      <string name="bluetooth_disconnecting">Disconnessione in corso...</string>
      <string name="bluetooth_enable_inband_ringing">Attiva suoneria in cuffia</string>
@@ -130,13 +130,13 @@
      <string name="charge_length_format">%1$s fa</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
-     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
+     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzionlità di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
      <string name="connected_via_network_scorer">Connesso automaticamente tramite %1$s</string>
      <string name="connected_via_network_scorer_default">Connesso automaticamente tramite provider rating di rete</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="content_description_menu_button">Menu</string>
-     <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file. Attenzione. Questa operazione eliminerà tutti i tuoi dati. Questa funzione è in versione alpha, pertanto potrebbe non funzionare correttamente. Premi \"Cancella e converti...\" per continuare."</string>
+     <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file. Attenzione. Questa operazione eliminerà tutti i tuoi dati. Questa funzionalità è in versione alpha, pertanto potrebbe non funzionare correttamente. Premi \"Cancella e converti...\" per continuare."</string>
      <string name="convert_to_file_encryption">Converti in crittografia basata su file</string>
      <string name="convert_to_file_encryption_done">Crittografia su base file già eseguita</string>
      <string name="convert_to_file_encryption_enabled">Converti...</string>
@@ -194,10 +194,10 @@
      <string name="enable_terminal_summary">"Abilita l'app Terminale che offre l'accesso alla shell locale"</string>
      <string name="enable_terminal_title">Terminale locale</string>
      <string name="enabled_by_admin">"Attivata dall'amministratore"</string>
-     <string name="external_source_trusted">Allowed</string>
-     <string name="external_source_untrusted">Not allowed</string>
-     <string name="external_sources_settings">Settings</string>
-     <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
+     <string name="external_source_trusted">Permesso</string>
+     <string name="external_source_untrusted">Non autorizzato</string>
+     <string name="external_sources_settings">Impostazioni</string>
+     <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni per %1$s</string>
      <string name="force_allow_on_external">Forza autorizzazione app su memoria esterna</string>
      <string name="force_allow_on_external_summary">"Consente l'installazione di qualsiasi app su memoria esterna, indipendentemente dai valori manifest"</string>
      <string name="force_hw_ui">Forza rendering GPU</string>
@@ -214,11 +214,11 @@
      <string name="grant_dialog_button_allow">Consenti</string>
      <string name="grant_dialog_button_deny">Nega</string>
      <string name="grant_dialog_button_deny_anyway">Nega comunque</string>
-     <string name="grant_dialog_button_more_info">More info</string>
+     <string name="grant_dialog_button_more_info">Ulteriori informazioni</string>
      <string name="hdcp_checking_dialog_title">Comportamento di verifica HDCP</string>
      <string name="hdcp_checking_title">Verifica HDCP</string>
      <string name="help_app_permissions" />
-     <string name="help_feedback_label">Guida e feedback</string>
+     <string name="help_feedback_label">Guida e segnalazione bug</string>
      <string name="home">Home page Impostazioni</string>
      <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
@@ -398,7 +398,7 @@
      <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
      <string name="system_warning">Se neghi questa autorizzazione, le funzionalità di base del dispositivo potrebbero non funzionare più come previsto.</string>
      <string name="telephony_monitor_switch">Telephony Monitor</string>
-     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando incontrerà un problema con funzioni telefono/modem e richiederà all'utente di segnalare il bug"</string>
+     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando incontrerà un problema con funzionalità telefono/modem e richiederà all'utente di segnalare il bug"</string>
      <string name="tether_settings_title_all">Tethering e hotspot</string>
      <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
      <string name="tether_settings_title_usb">Tethering USB</string>
@@ -446,18 +446,18 @@
      <string name="uninstall_blocked_device_owner">"App richiesta dall'amministratore del dispositivo. Non può essere disinstallata."</string>
      <string name="uninstall_blocked_profile_owner">"L'app è necessaria per il tuo profilo e non può essere disinstallata."</string>
      <string name="uninstall_done">Disinstallazione completata.</string>
-     <string name="uninstall_done_app">Uninstalled %1$s</string>
+     <string name="uninstall_done_app">Disinstallato %1$s</string>
      <string name="uninstall_failed">Disinstallazione non riuscita.</string>
-     <string name="uninstall_failed_app">Uninstalling %1$s unsuccessful.</string>
+     <string name="uninstall_failed_app">Disinstallazione %1$s fallita.</string>
      <string name="uninstall_failed_device_policy_manager">Impossibile disinstallare: il pacchetto è un amministratore dispositivo attivo.</string>
      <string name="uninstall_failed_device_policy_manager_of_user">Impossibile disinstallare. Il pacchetto è amministr. dispos. attivo di utente %1$s.</string>
      <string name="uninstall_failed_msg">Impossibile disinstallare %1$s.</string>
-     <string name="uninstall_failure_notification_channel">Failed uninstalls</string>
+     <string name="uninstall_failure_notification_channel">Disinstallazione non riuscita</string>
      <string name="uninstall_update_text">Sostituire questa app con la versione di fabbrica? Tutti i dati verranno rimossi.</string>
      <string name="uninstall_update_text_multiuser">Sostituire questa app con la versione di fabbrica? Tutti i dati verranno rimossi. Saranno interessati tutti gli utenti del dispositivo, inclusi quelli che hanno profili di lavoro.</string>
      <string name="uninstall_update_title">Disinstalla aggiornamento</string>
      <string name="uninstalling">Disinstallazione...</string>
-     <string name="uninstalling_app">Uninstalling %1$s…</string>
+     <string name="uninstalling_app">Disinstalla %1$s…</string>
      <string name="uninstalling_notification_channel">Esecuzione delle disinstallazioni</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unknown_apps_admin_dlg_text">"L'amministratore non consente l'installazione di app ottenute da origini sconosciute."</string>
