@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="adblock_rules_number_text">
         <item quantity="other">%d elementi bloccati</item>
@@ -9,12 +8,11 @@
         <item quantity="other">%d combaciano</item>
         <item quantity="one">%d combacia</item>
      </plurals>
-     <plurals name="last_num_days">
-        <item quantity="other">Last %d days</item>
-        <item quantity="one">Last %d day</item>
+     <plurals name="mw_last_num_days">
+        <item quantity="other">Ultimi %d giorni</item>
      </plurals>
-     <plurals name="matches_found">
-        <item quantity="other">%1$d of %2$d</item>
+     <plurals name="mw_matches_found">
+        <item quantity="other">%1$d di %2$d</item>
         <item quantity="one">1 match</item>
      </plurals>
      <plurals name="nav_screen_incognito_time">

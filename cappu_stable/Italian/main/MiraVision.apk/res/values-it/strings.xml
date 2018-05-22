@@ -25,7 +25,7 @@
      <string name="drawer_open">Apri drawer di navigazione</string>
      <string name="economical_backlight">Retroilluminazione a risparmio</string>
      <string name="eye_care_header">EYE CARE</string>
-     <string name="intro_str">MiraVision™ è un insieme di motori che migliorano la qualità delle immagini visualizzate. Questa interfaccia consente regolazioni interattive con feedback sulla qualità in tempo reale, rendendolo così uno strumento facile e diretto per gli utenti per personalizzare la qualità delle immagini in base alle proprie esigenze. Gli utenti avanzati possono selezonare la Modalità Immagine / Modalità Utente per attivare altre opzioni di regolazione.</string>
+     <string name="intro_str">MiraVision™ è un insieme di motori che migliorano la qualità delle immagini visualizzate. Questa interfaccia consente regolazioni interattive con segnalazioni bug sulla qualità in tempo reale, rendendolo così uno strumento facile e diretto per gli utenti per personalizzare la qualità delle immagini in base alle proprie esigenze. Gli utenti avanzati possono selezonare la Modalità Immagine / Modalità Utente per attivare altre opzioni di regolazione.</string>
      <string name="intro_title">Informazioni su MiraVision™</string>
      <string name="lcd_header">Pannello OverDrive</string>
      <string name="lcd_item">Tempo di risposta LCD</string>

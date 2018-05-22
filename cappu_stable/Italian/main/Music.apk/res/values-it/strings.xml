@@ -83,7 +83,7 @@
      <string name="download_auto_when_free_network_summary">Impostazioni aggiuntive per i brani preferiti</string>
      <string name="download_completed">Scaricati</string>
      <string name="download_method">Download</string>
-     <string name="download_processing">In download…</string>
+     <string name="download_processing">Downloading…</string>
      <string name="download_quality">Qualità download</string>
      <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
      <string name="download_while_playing_summary">Memorizza i brani che stai ascoltando in streaming</string>

@@ -92,7 +92,6 @@
      <string name="effect_goofy_face_squeeze">Squeeze</string>
      <string name="effect_none">None</string>
      <string name="effect_silly_faces">EFFECTS</string>
-     <string name="empty">" "</string>
      <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>
      <string name="error_app_unsupported_hfr_720p">720P can support up to 90FPS</string>
      <string name="error_app_unsupported_hfr_codec">"Only H264 video encoding isn't supported when HFR is ON"</string>
@@ -144,6 +143,7 @@
      <string name="group_by_location">By location</string>
      <string name="group_by_tags">By tags</string>
      <string name="group_by_time">By time</string>
+     <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
      <string name="hand_night_exit_button_text">Exit Hand-held Twilight</string>
      <string name="hdr_exit_button_text">Exit HDR mode</string>
      <string name="height">Height</string>
@@ -196,8 +196,8 @@ touch the Shutter button"</string>
      <string name="pref_camera_antibanding_entry_0">Disattivato</string>
      <string name="pref_camera_antibanding_entry_1">50 Hz</string>
      <string name="pref_camera_antibanding_entry_2">60 Hz</string>
-     <string name="pref_camera_antibanding_entry_3">Auto</string>
-     <string name="pref_camera_antibanding_title">Anti banding</string>
+     <string name="pref_camera_antibanding_entry_3">Automatico</string>
+     <string name="pref_camera_antibanding_title">Anti-banding</string>
      <string name="pref_camera_audio_capture_title">Scatto vocale</string>
      <string name="pref_camera_audioencoder_default">aac</string>
      <string name="pref_camera_auto_focus_title_entry_off">Off</string>
@@ -344,8 +344,8 @@ touch the Shutter button"</string>
      <string name="pref_camera_picturesize_entry_3328x1872">6M(3328x1872)</string>
      <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
      <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
-     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">Schermo Intero 16:9</string>
+     <string name="pref_camera_picturesize_entry_standard">Normale 4:3</string>
      <string name="pref_camera_picturesize_title">Picture size</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
      <string name="pref_camera_powermode_default">Normal_Power</string>
@@ -446,12 +446,12 @@ touch the Shutter button"</string>
      <string name="pref_scan_qrcode_value_on">on</string>
      <string name="pref_setting_title">Impostazioni</string>
      <string name="pref_settings_mode">Camera mode</string>
-     <string name="pref_video_captrue_ability_title">Image capture while recording</string>
+     <string name="pref_video_captrue_ability_title">Cattura immagini durante la registrazione</string>
      <string name="pref_video_effect_default">none</string>
-     <string name="pref_video_focusmode_entry_auto">Tap</string>
+     <string name="pref_video_focusmode_entry_auto">Tocca</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
      <string name="pref_video_focusmode_entryvalue_default">auto</string>
-     <string name="pref_video_focusmode_title">Focus mode</string>
+     <string name="pref_video_focusmode_title">Modalità di messa a fuoco</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_720p">HD (720p)</string>
@@ -533,7 +533,7 @@ touch the Shutter button"</string>
      <string name="times">Times</string>
      <string name="title">Title</string>
      <string name="toast_burst_snap_finished_end">photos</string>
-     <string name="toast_burst_snap_finished_start">Burst shot</string>
+     <string name="toast_burst_snap_finished_start">Burst shoot finished:</string>
      <string name="toast_burst_snap_forbidden_when_audio_capture_open">Impossibile acquisire scatti multipli durante la registrazione audio</string>
      <string name="toast_burst_snap_forbidden_when_face_beauty_open">Burst shooting is not supported when enhance skin tones is enabled</string>
      <string name="toast_burst_snap_forbidden_when_hdr_open">Burst shoot is not supported when HDR is ON</string>

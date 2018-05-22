@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzione è sperimentale e potrebbe non funzionare correttamente.</string>
+     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale e potrebbe non funzionare correttamente.</string>
      <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
      <string name="accessibility_no_wifi">Wi-Fi disconnessa.</string>
      <string name="accessibility_settings_activity_title">Accessibilità</string>
@@ -75,7 +75,7 @@
      <string name="bluetooth_connected_no_map">Connesso (nessun messaggio di accesso)</string>
      <string name="bluetooth_connecting">Connessione in corso…</string>
      <string name="bluetooth_disable_absolute_volume">Disattiva volume assoluto</string>
-     <string name="bluetooth_disable_absolute_volume_summary">Disattiva la funzione di volume assoluto Bluetooth in caso di problemi con il volume come volume eccessivamente alto o mancanza di controllo.</string>
+     <string name="bluetooth_disable_absolute_volume_summary">Disattiva la funzionalità di volume assoluto Bluetooth in caso di problemi con il volume come volume eccessivamente alto o mancanza di controllo.</string>
      <string name="bluetooth_disconnected">Disconnesso</string>
      <string name="bluetooth_disconnecting">Disconnessione in corso…</string>
      <string name="bluetooth_headset_profile_summary_connected">Collegato ad audio telefono</string>
@@ -124,7 +124,7 @@
      <string name="callFailed_bearer_service_not_implemented">Servizio portatore non implementato</string>
      <string name="callFailed_call_rejected">Chiamata rifiutata</string>
      <string name="callFailed_cb_enabled">"Non puoi effettuare chiamate in uscita quando il blocco è attivo."</string>
-     <string name="callFailed_cdma_activation">Una SIM ha attivato il tuo servizio ed aggiornato le funzioni roaming del tuo telefono.</string>
+     <string name="callFailed_cdma_activation">Una SIM ha attivato il tuo servizio ed aggiornato le funzionalità roaming del tuo telefono.</string>
      <string name="callFailed_cdma_call_limit">Ci sono troppe chiamate attive. Prego termina o unisci quelle esistenti per poterne effettuare di nuove.</string>
      <string name="callFailed_channel_unacceptable">Canale non accettabile</string>
      <string name="callFailed_conditional_IE_error">Condizionato da errore IE</string>
@@ -242,7 +242,7 @@
      <string name="config_world_mode" />
      <string name="confirmPin2Label">Conferma il nuovo PIN2</string>
      <string name="confirmPinLabel">Conferma il nuovo PIN</string>
-     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: Le funzionalità di protezione del dispositivo non funzioneranno quando questa opzione é attiva.</string>
+     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: Le funzionalità di protezione del dispositivo non funzionalitàranno quando questa opzione é attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
      <string name="connect_later">Impossibile connettersi ora a questa rete. Riprova più tardi.</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
@@ -281,7 +281,7 @@
      <string name="debug_networking_category">Networking</string>
      <string name="debug_view_attributes">Abilita ispezione attribuiti di visualizzazione</string>
      <string name="default_notification_description">Suono predefinito (%1$s)</string>
-     <string name="default_preference_summary">&lt;Not set&gt;</string>
+     <string name="default_preference_summary">&lt;Not set></string>
      <string name="delete_fdn_contact">Elimina numero a selezione fissa</string>
      <string name="deleting_fdn_contact">Eliminazione numero a selezione fissa…</string>
      <string name="description_delete_button">cancella</string>
@@ -383,7 +383,7 @@
      <string name="enable_webview_multiprocess">Multiprocess WebView</string>
      <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
      <string name="enabled_by_admin">"Abilitato dall'amministratore"</string>
-     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (raccomandato)</string>
+     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (consigliato)</string>
      <string name="enhanced_4g_lte_mode_title">Modalità 4G LTE avanzata</string>
      <string name="enter_input" formatted="false">Il messaggio USSD deve essere lungo tra gli %d e i %d caratteri. Si prega di riprovare.</string>
      <string name="enter_pin2_text">PIN2</string>
@@ -433,7 +433,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="hac_mode_title">Dispositivi acustici</string>
      <string name="hdcp_checking_dialog_title">Imposta controllo comportamento HDCP</string>
      <string name="hdcp_checking_title">Controllo HDCP</string>
-     <string name="help_feedback_label">Aiuto e feedback</string>
+     <string name="help_feedback_label">Aiuto e segnalazione bug</string>
      <string name="home">Impostazioni Home</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
      <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
@@ -541,11 +541,11 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="network_1x">GPRS</string>
      <string name="network_2G">2G</string>
      <string name="network_3G">3G</string>
-     <string name="network_4G">4G (raccomandato)</string>
+     <string name="network_4G">4G (consigliato)</string>
      <string name="network_error_message">Impossibile collegarsi alla rete</string>
      <string name="network_global">Globale</string>
      <string name="network_info_message">Messaggio di rete</string>
-     <string name="network_lte">LTE (raccomandato)</string>
+     <string name="network_lte">LTE (consigliato)</string>
      <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
      <string name="network_query_error">Errore durante la ricerca reti.</string>
      <string name="networks">Operatori di rete</string>
@@ -658,7 +658,7 @@ Sono rimasti %d tentativo(i)."</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
      <string name="power_discharging_duration">%1$s - appross. %2$s rimanenti</string>
      <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
-     <string name="power_remaining_duration_only">Approx. %1$s rimanenti</string>
+     <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
      <string name="preference_category_ringtone">Suoneria e vibrazione</string>
      <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: CDMA/EvDo/GSM/WCDMA</string>
@@ -682,7 +682,6 @@ Sono rimasti %d tentativo(i)."</string>
      <string name="preferred_network_mode_wcdma_only_summary">Modalità di rete preferita: solo WCDMA</string>
      <string name="preferred_network_mode_wcdma_perf_summary">Modalità di rete preferita: WCDMA preferita</string>
      <string name="private_num">Numero privato</string>
-     <string name="process_kernel_label">Android OS</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
      <string name="proxy_address">ProxyAddress</string>
      <string name="proxy_address_title">"Indirizzo proxy verso l'esterno"</string>
@@ -915,7 +914,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voicemail_default">Il mio operatore</string>
      <string name="voicemail_notification_ringtone_title">Sound</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
-     <string name="voicemail_notification_vibrate_when_title">Vibrate</string>
+     <string name="voicemail_notification_vibrate_when_title">Vibra</string>
      <string name="voicemail_number_not_set">Non impostato</string>
      <string name="voicemail_provider">Servizio di segreteria</string>
      <string name="voicemail_settings">Impostazioni segreteria</string>
