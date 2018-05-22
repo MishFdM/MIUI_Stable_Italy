@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="action_add_to_workspace">Aggiungi allo spazio di lavoro</string>
      <string name="activity_not_found">Applicazione non installata sul dispositivo.</string>
@@ -252,7 +253,7 @@
      <string name="process" />
      <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
      <string name="recommend_apps_default_title">Vuoto</string>
-     <string name="recommend_apps_no_data">No Data</string>
+     <string name="recommend_apps_no_data">Nessun dato</string>
      <string name="recommend_apps_notice">App consigliate</string>
      <string name="recommend_apps_notice_nodata">App consigliate (No dati)</string>
      <string name="recommend_apps_switch_title">App consigliate</string>

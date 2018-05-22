@@ -21,7 +21,7 @@
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Chiudi</string>
      <string name="allow">Consenti</string>
-     <string name="app_label">Documents</string>
+     <string name="app_label">File</string>
      <string name="button_copy">Copia</string>
      <string name="button_dismiss">Rifiuta</string>
      <string name="button_move">Sposta</string>
@@ -85,7 +85,7 @@
      <string name="root_type_service">Servizi di archiviazione</string>
      <string name="root_type_shortcut">Collegamenti</string>
      <string name="save_error">Impossibile salvare documento</string>
-     <string name="search_menu_title">Search</string>
+     <string name="search_menu_title">Ricerca</string>
      <string name="share_via">Condividi con</string>
      <string name="sort_date">By date modified</string>
      <string name="sort_name">By name</string>

@@ -22,8 +22,8 @@
         <item quantity="one">in %dd</item>
      </plurals>
      <plurals name="duration_hours">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="other">%d ore</item>
+        <item quantity="one">1 ora</item>
      </plurals>
      <plurals name="duration_hours_relative">
         <item quantity="other">%d ore fà</item>
@@ -42,8 +42,8 @@
         <item quantity="one">in %dh</item>
      </plurals>
      <plurals name="duration_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">1 minuto</item>
      </plurals>
      <plurals name="duration_minutes_relative">
         <item quantity="other">%d minuti fà</item>
@@ -62,8 +62,8 @@
         <item quantity="one">in %dm</item>
      </plurals>
      <plurals name="duration_seconds">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">1 second</item>
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">1 secondo</item>
      </plurals>
      <plurals name="duration_years_relative">
         <item quantity="other">%d anni fà</item>

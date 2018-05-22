@@ -2,12 +2,12 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Delete %d playlists?</item>
-        <item quantity="one">Delete %d playlist?</item>
+        <item quantity="other">Eliminare %d playlist?</item>
+        <item quantity="one">Eliminare %d playlist?</item>
      </plurals>
      <plurals name="Nalbum_total_songs">
         <item quantity="other">%d brani totale</item>
-		<item quantity="zero">%d brani totale</item>
+        <item quantity="zero">%d brani totale</item>
         <item quantity="one">%d brano totale</item>
      </plurals>
      <plurals name="Nartists_count">
@@ -43,7 +43,7 @@
      </plurals>
      <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Creato il %1$s sul totale %2$d brani</item>
-		<item quantity="zero">Creato il %1$s sul totale %2$d brani</item>
+        <item quantity="zero">Creato il %1$s sul totale %2$d brani</item>
         <item quantity="one">Creato il %1$s sul totale %2$d brano</item>
      </plurals>
      <plurals name="Nstop_backup_songs_message">
@@ -119,16 +119,16 @@
         <item quantity="one">%d elemento selezionato</item>
      </plurals>
      <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Downloading %1$d songs</item>
-        <item quantity="one">Downloading %1$d song</item>
+        <item quantity="other">%1$d canzoni in download</item>
+        <item quantity="one">%1$d canzone in download</item>
      </plurals>
      <plurals name="notification_download_failed_more">
-        <item quantity="other">"Couldn't download %1$d songs"</item>
-        <item quantity="one">"Couldn't download %1$d song"</item>
+        <item quantity="other">Impossibile scaricare %1$d canzoni"</item>
+        <item quantity="one">"Impossibile scaricare %1$d canzone"</item>
      </plurals>
      <plurals name="notification_download_success_more">
-        <item quantity="other">%1$d songs</item>
-        <item quantity="one">%1$d song</item>
+        <item quantity="other">%1$d canzoni</item>
+        <item quantity="one">%1$d canzone</item>
      </plurals>
      <plurals name="reader_count">
         <item quantity="other">%d follower</item>

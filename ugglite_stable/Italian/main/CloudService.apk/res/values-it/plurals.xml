@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="dirty_blocklist_count">
         <item quantity="other">%d elementi bloccati</item>
@@ -57,8 +58,8 @@
         <item quantity="one">Elemento in sincronizzazione: %d</item>
      </plurals>
      <plurals name="items_waiting_to_sync">
-        <item quantity="other">%d elementi in attesa di sincronizzazione</item>
-        <item quantity="one">%d elemento in attesa di sincronizzazione</item>
+        <item quantity="other">%d items waiting to sync</item>
+        <item quantity="one">%d item waiting to sync</item>
      </plurals>
      <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Riprendi la sincronizzazione dopo %d ore</item>
@@ -69,7 +70,7 @@
         <item quantity="one">Riprendi la sincronizzazione dopo %d minuto</item>
      </plurals>
      <plurals name="sync_items_close">
-        <item quantity="other">%d disattivati</item>
-        <item quantity="one">%d disattivato</item>
+        <item quantity="other">%d are off</item>
+        <item quantity="one">%d is off</item>
      </plurals>
 </resources>

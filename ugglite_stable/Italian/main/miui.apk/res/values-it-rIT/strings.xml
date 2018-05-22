@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Naviga in home</string>
      <string name="abc_action_bar_up_description">Livello superiore</string>
@@ -341,7 +340,6 @@
      <string name="earthly_branches_you" />
      <string name="earthly_branches_zi" />
      <string name="email">Email</string>
-     <string name="empty" />
      <string name="eras_ad">DC</string>
      <string name="eras_bc">AC</string>
      <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
@@ -580,7 +578,7 @@
      <string name="tuesday_short">mar</string>
      <string name="tuesday_shortest">M</string>
      <string name="user_agreement">Termini del servizio</string>
-     <string name="user_experience_program">User Experience Program</string>
+     <string name="user_experience_program">Programma Esperienza Utente</string>
      <string name="user_manual">Guida utente</string>
      <string name="web_sso_login_fail">Devi accedere di nuovo</string>
      <string name="web_sso_login_message">Accesso in corso…</string>

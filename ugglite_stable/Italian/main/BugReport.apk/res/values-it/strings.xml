@@ -265,7 +265,7 @@
      <string name="submit_dialog_cancel">Annulla</string>
      <string name="submit_dialog_confirm">Invia</string>
      <string name="submit_dialog_content">La tua segnalazione, insieme al log di errore e alle immagini allegate, verrà inviata ai server Xiaomi.</string>
-     <string name="submit_dialog_content_global">"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers for analysis and further communication. Logs may contain personal info and your location data."</string>
+     <string name="submit_dialog_content_global">"Il tuo feedback, con allegati e log, verrà inviato ai server MIUI. I log possono contenere informazioni personali e dati sulla tua posizione. Puoi decidere di non inviare i log non spuntando la relativa casella.</string>
      <string name="submit_dialog_title">Invia segnalazione</string>
      <string name="submit_feedback_info_failed">Impossibile inviare segnalazione</string>
      <string name="suggestion_description">Scrivi qui i suggerimenti</string>
