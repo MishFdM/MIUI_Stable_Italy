@@ -325,7 +325,11 @@ per accedere dalla schermata di blocco"</string>
      <string name="xspace_default_setting_label">App predefinita</string>
      <string name="xspace_description">Crea app clonate da utilizzare separatamente. Le app clonate avranno una propria icona sulla Home.</string>
      <string name="xspace_guide_des">Utilizza 2 account senza cambiare</string>
-     <string name="xspace_guide_title">"Crea un'app clonata per %s"</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: Create Dual app for %s -->
+     <string name="xspace_guide_title">"Crea un'app clonata"</string>
      <string name="xspace_header">Clona applicazioni</string>
      <string name="xspace_install_completed">Icona aggiunta alla Home</string>
      <string name="xspace_install_failed">Impossibile clonare</string>

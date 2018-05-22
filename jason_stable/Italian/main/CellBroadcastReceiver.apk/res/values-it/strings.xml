@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="add_channel">Add Channel</string>
+     <string name="add_channel">Aggiungi canale</string>
      <string name="alert_reminder_interval_summary" />
      <string name="alert_reminder_interval_title">Promemoria allerta</string>
      <string name="app_label">Trasmissione Cella</string>
@@ -77,7 +76,23 @@
      <string name="delivery_time_heading">Ricevuto:</string>
      <string name="disable">Disattiva</string>
      <string name="done_text">Fatto</string>
+     <string name="emergency_alert">Allarme di emergenza</string>
      <string name="emergency_alert_settings_title">Impostazioni allerta emergenza</string>
+     <string name="emergency_alerts">Allarmi di emergenza</string>
+     <string name="en_alert_message_dialog_title">Messaggio di allarme</string>
+     <string name="en_emergency_alert_dialog_title">Avviso di emergenza</string>
+     <string name="en_emergency_alert_title">Avviso di emergenza</string>
+     <string name="en_emergency_alerts_title">Avvisi di emergenza</string>
+     <string name="en_exercise_title">Esercitazione</string>
+     <string name="en_exercises_title">Esercitazione</string>
+     <string name="en_national_emergency_alert_title">Avviso di Emergenza Nazionale</string>
+     <string name="en_national_emergency_alerts_title">Avvisi di Emergenza Nazionale</string>
+     <string name="en_presidential_alert_dialog_title">Avviso Presidenziale</string>
+     <string name="en_required_monthly_test_dialog_title">Richiede test mensili</string>
+     <string name="en_test_alert_title">Avviso test</string>
+     <string name="en_test_alerts_title">Avvisi test</string>
+     <string name="en_warning_alert_title">Avviso di pericolo</string>
+     <string name="en_warning_alerts_title">Avvisi di pericolo</string>
      <string name="enable">Attiva</string>
      <string name="enable_alert_speech_summary">Usa text-to-speech per ascoltare i messaggi di allerta</string>
      <string name="enable_alert_speech_title">Messaggio vocale di allerta</string>
@@ -110,12 +125,17 @@
      <string name="etws_other_emergency_type">Avviso di emergenza</string>
      <string name="etws_test_message">Messaggio test ETWS</string>
      <string name="etws_tsunami_warning">Allerta tsunami</string>
+     <string name="exercise">Esercitazione</string>
+     <string name="exercises">Esercitazioni</string>
      <string name="menu_delete">Elimina trasmissione</string>
      <string name="menu_delete_all">Elimina trasmissioni</string>
      <string name="menu_preferences">Impostazioni</string>
      <string name="menu_view_details">Mostra dettagli</string>
      <string name="message_options">Opzioni messaggio</string>
+     <string name="national_emergency_alert">Avviso di emergenza nazionale</string>
+     <string name="national_emergency_alerts">Avvisi di emergenza nazionale</string>
      <string name="no_cell_broadcasts">Non ci sono avvisi attivi nella tua area. Puoi modificare le impostazioni di avviso utilizzando il menu delle impostazioni.</string>
+     <string name="notification_channel_broadcast_messages">Trasmissione messaggi</string>
      <string name="notification_multiple">%s allarmi non letti.</string>
      <string name="notification_multiple_title">Nuovo allarme</string>
      <string name="pws_other_message_identifiers">Allerta emergenza</string>
@@ -124,10 +144,14 @@
      <string name="show_cmas_opt_out_summary">Mostra una finestra di disattivazione dopo aver visualizzato il primo avviso CMAS (esclusi gli avvisi Presidenziali).</string>
      <string name="show_cmas_opt_out_title">Mostra finestra disattivazione</string>
      <string name="sms_cb_settings">Impostazioni di trasmissione cella</string>
+     <string name="test_alert">Avviso di prova</string>
+     <string name="test_alerts">Avvisi di prova</string>
      <string name="tw_alert_message">Messaggio di avviso</string>
      <string name="tw_emergency_alert">Avviso di emergenza</string>
      <string name="tw_required_monthly_test">Richiede Test Mensile</string>
      <string name="updating_settings">Aggiornamento impostazioni</string>
      <string name="updating_title">Impostazioni chiamata</string>
      <string name="view_details_title">Dettagli allerta</string>
+     <string name="warning_alert">Avviso di pericolo</string>
+     <string name="warning_alerts">Avvisi di pericolo</string>
 </resources>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">Il telefono rimarrà in modalità Solo chiamate di emergenza per %s minuti. Quando è attiva questa modalità non sarà possibile usare nessuna applicazione che necessiti di una connessione dati. Desideri uscire ora?</item>
@@ -23,6 +24,10 @@
      <plurals name="call_remove_exception_numbers_confirm">
         <item quantity="other">%d numeri verranno eliminati.</item>
         <item quantity="one">%d numero verrà eliminato.</item>
+     </plurals>
+     <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">No data connection for %s minutes</item>
+        <item quantity="one">No data connection for %s minute</item>
      </plurals>
      <plurals name="pin_attempts">
         <item quantity="other">"

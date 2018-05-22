@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="alphabet">Alfabeto</string>
      <string name="app_name">Strumenti SIM</string>
@@ -25,7 +26,6 @@
      <string name="sim_type_uim_name">Strumenti UIM</string>
      <string name="sim_type_usim_name">Strumenti USIM</string>
      <string name="stk_app_state">Stato applicazione</string>
-     <string name="stk_channel_name">Mobile service messages</string>
      <string name="stk_dialog_accept">SI</string>
      <string name="stk_dialog_reject">NO</string>
      <string name="stk_dialog_title">Strumenti SIM</string>

@@ -86,9 +86,6 @@
      <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
      <string name="conference_callers_exceeded">Limite partecipanti superato</string>
      <string name="contacts_icon_label">Contatti</string>
-     <string name="crbt_second_hold_prompt">%s è in attesa…</string>
-     <string name="crbt_second_hold_prompt_conference">La conferenza telefonica è in attesa…</string>
-     <string name="crbt_second_hold_prompt_no_name">La chiamata precedente è in attesa…</string>
      <string name="default_area_code_setting">Default area code</string>
      <string name="description_image_button_answer">Scorri in alto per rispondere</string>
      <string name="description_image_button_dialpad">Tastierino</string>

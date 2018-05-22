@@ -23,8 +23,12 @@
         <item>Orizzontale</item>
      </string-array>
      <string-array name="screenrecorder_settings_sound">
-        <item>Muto</item>
+        <item>Silenziato</item>
         <item>Microfono</item>
-        <item>Speaker</item>
+        <item>Altoparlante</item>
+     </string-array>
+     <string-array name="screenrecorder_settings_storage_location">
+        <item>Memoria interna</item>
+        <item>Memoria esterna</item>
      </string-array>
 </resources>
