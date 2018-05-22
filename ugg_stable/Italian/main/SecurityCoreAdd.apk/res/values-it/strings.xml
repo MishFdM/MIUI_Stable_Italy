@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="Active">Attivo</string>
      <string name="PassWordGuard">Password Spazio Secondario</string>
      <string name="PrivacyContactDes1">"I contatti diventeranno privati.
 I messaggi compariranno solo nello Spazio secondario."</string>
      <string name="PrivacyContactDes2">"Se hai utilizzato i messaggi nello spazio Primario,
-questa funzione verrà aggiunta automaticamente allo spazio Secondario."</string>
+questa funzionalità verrà aggiunta automaticamente allo spazio Secondario."</string>
      <string name="add_finger_print">Aggiungi impronta</string>
      <string name="air_space_created">Spazio di lavoro creato correttamente</string>
      <string name="air_space_deleted">Spazio di lavoro eliminato correttamente</string>
@@ -145,11 +146,11 @@ Puoi anche scaricarli separatamente"</string>
      <string name="need_reset_passwd">Ripristina la password prima di accedere allo spazio di lavoro</string>
      <string name="need_set_second_space_desc">"Aggiungi una password prima di inserire l'impronta digitale sul Spazio Secondario"</string>
      <string name="need_set_second_space_pwd_first">Imposta prima la password del Spazio Secondario</string>
-     <string name="newSecondSpace">Attiva lo Spazio Secondario</string>
+     <string name="newSecondSpace">Attiva lo spazio Secondario</string>
      <string name="next_setp">Avanti</string>
      <string name="no_match_repate_scanner">Impossibile trovare impronte corrispondenti, scansiona di nuovo</string>
      <string name="normal_app">Spazio Primario</string>
-     <string name="not_support_air_space">Questa funzione non è supportata sul tuo telefono</string>
+     <string name="not_support_air_space">Questa funzionalità non è supportata sul tuo telefono</string>
      <string name="not_support_multiple_users">Gli spazi multipli non sono supportati</string>
      <string name="notificationSetPassword">Imposta password</string>
      <string name="notificationSetPasswordDes">Proteggi i dati dello Spazio Secondario</string>
@@ -234,9 +235,9 @@ Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare
      <string name="setting_is_show_text_contacts">Configura i contatti e i messaggi privati</string>
      <string name="settings_cross_notification_summary">"Ricevi le notifiche dall'altro spazio"</string>
      <string name="settings_cross_notification_title">Notifiche</string>
-     <string name="settings_msg_add_shortcut">Collegamento aggiunto nello spazio Primario</string>
-     <string name="settings_msg_remove_shortcut">Collegamento rimosso dallo spazio Primario</string>
-     <string name="settings_notification_and_switch">Cambio notifiche</string>
+     <string name="settings_msg_add_shortcut">Added shortcut to First space</string>
+     <string name="settings_msg_remove_shortcut">Removed shortcut from First space</string>
+     <string name="settings_notification_and_switch">Switching &amp; notifications</string>
      <string name="settings_space_data">Dati</string>
      <string name="settings_status_icon_summary">"Mostra l'icona dello Spazio secondario nella barra di stato"</string>
      <string name="settings_status_icon_title">Icona Spazio Secondario</string>
@@ -324,7 +325,7 @@ per accedere dalla schermata di blocco"</string>
      <string name="xspace_default_setting_label">App predefinita</string>
      <string name="xspace_description">Crea app clonate da utilizzare separatamente. Le app clonate avranno una propria icona sulla Home.</string>
      <string name="xspace_guide_des">Utilizza 2 account senza cambiare</string>
-     <string name="xspace_guide_title">Crea app clonata per %s</string>
+     <string name="xspace_guide_title">"Crea un'app clonata %s"</string>
      <string name="xspace_header">Clona applicazioni</string>
      <string name="xspace_install_completed">Icona aggiunta alla Home</string>
      <string name="xspace_install_failed">Impossibile clonare</string>

@@ -33,7 +33,6 @@
      <string name="mibi_button_cancel">Annulla</string>
      <string name="mibi_button_confirm">Conferma</string>
      <string name="mibi_button_count_down_finish">OK(%1$s)</string>
-     <string name="mibi_button_count_down_reget">%1$s</string>
      <string name="mibi_button_custom_service_phone">OK</string>
      <string name="mibi_button_next">Avanti</string>
      <string name="mibi_button_pay">Conferma</string>
@@ -43,9 +42,8 @@
      <string name="mibi_change_security_lock">Altri blocco schermo</string>
      <string name="mibi_check_giftcard">Mostra coupon</string>
      <string name="mibi_click_retry">%1$s, tocca per riprovare</string>
-     <string name="mibi_colon">": "</string>
      <string name="mibi_deduct_goods_name">Prodotto</string>
-     <string name="mibi_deduct_open_prompt">%1$s sarà in grado di ricarica automaticamente %2$s senza verifica.Puoi disattivare questa funzione in %1$s</string>
+     <string name="mibi_deduct_open_prompt">%1$s sarà in grado di ricarica automaticamente %2$s senza verifica.Puoi disattivare questa funzionalità in %1$s</string>
      <string name="mibi_deduct_order_price">Prezzo</string>
      <string name="mibi_deduct_pay_group_title">Seleziona metodo di addebito</string>
      <string name="mibi_deduct_payment_title">Addebito automatico</string>
@@ -87,7 +85,6 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_error_common_summary">Errore di sistema. Riprova più tardi.</string>
      <string name="mibi_error_deduct">Impossibile attivare il protocollo di pagamento automatico</string>
      <string name="mibi_error_expired_summary">Il tuo ordine è scaduto</string>
-     <string name="mibi_error_frozen_service_num">400-100-3399</string>
      <string name="mibi_error_has_bought_summary">Hai già acquistato questo prodotto.</string>
      <string name="mibi_error_illegal_order_summary">Errore ordine. Riprova più tardi</string>
      <string name="mibi_error_invalid_device">Dispositivo non valido.</string>
@@ -147,7 +144,7 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_list_item_bottom_hint">Hai raggiunto la fine della lista</string>
      <string name="mibi_login">Accedi</string>
      <string name="mibi_memu_refresh">Aggiorna</string>
-     <string name="mibi_menu_feedback">Feedback</string>
+     <string name="mibi_menu_feedback">Segnalazione bug</string>
      <string name="mibi_menu_lock">Sequenza di sblocco</string>
      <string name="mibi_menu_qa">FAQ</string>
      <string name="mibi_menu_shotcut">Posiziona in Home</string>
@@ -452,7 +449,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_user_agreement_p1">Accetto</string>
      <string name="passport_user_agreement_p2">Accordo Utente</string>
      <string name="passport_user_agreement_p3"> e </string>
-     <string name="passport_user_agreement_p4">Iformativa sulla privacy</string>
+     <string name="passport_user_agreement_p4">Informativa sulla privacy</string>
      <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
      <string name="passport_vcode_prompt_long">Immetti codice di verifica</string>
      <string name="passport_vcode_sms_send_prompt">Invia codice di verifica a %s</string>

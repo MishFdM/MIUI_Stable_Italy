@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="accept">Accetta</string>
      <string name="accept_or_deny">%1$s album condivisi, %2$s con te.</string>
@@ -595,7 +596,7 @@
      <string name="cleaner_slim_title">Ottimizza foto</string>
      <string name="cleaner_space_description">possono essere liberati</string>
      <string name="cleaner_space_detail_description">Cancella alcune foto nella Galleria per liberare spazio</string>
-     <string name="cleaner_stop_scan">Stop scanning</string>
+     <string name="cleaner_stop_scan">Termina scansione</string>
      <string name="click_download_gif">Tocca per scaricare GIF</string>
      <string name="click_top_right">"Tocca l'icona in alto a destra"</string>
      <string name="cloud_camera_display_name">Non ordinati</string>
@@ -644,7 +645,7 @@
      <string name="confirm_download_video_title">Scarica video</string>
      <string name="confirm_face">Corrispondenza</string>
      <string name="confirm_hidden_recommend_group">OK</string>
-     <string name="confirm_hidden_recommend_group_message">QUando i suggerimenti sono disattivati, puoi ancora utilizzare la funzione \"Altre persone che assomigliano\"</string>
+     <string name="confirm_hidden_recommend_group_message">QUando i suggerimenti sono disattivati, puoi ancora utilizzare la funzionalità \"Altre persone che assomigliano\"</string>
      <string name="confirm_hidden_recommend_group_title">Non mostrare i suggerimenti</string>
      <string name="confirm_merge_face_albums">" "<data> Unire questo album con %s? </data>" "</string>
      <string name="confirm_merge_many_face_albums">" "<data> Unire questi album con %s? </data>" "</string>
@@ -789,9 +790,9 @@
      <string name="error_sync_off_tip">Sincronizzazione disattivata</string>
      <string name="error_title">Impossibile sincronizzare</string>
      <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
-     <string name="error_unknown_action">Feedback</string>
+     <string name="error_unknown_action">Segnalazione bug</string>
      <string name="error_unknown_host">Hostname sconosciuto, controlla la connessione di rete</string>
-     <string name="error_unknown_msg">Si è verificato un errore. Inviaci il tuo feedback.</string>
+     <string name="error_unknown_msg">Si è verificato un errore. Inviaci la tua segnalazione.</string>
      <string name="error_unknown_tip">Si è verificato un errore.</string>
      <string name="exit">Esci</string>
      <string name="exit_share">"Esci dall'album"</string>
@@ -824,17 +825,17 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="family_member_invitation_text">Altro familiare</string>
      <string name="fast_share_auto_render">Filtro bellezza</string>
      <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
-     <string name="filter_bi_memory">Memory</string>
+     <string name="filter_bi_memory">Memoria</string>
      <string name="filter_bi_mono">Mono</string>
-     <string name="filter_bi_pink">Pink</string>
-     <string name="filter_bi_portrait">Portrait</string>
+     <string name="filter_bi_pink">Rosa</string>
+     <string name="filter_bi_portrait">Ritratto</string>
      <string name="filter_bi_retro">Retro</string>
-     <string name="filter_bi_romantic">Romantic</string>
-     <string name="filter_bi_strong">Strong</string>
-     <string name="filter_bi_sunny">Sunny</string>
-     <string name="filter_bi_sweet">Sweet</string>
-     <string name="filter_bi_warm">Warm</string>
-     <string name="filter_bi_young">Young</string>
+     <string name="filter_bi_romantic">Romantico</string>
+     <string name="filter_bi_strong">Forte</string>
+     <string name="filter_bi_sunny">Sole</string>
+     <string name="filter_bi_sweet">Dolce</string>
+     <string name="filter_bi_warm">Caldo</string>
+     <string name="filter_bi_young">Giovane</string>
      <string name="filter_category_film">Film</string>
      <string name="filter_category_food">Cibo</string>
      <string name="filter_category_portrait">Verticale</string>
@@ -876,8 +877,8 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="finish_fill_baby">Crea</string>
      <string name="flash_off">Niente flash</string>
      <string name="flash_on">Usa flash</string>
-     <string name="gallery_setting">Galleria</string>
-     <string name="gallery_sync_disable_toast">La funzione di sincronizzazione della galleria non è attiva</string>
+     <string name="gallery_setting">Impostazioni</string>
+     <string name="gallery_sync_disable_toast">La funzionalità di sincronizzazione della galleria non è attiva</string>
      <string name="get_album_info_in_process">Richiesta informazioni album condiviso, attendere…</string>
      <string name="gif_tip">GIF</string>
      <string name="gigabyteShort">GB</string>
@@ -890,7 +891,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="has_invalid_recipient">Destinatari non validi: %1$s</string>
      <string name="have_known">Conosciuto</string>
      <string name="hidden_album_display_name">Album nascosto</string>
-     <string name="home_menu_cleaner">Free up space</string>
+     <string name="home_menu_cleaner">Libera spazio</string>
      <string name="home_menu_collage">Collage</string>
      <string name="home_menu_photo_movie">Guarda indietro</string>
      <string name="home_menu_print">Stampa foto</string>
@@ -1161,9 +1162,9 @@ per personalizzare la Galleria"</string>
      <string name="picker_image_will_download">%d delle foto selezionate non sono sul dispositivo, download in corso</string>
      <string name="picker_no_network_message">Rete non disponibile, collegati alla rete e procedi con il download</string>
      <string name="picker_origin_need_download">%1$d delle foto selezionate non sono sul dispositivo (%2$d MB). Scaricare utilizzando la rete dati cellulare?</string>
-     <string name="picker_title_format">Selezionate %1$d foto su %2$d</string>
+     <string name="picker_title_format">Seleziona da %1$d a %2$d foto</string>
      <string name="picker_title_selection_format">%d selezionate</string>
-     <string name="picker_title_selection_format_multiple">Seleziona %1$d di %2$d foto (%3$d)</string>
+     <string name="picker_title_selection_format_multiple">Seleziona da %1$d a %2$d foto (%3$d selezionate)</string>
      <string name="picker_title_specify_format">Seleziona %d foto</string>
      <string name="picker_title_specify_format_one">Seleziona %d foto</string>
      <string name="picker_title_unlimit">Seleziona immagine</string>
@@ -1280,7 +1281,7 @@ per personalizzare la Galleria"</string>
      <string name="search_title_album">Album</string>
      <string name="search_title_history">Cronologia di ricerca</string>
      <string name="search_title_location">Posizioni</string>
-     <string name="search_title_more">More</string>
+     <string name="search_title_more">Altro</string>
      <string name="search_title_others">Tutti i risultati</string>
      <string name="search_title_people">Persone</string>
      <string name="search_title_recommend">Consigliati</string>
@@ -1418,7 +1419,7 @@ per personalizzare la Galleria"</string>
      <string name="title_tip">Suggerimento</string>
      <string name="title_warn">Attenzione</string>
      <string name="to_count">%d totali</string>
-     <string name="to_enable_gallery_sync_dialog_message">Prima attiva la funzione di sincronizzazione galleria</string>
+     <string name="to_enable_gallery_sync_dialog_message">Prima attiva la funzionalità di sincronizzazione galleria</string>
      <string name="to_enable_sync_dialog_message">Prima attiva la sincronizzazione</string>
      <string name="to_enable_sync_dialog_positive_button_text">Vai</string>
      <string name="to_enable_sync_dialog_title">Sincronizzazione</string>
@@ -1477,7 +1478,7 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_filter_sunny">Sole</string>
      <string name="video_editor_invalid_trim_arguments">Potrebbe impiegare qualche minuto</string>
      <string name="video_editor_loading_plugin">Caricamento…</string>
-     <string name="video_editor_loading_warning_msg">A causa di un errore nella codifica, alcune funzioni ed anteprime potrebbero non essere disponibili durante il processo. In ogni caso questo non influenzerà il video finale.</string>
+     <string name="video_editor_loading_warning_msg">A causa di un errore nella codifica, alcune funzionalità ed anteprime potrebbero non essere disponibili durante il processo. In ogni caso questo non influenzerà il video finale.</string>
      <string name="video_editor_loading_warning_title">Errore di codifica</string>
      <string name="video_editor_more">Avanzate</string>
      <string name="video_editor_not_support_tips">Questi file video non sono supportati</string>
@@ -1485,7 +1486,7 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_res_download_failed_tips">Impossibile scaricare, controlla le impostazioni di rete e riprova</string>
      <string name="video_editor_res_download_mobil_network_confirm_msg">Scaricare tramite rete dati cellulare?</string>
      <string name="video_editor_res_download_mobil_network_confirm_title">Utilizza rete dati cellulare</string>
-     <string name="video_editor_res_not_load_dialog_msg">Scarica il plugin per poter utilizzare questa funzione.</string>
+     <string name="video_editor_res_not_load_dialog_msg">Scarica il plugin per poter utilizzare questa funzionalità.</string>
      <string name="video_editor_template_family">Famiglia</string>
      <string name="video_editor_template_forbidden_tips">Operazione impossibile mentre si utilizza un modello</string>
      <string name="video_editor_template_oldfilm">Vintage</string>
@@ -1503,7 +1504,7 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_unsupport_audio_file">File audio non supportato</string>
      <string name="video_err">Impossibile riprodurre il video.</string>
      <string name="video_not_exist">Video inesistente</string>
-     <string name="view_by_gallery_tip">Galleria MIUI</string>
+     <string name="view_by_gallery_tip">Galleria</string>
      <string name="view_face_album">Mostra album</string>
      <string name="view_queuing_status">Verifica stato</string>
      <string name="welcome_to_micloud">Benvenuto in Mi Cloud</string>

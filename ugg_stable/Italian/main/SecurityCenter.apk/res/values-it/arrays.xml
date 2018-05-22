@@ -14,12 +14,12 @@
         <item>Personalizzato</item>
      </string-array>
      <string-array name="date_of_app_all">
-        <item>Dati (ieri)</item>
-        <item>Dati (oggi)</item>
-        <item>Dati (questo mese)</item>
-        <item>Wi-Fi (ieri)</item>
-        <item>Wi-Fi (oggi)</item>
-        <item>Wi-Fi (questo mese)</item>
+        <item>Dati (ieri)\u0020</item>
+        <item>Dati (oggi)\u0020</item>
+        <item>Dati (questo mese)\u0020</item>
+        <item>Wi-Fi (ieri)\u0020</item>
+        <item>Wi-Fi (oggi)\u0020</item>
+        <item>Wi-Fi (questo mese)\u0020</item>
      </string-array>
      <string-array name="date_of_traffic">
         <item>"Ieri "</item>
@@ -69,7 +69,7 @@
         <item>"Ordina per frequenza d'uso"</item>
         <item>Ordina per memoria utilizzata</item>
         <item>Ordina per tempo installazione</item>
-        <item>Ordina per app che possono essere disinstallate prima</item>
+		<item>Mostra app che puoi disinstallare prima</item>
      </string-array>
      <string-array name="sort_type">
         <item>Stato</item>
@@ -77,7 +77,7 @@
         <item>Frequenza utilizzo</item>
         <item>Memoria utilizzata</item>
         <item>Tempo installazione</item>
-        <item>Puoi disinstallare queste app</item>
+		<item>Che puoi disinstallare prima queste app</item>
      </string-array>
      <string-array name="tether_limit_warn_type">
         <item>Disattiva e notifica</item>
