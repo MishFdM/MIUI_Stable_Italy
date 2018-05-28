@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_select">%s selezionati</string>
      <string name="access_unselect">%s deselezionati</string>
@@ -129,7 +128,7 @@
      <string name="card_setting_btn">Personalizza</string>
      <string name="card_settings">Impostazioni schede</string>
      <string name="card_settings_rule">Imposta le regole per la visualizzazione delle schede</string>
-     <string name="card_title_empty_note">随便记点什么吧</string>
+     <string name="card_title_empty_note">Nessuna nota</string>
      <string name="card_title_express">Le mie consegne</string>
      <string name="card_title_favorite">Preferiti</string>
      <string name="card_title_funclaunch">Collegamenti</string>
@@ -494,13 +493,13 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="function_keyguard_dialog_cancel">Indietro</string>
      <string name="function_keyguard_dialog_confirm">Imposta</string>
      <string name="function_keyguard_dialog_content">Imposta password di blocco schermo per proteggere i tuoi pagamenti.</string>
-     <string name="function_keyguard_dialog_title">Questa funzione non é ancora supportata</string>
+     <string name="function_keyguard_dialog_title">Questa funzionalità non é ancora supportata</string>
      <string name="function_mistore_cart">Carrello</string>
      <string name="function_mistore_favorite">Preferiti</string>
      <string name="function_mistore_title">Mi Store</string>
      <string name="function_music_recognize">Ascolta brano</string>
      <string name="function_music_title">Musica</string>
-     <string name="function_not_support">Questa funzione non é supportata da questo dispositivo</string>
+     <string name="function_not_support">Questa funzionalità non é supportata da questo dispositivo</string>
      <string name="function_open_error_content">"Questo collegamento non funzionerà perché l'app é stata disinstallata. Seleziona un altro collegamento o reinstalla l'app."</string>
      <string name="function_open_error_content_app">"Quest'app é stata disinstallata. Seleziona un altro collegamento o reinstalla l'app."</string>
      <string name="function_open_error_content_app_xspace">"Questo collegamento non funzionerà perchè l'app clonata é stata disinstallata. Seleziona un collegamento diverso o clona una nuova app."</string>
@@ -883,7 +882,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="setting_map_brief">Calcola tempo viaggio e chiamata taxi</string>
      <string name="setting_map_brief_detail">Calcolare il tempo necessario per un viaggio e per chiamare un taxi</string>
      <string name="setting_note">Note</string>
-     <string name="setting_note_brief">Il metodo piú semplice per scrivere note</string>
+     <string name="setting_note_brief">Il metodo più semplice per scrivere note</string>
      <string name="setting_place">Imposta gli spostamenti frequenti e fornisci informazioni sul traffico e sul percorso prima della partenza</string>
      <string name="setting_place_next">Prossimo</string>
      <string name="setting_pref_confirm">Termina</string>
@@ -947,7 +946,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="stock_list_empty_text">Non stai seguendo alcuna compagnia.</string>
      <string name="stock_search_empty">Impossibile trovare risultati</string>
      <string name="stock_title">Riserve</string>
-     <string name="stock_toast_add_max_count">Non puoi seguire piú di 8 compagnie.</string>
+     <string name="stock_toast_add_max_count">Non puoi seguire più di 8 compagnie.</string>
      <string name="stock_web_bottom_btn">Apri</string>
      <string name="stock_web_bottom_text">Apri il client e visualizza più info</string>
      <string name="stock_web_lable">Riserve</string>

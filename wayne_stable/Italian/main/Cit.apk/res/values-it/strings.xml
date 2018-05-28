@@ -660,11 +660,11 @@ mod:0-15"</string>
      <string name="radio_info_freq_label">[CHANNEL]:</string>
      <string name="radio_info_mcc_label">"[MCC]    :"</string>
      <string name="radio_info_mnc_label">"[MNC]    :"</string>
-     <string name="radio_info_neighboring_location_label">[Neighbor]</string>
+     <string name="radio_info_neighboring_location_label">Informazione cella vicina:</string>
      <string name="radio_info_network_type_label">[RFMODE] :</string>
      <string name="radio_info_signal_cid_label">"[CID]    :"</string>
-     <string name="radio_info_signal_location_label">"[LAC]    :"</string>
-     <string name="radio_info_signal_strength_label">"[RSSI]   :"</string>
+     <string name="radio_info_signal_location_label">Informazione località cella:</string>
+     <string name="radio_info_signal_strength_label">Potenza segnale:</string>
      <string name="radio_info_state_label">"[STATE]  :"</string>
      <string name="rate">Rate:</string>
      <string name="rateandfreqout">Rate should be from 0 to 11 and Frequency should be from 1 to 13!</string>
@@ -771,7 +771,7 @@ mod:0-15"</string>
      <string name="testerror">Test Again</string>
      <string name="testinf2">TESTINF</string>
      <string name="testinfo">[TESTINF]:</string>
-     <string name="testing">AutoTest Running...</string>
+     <string name="testing">Test in corso...</string>
      <string name="textview">TextView</string>
      <string name="top_ant">Top ANt</string>
      <string name="touchpanel_bow">Draw Bow</string>
