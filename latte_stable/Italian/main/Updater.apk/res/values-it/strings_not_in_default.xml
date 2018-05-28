@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="exo_controls_fastforward_description">Avanti</string>
+     <string name="exo_controls_next_description">Prossima traccia</string>
+     <string name="exo_controls_pause_description">Pausa</string>
+     <string name="exo_controls_play_description">Riproduci</string>
+     <string name="exo_controls_previous_description">Traccia precedente</string>
+     <string name="exo_controls_rewind_description">Indietro</string>
+     <string name="exo_controls_stop_description">Interrompi</string>
+</resources>

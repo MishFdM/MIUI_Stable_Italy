@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="default_preference_summary">&lt;Not set></string>
+     <string name="dial_pad_autocomplete">Dialpad autocomplete</string>
+     <string name="dialpad_0_number">0</string>
+     <string name="dialpad_1_number">1</string>
+     <string name="dialpad_2_number">2</string>
+     <string name="dialpad_3_number">3</string>
+     <string name="dialpad_4_number">4</string>
+     <string name="dialpad_5_number">5</string>
+     <string name="dialpad_6_number">6</string>
+     <string name="dialpad_7_number">7</string>
+     <string name="dialpad_8_number">8</string>
+     <string name="dialpad_9_number">9</string>
+     <string name="label_ndp">SIM network unlock PIN</string>
+     <string name="notification_action_end_call">Hang up</string>
+     <string name="notification_dialing">Dialing</string>
+     <string name="notification_incoming_call">Incoming call</string>
+     <string name="notification_missedCallTicker">Missed call from %s</string>
+     <string name="notification_missedCallTitle">Missed call</string>
+     <string name="notification_missedCall_call_back">Call back</string>
+     <string name="notification_missedCall_message">Message</string>
+     <string name="notification_missedCallsMsg">%s missed calls</string>
+     <string name="notification_missedCallsTitle">Missed calls</string>
+     <string name="notification_on_hold">On hold</string>
+     <string name="notification_ongoing_call">Ongoing call</string>
+     <string name="phone_account_wifi_calling">WLAN calling</string>
+     <string name="requesting_unlock">Requesting network unlock…</string>
+     <string name="unlock_failed">Network unlock request unsuccessful.</string>
+     <string name="unlock_success">Network unlock successful.</string>
+     <string name="voicemail_notification_ringtone_title">Sound</string>
+     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
+     <string name="wifi_calling_call_assistant">Call assistant</string>
+     <string name="wifi_calling_call_assistant_configure">Configure</string>
+     <string name="wifi_calling_call_assistant_none">None</string>
+     <string name="wifi_calling_do_not_use">Do not use WLAN calling</string>
+     <string name="wifi_calling_do_not_use_call_assistant">Do not use call assistant</string>
+     <string name="wifi_calling_select_call_assistant">Choose call assistant</string>
+     <string name="wifi_calling_select_call_assistant_summary">Manage the networks used for calls with</string>
+     <string name="wifi_calling_use_call_assistant">Use call assistant</string>
+     <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
+</resources>

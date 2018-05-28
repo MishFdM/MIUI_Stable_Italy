@@ -6,6 +6,12 @@
         <item>@string/perm_action_prompt</item>
         <item>@string/perm_action_reject</item>
      </string-array>
+     <string-array name="permission_grps">
+        <item>@string/all</item>
+        <item>@string/safe_relative</item>
+        <item>@string/privacy_relative</item>
+        <item>@string/other_relative</item>
+     </string-array>
      <string-array name="permission_risk_privacy">
         <item>android.permission.ACCESS_COARSE_LOCATION</item>
         <item>android.permission.ACCESS_FINE_LOCATION</item>

@@ -68,7 +68,7 @@
      <string name="accessibility_wimax_three_bars">WiMAX: tre barre.</string>
      <string name="accessibility_wimax_two_bars">WiMAX: due barre.</string>
      <string name="account_info">Accesso non eseguito</string>
-     <string name="activate_usb_message">Per attivare questa funzione inserisci la SIM.</string>
+     <string name="activate_usb_message">Per attivare questa funzionalità inserisci la SIM.</string>
      <string name="activate_usb_title">Attiva USB</string>
      <string name="always_use_accessory">Usa per impostazione predef. per accessorio USB</string>
      <string name="always_use_device">Usa per impostazione predef. per dispositivo USB</string>
@@ -166,6 +166,9 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="long_screenshot_stop">Interrompi</string>
      <string name="long_screenshot_top_msg">Screenshot lungo in esecuzione…</string>
      <string name="long_screenshot_top_msg_manual">Ritaglia lo screenshot e tocca il tasto per terminare</string>
+     <string name="low_temperature_button_ok">Ho capito</string>
+     <string name="low_temperature_warning_message">TLA temperatura è troppo bassa,il telefono potrebbe spegnersi in qualsiasi momento, salva i dati.</string>
+     <string name="low_temperature_warning_title">Avviso spegnimento</string>
      <string name="managed_profile_foreground_toast">Stai utilizzando il tuo profilo di lavoro</string>
      <string name="mdb_entering">Avvio</string>
      <string name="mdb_restore_cancel">Annulla</string>
@@ -246,14 +249,14 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="screenshot_dlg_delete_button">Elimina</string>
      <string name="screenshot_edit">Modifica</string>
      <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
-     <string name="screenshot_feedback_txt">Feedback</string>
+     <string name="screenshot_feedback_txt">Segnalazione bug</string>
      <string name="screenshot_insert_failed">"Caricamento schermata fallito, prego prova di nuovo o visualizza le immagini nell'album"</string>
      <string name="screenshot_long_screenshot">Screenshot lungo</string>
      <string name="screenshot_saved_text">Premi per visualizzare la tua schermata.</string>
      <string name="screenshot_send">Invia</string>
-     <string name="screenshot_toalbum_txt">Preview</string>
+     <string name="screenshot_toalbum_txt">Anteprima</string>
      <string name="search_hint">Cerca siti web, app, contatti, video...</string>
-     <string name="settings_custom_notification">Notifiche personalizzate</string>
+     <string name="settings_custom_notification">Gestisci le notifiche</string>
      <string name="settings_toggle_position">Modifica posizione comandi</string>
      <string name="settings_toggle_position_divider_list">I comandi sopra questa barra saranno visibili</string>
      <string name="settings_toggle_position_reset">Ripristina comandi</string>

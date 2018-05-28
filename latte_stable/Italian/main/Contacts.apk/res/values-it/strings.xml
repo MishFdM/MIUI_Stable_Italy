@@ -428,7 +428,7 @@ Motivo: \"%s\"</string>
      <string name="import_all_vcard_string">Importa tutti i file vCard</string>
      <string name="import_contact_card_button">Importa contatto</string>
      <string name="import_failure_no_vcard_file">"Nessun file vCard trovato nell'archivio."</string>
-     <string name="import_from_other_phone">Importa da un altro dispositivo</string>
+     <string name="import_from_other_phone">Import from another phone</string>
      <string name="import_from_sdcard">Importa da archivio</string>
      <string name="import_from_sim">Importa da SIM</string>
      <string name="import_multiple_vcard_string">Importa più file vCard</string>
@@ -455,7 +455,6 @@ Motivo: \"%s\"</string>
      <string name="keep_local">Memorizza in locale</string>
      <string name="keep_local_btn">Usa la memoria interna del dispositivo"</string>
      <string name="label_custom_type">Personalizzato</string>
-     <string name="label_duplicate_count">(%1$d)</string>
      <string name="label_no_duplicate_contacts">Nessun duplicato rilevato</string>
      <string name="label_notes">Note</string>
      <string name="label_sip_address">Chiamate Internet</string>
@@ -701,7 +700,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="peace_day">和平紀念</string>
      <string name="people">Contatti</string>
      <string name="phoneLabelsGroup">Telefono</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_primary">Primario</string>
      <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
      <string name="photo_package_activity_title">Browse folders</string>

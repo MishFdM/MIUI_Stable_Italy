@@ -5,7 +5,7 @@
      <string name="accessibility_speakerphone_enabled">Vivavoce attivato.</string>
      <string name="add_vm_number_str">Aggiungi numero</string>
      <string name="default_connection_manager_component" />
-     <string name="duplicate_video_call_not_allowed">Call cannot be added at this time.</string>
+     <string name="duplicate_video_call_not_allowed">La chiamata non può essee aggiunta adesso.</string>
      <string name="handle_restricted">LIMITATO</string>
      <string name="no_vm_number">Numero segreteria telefonica mancante</string>
      <string name="no_vm_number_msg">Nessun numero segreteria telefonica è salvato sulla SIM.</string>
@@ -16,7 +16,7 @@
      <string name="notification_missedCallsMsg">%s chiamate perse</string>
      <string name="notification_missedCallsTitle">Chiamate perse</string>
      <string name="outgoing_call_error_no_phone_number_supplied">Chiamata non effettuata, numero inserito non valido.</string>
-     <string name="outgoing_call_not_allowed">This user is not allowed to make non-emergency phone calls</string>
+     <string name="outgoing_call_not_allowed">Only emergency calls are allowed by the device owner</string>
      <string name="respond_via_sms_canned_response_1">Non posso parlare ora. Ci sentiamo dopo.</string>
      <string name="respond_via_sms_canned_response_2">Ti chiamo appena posso</string>
      <string name="respond_via_sms_canned_response_3">Ti chiamo più tardi</string>

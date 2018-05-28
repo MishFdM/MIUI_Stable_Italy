@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_label">Documents</string>
+     <string name="app_label">File</string>
      <string name="create_error">Impossibile creare cartella</string>
      <string name="drawer_close">Nascondi root</string>
      <string name="drawer_open">Mostra root</string>

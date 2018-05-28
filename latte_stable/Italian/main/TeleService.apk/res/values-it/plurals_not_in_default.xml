@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="auto_answer_summary_delay">
+        <item quantity="other">ritardo: %s secondi</item>
+        <item quantity="one">ritardo: %s secondo</item>
+     </plurals>
+     <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Puoi aggiungere fino a %s persone, seleziona di nuovo.</item>
+        <item quantity="one">Puoi aggiungere %s persona, seleziona di nuovo.</item>
+     </plurals>
+     <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numeri</item>
+        <item quantity="one">%d numero</item>
+     </plurals>
+     <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d numeri verranno eliminati.</item>
+        <item quantity="one">%d numero verrà eliminato.</item>
+     </plurals>
+     <plurals name="pin_attempts">
+        <item quantity="other">"
+		%d tentativi rimanenti."</item>
+        <item quantity="one">"
+		%d tentativo rimanente."</item>
+     </plurals>
+</resources>

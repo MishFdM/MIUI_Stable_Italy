@@ -145,7 +145,7 @@
         <item>1 week</item>
      </string-array>
      <string-array name="preferences_default_reminder_values">
-       <item>-1</item>
+        <item>-1</item>
         <item>0</item>
         <item>1</item>
         <item>5</item>

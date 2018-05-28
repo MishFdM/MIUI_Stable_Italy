@@ -20,18 +20,19 @@
      <string name="button_text_next_step_timer">Next (%d)</string>
      <string name="cancel">Annulla</string>
      <string name="dlg_app_replacement_statement">"L'applicazione che stai installando sostituirà un'altra applicazione. Tutti i dati utente precedenti verranno salvati."</string>
-     <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) will replace the currently installed version (%3$s). All existing app data will be saved.</string>
+     <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) will replace the currently installed version (%3$s). Your user data will be saved.
+Install new version?"</string>
      <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema. Tutti i dati utente precedenti verranno salvati."</string>
      <string name="done">Fine</string>
      <string name="install">Installa</string>
      <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
      <string name="install_done">App installata.</string>
      <string name="install_failed">App non installata.</string>
-     <string name="install_failed_cpu_abi_incompatible">"This app isn't compatible with your phone."</string>
-     <string name="install_failed_inconsistent_certificates">An existing package by the same name with a conflicting signature is already installed.</string>
+     <string name="install_failed_cpu_abi_incompatible">"This app is not compatible with this pad's CPU."</string>
+     <string name="install_failed_inconsistent_certificates">An existing package with the same name with a conflicting signature is already installed.</string>
      <string name="install_failed_invalid_apk">Il pacchetto potrebbe essere danneggiato.</string>
      <string name="install_failed_msg">Impossibile installare %1$s sul telefono.</string>
-     <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
+     <string name="install_failed_older_sdk">This package only works on newer versions of Android.</string>
      <string name="installer_name">Source: %1$s</string>
      <string name="installing">Installazione...</string>
      <string name="launch">Apri</string>
@@ -39,7 +40,7 @@
      <string name="manage_applications">Gestisci applicazioni</string>
      <string name="manage_device_administrators">Gestisci amministratori dispositivo</string>
      <string name="ok">OK</string>
-     <string name="other_relative">Other</string>
+     <string name="other_relative">Other permissions</string>
      <string name="out_of_space_dlg_text">Impossibile installare %1$s. Libera dello spazio e riprova.</string>
      <string name="package_delete_confirm_step_1">Delete %s?</string>
      <string name="package_delete_confirm_step_2">Deleting this app may cause your system to become unstable.</string>
@@ -49,9 +50,9 @@
      <string name="perm_action_reject">Deny</string>
      <string name="permission_warn_hint">The app will get access to:</string>
      <string name="permission_warn_title">This app is from an unknown source.</string>
-     <string name="privacy_relative">Privacy</string>
+     <string name="privacy_relative">Privacy permissions</string>
      <string name="progress_verifying">Verifying…</string>
-     <string name="safe_relative">Security</string>
+     <string name="safe_relative">Safety permissions</string>
      <string name="settings">Impostazioni</string>
      <string name="uninstall_activity_text">%1$s fa parte della seguente applicazione:</string>
      <string name="uninstall_application_text">Vuoi disinstallare questa applicazione?</string>
@@ -60,12 +61,14 @@
      <string name="uninstall_done">Disinstallazione completata.</string>
      <string name="uninstall_failed">Disinstallazione non riuscita.</string>
      <string name="uninstall_failed_device_policy_manager">Impossibile disinstallare: il pacchetto è un amministratore dispositivo attivo.</string>
-     <string name="uninstall_failed_retained_app_msg">"This app has been modified and can't be uninstalled in its current form."</string>
+     <string name="uninstall_failed_retained_app_msg">"Couldn't uninstall app."</string>
      <string name="uninstall_update_text">Sostituire questa app con la versione di fabbrica? Tutti i dati verranno rimossi.</string>
      <string name="uninstall_update_title">Disinstalla aggiornamento</string>
      <string name="uninstalling">Disinstallazione...</string>
      <string name="unknown">Sconosciuto</string>
-     <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources.</string>
+     <string name="unknown_apps_dlg_text">"For security reasons, your pad doesn't allow you to install apps from third party sources by default.We cannot guarantee the safety or validity of any of the apps that you download from third party sources.You assume full responsibility any damage or loss that may as a result of subsequent use.
+
+You can toggle this setting in Settings > Additional settings > Privacy > Device administration > Unknown sources."</string>
      <string name="unknown_apps_dlg_title">Install blocked</string>
      <string name="update_log_default">No change log.</string>
      <string name="update_time">%4$s released on %2$s/%3$s/%1$s.</string>

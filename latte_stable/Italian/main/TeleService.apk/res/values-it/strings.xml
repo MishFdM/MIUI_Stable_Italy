@@ -7,7 +7,7 @@
      <string name="adding_fdn_contact">Aggiunta numero a selezione fissa…</string>
      <string name="additional_cdma_call_settings">Impostazioni aggiuntive per chiamate CDMA</string>
      <string name="additional_gsm_call_settings">Impostazioni aggiuntive</string>
-     <string name="additional_gsm_call_settings_with_label">Additional settings (%s)</string>
+     <string name="additional_gsm_call_settings_with_label">Impostazioni aggiuntive (%s)</string>
      <string name="administrative_disable">Notizie amministrative disattivate</string>
      <string name="administrative_enable">Notizie amministrative attivate</string>
      <string name="advanced_settings">Impostazioni opzionali</string>
@@ -56,7 +56,7 @@
      <string name="callFailed_unobtainable_number">Numero non valido</string>
      <string name="callFailed_userBusy">Linea occupata</string>
      <string name="call_forwarding_settings">Impostazioni inoltro chiamate</string>
-     <string name="call_forwarding_settings_with_label">Call forwarding settings (%s)</string>
+     <string name="call_forwarding_settings_with_label">Impostazioni trasferimento di chiamata (%s)</string>
      <string name="call_settings">Chiamate</string>
      <string name="call_settings_primary_user_only">"Impostazioni di chiamata possono essere modificate solo dall'utente primario."</string>
      <string name="call_settings_with_label">Impostazioni di chiamata (%s)</string>
@@ -101,7 +101,7 @@
      <string name="data_enable_summary">Abilita accesso dati tramite rete mobile</string>
      <string name="data_enabled">Connessione dati</string>
      <string name="default_notification_description">Suono predefinito (%1$s)</string>
-     <string name="default_preference_summary">&lt;Not set&gt;</string>
+     <string name="default_preference_summary">&lt;Not set></string>
      <string name="delete_fdn_contact">Elimina numero a selezione fissa</string>
      <string name="deleting_fdn_contact">Eliminazione numero a selezione fissa…</string>
      <string name="description_delete_button">cancella</string>
@@ -111,7 +111,7 @@
      <string name="description_voicemail_button">Segreteria</string>
      <string name="dial_emergency_empty_error">Chiamata non effettuata. Chiama un numero di emergenza.</string>
      <string name="dial_emergency_error">Chiamata non effettuata. %s non è un numero di emergenza.</string>
-     <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
+     <string name="dial_pad_autocomplete">Dialpad autocomplete</string>
      <string name="dialerKeyboardHintText">Usa la tastiera per chiamare</string>
      <string name="dialpad_0_letters">+</string>
      <string name="dialpad_0_number">0</string>
@@ -191,7 +191,7 @@
      <string name="enable_video_calling_dialog_msg">Per attivare la videochiamata, devi aver abilitato il 4G nelle impostazioni di sistema.</string>
      <string name="enable_video_calling_dialog_settings">Impostazioni di rete</string>
      <string name="enable_video_calling_title">Attiva videochiamata</string>
-     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (raccomandato)</string>
+     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (consigliato)</string>
      <string name="enhanced_4g_lte_mode_title">Modalità 4G LTE avanzata</string>
      <string name="enter_input" formatted="false">Il messaggio USSD deve essere lungo tra gli %d e i %d caratteri. Si prega di riprovare.</string>
      <string name="enter_pin2_text">PIN2</string>
@@ -216,8 +216,8 @@
      <string name="fdn_enabled">I numeri a selezione fissa sono stati attivati</string>
      <string name="fdn_failed">FDN operazione fallita.</string>
      <string name="fdn_invalid_number">NSF non aggiornato perché il numero non può essere più lungo di 20 cifre</string>
-     <string name="fdn_list_with_label">FDN list (%s)</string>
-     <string name="fdn_with_label">Fixed Dialing Numbers (%s)</string>
+     <string name="fdn_list_with_label">Lista NSF(%s)</string>
+     <string name="fdn_with_label">Numeri a Selezione Fissa (%s)</string>
      <string name="fw_change_failed">"Impossibile modificare il numero a cui inoltrare le chiamate.
 Contatta il tuo operatore se questo problema persiste."</string>
      <string name="fw_get_in_vm_failed">"Impossibile recuperare e salvare l'attuale impostazione del numero a cui inoltrare le chiamate.
@@ -303,11 +303,11 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="network_1x">GPRS</string>
      <string name="network_2G">2G</string>
      <string name="network_3G">3G</string>
-     <string name="network_4G">4G (raccomandato)</string>
+     <string name="network_4G">4G (consigliato)</string>
      <string name="network_error_message">Impossibile collegarsi alla rete</string>
      <string name="network_global">Globale</string>
      <string name="network_info_message">Messaggio di rete</string>
-     <string name="network_lte">LTE (raccomandato)</string>
+     <string name="network_lte">LTE (consigliato)</string>
      <string name="network_query_error">Errore durante la ricerca reti.</string>
      <string name="networks">Operatori di rete</string>
      <string name="newPin2Label">Nuovo PIN2</string>
@@ -390,7 +390,7 @@ Invio toni"</string>
      <string name="payphone">Cabina telefonica</string>
      <string name="phoneAppLabel">Telefono</string>
      <string name="phoneIconLabel">Telefono</string>
-     <string name="phone_account_wifi_calling">WLAN calls</string>
+     <string name="phone_account_wifi_calling">WLAN calling</string>
      <string name="phone_accounts">Impostazioni account telefono</string>
      <string name="phone_accounts_add_sip_account">Aggiunti account SIP</string>
      <string name="phone_accounts_ask_every_time">Chiedi sempre</string>
@@ -399,7 +399,7 @@ Invio toni"</string>
      <string name="phone_accounts_make_calls_with">Effettua chiamate con</string>
      <string name="phone_accounts_make_sip_calls_with">Effettua chiamate SIP con</string>
      <string name="phone_accounts_selection_header">Account telefono</string>
-     <string name="phone_accounts_settings_header">Settings</string>
+     <string name="phone_accounts_settings_header">Impostazioni</string>
      <string name="phone_entered_ecm_text">Modalità Richiamata di emergenza attivata</string>
      <string name="phone_in_ecm_call_notification_text">Connessione dati disattivata</string>
      <string name="phone_in_ecm_notification_title">Modalità Richiamata di emergenza</string>
@@ -423,8 +423,8 @@ Sono rimasti %d tentativo(i)."</string>
      <string name="preferred_network_mode_gsm_only_summary">Modalità di rete preferita: solo GSM</string>
      <string name="preferred_network_mode_gsm_wcdma_summary">Modalità di rete preferita: GSM / WCDMA</string>
      <string name="preferred_network_mode_lte_cdma_evdo_summary">Modalità di rete preferita: CDMA+LTE/EVDO</string>
-     <string name="preferred_network_mode_lte_cdma_summary">Preferred network mode: LTE / CDMA</string>
-     <string name="preferred_network_mode_lte_gsm_umts_summary">Preferred network mode: LTE / GSM / UMTS</string>
+     <string name="preferred_network_mode_lte_cdma_summary">Modalità di rete preferita: LTE/CDMA</string>
+     <string name="preferred_network_mode_lte_gsm_umts_summary">Modalità di rete preferita: LTE/GSM/UMTS</string>
      <string name="preferred_network_mode_lte_gsm_wcdma_summary">Modalità di rete preferita: GSM/WCDMA/LTE</string>
      <string name="preferred_network_mode_lte_summary">Modalità di rete preferita: LTE</string>
      <string name="preferred_network_mode_lte_wcdma_summary">Modalità di rete preferita: LTE / WCDMA</string>
@@ -461,7 +461,7 @@ Sono rimasti %d tentativo(i)."</string>
      <string name="registration_status_still_trying">Tentativo ancora in corso…</string>
      <string name="remove_sip_account">Rimuovi account</string>
      <string name="removing_account">"Rimozione dell'account…"</string>
-     <string name="requesting_unlock">Requesting SIM network unlock…</string>
+     <string name="requesting_unlock">Requesting network unlock…</string>
      <string name="response_error">Risposta non prevista dalla rete.</string>
      <string name="restaurants_disable">Ristoranti disattivati</string>
      <string name="restaurants_enable">Ristoranti attivati</string>
@@ -558,8 +558,8 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tty_mode_option_summary">Imposta modalità TTY</string>
      <string name="tty_mode_option_title">Modalità TTY</string>
      <string name="unknown">Sconosciuto</string>
-     <string name="unlock_failed">SIM Network unlock request unsuccessful.</string>
-     <string name="unlock_success">SIM Network unlock successful.</string>
+     <string name="unlock_failed">Network unlock request unsuccessful.</string>
+     <string name="unlock_success">Network unlock successful.</string>
      <string name="updating_fdn_contact">Aggiornamento numero a selezione fissa…</string>
      <string name="updating_settings">Aggiornamento impostazioni…</string>
      <string name="updating_title">Impostazioni chiamata</string>
@@ -576,21 +576,21 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voicemail_default">Il mio operatore</string>
      <string name="voicemail_notification_ringtone_title">Sound</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
-     <string name="voicemail_notification_vibrate_when_title">Vibrate</string>
+     <string name="voicemail_notification_vibrate_when_title">Vibra</string>
      <string name="voicemail_number_not_set">Non impostato</string>
      <string name="voicemail_provider">Servizio di segreteria</string>
      <string name="voicemail_settings">Impostazioni segreteria</string>
      <string name="voicemail_settings_number_label">Numero della segreteria telefonica</string>
      <string name="wait_prompt_str">"Inviare i seguenti toni?
 "</string>
-     <string name="wifi_calling_call_assistant">Calling assistant</string>
+     <string name="wifi_calling_call_assistant">Call assistant</string>
      <string name="wifi_calling_call_assistant_configure">Configure</string>
      <string name="wifi_calling_call_assistant_none">None</string>
-     <string name="wifi_calling_do_not_use">"Don't use WLAN calls"</string>
-     <string name="wifi_calling_do_not_use_call_assistant">"Don't use Calling assistant"</string>
-     <string name="wifi_calling_select_call_assistant">Choose Calling assistant</string>
+     <string name="wifi_calling_do_not_use">Do not use WLAN calling</string>
+     <string name="wifi_calling_do_not_use_call_assistant">Do not use call assistant</string>
+     <string name="wifi_calling_select_call_assistant">Choose call assistant</string>
      <string name="wifi_calling_select_call_assistant_summary">Manage the networks used for calls with</string>
-     <string name="wifi_calling_use_call_assistant">Use Calling assistant</string>
+     <string name="wifi_calling_use_call_assistant">Use call assistant</string>
      <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
      <string name="wild_prompt_str">Sostituire carattere con</string>
 </resources>
