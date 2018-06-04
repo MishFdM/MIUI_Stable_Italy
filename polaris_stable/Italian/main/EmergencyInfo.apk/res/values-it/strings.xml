@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="a_negative">A, negativo</string>
      <string name="a_positive">A, positivo</string>
      <string name="ab_negative">A B negativo</string>
      <string name="ab_positive">A B positivo</string>
-     <string name="abc_action_bar_home_description">Navigate home</string>
+     <string name="abc_action_bar_home_description">Vai alla Home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Navigate up</string>
-     <string name="abc_action_menu_overflow_description">More options</string>
-     <string name="abc_action_mode_done">Done</string>
-     <string name="abc_activity_chooser_view_see_all">See all</string>
-     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+     <string name="abc_action_mode_done">Fatto</string>
+     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
-     <string name="abc_search_hint">Search…</string>
-     <string name="abc_searchview_description_clear">Clear query</string>
-     <string name="abc_searchview_description_query">Search query</string>
-     <string name="abc_searchview_description_search">Search</string>
-     <string name="abc_searchview_description_submit">Submit query</string>
-     <string name="abc_searchview_description_voice">Voice search</string>
-     <string name="abc_shareactionprovider_share_with">Share with</string>
-     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-     <string name="abc_toolbar_collapse_description">Collapse</string>
+     <string name="abc_search_hint">Ricerca…</string>
+     <string name="abc_searchview_description_clear">Cancella termine</string>
+     <string name="abc_searchview_description_query">Cerca termine</string>
+     <string name="abc_searchview_description_search">Cerca</string>
+     <string name="abc_searchview_description_submit">Avvia ricerca</string>
+     <string name="abc_searchview_description_voice">Ricerca vocale</string>
+     <string name="abc_shareactionprovider_share_with">Condividi con</string>
+     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+     <string name="abc_toolbar_collapse_description">Chiudi</string>
      <string name="abminus">AB-</string>
      <string name="abplus">AB+</string>
      <string name="add_emergency_contact">Aggiungi contatto</string>
@@ -34,7 +33,6 @@
      <string name="aminus">A-</string>
      <string name="aplus">A+</string>
      <string name="app_label">Informazioni di emergenza</string>
-     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
      <string name="b_negative">B negativo</string>
      <string name="b_positive">B positivo</string>
      <string name="blood_type">Gruppo sanguigno</string>
@@ -50,9 +48,9 @@
      <string name="edit_info">Modifica informazioni di emergenza</string>
      <string name="emergency_contacts_title">Contatti di emergenza</string>
      <string name="emergency_info_continue">Continua</string>
-     <string name="fail_add_contact">Unable to read contact information properly</string>
-     <string name="fail_display_contact">"Can't display the contact"</string>
-     <string name="fail_load_contact_picker">"Couldn't find a contact picker"</string>
+     <string name="fail_add_contact">Impossibile leggere correttamente le informazioni del contatto</string>
+     <string name="fail_display_contact">Impossibile visualizzare il contatto</string>
+     <string name="fail_load_contact_picker">Impossibile trovare un selezionatore dei contatti</string>
      <string name="h_h">H H</string>
      <string name="hh">H/H</string>
      <string name="medical_conditions">Note mediche</string>
@@ -68,21 +66,16 @@
      <string name="ominus">O-</string>
      <string name="oplus">O+</string>
      <string name="organ_donor">Donatore di organi</string>
-     <string name="password_toggle_content_description">Toggle password visibility</string>
-     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+     <string name="password_toggle_content_description">Comando visibilità password</string>
      <string name="phone_type_and_phone_number">%1$s • %2$s</string>
      <string name="remove">Rimuovi</string>
      <string name="remove_contact">Rimuovi %1$s dai contatti di emergenza?</string>
      <string name="remove_contact_icon_text">Rimuovi contatto</string>
      <string name="remove_dob_icon_text">Rimuovi data di nascita</string>
-     <string name="search_menu_title">Search</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
+     <string name="search_menu_title">Cerca</string>
      <string name="tab_title_contacts">Contatti</string>
      <string name="tab_title_info">Informazioni</string>
-     <string name="tap_pencil">If this is your phone, tap the pencil icon to add information that will be displayed here in case of emergency</string>
+     <string name="tap_pencil">"Se questo è il tuo telefono, tocca l'icona fatta a matita per aggiungere informazioni che verranno mostrate qui in caso di emergenza"</string>
      <string name="unknown_address">Sconosciuto</string>
      <string name="unknown_allergies">Sconosciuto</string>
      <string name="unknown_blood_type">Sconosciuto</string>
@@ -96,4 +89,6 @@
      <string name="v7_preference_off">OFF</string>
      <string name="v7_preference_on">ON</string>
      <string name="yes">Si</string>
+	 <string name="enable_webview_multiprocess">Multiprocessi WebView</string>
+     <string name="enable_webview_multiprocess_desc">Avvia il redender WebView separatamente</string>
 </resources>

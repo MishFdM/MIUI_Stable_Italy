@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Registrazione schermo</string>
      <string name="app_notification_info">La Registrazione Schermo sta operando in background</string>
@@ -18,12 +19,12 @@
      <string name="date_day" />
      <string name="date_month">/</string>
      <string name="date_year">/</string>
-     <string name="description_content">La Registrazione Schermo consente di registrare a livello di sistema. Questa operazione significa che rifiuti di utilizzare questa funzione. Conferma e Continua.</string>
+     <string name="description_content">La Registrazione Schermo consente di registrare a livello di sistema. Questa operazione significa che rifiuti di utilizzare questa funzionalità. Conferma e Continua.</string>
      <string name="description_title">Info su Registrazione Schermo</string>
      <string name="deselect_all">Deseleziona tutto</string>
      <string name="error_open_file_failed_no_app_found">"Impossibile trovare un'applicazione per l'apertura del file"</string>
-     <string name="frames">Frame rate</string>
-     <string name="frames_summary">Più alto il frame rate maggiore sarà la riduzione della sfocatura</string>
+     <string name="frames">Sequenza dei fotogrammi</string>
+     <string name="frames_summary">Più alta sarà la sequenza dei fotogrammi maggiore sarà la riduzione della sfocatura</string>
      <string name="frequently_click_toast">Servizio avviato, attendere</string>
      <string name="gleam_led_while_recording">Flash LED durante la registrazione</string>
      <string name="hint_back">Indietro</string>
@@ -33,7 +34,7 @@
      <string name="hint_volume_down">Volume -</string>
      <string name="hint_volume_up">Volume +</string>
      <string name="home_title_none">Elementi selezionati</string>
-     <string name="loopback_sound">Speaker</string>
+     <string name="loopback_sound">Altoparlante</string>
      <string name="low_battery">Carica il tuo telefono prima di iniziare una registrazione dello schermo</string>
      <string name="low_battery_title">Batteria quasi scarica</string>
      <string name="low_battery_warning">La batteria è quasi scarica. La registrazione video è stata fermata e salvata.</string>

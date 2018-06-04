@@ -59,7 +59,7 @@
      <string name="button_cancel">Annulla</string>
      <string name="button_continue">Continua</string>
      <string name="button_finish">Finito</string>
-     <string name="button_import">Import</string>
+     <string name="button_import">Importa</string>
      <string name="button_next">Avanti</string>
      <string name="button_ok">OK</string>
      <string name="button_return">Indietro</string>
@@ -119,7 +119,7 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
      <string name="enable_encrypt_fail">Abilitazione crittografia fallita</string>
      <string name="enable_encrypt_indicator">Backup non crittografato, tocca per abilitarla.</string>
      <string name="enable_encrypt_ok">OK</string>
-     <string name="enable_encrypt_summery1">"Il sistema cripterà il tuo backup locale basato sul tuo Mi Account. Devi accedere al tuo Mi Account per rimuovere dati o usare altri dispositivi per ripristinare il backup."</string>
+     <string name="enable_encrypt_summery1">"Il sistema critterà il tuo backup locale basato sul tuo Mi Account. Devi accedere al tuo Mi Account per rimuovere dati o usare altri dispositivi per ripristinare il backup."</string>
      <string name="enable_encrypt_summery2">Il nuovo backup verrà crittografato automaticamente. Devi accedere al tuo Mi Account per rimuovere i dati o usare altri dispositivi per ripristinare il backup.</string>
      <string name="enable_encrypt_title">Crittografia abilitata</string>
      <string name="enable_encrypt_xiaomi_account">"Questo backup è stato creato da %1$s, si prega di eliminare l'account attuale ed accedere a %2$s per ripristinare i dati."</string>
@@ -441,7 +441,7 @@ Si prega di liberare almeno %s"</string>
      <string name="trans_operate_func_one">Metodo A</string>
      <string name="trans_operate_func_two">Metodo B</string>
      <string name="trans_operate_new_phone_tips">"Vai in Impostazioni > Impostazioni aggiuntive > Mi Mover
-Tocca [I'm a recipient] per creare un Codice QR"</string>
+Tocca per creare un Codice QR"</string>
      <string name="trans_operate_old_phone_tips1">"1. Installa l'app Transfer sul tuo vecchio dispositivo
 2. Apri l'app e seleziona [Sono il mittente]
 3. Scansiona il Codice QR con il vecchio dispositivo"</string>
@@ -510,7 +510,7 @@ In attesa del trasferimento…"</string>
      <string name="user_name">Apple ID o email</string>
      <string name="user_name_null">Il nome utente non può essere vuoto</string>
      <string name="user_notice_declaration_ignore">Non mostrare più</string>
-     <string name="user_notice_message">Alcune funzioni richiedono una connessione internet per funzionare correttamente.</string>
+     <string name="user_notice_message">Alcune funzionalità richiedono una connessione internet per funzionare correttamente.</string>
      <string name="user_notice_title">Notifiche utente</string>
      <string name="view_password_description">Mostra password</string>
      <string name="wifi_title">Impostazioni Wi-Fi</string>

@@ -40,11 +40,11 @@
      <string name="afdcalibrationrubberstamp_test">TEST CALIBRAZIONE TIMBRO AFD</string>
      <string name="afdrubberstamp_test">TEST TIMBRO AFD</string>
      <string name="audio_rule">Audio xml parser</string>
-     <string name="audio_spk_cal_wait">Calibration, please...</string>
-     <string name="audio_spk_def">Calibrate the speakers, please</string>
+     <string name="audio_spk_cal_wait">Calibra, per favore...</string>
+     <string name="audio_spk_def">Calibra gli altoparlanti, per favore</string>
      <string name="back_mic_check_record_tip">Recording, please say something to MIC at the back of the phone</string>
      <string name="battery_id">Battery ID:</string>
-     <string name="battery_info">Charging battery related information</string>
+     <string name="battery_info">Informazioni di ricarica relative alla batteria</string>
      <string name="battery_plug_wirelee_summary">Wireless charger each connection, disconnect once</string>
      <string name="battery_plug_wirelee_title">Wireless charging test</string>
      <string name="battery_plugin_wirelee">Wireless charging is connected</string>
@@ -142,12 +142,12 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
 "</string>
      <string name="cit_audio_right_calfail">Calibrazione PA destro Fallito!</string>
      <string name="cit_aux_camera_action">Zoom</string>
-     <string name="cit_aux_camera_check_summary">"Test instructions:
+     <string name="cit_aux_camera_check_summary">"Istruzioni di prova:
 
-1.Tap the Zoom button below to enter Camera interface
-2.Tap the zoom button on camera preview, preview frame will zoom in
-3.Tap the Done icon."</string>
-     <string name="cit_back_pointer_location_title">Back touch sensor</string>
+1.Tocca il pulsante Zoom sotto per accedere all'interfaccia della fotocamera
+2.Tocca il pulsante di zoom sull'anteprima della videocamera, l'anteprima della cornice si ingrandirà
+3.Tocca l'icona Fine."</string>
+     <string name="cit_back_pointer_location_title">Sensore touch posteriore</string>
      <string name="cit_battery_check_summary">Statistiche batteria dispositivo</string>
      <string name="cit_battery_check_title">Informazioni batteria</string>
      <string name="cit_battery_temp_fail">La temperatura della batteria non è nella norma (valore: %d)</string>
@@ -215,7 +215,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_fm_audio_path">Configura path audio</string>
      <string name="cit_fm_audio_path_headset">Cuffie</string>
      <string name="cit_fm_audio_path_speaker">Altoparlante</string>
-     <string name="cit_fm_check_summary">Questo testerà la funzione FM del dispositivo.</string>
+     <string name="cit_fm_check_summary">Questo testerà la funzionalità FM del dispositivo.</string>
      <string name="cit_fm_check_title">Test Radio FM</string>
      <string name="cit_fm_close">Chiudi FM</string>
      <string name="cit_fm_not_supported">Questo dispositivo non supporta la radio FM</string>
@@ -268,7 +268,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_button_fast_forward">Avanti veloce</string>
      <string name="cit_headset_button_next">Successivo</string>
      <string name="cit_headset_button_pass">Riuscito</string>
-     <string name="cit_headset_button_play_pause">Play/Pausa</string>
+     <string name="cit_headset_button_play_pause">Riproduci/Pausa</string>
      <string name="cit_headset_button_previous">Precedente</string>
      <string name="cit_headset_button_reverse">Please reversely insert usb headset</string>
      <string name="cit_headset_button_rewind">Ricomincia</string>
@@ -291,7 +291,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_kayboard_volume_up">Pulsante: VOLUME GIÙ</string>
      <string name="cit_kernal_log_txt">kernel log</string>
      <string name="cit_keyboard_back">Pulsante: INDIETRO</string>
-     <string name="cit_keyboard_current">Tastiera attuale: %s</string>
+     <string name="cit_keyboard_current">Tasto attuale: %s</string>
      <string name="cit_keyboard_current_def">Current keyboard:</string>
      <string name="cit_keyboard_menu">Pulsante: MENU</string>
      <string name="cit_keyboard_test_summary">Quando premi i pulsanti, il corrispondente testo sullo schermo dovrebbe diventare verde (nota: i pulsanti Home e Accensione non sono inclusi nel test).</string>
@@ -316,8 +316,8 @@ Tocca lo schermo per attivare il GPS"</string>
 5. La foto che hai scattato dovrebbe comparire di seguito. Tocca "Elimina" per completare questo test"</string>
      <string name="cit_main_camera_check_title">Test Fotocamera posteriore</string>
      <string name="cit_name">Diagnostica</string>
-     <string name="cit_nfc_check_summary">Please put the card on the top of the back of the phone</string>
-     <string name="cit_nfc_check_title">NFC test</string>
+     <string name="cit_nfc_check_summary">Si prega di mettere la scheda sulla parte superiore del retro del dispositivo</string>
+     <string name="cit_nfc_check_title">Test NFC</string>
      <string name="cit_not_available">La versione utente non supporta questo test, sono disponibili solo i test di fabbrica</string>
      <string name="cit_notificationlight">LED Notifica</string>
      <string name="cit_notificationlight_off">LED Notifica OFF</string>
@@ -351,6 +351,8 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
      <string name="cit_reverse_charge_check_summary">Insert OTG phone to charge</string>
      <string name="cit_sar_sensor_check_summary">Values for sar sensor channels should appear below, cover the button of the phone, if data changed, the function is good, do not do calibration with USB calble plug in!</string>
      <string name="cit_sar_sensor_check_title">SAR Sensor</string>
+     <string name="cit_sd_cannot_be_read">La Scheda SD non è stata letta</string>
+     <string name="cit_sd_capacity">Capacità totale:</string>
      <string name="cit_sd_fail">Si è verificato un errore.</string>
      <string name="cit_sd_mount">Monta scheda SD</string>
      <string name="cit_sd_mount_sucess">Scheda SD montata</string>
@@ -362,8 +364,13 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_sd_plugin_check_title">Test Installazione scheda SD</string>
      <string name="cit_sd_plugout_check_summary">Quando rimuovi la scheda SD, il testo \"La scheda SD è stata rimossa, inseriscila ora\" dovrebbe comparire di seguito.</string>
      <string name="cit_sd_plugout_check_title">Test Rimozione scheda SD</string>
+     <string name="cit_sd_status">Stato Scheda SD:</string>
+     <string name="cit_sd_status_normal">Stato normale</string>
+     <string name="cit_sd_status_off_normal">Lo stato non è normale</string>
      <string name="cit_sd_unmount">Smonta scheda SD</string>
      <string name="cit_sd_unmount_sucess">Scheda SD smontata</string>
+     <string name="cit_sd_unused_capacity">Non utilizzata:</string>
+     <string name="cit_sd_used_capacity">Utilizzata:</string>
      <string name="cit_signature_check_label">controllo firma:</string>
      <string name="cit_sim_check_summary">Verifica che le informazioni e lo stato della SIM siano visualizzate correttamente.</string>
      <string name="cit_sim_check_title">Test scheda SIM</string>
@@ -582,7 +589,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_usb_charger_out">Alimentazione USB scollegata</string>
      <string name="cit_version_check_summary">Di seguito trovi la versione del SO. Verifica che le informazioni evidenziate in verde sono corrette.</string>
      <string name="cit_version_check_title">Versione Test</string>
-     <string name="cit_vga_camera_capture">Fotocamera</string>
+     <string name="cit_vga_camera_capture">Avvia</string>
      <string name="cit_vga_camera_capture_fail">Impossibile scattare una foto</string>
      <string name="cit_vga_camera_delete">Elimina</string>
      <string name="cit_vga_camera_deleted">Foto eliminata</string>
@@ -601,7 +608,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_wifi_address_error">Impossibile ottenere indirizzo IP. Assicurati di essere collegato ad una rete Wi-Fi.</string>
      <string name="cit_wifi_ap_scan_check_summary">"Di seguito trovi le info sui punti d'accesso Wi-Fi circostanti e che sono stati rilevati. Verifica che le informazioni evidenziate in verde siano corrette."</string>
      <string name="cit_wifi_ap_scan_check_title">Test scansione AP Wi-Fi</string>
-     <string name="cit_wifi_ap_scan_retry">Rieseguo scansione…</string>
+     <string name="cit_wifi_ap_scan_retry">Riesegui scansione…</string>
      <string name="cit_wifi_ap_scanning">Scansione…</string>
      <string name="cit_wifi_fail_to_scan">Impossibile eseguire la scansione</string>
      <string name="cit_wifi_state_refresh">Aggiorna</string>
@@ -693,42 +700,42 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="radio_chinese">Chinese</string>
      <string name="radio_english">English</string>
      <string name="radio_gril">Woman voice</string>
-     <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
-     <string name="radio_info_call_status_label">Voice Call Status:</string>
-     <string name="radio_info_cellinfo_label">All Cell Measurement Info:</string>
+     <string name="radio_info_asdiv_switch_label">Stato ASDiv:</string>
+     <string name="radio_info_call_status_label">Stato chiamata vocale:</string>
+     <string name="radio_info_cellinfo_label">Tutte le informazioni sulla cella:</string>
      <string name="radio_info_cid">CID</string>
-     <string name="radio_info_current_network_label">Current Network:</string>
-     <string name="radio_info_data_connected">Connected</string>
-     <string name="radio_info_data_connecting">Connecting</string>
-     <string name="radio_info_data_disconnected">Disconnected</string>
-     <string name="radio_info_data_network_type_label">Data Network Type:</string>
-     <string name="radio_info_data_suspended">Suspended</string>
+     <string name="radio_info_current_network_label">Rete attuale:</string>
+     <string name="radio_info_data_connected">Connesso</string>
+     <string name="radio_info_data_connecting">In connessione</string>
+     <string name="radio_info_data_disconnected">Disconnesso</string>
+     <string name="radio_info_data_network_type_label">Tipologia servizio dati:</string>
+     <string name="radio_info_data_suspended">Sospeso</string>
      <string name="radio_info_display_asu">asu</string>
      <string name="radio_info_display_dbm">dBm</string>
-     <string name="radio_info_entry">Mobile Network Info</string>
-     <string name="radio_info_gprs_service_label">Data Service:</string>
-     <string name="radio_info_gsm_service_label">Voice Service:</string>
+     <string name="radio_info_entry">Info rete mobile</string>
+     <string name="radio_info_gprs_service_label">Servizio Dati:</string>
+     <string name="radio_info_gsm_service_label">Servizio voce:</string>
      <string name="radio_info_imei_label">IMEI:</string>
      <string name="radio_info_lac">LAC</string>
-     <string name="radio_info_neighboring_location_label">Neighbor Cell Info:</string>
-     <string name="radio_info_phone_idle">Idle</string>
-     <string name="radio_info_phone_number_label">Phone Number:</string>
-     <string name="radio_info_phone_offhook">Call in Progress</string>
-     <string name="radio_info_phone_ringing">Ringing</string>
-     <string name="radio_info_radio_power">Cellular Radio Power</string>
+     <string name="radio_info_neighboring_location_label">Informazione cella vicina:</string>
+     <string name="radio_info_phone_idle">Inattivo</string>
+     <string name="radio_info_phone_number_label">Numero di telefono:</string>
+     <string name="radio_info_phone_offhook">Chiamata in progresso</string>
+     <string name="radio_info_phone_ringing">Suono</string>
+     <string name="radio_info_radio_power">Potenza radio cellulare</string>
      <string name="radio_info_roaming_in">Roaming</string>
      <string name="radio_info_roaming_label">Roaming:</string>
-     <string name="radio_info_roaming_not">Not Roaming</string>
-     <string name="radio_info_service_emergency">Emergency Calls Only</string>
-     <string name="radio_info_service_in">In Service</string>
-     <string name="radio_info_service_off">Radio Off</string>
-     <string name="radio_info_service_out">Out of Service</string>
-     <string name="radio_info_set_perferred_label">Set Preferred Network Type:</string>
-     <string name="radio_info_signal_location_label">Cell Location Info:</string>
-     <string name="radio_info_signal_strength_label">Signal Strength:</string>
-     <string name="radio_info_sim_status">SIM Status:</string>
-     <string name="radio_info_unknown">Unknown</string>
-     <string name="radio_info_voice_network_type_label">Voice Network Type:</string>
+     <string name="radio_info_roaming_not">Nessun Roaming</string>
+     <string name="radio_info_service_emergency">Solo chiamate di emergenza</string>
+     <string name="radio_info_service_in">In servizio</string>
+     <string name="radio_info_service_off">Radio spenta</string>
+     <string name="radio_info_service_out">Fuori servizio</string>
+     <string name="radio_info_set_perferred_label">Imposta la rete preferita:</string>
+     <string name="radio_info_signal_location_label">Informazione località cella:</string>
+     <string name="radio_info_signal_strength_label">Potenza segnale:</string>
+     <string name="radio_info_sim_status">Stato SIM:</string>
+     <string name="radio_info_unknown">Sconosciuto</string>
+     <string name="radio_info_voice_network_type_label">Tipologia servizio rete:</string>
      <string name="radio_no">Can not hear</string>
      <string name="removeFingerprint">Remove Fingerprint</string>
      <string name="remove_headset_and_starttest">Prego rimuovi gli auricolari e premere start oer eseguire il test</string>
@@ -766,16 +773,23 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="template_data">template data</string>
      <string name="template_hint">estrai %1$s template per un dito</string>
      <string name="template_progress_hint">wait for extracting template datas</string>
+     <string name="test_auto">Test Auto</string>
      <string name="test_back_mic">Back MIC</string>
      <string name="test_case_status" />
      <string name="test_cases">Test casi</string>
+     <string name="test_failed">Fallito</string>
      <string name="test_front_mic">Front MIC</string>
      <string name="test_headset">Headset test</string>
      <string name="test_main_mic">Main MIC</string>
+     <string name="test_pixel_open">Test Pixel open</string>
      <string name="test_receiver">Receiver</string>
+     <string name="test_reset_pin">Test Reset pin</string>
      <string name="test_speaker">speaker</string>
+     <string name="test_spi">Test SPI</string>
+     <string name="test_succeed">Successo</string>
      <string name="test_top_mic">Top MIC</string>
      <string name="testagain">Puoi premere il pulsante Home per testare nuovamente</string>
+     <string name="testing">Test in corso...</string>
      <string name="title_about">informazioni su</string>
      <string name="title_algo_performance">algo performance</string>
      <string name="title_bad_point">bad poing</string>
