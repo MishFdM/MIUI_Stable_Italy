@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
      <string name="accessibility_audio_shutter_bg">Sfondo scatto vocale</string>
+     <string name="accessibility_back_preview_status">Anteprima fotocamera posteriore</string>
+     <string name="accessibility_beauty_panel_closed">Menu bellezza nascosto</string>
+     <string name="accessibility_beauty_panel_open">Menu bellezza aperto</string>
+     <string name="accessibility_beauty_switch_closed">Bellezza disattivata</string>
+     <string name="accessibility_beauty_switch_open">Bellezza attivata</string>
+     <string name="accessibility_bokeh_normal">Offuscamento sfondo fotocamera frontale disattivato</string>
+     <string name="accessibility_bokeh_on">Offuscamento sfondo fotocamera frontale attivato</string>
      <string name="accessibility_camera_module_picker">CameraModulePicker</string>
      <string name="accessibility_camera_picker">Fotocamera frontale o posteriore</string>
+     <string name="accessibility_camera_picker_finish">Cambio camera riuscito</string>
+     <string name="accessibility_camera_shutter_finish">Foto scattata correttamente</string>
+     <string name="accessibility_closed">Disattivato</string>
      <string name="accessibility_effect_mode_button">Effetti</string>
+     <string name="accessibility_filter_close_panel">Menù filtro chiuso</string>
+     <string name="accessibility_filter_open_panel">Il menù del filtro è aperto</string>
+     <string name="accessibility_filter_pad_close">Il menù del filtro è nascosto</string>
+     <string name="accessibility_flash_auto">Auto flash attivato</string>
      <string name="accessibility_flash_mode_button">Pulsante Flash</string>
+     <string name="accessibility_flash_off">Flash disattivato</string>
+     <string name="accessibility_flash_on">Flash attivato</string>
+     <string name="accessibility_flash_torch">Flash attivato, modalità torcia</string>
+     <string name="accessibility_focus_status">%1$sX zoom</string>
+     <string name="accessibility_foucs_peak">Valore picco</string>
+     <string name="accessibility_front_preview_status">Anteprima fotocamera frontale</string>
      <string name="accessibility_hdr">Tasto HDR</string>
+     <string name="accessibility_hdr_auto">Auto HDR attivato</string>
+     <string name="accessibility_hdr_live">HDR Live attivato</string>
+     <string name="accessibility_hdr_normal">HDR Pro attivato</string>
+     <string name="accessibility_hdr_off">HDR disattivato</string>
+     <string name="accessibility_hdr_on">HDR attivato</string>
      <string name="accessibility_intent_done_apply">Fatto</string>
      <string name="accessibility_mode_dismiss_button">Pulsante di selezione ravvicinata</string>
+     <string name="accessibility_more">Altro</string>
+     <string name="accessibility_open">Attivato</string>
      <string name="accessibility_peak">Messa a fuoco Peak</string>
      <string name="accessibility_portrait_button">Modalità ritratto</string>
+     <string name="accessibility_protrait">Ritratto</string>
      <string name="accessibility_review_thumbnail">Foto recenti</string>
      <string name="accessibility_seek_bar_line">SeekBarLine</string>
+     <string name="accessibility_selected">Elementi selezionati</string>
+     <string name="accessibility_setting">Impostazioni</string>
      <string name="accessibility_setting_button">Pulsante impostazioni aggiuntive</string>
      <string name="accessibility_shutter_button">Pulsante scatto</string>
      <string name="accessibility_skin_beautify_button">Pulsante effetto Bellezza</string>
@@ -22,6 +51,8 @@
      <string name="accessibility_video_module_picker">VideoModulePicker</string>
      <string name="accessibility_video_pause_button">Pulsante pausa</string>
      <string name="accessibility_zoom_button">Modalità Zoom</string>
+     <string name="ai_scene_mode_use_hint_text">"Apri la fotocamera Scena-AI, identifica il tipo di scena 
+ ed ottimizza l'immagine in base al tipo di scena"</string>
      <string name="audio_focus_exit_button_text">Disattiva Audio Focus</string>
      <string name="beauty_fragment_tab_name_beauty">Bellezza</string>
      <string name="beauty_fragment_tab_name_makeup">Avanzate</string>
@@ -63,6 +94,7 @@
      <string name="config_name_setting">Impostazioni</string>
      <string name="config_name_sound">Audio</string>
      <string name="config_name_straighten">Rafforza</string>
+     <string name="config_name_super_resolution">Super risoluzione</string>
      <string name="config_name_tilt">Capovolgi</string>
      <string name="config_name_timer">Timer</string>
      <string name="confirm_install_scanner_message">Lo scanner ti permette di scansionare codici QR, a barre, ed altri. E non dovrai connetterti ad internet per installarlo.</string>
@@ -149,9 +181,12 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="portait_effect_entry_japanese">Cielo blu</string>
      <string name="portait_effect_entry_maze">Labirinto</string>
      <string name="portait_effect_entry_mood">Emozioni</string>
+     <string name="portait_effect_entry_movie">Film</string>
      <string name="portait_effect_entry_nature">Natura</string>
      <string name="portait_effect_entry_pink">Arrossire</string>
+     <string name="portait_effect_entry_riddle">Enigma</string>
      <string name="portait_effect_entry_romance">Romantico</string>
+     <string name="portait_effect_entry_story">Storia</string>
      <string name="portrait_mode_depth_effect_success_hint">Effetto profondità</string>
      <string name="portrait_mode_lowlight_hint">Adesso è troppo scuro</string>
      <string name="portrait_mode_too_close_hint">"Allontanati dall'oggetto"</string>
@@ -159,6 +194,7 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="portrait_mode_use_hint">"La modalità verticale ti aiuta a sfocare lo sfondo
 per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_advance_settings">Impostazioni aggiuntive</string>
+     <string name="pref_ai_detect">Rilevamento AI</string>
      <string name="pref_audio_focus_entry_front">Frontale</string>
      <string name="pref_audio_focus_entry_general">Normale</string>
      <string name="pref_audio_focus_entry_rear">Posteriore</string>
@@ -166,12 +202,14 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_burst_shoot_title">Scatto continuo</string>
      <string name="pref_camcorder_settings">Impostazioni videocamera</string>
      <string name="pref_camcorder_settings_category">Videocamera</string>
+     <string name="pref_camera_ai_scene_title">Scena AI</string>
      <string name="pref_camera_antibanding_entry_0">Disattivato</string>
      <string name="pref_camera_antibanding_entry_1">50 Hz</string>
      <string name="pref_camera_antibanding_entry_2">60 Hz</string>
      <string name="pref_camera_antibanding_entry_3">Automatico</string>
      <string name="pref_camera_antibanding_title">Anti-banding</string>
      <string name="pref_camera_asd_night_title">Miglioramento foto notturne</string>
+     <string name="pref_camera_asd_popup_title">Notifica quando il flash è richiesto</string>
      <string name="pref_camera_audio_capture_title">Scatto vocale</string>
      <string name="pref_camera_auto_capture_when_stable_summary">"Per selezionare un oggetto, tocca due punti in diagonale lungo il suo bordo. Quando l'oggetto sarà stabile, la fotocamera scatterà automaticamente."</string>
      <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
@@ -184,6 +222,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_beautify_entry_high">Alto</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
+     <string name="pref_camera_beauty">Bellezza</string>
      <string name="pref_camera_beauty_deep">Bellezza profonda</string>
      <string name="pref_camera_bokeh_title">Verticale</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
@@ -216,6 +255,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_delay_capture_entry_audio">Audio</string>
      <string name="pref_camera_delay_capture_title">Autoscatto</string>
      <string name="pref_camera_device_watermark_title">Logo dispositivo</string>
+     <string name="pref_camera_dual_enable_title">Attiva dual camera</string>
+     <string name="pref_camera_dual_sat_enable_title">Attiva dual SAT camera</string>
      <string name="pref_camera_exposuretime_entry_1">1s</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
      <string name="pref_camera_exposuretime_entry_125">1/125s</string>
@@ -248,6 +289,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_focusmode_entry_manual">Manuale</string>
      <string name="pref_camera_focusmode_entry_normal">Normale</string>
      <string name="pref_camera_focusmode_title">Messa a fuoco</string>
+     <string name="pref_camera_front_ai_scene_entry_off">Scena AI disattivata</string>
+     <string name="pref_camera_front_ai_scene_entry_on">Scena AI</string>
      <string name="pref_camera_front_bokeh_entry_off">Disattivato</string>
      <string name="pref_camera_front_bokeh_entry_on">Attivato</string>
      <string name="pref_camera_gradienter_title">Prospettiva</string>
@@ -282,6 +325,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_long_pressing_shutter_title">Tieni premuto il tasto di scatto per bloccare AE/AF/AWB</string>
      <string name="pref_camera_magic_mirror_title">Specchio magico</string>
      <string name="pref_camera_manual_mode_title">Manuale</string>
+     <string name="pref_camera_mfnr_sat_enable_title">Attiva MFNR</string>
      <string name="pref_camera_movie_solid_title">Stabilizzazione video</string>
      <string name="pref_camera_multilevel_entry_high">Alto</string>
      <string name="pref_camera_multilevel_entry_higher">Più alto</string>
@@ -291,6 +335,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_multilevel_entry_lowest">Minimo</string>
      <string name="pref_camera_multilevel_entry_middle">Medio (Default)</string>
      <string name="pref_camera_multilevel_entry_normal">Normale</string>
+     <string name="pref_camera_optimized_flash_enable_title">Flash ottimizzato</string>
      <string name="pref_camera_panoramamode_title">Panorama</string>
      <string name="pref_camera_parallel_process_enable_title">Abilita processo immagine parallela</string>
      <string name="pref_camera_peak_entry_off">Disattivato</string>
@@ -298,8 +343,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_peak_title">Messa a fuoco Peak</string>
      <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
      <string name="pref_camera_picture_format_entry_raw">RAW</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Schermo Intero 16:9</string>
-     <string name="pref_camera_picturesize_entry_standard">Normale 4:3</string>
+	 <string name="pref_camera_picturesize_entry_fullscreen">Schermo Intero 16:9</string>
+	 <string name="pref_camera_picturesize_entry_standard">Normale 4:3</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
      <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
      <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>
@@ -371,6 +416,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_whitebalance_entry_manual">Manuale</string>
      <string name="pref_camera_whitebalance_entry_measure">Misurato</string>
      <string name="pref_camera_whitebalance_title">Bil. bianco</string>
+     <string name="pref_camera_zoom_mode_entry_high_pixel">MOLTI PIXEL</string>
+     <string name="pref_camera_zoom_mode_entry_standard">NORMALE</string>
      <string name="pref_camera_zoom_mode_entry_tele">Teleobiettivo</string>
      <string name="pref_camera_zoom_mode_entry_wide">Grandangolo</string>
      <string name="pref_camera_zoom_mode_title">Lenti</string>
@@ -403,6 +450,11 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
+     <string name="pref_video_captrue_ability_title">Cattura immagini durante la registrazione</string>
+     <string name="pref_video_focusmode_entry_auto">Tocca</string>
+     <string name="pref_video_focusmode_entry_continuous">CAF</string>
+     <string name="pref_video_focusmode_title">Modalità di messa a fuoco</string>
+     <string name="pref_video_hfr_title">Video HFR</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
@@ -465,6 +517,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="sticker_tab2">Divertente</string>
      <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale."</string>
      <string name="tap_to_focus">Tocca per mettere a fuoco</string>
+     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
+     <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
      <string name="time_lapse_error">Dimensione video non valida per il Time-lapse.</string>
      <string name="title_snap_double_confirm">Conferma di nuovo</string>
      <string name="toast_burst_snap_finished_summary">Scatto multiplo completato, %1$s foto scattate</string>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="app_ops_labels">
         <item>Prova ad abilitare il Wi-Fi</item>
@@ -56,20 +55,6 @@
         <item>ICQ</item>
         <item>Jabber</item>
      </string-array>
-     <integer-array name="mtpboost_param_value">
-        <item>0x40C02000</item>
-        <item>1</item>
-        <item>0x40802000</item>
-        <item>3</item>
-        <item>0x40802100</item>
-        <item>2</item>
-        <item>0x40C2E000</item>
-        <item>1</item>
-        <item>0x40C36000</item>
-        <item>0</item>
-        <item>0x42C12000</item>
-        <item>1</item>
-     </integer-array>
      <string-array name="network_switch_type_name">
         <item>dati cellulare</item>
         <item>Wi-Fi</item>
@@ -96,8 +81,8 @@
         <item>Casa</item>
         <item>Lavoro</item>
         <item>Altro</item>
-        <item>Personalizzato</item>
-     </string-array>
+     <item>Personalizzato</item>
+		</string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
         <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>
      </string-array>
