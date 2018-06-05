@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Ritardo estremamente breve(%1$d ms)</item>
@@ -36,6 +35,14 @@
      <plurals name="auto_startup_count">
         <item quantity="other">"%d autorizzate all'avvio automatico"</item>
         <item quantity="one">"%d autorizzata all'avvio automatico"</item>
+     </plurals>
+     <plurals name="bg_network_allow_count">
+        <item quantity="other">%d app possono connettersi alla rete</item>
+        <item quantity="one">%d app può connettersi alla rete</item>
+     </plurals>
+     <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d app non possono connettersi alla rete"</item>
+        <item quantity="one">"%d app non può connettersi alla rete"</item>
      </plurals>
      <plurals name="connected_devices_number">
         <item quantity="other">%d dispositivi</item>
@@ -84,6 +91,10 @@
      <plurals name="enterprise_privacy_number_packages_lower_bound">
         <item quantity="other">Minimo %d app</item>
         <item quantity="one">Minimo %d app</item>
+     </plurals>
+     <plurals name="firewall_item_summary">
+        <item quantity="other">Connessione limitata per %s app</item>
+        <item quantity="one">Connessione limitata per %s app</item>
      </plurals>
      <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d persone collegate</item>
@@ -176,6 +187,10 @@
      <plurals name="permissions_summary">
         <item quantity="other">%d permessi concessi</item>
         <item quantity="one">%d permesso concesso</item>
+     </plurals>
+     <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d stampe in coda</item>
+        <item quantity="one">1 stampa in coda</item>
      </plurals>
      <plurals name="print_settings_summary">
         <item quantity="other">%1$d servizi di stampa attivi</item>
