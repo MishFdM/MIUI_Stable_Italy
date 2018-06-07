@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="accept">Accetta</string>
      <string name="accept_or_deny">%1$s album condivisi, %2$s con te.</string>
@@ -837,6 +838,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="filter_bi_young">Young</string>
      <string name="filter_category_film">Film</string>
      <string name="filter_category_food">Cibo</string>
+     <string name="filter_category_master">Master</string>
      <string name="filter_category_portrait">Verticale</string>
      <string name="filter_category_scene">Orizzontale</string>
      <string name="filter_film_blackwhite">B/N</string>
@@ -855,15 +857,23 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="filter_food_latte">Latte</string>
      <string name="filter_food_softdrink">Soda</string>
      <string name="filter_food_wholemeal">Grani</string>
+     <string name="filter_master_hazy">Hazy</string>
+     <string name="filter_master_mellow">Mellow</string>
+     <string name="filter_master_memoire">Memoire</string>
+     <string name="filter_master_rise">Rise</string>
+     <string name="filter_master_somber">Somber</string>
      <string name="filter_original">Nessuno</string>
      <string name="filter_people_fairytale">Bambini</string>
      <string name="filter_people_heart">Emozioni</string>
      <string name="filter_people_japanese">Fresco</string>
      <string name="filter_people_maze">Labirinto</string>
      <string name="filter_people_mint">Menta</string>
+     <string name="filter_people_movie">Movie</string>
      <string name="filter_people_nature">Naturale</string>
      <string name="filter_people_pink">Arrossamento</string>
+     <string name="filter_people_riddle">Riddle</string>
      <string name="filter_people_roman">Romantico</string>
+     <string name="filter_people_story">Story</string>
      <string name="filter_scene_city">Città</string>
      <string name="filter_scene_df">Nebbia</string>
      <string name="filter_scene_koizora">Amore</string>

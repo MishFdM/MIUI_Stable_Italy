@@ -27,7 +27,7 @@
         <item>Scala animazione 10x</item>
      </string-array>
      <string-array name="ap_identify">
-        <item>default</item>
+        <item>Predefinito</item>
         <item>iPhone</item>
      </string-array>
      <string-array name="apn_auth_entries">
@@ -99,20 +99,20 @@
         <item>Attiva VPN</item>
         <item>Cambia wlan</item>
         <item>Cambia bluetooth</item>
-        <item>assisti screenshot</item>
-        <item>leggi lo stato del telefono</item>
-        <item>aggiungi voicemail</item>
-        <item>utilizza sip</item>
-        <item>processa chiamata in uscita</item>
-        <item>impronta digitale</item>
-        <item>sensori del corpo</item>
-        <item>leggi trasmissione cella</item>
-        <item>posizione fittizia</item>
-        <item>leggi archivio</item>
-        <item>scrivi archivio</item>
-        <item>attiva schermo</item>
-        <item>recupera account</item>
-        <item>esegui in background</item>
+        <item>Assisti screenshot</item>
+        <item>Leggi lo stato del telefono</item>
+        <item>Aggiungi voicemail</item>
+        <item>Utilizza sip</item>
+        <item>Processa chiamata in uscita</item>
+        <item>Impronta digitale</item>
+        <item>Sensori del corpo</item>
+        <item>Leggi trasmissione cella</item>
+        <item>Posizione fittizia</item>
+        <item>Leggi archivio</item>
+        <item>Scrivi archivio</item>
+        <item>Attiva schermo</item>
+        <item>Recupera account</item>
+        <item>Esegui in background</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
@@ -868,7 +868,7 @@
         <item>Colori ottimizzati per contenuti digitali</item>
      </string-array>
      <string-array name="color_mode_names">
-        <item>Vibrante (default)</item>
+        <item>Vibrante (predefinito)</item>
         <item>Naturale</item>
         <item>Normale</item>
      </string-array>
@@ -895,6 +895,24 @@
      <string-array name="data_usage_data_range">
         <item>Ultimi 30 giorni</item>
         <item>Imposta ciclo di utilizzo...</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>Today (data)</item>
+        <item>This month (data)</item>
+        <item>Last month (data)</item>
+        <item>Today WLAN</item>
+        <item>This month WLAN</item>
+        <item>Last month WLAN</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Today "</item>
+        <item>"This month "</item>
+        <item>"Last month "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Today: "</item>
+        <item>"This month: "</item>
+        <item>"Last month: "</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">
         <item>Disattivato</item>
@@ -1052,6 +1070,13 @@
         <item>"Disinstalla dispositivo fusermount -u /media/mtp
  Nota: solo per Ubuntu 8.04"</item>
      </string-array>
+     <string-array name="mvno_type_entries">
+        <item>Nessuno</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
+     </string-array>
      <string-array name="network_speed_slow_summary">
         <item>La rete è lenta a causa del traffico intenso</item>
         <item>La rete è lenta a causa del segnale debole</item>
@@ -1207,6 +1232,14 @@
         <item>4M</item>
         <item>16M</item>
      </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Disattiva</item>
+        <item>Errore</item>
+        <item>Avvisa</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Disattivato</item>
         <item>Area ritaglio non rettangolare blu</item>
@@ -1258,6 +1291,10 @@
         <item>Chiusa</item>
         <item>Modalità normale</item>
         <item>Modalità estrema</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"WLAN usage "</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
         <item>Animazioni disattivate</item>
@@ -1405,7 +1442,7 @@
      <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-        <item>Proxy auto-config</item>
+        <item>Auto configurante</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Scadente</item>

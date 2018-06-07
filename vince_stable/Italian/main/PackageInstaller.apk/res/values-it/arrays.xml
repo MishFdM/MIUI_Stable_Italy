@@ -86,16 +86,16 @@
         <item>16M</item>
      </string-array>
      <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Disattivato</item>
+        <item>Tutti i log buffer</item>
+        <item>Tutti i log buffer radio</item>
+        <item>Solo i log buffer kernel</item>
      </string-array>
      <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Disattivato</item>
+        <item>Tutti</item>
+        <item>Tutti solo di tipo radio</item>
+        <item>Solo kernel</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Off</item>
