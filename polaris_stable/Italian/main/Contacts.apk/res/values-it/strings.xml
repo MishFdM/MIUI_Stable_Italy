@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
      <string name="accessibility_contact_detail">Dettagli contatto</string>
@@ -543,7 +542,7 @@ Motivo: \"%s\"</string>
      <string name="import_contact_card_button">Importa contatto</string>
      <string name="import_failure_no_vcard_file">"Nessun file vCard trovato nell'archivio."</string>
      <string name="import_from_onekey_migrate">Importa con Transfer</string>
-     <string name="import_from_other_phone">Import from another phone</string>
+     <string name="import_from_other_device">Importa da un altro dispositivo</string>
      <string name="import_from_sdcard">Importa da archivio</string>
      <string name="import_from_sim">Importa da SIM</string>
      <string name="import_from_sim1">Importa da SIM 1</string>
@@ -781,6 +780,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="no_contacts_dialog_title">Impossibile trovare contatti</string>
      <string name="no_contacts_selected">Nessun contatto selezionato.</string>
      <string name="no_sdcard_message">Nessun archivio trovato.</string>
+     <string name="no_setting_menu">Nessuna menù disponibile</string>
      <string name="non_phone_add_to_contacts">Aggiungi a contatti</string>
      <string name="non_phone_caption">Numero di telefono</string>
      <string name="non_phone_close">Chiudi</string>
@@ -1115,6 +1115,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="social_widget_label">Contatto</string>
      <string name="social_widget_loading">Caricamento…</string>
      <string name="solar_calendar">Solare</string>
+     <string name="special_code_security_exception">Operazione rifiutata： Nessun compositore predefinito</string>
      <string name="splitConfirmation">Questo contatto verrà diviso in più contatti.</string>
      <string name="splitConfirmation_title">Separare contatto?</string>
      <string name="starredList">Speciali</string>

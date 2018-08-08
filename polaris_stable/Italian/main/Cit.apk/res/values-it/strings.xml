@@ -58,14 +58,17 @@
      <string name="camera_done">Done</string>
      <string name="camera_error">"This device doesn't support Camera2 API."</string>
      <string name="camera_menu_list">CameraList</string>
+     <string name="camera_preview">preview</string>
      <string name="camera_zoom">Zoom</string>
      <string name="camerainfo">Informazioni camera</string>
      <string name="cancel">Cancel</string>
      <string name="cancelEnrol">CancelEnrol</string>
      <string name="cancel_test">TEST ANNULLATO</string>
      <string name="capacitance_test">TEST CAPACITÀ</string>
+     <string name="charger_test_end">"
+Charger test end, please plug out the charger"</string>
      <string name="checkerboard_test">TEST CHECKBOARD</string>
-     <string name="cit_OTG_plug_check_summary">Please plug in/out the OTG device one time</string>
+     <string name="cit_OTG_plug_check_summary">During the test, please plug in and reverse plug in the USB_OTG device</string>
      <string name="cit_OTG_plug_check_title">OTG</string>
      <string name="cit_OTG_plugin_check_summary">Quando un dispositivo OTG è collegato, il testo \"Dispositivo USB OTG rilevato\" dovrebbe comparire di seguito.</string>
      <string name="cit_OTG_plugin_check_title">Avvia test OTG</string>
@@ -147,6 +150,10 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
 1.Tocca il pulsante Zoom sotto per accedere all'interfaccia della fotocamera
 2.Tocca il pulsante di zoom sull'anteprima della videocamera, l'anteprima della cornice si ingrandirà
 3.Tocca l'icona Fine."</string>
+     <string name="cit_aux_camera_check_summary_no_zoom">"Test instructions:
+
+1.Tap the Preview button below to enter Camera interface
+2.Wait preview end, auto return."</string>
      <string name="cit_back_pointer_location_title">Sensore touch posteriore</string>
      <string name="cit_battery_check_summary">Statistiche batteria dispositivo</string>
      <string name="cit_battery_check_title">Informazioni batteria</string>
@@ -192,7 +199,8 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_charger_plugin_check_title">Test Connessione caricabatteria</string>
      <string name="cit_charger_plugout_check_summary">Quando il caricabatterie USB è scollegato, il testo \"Ricarica tramite USB/AC interrotta\" dovrebbe comparire di seguito.</string>
      <string name="cit_charger_plugout_check_title">Test Disconnessione caricabatteria</string>
-     <string name="cit_charger_test_summary">Please plug in and pug out the charger one time respectively</string>
+     <string name="cit_charger_test_summary">"During the Charger test, please forward plug in the charger
+and reverse plug in the charger"</string>
      <string name="cit_charger_waiting_in">"Collega l'alimentatore"</string>
      <string name="cit_charger_waiting_out">"Scollega l'alimentatore"</string>
      <string name="cit_def_torch_on_one">Turn on the first flash</string>
@@ -335,18 +343,29 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_power_check_title">Test Accensione</string>
      <string name="cit_pressure_sensor_check_summary">Il valore della pressione dovrebbe comparire di seguito</string>
      <string name="cit_pressure_sensor_check_title">Test Barometro</string>
+     <string name="cit_proximity_data_check_summary">Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.</string>
      <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità (posizionato in cima al dispositivo, vicino al ricevitore) con una mano, quindi sposta la mano. A questo punto, il valore dovrebbe aumentare.
 Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
      <string name="cit_proximity_sensor_check_title">Test Sensore di prossimità</string>
      <string name="cit_proximity_us_sensitivity">Sensitivity:</string>
      <string name="cit_proximity_us_summary">Ultrasound Proximity Sensor Calibration</string>
      <string name="cit_rear_dual_camera_check_title">Doppia fotocamera posteriore</string>
+     <string name="cit_rear_sub_camera_check_summary">"Test instructions:
+
+1.Tap the Camera button below to enter rear sub Camera interface
+2.Tap the shutter button
+3.System will save the photo automatically after capture
+4.The photo you took must be displayed on the screen, Tap Delete to complete the test."</string>
      <string name="cit_rear_sub_camera_check_title">Sub fotocamera posteriore</string>
      <string name="cit_recovery_signature_failed">firma di recupero FALLITO</string>
      <string name="cit_recovery_signature_passed">firma di recupero PASSATO</string>
      <string name="cit_reset_check_summary">Questo test riavvierà il dispositivo. Tutti i dati dei precedenti test andranno persi.</string>
      <string name="cit_reset_check_title">Reimposta test</string>
      <string name="cit_reset_ese_summary">Reset eSE ,all your NFC bankcards and transcards will be deleted.</string>
+     <string name="cit_reset_ese_title">Reset eSE</string>
+     <string name="cit_reset_se">Reset eSE</string>
+     <string name="cit_reset_se_nfc_closed">Fail:NFC should be enabled.</string>
+     <string name="cit_reset_se_start">Resetting your eSE...</string>
      <string name="cit_reset_test">Test</string>
      <string name="cit_reverse_charge_check_summary">Insert OTG phone to charge</string>
      <string name="cit_sar_sensor_check_summary">Values for sar sensor channels should appear below, cover the button of the phone, if data changed, the function is good, do not do calibration with USB calble plug in!</string>
@@ -395,6 +414,15 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tfcard_support_summary">Controlla che la TFCard sia supportata su questo dispositivo</string>
      <string name="cit_tfcard_support_title">Supporto TFCard</string>
      <string name="cit_tool">Strumenti</string>
+     <string name="cit_tool_asdiv_ant_pos_setting">set ant position</string>
+     <string name="cit_tool_asdiv_get_result_band_title">Current ant band</string>
+     <string name="cit_tool_asdiv_get_result_carrier_title">Current ant carrier cell</string>
+     <string name="cit_tool_asdiv_get_result_sub_title">Current sub</string>
+     <string name="cit_tool_asdiv_get_result_tech_title">Current ant tech</string>
+     <string name="cit_tool_asdiv_get_result_title">Current ant pos</string>
+     <string name="cit_tool_asdiv_get_status">Get Status</string>
+     <string name="cit_tool_asdiv_set_status">Set Status</string>
+     <string name="cit_tool_asdiv_title">ASDIV SETTING</string>
      <string name="cit_tool_bluetooth">Diagnostica Bluetooth</string>
      <string name="cit_tool_bluetooth_dut">Avvia la modalità di test Bluetooth</string>
      <string name="cit_tool_bluetooth_enhanced">Entra nella modalità di test Bluetooth migliorata</string>
@@ -536,6 +564,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_prx_drx_stop_test">Stop Test</string>
      <string name="cit_tool_prx_only">PRX</string>
      <string name="cit_tool_rf_ant">RF/Antenna tools</string>
+     <string name="cit_tool_switch_autosms">Enable/Disable AutoSMSReg</string>
      <string name="cit_tool_tpdump">touch debug mode</string>
      <string name="cit_tool_wifi">Test Wi-Fi</string>
      <string name="cit_tool_wifi_exit">Esci</string>
@@ -582,9 +611,15 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tpdump_close">disable dump</string>
      <string name="cit_tpdump_open">enable dump</string>
      <string name="cit_tpdump_reset">reset dump</string>
+     <string name="cit_usb_OTG_error_condition">"USB device has plugged in, but can not get the device info
+test fail!"</string>
      <string name="cit_usb_OTG_in">Rilevato dispositivo USB OTG</string>
-     <string name="cit_usb_OTG_in_charge">SB OTG device detected</string>
+     <string name="cit_usb_OTG_in_charge">USB OTG device detected</string>
+     <string name="cit_usb_OTG_in_need_plugout">USB_OTG has plugged in, please plug out first</string>
      <string name="cit_usb_OTG_out">Dispositivo USB OTG scollegato</string>
+     <string name="cit_usb_OTG_plug_in_start_test">Please plugin USB_OTG device, and begin test</string>
+     <string name="cit_usb_OTG_plug_out_test_complete">USB_OTG has plugged out，test complete</string>
+     <string name="cit_usb_OTG_plug_re_plugin">USB_OTG test has complete, no need retest</string>
      <string name="cit_usb_charger_in">Ricarica via USB</string>
      <string name="cit_usb_charger_out">Alimentazione USB scollegata</string>
      <string name="cit_version_check_summary">Di seguito trovi la versione del SO. Verifica che le informazioni evidenziate in verde sono corrette.</string>
@@ -636,6 +671,22 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="far_count">FAC(False Accept Count):</string>
      <string name="far_total_count">FATC(False Accept Total Count):</string>
      <string name="fingerprint">Fingerprint:</string>
+     <string name="fod_check_start_error">"Can not start the sensor check program
+Test fialed!"</string>
+     <string name="fod_check_summary">"Test instructions:
+Automatic test based on the sensor type
+Base the test result click pass or fial button"</string>
+     <string name="fod_check_title">Fingerprint sensor check</string>
+     <string name="fod_check_unknown_sensor_type">"Unknown Fod sensor type
+Test failed!"</string>
+     <string name="fod_fingerprint_input_description">Fod fingerprint input test</string>
+     <string name="fod_fingerprint_input_title">Fod fingerprint input test</string>
+     <string name="fod_pressure_sensor_test_exception">Read node file exception</string>
+     <string name="fod_pressure_sensor_test_pressure_too_big">Sensor get pressure too big, Test failed</string>
+     <string name="fod_pressure_sensor_test_pressure_too_small">Sensor get pressure too small, Test failed</string>
+     <string name="fod_pressure_sensor_test_success">Test success, please click the Pass button</string>
+     <string name="fod_pressure_sensor_test_summary">Put the weight in the specified position</string>
+     <string name="fod_pressure_sensor_test_title">Fod Pressure Sensor Test</string>
      <string name="fpc_app_name">Strumento test sensore</string>
      <string name="fpc_pn_calibration">Capture and store PN image</string>
      <string name="front_mic_check_record_tip">Recording, please say something to MIC at the front of the phone</string>
@@ -661,10 +712,34 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="image_quality_test">TEST QUALITÀ IMMAGINE</string>
      <string name="info">Info</string>
      <string name="init">inizializzazione</string>
+     <string name="interphone_oper_result">Results are shown here</string>
+     <string name="interphone_test">Interphone Test</string>
+     <string name="interphone_test_set_409_mhz">Set 409M HZ</string>
+     <string name="interphone_test_set_430_mhz">Set 430M HZ</string>
+     <string name="interphone_test_switch_to_receive_mode">Switch to receive mode</string>
+     <string name="interphone_test_switch_to_transmit_mode">Switch to send mode</string>
      <string name="interval_vibrator">Interval vibrator</string>
      <string name="intro_message">This sample demonstrates the basic use of Camera2 API. Check the source code to see how you can display camera preview and take pictures.</string>
+     <string name="ir_camera_led_test_description">Structured Light Led Test</string>
+     <string name="ir_camera_led_test_summary">"Test instructions:
+
+1.Tap the Preview button below to enter Camera interface
+2.The following items will be randomly switched on. Please select the current status of the light."</string>
+     <string name="ir_camera_led_test_title">Structured Light Led Test</string>
+     <string name="ir_camera_test_description">Ir Camera Test</string>
+     <string name="ir_camera_test_summary_capture">"Test instructions:
+
+1.Tap the Camera button below to enter Ir Camera interface
+2.Tap the shutter button
+3.System will save the photo automatically after capture.
+4.The photo you took must be displayed on the screen. Tap Delete to complete the test."</string>
+     <string name="ir_camera_test_summary_preview">"Test instructions:
+
+1.Tap the Preview button below to enter Camera interface
+2.Wait preview end, auto return."</string>
+     <string name="ir_camera_test_title">Ir Camera Test</string>
      <string name="keyboard">KEY</string>
-     <string name="keyboard_vibrator_test">Keyboard and vibration test</string>
+     <string name="keyboard_vibrator_test">Keyboard test</string>
      <string name="lastTestResult">Last Test Result:</string>
      <string name="last_time_test_result">ULTIMO RISULTATO TEMPORALE</string>
      <string name="launcher_d5x_sar_summary">The output data of each channel of the SAR sensor is displayed below. Please reverse the phone to the Sar calibration fixture, click Start calibration, display the calibration PASS, then indicate normal. Please note that the school is on time, and hands are not near the cell phone.</string>
@@ -695,6 +770,8 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="pass">Pass</string>
      <string name="picture">Picture</string>
      <string name="placeholder">占位置</string>
+     <string name="plugout_and_reverse_plugin">"
+Please plug out the charger and reverse plug in."</string>
      <string name="product_list">ProductList</string>
      <string name="radio_boy">Man voice</string>
      <string name="radio_chinese">Chinese</string>
@@ -783,8 +860,12 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="test_main_mic">Main MIC</string>
      <string name="test_pixel_open">Test Pixel open</string>
      <string name="test_receiver">Receiver</string>
+     <string name="test_receiver_summary">"You will hear two random numbers
+Please click the appropriate button according to the number you hear"</string>
      <string name="test_reset_pin">Test Reset pin</string>
      <string name="test_speaker">speaker</string>
+     <string name="test_speaker_summary">"You will hear two random numbers
+Please click the appropriate button according to the number you hear"</string>
      <string name="test_spi">Test SPI</string>
      <string name="test_succeed">Successo</string>
      <string name="test_top_mic">Top MIC</string>
@@ -818,6 +899,9 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="verified_boot_unlock">Unlock</string>
      <string name="verify">Verify</string>
      <string name="vibrator_change">Select vibrator mode</string>
+     <string name="vibrator_test">Vibrator Test</string>
+     <string name="vibrator_test_summary">"Long or short vibrator occur randomly in the test
+Please select the correct button according to different vibration conditions"</string>
      <string name="wait_test">in attesa del test</string>
      <string name="yes">Yes</string>
 </resources>

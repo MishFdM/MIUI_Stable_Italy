@@ -8,6 +8,8 @@
      <string name="accessibility_shutter_button">Pulsante scatto</string>
      <string name="ai_scene_mode_use_hint_text">"Apri la fotocamera Scena-AI, identifica il tipo di scena 
  ed ottimizza l'immagine in base al tipo di scena"</string>
+     <string name="beauty_fragment_tab_name_3d_beauty">Beauty</string>
+     <string name="beauty_fragment_tab_name_3d_remodeling">Remodeling</string>
      <string name="beauty_fragment_tab_name_beauty">Bellezza</string>
      <string name="beauty_fragment_tab_name_makeup">Avanzate</string>
      <string name="bokeh_use_hint">Effetto profondità</string>
@@ -64,16 +66,24 @@
      <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
      <string name="dual_camera_use_hint">"La modalità Dual Camera permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere più lontano di 2 metri."</string>
+     <string name="edit_chin">Chin</string>
      <string name="edit_eye_large">Occhi grandi</string>
      <string name="edit_face_slender">Sottile</string>
+     <string name="edit_lips">Lips</string>
+     <string name="edit_neck">Neck</string>
+     <string name="edit_nose">Nose</string>
+     <string name="edit_risorius">Risorius</string>
      <string name="edit_skin_smooth">Morbido</string>
      <string name="edit_skin_white">Tono</string>
+     <string name="edit_slim_nose">Nose</string>
+     <string name="edit_smile">Smile</string>
      <string name="face_age_info">Anni: %d</string>
      <string name="face_beauty_close">Disattivato</string>
      <string name="face_score_info">Punto: %.1f</string>
      <string name="front_camera_hint_text_place">"Fare un selfie sarà più facile se ruoti il telefono"</string>
      <string name="front_camera_hint_text_rotate">Ruota il tuo telefono</string>
      <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
+     <string name="hibernate_hint">Tap the screen to wake Camera</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_fast_motion">Il video che registri verrà riprodotto più velocemente.</string>
@@ -107,9 +117,12 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="portait_effect_entry_japanese">Cielo blu</string>
      <string name="portait_effect_entry_maze">Labirinto</string>
      <string name="portait_effect_entry_mood">Emozioni</string>
+     <string name="portait_effect_entry_movie">Film</string>
      <string name="portait_effect_entry_nature">Natura</string>
      <string name="portait_effect_entry_pink">Arrossire</string>
+     <string name="portait_effect_entry_riddle">Enigma</string>
      <string name="portait_effect_entry_romance">Romantico</string>
+     <string name="portait_effect_entry_story">Storia</string>
      <string name="portrait_mode_depth_effect_success_hint">Effetto profondità</string>
      <string name="portrait_mode_lowlight_hint">Adesso è troppo scuro</string>
      <string name="portrait_mode_too_close_hint">"Allontanati dall'oggetto"</string>
@@ -274,7 +287,6 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_front_mirror_entry_off">Disattivato</string>
      <string name="pref_front_mirror_entry_on">Attivato</string>
      <string name="pref_front_mirror_title">Fotoc. frontale (effetto specchio)</string>
-     <string name="pref_google_lens">Google lens</string>
      <string name="pref_groupshot_with_primitive_title">Salva la prima immagine nella modalità Foto di Gruppo</string>
      <string name="pref_manual_exposure_title">Esp. manuale</string>
      <string name="pref_priority_storage_title">Salva su scheda SD</string>
@@ -285,14 +297,12 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_scan_qrcode_title">Riconoscimento codice QR</string>
      <string name="pref_simple_hdr_entry_off">OFF</string>
      <string name="pref_simple_hdr_entry_on">ON</string>
-     <string name="pref_video_encoder_default">h264</string>
      <string name="pref_video_encoder_entry_h264">H.264 High compatibility</string>
      <string name="pref_video_encoder_entry_h265">H.265 High performance</string>
      <string name="pref_video_encoder_title">Video encoder</string>
      <string name="pref_video_focusmode_entry_auto">Tocca</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
      <string name="pref_video_focusmode_title">Modalità di messa a fuoco</string>
-     <string name="pref_video_hfr_entryvalue_default">1280x720:240</string>
      <string name="pref_video_hfr_title">Video HFR</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
