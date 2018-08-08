@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_action_divider_bottom_full">Schermo intero inferiore</string>
      <string name="accessibility_action_divider_left_30">Sinistra 30%</string>
@@ -92,7 +91,7 @@
      <string name="accessibility_wimax_three_bars">WiMAX: tre barre.</string>
      <string name="accessibility_wimax_two_bars">WiMAX: due barre.</string>
      <string name="account_info">Accesso non eseguito</string>
-     <string name="activate_usb_message">Per attivare questa funzione inserisci la SIM.</string>
+     <string name="activate_usb_message">Per attivare questa funzionalità inserisci la SIM.</string>
      <string name="activate_usb_title">Attiva USB</string>
      <string name="active_input_method_subtypes">Metodi di inserimento attivi</string>
      <string name="adb_keys_warning_message">"Revocare l'accesso al debug USB da tutti i PC che hai precedentemente autorizzato?"</string>
@@ -225,6 +224,7 @@ Frequenza Campione"</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debugging USB</string>
      <string name="click_expand">Tocca per espandere</string>
      <string name="click_to_return_multi_window">Clicca per ritornare in modalità Multi Finestra</string>
+     <string name="click_to_return_multi_window_of_notch">Ritorna in modalità Multi Finestra</string>
      <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione dispositivo non funzionerà su questo dispositivo mentre questa opzione sarà attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Permettere sblocco OEM?</string>
      <string name="connected_via_network_scorer">Connesso automaticamente tramite %1$s</string>
@@ -312,6 +312,10 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="enable_terminal_summary">Abilita app terminale per accesso locale shell</string>
      <string name="enable_terminal_title">Terminale locale</string>
      <string name="enabled_by_admin">"Abilitato dall'amministratore"</string>
+     <string name="enter_special_mode_message">"Dopo aver riavviato l'applicazione, il suo contenuto verrà esteso all'area superiore della barra di stato. In caso di eccezioni come l'occlusione dei contenuti o l'errato posizionamento dei tocchi, sarà possibile cliccare nuovamente sul pulsante per ripristinare la modalità predefinita."</string>
+     <string name="enter_special_mode_title">"Riavvia l'app ed espandi lo spazio dello schermo"</string>
+     <string name="exit_special_mode_message">"Dopo aver riavviato l'applicazione, lo spazio dello schermo verrà ripristinato alla modalità predefinita".</string>
+     <string name="exit_special_mode_title">"Riavvia l'applicazione e ripristina lo spazio dello schermo"</string>
      <string name="expanded_confirm_disable_notification">Conferma</string>
      <string name="expanded_notification_manager">Gest. notifiche</string>
      <string name="ext_media_badremoval_notification_message">"Smonta l'archivio USB prima di rimuoverlo per evitare perdite di dati."</string>
@@ -361,12 +365,12 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="gps_notification_searching_text">Ricerca del GPS</string>
      <string name="hdcp_checking_dialog_title">Imposta comportamento di controllo HDCP</string>
      <string name="hdcp_checking_title">Controllo HDCP</string>
-     <string name="help_feedback_label">Aiuto &amp; feedback</string>
+     <string name="help_feedback_label">Aiuto e segnalazione bug</string>
      <string name="home">Impostazioni Home</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="how_to_back_home">Come tornare alla home</string>
      <string name="how_to_switch_recents">Come passare a Recenti</string>
-     <string name="how_to_use_drawer">Come utilizzare la funzione di scorrimento app</string>
+     <string name="how_to_use_drawer">Come utilizzare la funzionalità di scorrimento app</string>
      <string name="how_to_use_drawer_summary">Scorri dalla parte in alto a sinistra</string>
      <string name="how_to_use_fsg">Come posso utilizzare le gesture a tutto schermo?</string>
      <string name="ime_security_warning">"Questo metodo di inserimento potrebbe raccogliere il testo che digiti, compresi dai personali come password e numeri di carte di credito. Questo tramite l'app %1$s. Utilizzare questo metodo di inserimento?"</string>
@@ -445,6 +449,9 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="long_screenshot_stop">Interrompi</string>
      <string name="long_screenshot_top_msg">Screenshot lungo in esecuzione…</string>
      <string name="long_screenshot_top_msg_manual">Ritaglia lo screenshot e tocca il tasto per terminare</string>
+     <string name="low_temperature_button_ok">Ho capito</string>
+     <string name="low_temperature_warning_message">TLA temperatura è troppo bassa,il telefono potrebbe spegnersi in qualsiasi momento, salva i dati.</string>
+     <string name="low_temperature_warning_title">Avviso spegnimento</string>
      <string name="managed_profile_foreground_toast">Stai utilizzando il tuo profilo di lavoro</string>
      <string name="managed_user_title">Tutte le app attive</string>
      <string name="mdb_entering">Avvio</string>
@@ -465,11 +472,11 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="mock_location_app">Seleziona app per false localizzazioni</string>
      <string name="mock_location_app_not_set">Nessuna app impostata su false localizzazioni</string>
      <string name="mock_location_app_set">App con false localizzazioni: %1$s</string>
-     <string name="monitoring_button_view_policies">View Policies</string>
-     <string name="monitoring_description_ca_certificate">A certificate authority is installed on this device. Your secure network traffic may be monitored or modified.</string>
+     <string name="monitoring_button_view_policies">"Leggi l'Informativa"</string>
+     <string name="monitoring_description_ca_certificate">"Un'autorità di certificazione è installata su questo dispositivo. Il traffico di rete sicuro può essere monitorato o modificato."</string>
      <string name="monitoring_description_managed_profile_ca_certificate">Your organization installed a certificate authority in your work profile. Your secure network traffic may be monitored or modified.</string>
      <string name="monitoring_description_managed_profile_named_vpn">Your work profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
-     <string name="monitoring_description_management">"Your device is managed by your organization.
+     <string name="monitoring_description_management">"Il tuo dispositivo è gestito dalla tua organizzazione.
 
 Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information.
 
@@ -484,13 +491,13 @@ For more information, contact your admin."</string>
      <string name="monitoring_description_named_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
      <string name="monitoring_description_personal_profile_named_vpn">Your personal profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
      <string name="monitoring_description_two_named_vpns">"You're connected to %1$s and %2$s, which can monitor your network activity, including emails, apps, and websites."</string>
-     <string name="monitoring_description_vpn_settings">Open VPN Settings</string>
+     <string name="monitoring_description_vpn_settings">Impostazioni VPN aperta</string>
      <string name="monitoring_description_vpn_settings_separator">" "</string>
-     <string name="monitoring_subtitle_ca_certificate">CA certificates</string>
-     <string name="monitoring_subtitle_network_logging">Network logging</string>
+     <string name="monitoring_subtitle_ca_certificate">Certificati CA</string>
+     <string name="monitoring_subtitle_network_logging">Registrazione della rete</string>
      <string name="monitoring_subtitle_vpn">VPN</string>
-     <string name="monitoring_title">Network monitoring</string>
-     <string name="monitoring_title_device_owned">Device management</string>
+     <string name="monitoring_title">Monitoraggio della rete</string>
+     <string name="monitoring_title_device_owned">Gestione del dispositivo</string>
      <string name="mount_storage">Sì</string>
      <string name="nav_guide_cancel">Ignora</string>
      <string name="nav_guide_message">Puoi utilizzare le gesture per nascondere/mostrare i tasti virtuali dopo le impostazioni.</string>
@@ -499,8 +506,10 @@ For more information, contact your admin."</string>
      <string name="no_application">Niente</string>
      <string name="no_multi_window_app">Nessuna app funzionante con la modalità a schermo diviso.</string>
      <string name="no_notification_tips">Nessuna notifica</string>
+     <string name="no_sim_card">Nessuna scheda SIM</string>
      <string name="no_weather_description">Recupero info meteo</string>
      <string name="not_support_multi_window">Questa applicazione non supporta la modalità a schermo diviso</string>
+     <string name="notch_status_bar_date_format_12">EEEE, d MMMM</string>
      <string name="notification_group_overflow_indicator">+%s</string>
      <string name="notification_group_title_text">%1$s(%2$s)</string>
      <string name="notification_header_title">Notifiche</string>
@@ -537,7 +546,7 @@ For more information, contact your admin."</string>
      <string name="picture_color_mode">Modalità colore immagine</string>
      <string name="picture_color_mode_desc">Usa sRGB</string>
      <string name="pip_menu_title">Menu picture in picture</string>
-     <string name="pip_notification_message">Se non vuoi utilizzare %s per questa funzione, tocca per aprire le impostazioni e disattivarlo.</string>
+     <string name="pip_notification_message">Se non vuoi utilizzare %s per questa funzionalità, tocca per aprire le impostazioni e disattivarlo.</string>
      <string name="pip_notification_title">%s è in picture-in-picture</string>
      <string name="pip_pause">Pause</string>
      <string name="pip_phone_close">Chiudi</string>
@@ -556,6 +565,12 @@ For more information, contact your admin."</string>
      <string name="power_remaining_charging_duration_only">%1$s rimanenti fino alla carica completa</string>
      <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
+     <string name="prompt_danger">Rischio</string>
+     <string name="prompt_detecting">Rilevamento</string>
+     <string name="prompt_failure">Errore</string>
+     <string name="prompt_return_to_split">Schermo diviso</string>
+     <string name="prompt_safe">Sicuro</string>
+     <string name="prompt_unknown">Sconosciuto</string>
      <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
      <string name="quick_settings_bluetooth_label">Bluetooth</string>
      <string name="quick_settings_connect_success">Connesso</string>
@@ -582,6 +597,7 @@ For more information, contact your admin."</string>
      <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile</string>
      <string name="quick_settings_wifi_label">Wi-Fi</string>
      <string name="quick_settings_wifi_nearby">Seleziona una rete vicina</string>
+     <string name="recent_cannot_dock">"can't enter MultiWindow Mode in Second Space"</string>
      <string name="recent_dock_tip">"Clicca per scegliere l'applicazione"</string>
      <string name="recent_task_app_info_text">Info</string>
      <string name="recent_task_cleaning">Cancellazione app…</string>
@@ -606,9 +622,9 @@ For more information, contact your admin."</string>
      <string name="recents_stack_action_button_label">Cancella tutto</string>
      <string name="reject_call">Rifiuta la chiamata</string>
      <string name="remaining_length_format">%1$s rimanenti</string>
-     <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
-     <string name="retail_demo_reset_next">Next</string>
-     <string name="retail_demo_reset_title">Password required</string>
+     <string name="retail_demo_reset_message">Inserisci la password per eseguire un ripristino di fabbrica in modalità demo</string>
+     <string name="retail_demo_reset_next">Avanti</string>
+     <string name="retail_demo_reset_title">Password richiesta</string>
      <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
      <string name="running_process_item_user_label">Utente: %1$s</string>
      <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente in esecuzione</string>
@@ -635,7 +651,7 @@ For more information, contact your admin."</string>
      <string name="screenshot_dlg_delete_button">Elimina</string>
      <string name="screenshot_edit">Modifica</string>
      <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
-     <string name="screenshot_feedback_txt">Feedback</string>
+     <string name="screenshot_feedback_txt">Segnalazione bug</string>
      <string name="screenshot_insert_failed">"Caricamento schermata fallito, prego prova di nuovo o visualizza le immagini nell'album"</string>
      <string name="screenshot_long_screenshot">Screenshot lungo</string>
      <string name="screenshot_saved_text">Premi per visualizzare la tua schermata.</string>
@@ -644,9 +660,10 @@ For more information, contact your admin."</string>
      <string name="screenshot_saving_ticker">Salvataggio schermata…</string>
      <string name="screenshot_saving_title">Salvataggio schermata…</string>
      <string name="screenshot_send">Invia</string>
-     <string name="screenshot_toalbum_txt">Preview</string>
+     <string name="screenshot_toalbum_txt">Anteprima</string>
      <string name="search_hint">Cerca siti web, app, contatti, video...</string>
      <string name="select_application">Seleziona applicazioni</string>
+     <string name="select_logd_level">Seleziona il livello del registro</string>
      <string name="select_logd_size_dialog_title">Seleziona dimensione logger per log buffer</string>
      <string name="select_logd_size_title">Dimensione buffer logger</string>
      <string name="select_logpersist_dialog_title">Seleziona buffer log buffers per archiviare definitivamente sul dispositivo</string>
@@ -656,7 +673,7 @@ For more information, contact your admin."</string>
      <string name="select_webview_provider_dialog_title">"Imposta l'implementazione di WebView"</string>
      <string name="select_webview_provider_title">Implementazione WebView</string>
      <string name="select_webview_provider_toast_text">Questa scelta choice non è più valida. Riprova.</string>
-     <string name="settings_custom_notification">Notifiche personalizzate</string>
+     <string name="settings_custom_notification">Gestisci le notifiche</string>
      <string name="settings_toggle_position">Modifica posizione comandi</string>
      <string name="settings_toggle_position_divider_list">I comandi sopra questa barra saranno visibili</string>
      <string name="settings_toggle_position_reset">Ripristina comandi</string>
@@ -675,7 +692,9 @@ For more information, contact your admin."</string>
      <string name="show_screen_updates_summary">"Fai lampeggiare l'intera superficie della finestra quando essa si aggiorna"</string>
      <string name="show_touches">Mostra pressioni</string>
      <string name="show_touches_summary">Mostra feedback visuali per pressioni</string>
-     <string name="simulate_color_space">Simula spazio colore</string>
+     <string name="simulate_color_space">Simula lo spazio del colore</string>
+     <string name="special_mode_cancel">Annulla</string>
+     <string name="special_mode_ok">Riavvia</string>
      <string name="stat_sys_data_connected_1x_half">1X</string>
      <string name="status_bar_accessibility_dismiss_recents">Chiudi app recenti</string>
      <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
@@ -712,7 +731,7 @@ scorri in basso per bloccare"</string>
      <string name="strict_mode_summary">"Fai lampeggiare lo schermo quando un'applicazione esegue un'operazione lunga sul thread principale"</string>
      <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>
      <string name="telephony_monitor_switch">Telephony Monitor</string>
-     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando rileva un problema con le funzioni telephony/modem e chiede all'utente di inviare un report sul bug."</string>
+     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando rileva un problema con le funzionalità telefono/modem e chiede all'utente di inviare un report sul bug."</string>
      <string name="tether_settings_title_all">Tethering e hotspot</string>
      <string name="tether_settings_title_bluetooth">Tethering bluetooth</string>
      <string name="tether_settings_title_usb">Tethering USB</string>

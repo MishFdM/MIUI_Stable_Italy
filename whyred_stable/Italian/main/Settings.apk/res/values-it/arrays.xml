@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="agps_network_entries">
         <item>Rete domestica</item>
@@ -26,7 +27,7 @@
         <item>Scala animazione 10x</item>
      </string-array>
      <string-array name="ap_identify">
-        <item>default</item>
+        <item>Predefinito</item>
         <item>iPhone</item>
      </string-array>
      <string-array name="apn_auth_entries">
@@ -93,26 +94,26 @@
         <item>Geolocalizzazione</item>
         <item>Ottieni statistiche uso</item>
         <item>Muto/non muto microfono</item>
-        <item>Mostra toast</item>
-        <item>Media Project</item>
+        <item>Finestra toast</item>
+        <item>Progetto media</item>
         <item>Attiva VPN</item>
-        <item>Scrivi sfondo</item>
-        <item>Struttura assistita</item>
-        <item>Screenshot assistito</item>
-        <item>Leggi stato telefono</item>
-        <item>Aggiungi messaggio vocale</item>
+        <item>Cambia wlan</item>
+        <item>Cambia bluetooth</item>
+        <item>Assisti screenshot</item>
+        <item>Leggi lo stato del telefono</item>
+        <item>Aggiungi voicemail</item>
         <item>Utilizza sip</item>
-        <item>Elabora chiamata in uscita</item>
-        <item>Impronta</item>
+        <item>Processa chiamata in uscita</item>
+        <item>Impronta digitale</item>
         <item>Sensori del corpo</item>
-        <item>Leggi le trasmissioni cellulari</item>
-        <item>Posizione falsa</item>
-        <item>Leggi memoria</item>
-        <item>Scrivi memoria</item>
+        <item>Leggi trasmissione cella</item>
+        <item>Posizione fittizia</item>
+        <item>Leggi archivio</item>
+        <item>Scrivi archivio</item>
         <item>Attiva schermo</item>
-        <item>Ottieni account</item>
-        <item>Avviate in background</item>
-        <item>Accessibilità volume</item>
+        <item>Recupera account</item>
+        <item>Esegui in background</item>
+		<item>Accessibilità volume</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
@@ -160,26 +161,26 @@
         <item>monitora localizzazione a consumo elevato</item>
         <item>ottieni statistiche uso</item>
         <item>muto/non muto microfono</item>
-        <item>mostra toast</item>
-        <item>media Project</item>
+        <item>finestra toast</item>
+        <item>media project</item>
         <item>attiva VPN</item>
-        <item>scrivi sfondo</item>
-        <item>struttura assistita</item>
-        <item>screenshot assistito</item>
-        <item>leggi stato telefono</item>
-        <item>aggiungi messaggio vocale</item>
+        <item>cambia wi-fi</item>
+        <item>cambia bluetooth</item>
+        <item>assisti screenshot</item>
+        <item>leggi lo stato del telefono</item>
+        <item>aggiungi voicemail</item>
         <item>utilizza sip</item>
-        <item>elabora chiamata in uscita</item>
-        <item>impronta</item>
+        <item>processa chiamata in uscita</item>
+        <item>impronta digitale</item>
         <item>sensori del corpo</item>
-        <item>leggi le trasmissioni cellulari</item>
-        <item>posizione falsa</item>
-        <item>òeggi memoria</item>
-        <item>scrivi memoria</item>
+        <item>leggi trasmissione cella</item>
+        <item>posizione fittizia</item>
+        <item>leggi archivio</item>
+        <item>scrivi archivio</item>
         <item>attiva schermo</item>
-        <item>ottieni account</item>
-        <item>avviate in background</item>
-        <item>accessibilità volume</item>
+        <item>recupera account</item>
+        <item>esegui in background</item>
+		<item>accessibilità volume</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Limite predefinito</item>
@@ -942,7 +943,7 @@
         <item>Colori ottimizzati per contenuti digitali</item>
      </string-array>
      <string-array name="color_mode_names">
-        <item>Vibrante (default)</item>
+        <item>Vibrante (predefinito)</item>
         <item>Naturale</item>
         <item>Normale</item>
      </string-array>
@@ -969,6 +970,24 @@
      <string-array name="data_usage_data_range">
         <item>Ultimi 30 giorni</item>
         <item>Imposta ciclo di utilizzo...</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>Today (data)</item>
+        <item>This month (data)</item>
+        <item>Last month (data)</item>
+        <item>Today WLAN</item>
+        <item>This month WLAN</item>
+        <item>Last month WLAN</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Today "</item>
+        <item>"This month "</item>
+        <item>"Last month "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Today: "</item>
+        <item>"This month: "</item>
+        <item>"Last month: "</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">
         <item>Disattivato</item>
@@ -1285,6 +1304,14 @@
         <item>4M</item>
         <item>16M</item>
      </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Disattiva</item>
+        <item>Errore</item>
+        <item>Avvisa</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
      <string-array name="select_logpersist_summaries">
         <item>Disattivato</item>
         <item>Tutti i buffer log</item>
@@ -1340,6 +1367,10 @@
         <item>Chiusa</item>
         <item>Modalità normale</item>
         <item>Modalità estrema</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"WLAN usage "</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
         <item>Animazioni disattivate</item>
@@ -1504,10 +1535,10 @@
      <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-        <item>Proxy auto-config</item>
+        <item>Auto configurante</item>
      </string-array>
      <string-array name="wifi_signal">
-		<item>Scadente</item>
+	    <item>Scadente</item>
         <item>Scadente</item>
         <item>Discreta</item>
         <item>Buona</item>
@@ -1568,4 +1599,11 @@
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
      </string-array>
+	 <string-array name="mvno_type_entries">
+        <item>Nessuno</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
 </resources>
