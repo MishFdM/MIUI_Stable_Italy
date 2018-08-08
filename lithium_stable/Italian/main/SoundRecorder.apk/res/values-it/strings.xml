@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="alert_message_clear_records">Eliminare le registrazioni selezionate?</string>
      <string name="alert_message_delete_record">Vuoi eliminare la registrazione selezionata?</string>
      <string name="alert_message_delete_record_title">Elimina registrazione</string>
      <string name="app_name">Registratore</string>
      <string name="back">Indietro</string>
-     <string name="btn_clear_records">Delete recordings (%d items)</string>
      <string name="button_queue_for_wifi">Coda</string>
      <string name="button_start_now">Download</string>
      <string name="call_record">Chiamate registrate</string>
-     <string name="choose_call_records_count">%d items</string>
      <string name="clear_records">Elimina le registrazioni sincronizzate</string>
      <string name="cloud_record_open">Sincronizza le registrazioni</string>
      <string name="cloud_record_tip">Sincronizza le registrazioni con Mi Cloud.</string>
@@ -27,7 +24,7 @@
      <string name="deleting_message">Eliminazione…</string>
      <string name="details">Dettagli</string>
      <string name="dialog_content_storage_full">A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?</string>
-     <string name="dialog_privacy_revoke_tips">"After you revoke authorization, the app will stop collecting data, and all the related data will be deleted from the servers. This might make the app virtually unusable. Revoke authorization anyway?To ensure your account's security, sign in to i.mi.com before revoking authorization for Mi Cloud services."</string>
+     <string name="dialog_privacy_revoke_tips">"Dopo la revoca dell'autorizzazione, l'app smetterà di raccogliere dati, e tutti quelli raccolti verranno eliminati dai server. Questo potrebbe rendere l'app virtualmente non utilizzabile. Revocare comunque le autorizzazioni? Per garantire la sicurezza del tuo account, accedi a i.mi.com prima di revocare le autorizzazioni dei servizi Mi Cloud."</string>
      <string name="dialog_title_storage_full">Spazio di archiviazione esaurito. Eliminare alcuni file?</string>
      <string name="duration_format_hour">%so</string>
      <string name="duration_format_minute">%sm</string>
@@ -66,7 +63,6 @@
      <string name="notification_recording_ticker">Telefono silenziato</string>
      <string name="notification_stopped">Registrazione interrotta</string>
      <string name="notification_title_all_paused">Download in pausa</string>
-     <string name="notification_warning">Storage low (less than %d minutes)</string>
      <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>
      <string name="pause">Pausa</string>
      <string name="playback_delete_records">Elimina la registrazione</string>
