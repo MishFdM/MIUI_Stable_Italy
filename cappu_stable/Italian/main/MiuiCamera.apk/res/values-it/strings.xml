@@ -232,7 +232,6 @@ touch the Shutter button"</string>
      <string name="pref_camera_default_suffix">(Default)</string>
      <string name="pref_camera_denoise_default">denoise-on</string>
      <string name="pref_camera_denoise_title">Wavelet denoise mode</string>
-     <string name="pref_camera_exposuretime_entry_0.5">2s</string>
      <string name="pref_camera_exposuretime_entry_1">1s</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
      <string name="pref_camera_exposuretime_entry_125">1/125s</string>
@@ -434,6 +433,11 @@ touch the Shutter button"</string>
      <string name="pref_grp_capture_settings">Capture settings</string>
      <string name="pref_grp_picture_settings">Picture settings</string>
      <string name="pref_grp_restore_settings">Restore settings</string>
+     <string name="pref_hdr_indicator_entry_off">HDR OFF</string>
+     <string name="pref_hdr_indicator_entry_on">HDR ON</string>
+     <string name="pref_hdr_indicator_entryvalue_default">off</string>
+     <string name="pref_hdr_indicator_entryvalue_off">off</string>
+     <string name="pref_hdr_indicator_entryvalue_on">on</string>
      <string name="pref_manual_exposure_title">Esp. manuale</string>
      <string name="pref_mtk_camera_contrast_default">middle</string>
      <string name="pref_mtk_camera_saturation_default">middle</string>

@@ -97,7 +97,7 @@
      <string name="button_convert_fbe">Wipe and convert…</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Work</string>
-     <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
+     <string name="change_default_dialer_dialog_title">Change default Dialer app? </string>
      <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
      <string name="change_default_dialer_with_previous_app_set_text">Use %1$s instead of %2$s as your default dialer app?</string>
      <string name="charge_length_format">%1$s ago</string>

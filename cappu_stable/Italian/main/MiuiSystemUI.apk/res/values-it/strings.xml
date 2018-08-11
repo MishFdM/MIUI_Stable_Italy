@@ -207,6 +207,7 @@
      <string name="clear_adb_keys">Revoca autorizzazioni debugging USB</string>
      <string name="click_expand">Tocca per espandere</string>
      <string name="click_to_return_multi_window">Clicca per ritornare in modalità Multi Finestra</string>
+     <string name="click_to_return_multi_window_of_notch">Ritorna in modalità Multi Finestra</string>
      <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione dispositivo non funzionerà su questo dispositivo mentre questa opzione sarà attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Permettere sblocco OEM?</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
@@ -289,6 +290,10 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="enable_webview_multiprocess">Multiprocess WebView</string>
      <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
      <string name="enabled_by_admin">"Abilitato dall'amministratore"</string>
+     <string name="enter_special_mode_message">"Dopo aver riavviato l'applicazione, il suo contenuto verrà esteso all'area superiore della barra di stato. In caso di eccezioni come l'occlusione dei contenuti o l'errato posizionamento dei tocchi, sarà possibile cliccare nuovamente sul pulsante per ripristinare la modalità predefinita."</string>
+     <string name="enter_special_mode_title">"Riavvia l'app ed espandi lo spazio dello schermo"</string>
+     <string name="exit_special_mode_message">""Dopo aver riavviato l'applicazione, lo spazio dello schermo verrà ripristinato alla modalità predefinita"."</string>
+     <string name="exit_special_mode_title">"Riavvia l'applicazione e ripristina lo spazio dello schermo"</string>
      <string name="expanded_confirm_disable_notification">Conferma</string>
      <string name="expanded_notification_manager">Gest. notifiche</string>
      <string name="ext_media_badremoval_notification_message">"Smonta l'archivio USB prima di rimuoverlo per evitare perdite di dati."</string>
@@ -340,6 +345,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="how_to_back_home">Come tornare alla home</string>
      <string name="how_to_switch_recents">Come passare a Recenti</string>
+     <string name="how_to_use_drawer">Come utilizzare la funzionalità di scorrimento app</string>
+     <string name="how_to_use_drawer_summary">Scorri dalla parte in alto a sinistra</string>
      <string name="how_to_use_fsg">Come posso utilizzare le gesture a tutto schermo?</string>
      <string name="immediately_destroy_activities">Non mantenere attività</string>
      <string name="immediately_destroy_activities_summary">"Distruggi ogni attività il prima possibile quando l'utente le abbandona"</string>
@@ -416,6 +423,9 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="long_screenshot_stop">Interrompi</string>
      <string name="long_screenshot_top_msg">Screenshot lungo in esecuzione…</string>
      <string name="long_screenshot_top_msg_manual">Ritaglia lo screenshot e tocca il tasto per terminare</string>
+     <string name="low_temperature_button_ok">Ho capito</string>
+     <string name="low_temperature_warning_message">TLA temperatura è troppo bassa,il telefono potrebbe spegnersi in qualsiasi momento, salva i dati.</string>
+     <string name="low_temperature_warning_title">Avviso spegnimento</string>
      <string name="managed_profile_foreground_toast">Stai utilizzando il tuo profilo di lavoro</string>
      <string name="managed_user_title">Tutte le app attive</string>
      <string name="mdb_entering">Avvio</string>
@@ -470,8 +480,10 @@ For more information, contact your admin."</string>
      <string name="no_application">Niente</string>
      <string name="no_multi_window_app">Nessuna app funzionante con la modalità a schermo diviso.</string>
      <string name="no_notification_tips">Nessuna notifica</string>
+     <string name="no_sim_card">Nessuna scheda SIM</string>
      <string name="no_weather_description">Recupero info meteo</string>
      <string name="not_support_multi_window">Questa applicazione non supporta la modalità a schermo diviso</string>
+     <string name="notch_status_bar_date_format_12">EEEE, d MMMM</string>
      <string name="notification_group_overflow_indicator">+%s</string>
      <string name="notification_group_title_text">%1$s(%2$s)</string>
      <string name="notification_header_title">Notifiche</string>
@@ -507,6 +519,7 @@ For more information, contact your admin."</string>
      <string name="overlay_display_devices_title">Simula display secondari</string>
      <string name="picture_color_mode">Modalità colore immagine</string>
      <string name="picture_color_mode_desc">Usa sRGB</string>
+     <string name="please_slide_agian">Per favore trascina di nuovo</string>
      <string name="pointer_location">Posizione puntatore</string>
      <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
      <string name="power_charging_duration">%1$s - %2$s fino al completamento</string>
@@ -517,6 +530,12 @@ For more information, contact your admin."</string>
      <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
      <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
+     <string name="prompt_danger">Rischio</string>
+     <string name="prompt_detecting">Rilevamento</string>
+     <string name="prompt_failure">Errore</string>
+     <string name="prompt_return_to_split">Schermo diviso</string>
+     <string name="prompt_safe">Sicuro</string>
+     <string name="prompt_unknown">Sconosciuto</string>
      <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
      <string name="quick_settings_bluetooth_label">Bluetooth</string>
      <string name="quick_settings_connect_success">Connesso</string>
@@ -543,6 +562,7 @@ For more information, contact your admin."</string>
      <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile</string>
      <string name="quick_settings_wifi_label">Wi-Fi</string>
      <string name="quick_settings_wifi_nearby">Seleziona una rete vicina</string>
+     <string name="recent_cannot_dock">"can't enter MultiWindow Mode in Second Space"</string>
      <string name="recent_dock_tip">"Clicca per scegliere l'applicazione"</string>
      <string name="recent_task_app_info_text">Info</string>
      <string name="recent_task_cleaning">Cancellazione app…</string>
@@ -605,6 +625,7 @@ For more information, contact your admin."</string>
      <string name="screenshot_toalbum_txt">Anteprima</string>
      <string name="search_hint">Cerca siti web, app, contatti, video...</string>
      <string name="select_application">Seleziona applicazioni</string>
+     <string name="select_logd_level">Seleziona il livello del registro</string>
      <string name="select_logd_size_dialog_title">Seleziona dimensione logger per log buffer</string>
      <string name="select_logd_size_title">Dimensione buffer logger</string>
      <string name="select_usb_configuration_dialog_title">Seleziona configurazione USB</string>
@@ -632,6 +653,8 @@ For more information, contact your admin."</string>
      <string name="show_touches">Mostra pressioni</string>
      <string name="show_touches_summary">Mostra feedback visuali per pressioni</string>
      <string name="simulate_color_space">Simula lo spazio del colore</string>
+     <string name="special_mode_cancel">Annulla</string>
+     <string name="special_mode_ok">Riavvia</string>
      <string name="stat_sys_data_connected_1x_half">1X</string>
      <string name="status_bar_accessibility_dismiss_recents">Chiudi app recenti</string>
      <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>

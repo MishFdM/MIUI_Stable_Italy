@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="Phonepass">Consenti chiamate</string>
      <string name="SMS_and_MMS">SMS e MMS</string>
@@ -809,6 +810,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_have_signed">Registrato oggi</string>
      <string name="gb_msg_completely_shielded">Nascondi messaggi</string>
      <string name="gb_msg_completely_shielded_summary">Nascondi</string>
+     <string name="gb_msg_not_shielded_summary">Show</string>
      <string name="gb_msg_quickly_answer">Consenti risposte veloci</string>
      <string name="gb_msg_quickly_answer_summary">Risposte veloci</string>
      <string name="gb_msg_transparent_dispaly">Notifiche con sfondo trasparente</string>
