@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="abrupt_weather_settings_summary_type_a">Comando Avviso Meteo Insolito</string>
      <string name="abrupt_weather_settings_summary_type_b">Comando Avviso Meteo Insolito</string>
@@ -96,7 +97,6 @@
      <string name="content_desc_back_button">Indietro</string>
      <string name="content_desc_close_button">Chiudi</string>
      <string name="content_desc_edit_city_manage">Gestione città</string>
-     <string name="daily_forcast_drawer_on_bottom">Nascondi</string>
      <string name="daily_forcast_no_stable_direction">Assente</string>
      <string name="daily_forcast_no_wind">&lt;12km/h</string>
      <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
@@ -105,6 +105,9 @@
      <string name="daily_forcast_weather_transfer">%1$s. %2$s dopo.</string>
      <string name="daily_forcast_whirl_wind">Forte</string>
      <string name="daily_forcast_wind_connect">%1$s %2$s</string>
+     <string name="daily_forecast_add_city_add">Follow</string>
+     <string name="daily_forecast_add_city_message">Follow the weather in %1$s for a more detailed forecast.</string>
+     <string name="daily_forecast_add_city_title">Follow the weather in %1$s</string>
      <string name="daily_forecast_detail">Dettaglio previsione</string>
      <string name="daily_forecast_detail_date">d/M</string>
      <string name="daily_forecast_no_data">"Impossibile recuperare i dati
