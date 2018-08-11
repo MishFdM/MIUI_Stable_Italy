@@ -1013,11 +1013,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="same_folder_name_warning">Cartella già esistente</string>
      <string name="save_button_text">Salva</string>
      <string name="save_dialog_title">Salva</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Save -->
-     <string name="save_file">Salva %s file</string>
+     <string name="save_file">Salva</string>
      <string name="save_file_already_exist_alert_message">Un file con lo stesso nome esiste già, desideri sovrascriverlo?</string>
      <string name="save_file_already_exist_alert_title">Sovrascrivere il file?</string>
      <string name="save_file_suffix">file</string>
