@@ -899,10 +899,14 @@ Frequenza Campione"</string>
      <string name="bootloader_apply_step_5">Assicurati di sapere come usare la modalità Fastboot prima di attivarla.</string>
      <string name="bootloader_apply_title">Avviso importante</string>
      <string name="bootloader_device_bind_already">Aggiunto correttamente. Il Mi Account è adesso associato con questo dispositivo.</string>
+     <string name="bootloader_device_bind_exceed_sim_limit">"Can't add more accounts to this SIM card."</string>
      <string name="bootloader_device_bind_fail">Impossibile verificare, attendi un minuto o due e riprova</string>
      <string name="bootloader_device_bind_msg">"Preparazione all'aggiunta di account e dispositivo…"</string>
      <string name="bootloader_device_bind_no_account">Accedi prima al tuo Mi Account</string>
      <string name="bootloader_device_bind_no_network">Connettiti alla rete e riprova</string>
+     <string name="bootloader_device_bind_no_sim">Insert SIM card and try again.</string>
+     <string name="bootloader_device_bind_server_code">"Couldn't add. Error code:"</string>
+     <string name="bootloader_device_bind_sim_invalid">SIM card is invalid. Replace it and try again.</string>
      <string name="bootloader_locked_answer_1">"Blocchiamo i dispositivi per garantire la sicurezza e la protezione delle tue informazioni personali da terze parti. Se devi entrare in modalità Fastboot e flashare il tuo telefono, puoi sbloccarlo."</string>
      <string name="bootloader_locked_answer_1_warning">"Ricorda: non sarai in grado di utilizzare \"Trova telefono\" dopo aver sbloccato il telefono."</string>
      <string name="bootloader_locked_answer_2">"Tocca il tasto seguente per associare il tuo Mi Account a questo dispositivo. Poi accedi al sito MIUI per scaricare lo strumento di sblocco ed installalo sul tuo computer. Questo è l'indirizzo:"</string>
@@ -913,6 +917,11 @@ Frequenza Campione"</string>
      <string name="bootloader_status_locked">Bloccato</string>
      <string name="bootloader_status_locked_info">Questo dispositivo è bloccato</string>
      <string name="bootloader_status_locked_summary">Il telefono è in sicurezza</string>
+     <string name="bootloader_status_privacy_dialog_message">Mi Unlock needs access to your Mi Account, CPU ID, IMEI, IMSI to work normally. We collect, use, and process your data in accordance with our %s. Agree?</string>
+     <string name="bootloader_status_privacy_dialog_no">Cancel</string>
+     <string name="bootloader_status_privacy_dialog_title">Permissions required</string>
+     <string name="bootloader_status_privacy_dialog_url_text">Privacy Policy</string>
+     <string name="bootloader_status_privacy_dialog_yes">Agree</string>
      <string name="bootloader_status_summary">Controlla se il dispositivo è bloccato</string>
      <string name="bootloader_status_unlocked">Sbloccato</string>
      <string name="bootloader_status_unlocked_info">Questo dispositivo è sbloccato</string>
