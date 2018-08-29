@@ -9,22 +9,13 @@
         <item>SMC HK</item>
         <item>SMC HK 3G</item>
      </string-array>
-     <string-array name="multi_window_pkgs_whitelist">
-        <item>com.tencent.mm</item>
-        <item>com.tencent.mobileqq</item>
-        <item>com.miui.video</item>
-        <item>com.sina.weibo</item>
-        <item>com.baidu.BaiduMap</item>
-        <item>com.qiyi.video</item>
-        <item>com.ss.android.article.news</item>
-        <item>com.facebook.katana</item>
-        <item>com.netease.cloudmusic</item>
-        <item>com.UCMobile</item>
-        <item>com.xiaomi.channel</item>
-        <item>com.taobao.taobao</item>
-        <item>com.jingdong.app.mall</item>
-        <item>com.miui.weather2</item>
-        <item>com.xiaomi.shop</item>
+     <string-array name="select_logd_system_levels">
+        <item>Disattivato</item>
+        <item>Errore</item>
+        <item>Avviso</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
      </string-array>
      <string-array name="weather_type">
         <item>Sole</item>
