@@ -31,7 +31,7 @@
      <string name="camera_mode_options">Modalità</string>
      <string name="camera_setting">Impostazioni fotocamera</string>
      <string name="camera_settings_label">Fotocamera</string>
-     <string name="camera_snap_mode_title">Modalità Quick Snap</string>
+     <string name="camera_snap_mode_title">Modalità Scatto Veloce</string>
      <string name="camera_snap_mode_title_detail">Tocca per i dettagli</string>
      <string name="cannot_connect_camera_once">Impossibile avviare la fotocamera</string>
      <string name="cannot_connect_camera_twice">Impossibile avviare la fotocamera, riavvia il dispositivo</string>
@@ -51,7 +51,6 @@
      <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
      <string name="dual_camera_use_hint">"La modalità Dual Camera permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere più lontano di 2 metri."</string>
-     <string name="empty">" "</string>
      <string name="error_fail_to_start_audio_capture">"Impossibile registrare l'audio: il microfono potrebbe essere in uso da un'altra app."</string>
      <string name="face_analyze_info">Age: %2$s (%1$s)</string>
      <string name="face_analyze_info_female">Donna</string>
@@ -75,6 +74,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_2">Medio</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
+     <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
      <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
      <string name="not_enough_space">Scheda SD piena.</string>
      <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
@@ -94,10 +94,10 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_antibanding_entry_0">Disattivato</string>
      <string name="pref_camera_antibanding_entry_1">50 Hz</string>
      <string name="pref_camera_antibanding_entry_2">60 Hz</string>
-     <string name="pref_camera_antibanding_entry_3">Auto</string>
-     <string name="pref_camera_antibanding_title">Anti banding</string>
+     <string name="pref_camera_antibanding_entry_3">Automatico</string>
+     <string name="pref_camera_antibanding_title">Anti-banding</string>
      <string name="pref_camera_asd_night_title">Miglioramento foto notturne</string>
-     <string name="pref_camera_asd_popup_title">Notify when flash is needed</string>
+     <string name="pref_camera_asd_popup_title">Notifica quando il flash è richiesto</string>
      <string name="pref_camera_audio_capture_title">Scatto vocale</string>
      <string name="pref_camera_auto_capture_when_stable_summary">"Per selezionare un oggetto, tocca due punti in diagonale lungo il suo bordo. Quando l'oggetto sarà stabile, la fotocamera scatterà automaticamente."</string>
      <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
@@ -107,7 +107,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Misurazione a punto</string>
      <string name="pref_camera_autoexposure_title">Esposizione automatica</string>
      <string name="pref_camera_beautify_detail_default">0</string>
-     <string name="pref_camera_beautify_entry_auto">Off</string>
+     <string name="pref_camera_beautify_entry_auto">Auto</string>
      <string name="pref_camera_beautify_entry_high">Alto</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
@@ -204,7 +204,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_jpegquality_title">Qualità</string>
      <string name="pref_camera_long_press_shutter_feature_title">Tieni premuto il tasto di scatto</string>
      <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto continuo</string>
-     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
+     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Messa a fuoco</string>
      <string name="pref_camera_long_pressing_shutter_title">Tieni premuto il tasto di scatto per bloccare AE/AF/AWB</string>
      <string name="pref_camera_magic_mirror_title">Specchio magico</string>
      <string name="pref_camera_manual_mode_title">Manuale</string>
@@ -247,8 +247,8 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_picturesize_entry_3328x1872">6M(3328x1872)</string>
      <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
      <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
-     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">Schermo Intero 16:9</string>
+     <string name="pref_camera_picturesize_entry_standard">Normale 4:3</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
      <string name="pref_camera_recordlocation_entry_off">Disattivato</string>
      <string name="pref_camera_recordlocation_entry_on">Attivato</string>
@@ -281,7 +281,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_snap_entry_off">Disattivato</string>
      <string name="pref_camera_snap_entry_take_movie">Video</string>
      <string name="pref_camera_snap_entry_take_picture">Foto</string>
-     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva.</string>
+     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzionlità \"Utilizza i tasti volume per attivare\" è attiva.</string>
      <string name="pref_camera_sound_title">"Suoni nell'applicazione"</string>
      <string name="pref_camera_square_mode_title">Quadrato</string>
      <string name="pref_camera_stereo_mode_title">Stereo</string>
@@ -329,10 +329,10 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
-     <string name="pref_video_captrue_ability_title">Image capture while recording</string>
-     <string name="pref_video_focusmode_entry_auto">Tap</string>
+     <string name="pref_video_captrue_ability_title">Cattura immagini durante la registrazione</string>
+     <string name="pref_video_focusmode_entry_auto">Tocca</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
-     <string name="pref_video_focusmode_title">Focus mode</string>
+     <string name="pref_video_focusmode_title">Modalità di messa a fuoco</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
