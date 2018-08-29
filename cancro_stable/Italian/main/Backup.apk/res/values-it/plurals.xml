@@ -44,6 +44,14 @@
         <item quantity="other">%d elementi,</item>
         <item quantity="one">%d elemento,</item>
      </plurals>
+     <plurals name="trans_failed_summary">
+        <item quantity="other">Impossibile trasferire %d elementi. Tocca per visualizzare i dettagli.</item>
+        <item quantity="one">Impossibile trasferire %d elemento. Tocca per visualizzare i dettagli.</item>
+     </plurals>
+     <plurals name="trans_item_failed_summary">
+        <item quantity="other">Impossibile trasferire %d elementi.</item>
+        <item quantity="one">Impossibile trasferire %d elemento.</item>
+     </plurals>
      <plurals name="trans_time_format_hours">
         <item quantity="other">%d ore</item>
         <item quantity="one">%d ora</item>

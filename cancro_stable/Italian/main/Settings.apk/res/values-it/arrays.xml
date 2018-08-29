@@ -25,7 +25,7 @@
         <item>Scala animazione 10x</item>
      </string-array>
      <string-array name="ap_identify">
-        <item>default</item>
+        <item>Predefinito</item>
         <item>iPhone</item>
      </string-array>
      <string-array name="apn_auth_entries">
@@ -144,7 +144,7 @@
         <item>monitora localizzazione a consumo elevato</item>
         <item>ottieni statistiche uso</item>
         <item>muto/non muto microfono</item>
-        <item>media project</item>
+        <item>progetto media</item>
         <item>attiva VPN</item>
         <item>scrivi sfondo</item>
         <item>assisti struttura</item>
@@ -847,6 +847,24 @@
         <item>Ultimi 30 giorni</item>
         <item>Imposta ciclo di utilizzo...</item>
      </string-array>
+     <string-array name="date_of_app_all">
+        <item>Today (data)</item>
+        <item>This month (data)</item>
+        <item>Last month (data)</item>
+        <item>Today WLAN</item>
+        <item>This month WLAN</item>
+        <item>Last month WLAN</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Today "</item>
+        <item>"This month "</item>
+        <item>"Last month "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Today: "</item>
+        <item>"This month: "</item>
+        <item>"Last month: "</item>
+     </string-array>
      <string-array name="debug_hw_overdraw_entries">
         <item>Disattivato</item>
         <item>Visualizza le zone di conflitto</item>
@@ -1007,6 +1025,12 @@
         <item>Accesso al dispositivo montato: mtpfs /media/mtp tramite File Explorer; stessa cartella locale</item>
         <item>"Disinstalla dispositivo fusermount -u /media/mtp
  Nota: solo per Ubuntu 8.04"</item>
+     </string-array>
+     <string-array name="mvno_type_entries">
+        <item>Nessuno</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
      </string-array>
      <string-array name="network_speed_slow_summary">
         <item>La rete è lenta a causa del traffico intenso</item>
@@ -1181,6 +1205,14 @@
         <item>4M</item>
         <item>16M</item>
      </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Disattiva</item>
+        <item>Errore</item>
+        <item>Avvisa</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Disattivato</item>
         <item>Area ritaglio non rettangolare blu</item>
@@ -1222,6 +1254,10 @@
         <item>Chiusa</item>
         <item>Modalità normale</item>
         <item>Modalità estrema</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"WLAN usage "</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
         <item>Animazioni disattivate</item>
@@ -1372,7 +1408,7 @@
      <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-        <item>Proxy auto-config</item>
+        <item>Auto configurante</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Scadente</item>

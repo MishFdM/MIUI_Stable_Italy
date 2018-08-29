@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
      <string name="accessibility_contact_detail">Dettagli contatto</string>
      <string name="account_container_title">Importato da</string>
      <string name="account_default">Dispositivo</string>
      <string name="account_phone">Solo su dispositivo, non sincronizzato</string>
+     <string name="account_sdn">SDN</string>
+     <string name="account_sdn2">SDN %d</string>
      <string name="account_sim">Scheda SIM</string>
      <string name="account_sim2">Scheda SIM %d</string>
      <string name="account_type_format">Contatto da %1$s</string>
@@ -210,8 +211,8 @@
      <string name="contact_detail_calllog_call_note_tips">Note</string>
      <string name="contact_detail_calllog_call_record_tips">Registra chiamata</string>
      <string name="contact_detail_calllog_empty">Nessuna chiamata</string>
-     <string name="contact_detail_entry_pay">Pay</string>
-     <string name="contact_detail_entry_pay_dialog_title">Select phone number</string>
+     <string name="contact_detail_entry_pay">Paga</string>
+     <string name="contact_detail_entry_pay_dialog_title">Seleziona il numero di telefono</string>
      <string name="contact_detail_menu_delete_miprofile">Elimina scheda</string>
      <string name="contact_detail_miprofile_accept">Scambio schede contatto</string>
      <string name="contact_detail_miprofile_accept_fail_toast">Impossibile scambiare schede contatti</string>
@@ -541,7 +542,7 @@ Motivo: \"%s\"</string>
      <string name="import_contact_card_button">Importa contatto</string>
      <string name="import_failure_no_vcard_file">"Nessun file vCard trovato nell'archivio."</string>
      <string name="import_from_onekey_migrate">Importa con Transfer</string>
-     <string name="import_from_other_phone">Importa da un altro dispositivo</string>
+     <string name="import_from_other_device">Importa da un altro dispositivo</string>
      <string name="import_from_sdcard">Importa da archivio</string>
      <string name="import_from_sim">Importa da SIM</string>
      <string name="import_from_sim1">Importa da SIM 1</string>
@@ -571,7 +572,6 @@ Motivo: \"%s\"</string>
      <string name="keep_local">Memorizza in locale</string>
      <string name="keep_local_btn">Usa la memoria interna del dispositivo"</string>
      <string name="label_custom_type">Personalizzato</string>
-     <string name="label_duplicate_count">(%1$d)</string>
      <string name="label_no_duplicate_contacts">Nessun duplicato rilevato</string>
      <string name="label_notes">Note</string>
      <string name="label_sip_address">Chiamate Internet</string>
@@ -599,7 +599,7 @@ Motivo: \"%s\"</string>
      <string name="local_search_label">Tutti i contatti</string>
      <string name="locale_change_in_progress">"Elenco contatti in fase di aggiornamento per l'applicazione della modifica della lingua."</string>
      <string name="login_ok">Accedi</string>
-     <string name="low_memory_toast">Memoria insufficiente per utilizzare questa funzione.</string>
+     <string name="low_memory_toast">Memoria insufficiente per utilizzare questa funzionalità.</string>
      <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
      <string name="lunar_calendar">Lunare</string>
      <string name="lunar_leap" />
@@ -670,7 +670,7 @@ Motivo: \"%s\"</string>
      <string name="miprofile_alertdialog_edit">Inserisci nome</string>
      <string name="miprofile_alertdialog_message">Mostra questo nome ai contatti quando chiedi di scambiare le schede.</string>
      <string name="miprofile_alertdialog_title">Inserisci nome</string>
-     <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzione."</string>
+     <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzionalità."</string>
      <string name="miprofile_bind_account_alertdialog_positive">Aggiungi numero</string>
      <string name="miprofile_bind_account_alertdialog_title">Aggiungi numero di telefono</string>
      <string name="miprofile_contact_add">Aggiungi</string>
@@ -780,6 +780,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="no_contacts_dialog_title">Impossibile trovare contatti</string>
      <string name="no_contacts_selected">Nessun contatto selezionato.</string>
      <string name="no_sdcard_message">Nessun archivio trovato.</string>
+     <string name="no_setting_menu">Nessuna menù disponibile</string>
      <string name="non_phone_add_to_contacts">Aggiungi a contatti</string>
      <string name="non_phone_caption">Numero di telefono</string>
      <string name="non_phone_close">Chiudi</string>
@@ -833,7 +834,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="payphone">Telefonata a pagamento</string>
      <string name="people">Contatti</string>
      <string name="phoneLabelsGroup">Telefono</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_number_too_long_toast">Numero troppo lungo</string>
      <string name="phone_primary">Primario</string>
      <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -869,6 +869,9 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="pref_key_photo_word_title">Foto per tutti</string>
      <string name="pref_key_rebuild_t9_index_message">"Ricostruisci i dati dell'indice per risolvere problemi con la ricerca"</string>
      <string name="pref_key_rebuild_t9_index_title">Ricostruzione indice</string>
+     <string name="pref_key_sdn_manage">Visualizza SDN</string>
+     <string name="pref_key_sdn_manage1">Visualizza SDN scheda 1</string>
+     <string name="pref_key_sdn_manage2">Visualizza SDN scheda 2</string>
      <string name="pref_key_sim_manage">Gestione SIM</string>
      <string name="pref_key_sim_manage1">Configura SIM 1</string>
      <string name="pref_key_sim_manage2">Configura SIM 2</string>
@@ -882,7 +885,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_contacts_display">Preferenze visualizzazione</string>
      <string name="preference_contacts_filter">Configura liste contatti</string>
      <string name="preference_contacts_more">Organizza contatti</string>
-     <string name="preference_contacts_moresetting">More</string>
+     <string name="preference_contacts_moresetting">Altro</string>
      <string name="preference_dial_pad_touch_tone_default">Predefinito</string>
      <string name="preference_dial_pad_touch_tone_human">Voce</string>
      <string name="preference_dial_pad_touch_tone_piano">Tasti del pianoforte</string>
@@ -890,7 +893,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_dial_pad_touch_tone_title">Tono al tocco del tastierino</string>
      <string name="preference_display">Visualizzazione</string>
      <string name="preference_displayOptions">Opzioni di visualizzazione</string>
-     <string name="preference_display_contact">Display options</string>
+     <string name="preference_display_contact">Opzioni schermo</string>
      <string name="preference_export">Esporta</string>
      <string name="preference_import">Importa</string>
      <string name="preference_import_export">Importa/Esporta</string>
@@ -901,7 +904,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_phone">Telefono</string>
      <string name="preference_phone_more_title">Chiamate</string>
      <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
-     <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzione Pagine Gialle non funzionerà correttamente</string>
+     <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzionalità Pagine Gialle non funzionerà correttamente</string>
      <string name="preference_show_yellowpage_tab_title">Mostra la scheda delle PagineGialle</string>
      <string name="preference_simple_mode_description">"Mostra l'immagine e gli altri dati del contatto nell'elenco dei contatti"</string>
      <string name="preference_simple_mode_title">Vista dettagliata</string>
@@ -989,6 +992,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="scan_qrcode_card_hint2">Aggiungi le mie informazioni ai tuoi contatti</string>
      <string name="scanning_sdcard_failed_message">"Scansione dell'archivio non riuscita. Motivo: \"%s\"</string>
      <string name="scanning_sdcard_failed_title">La scheda SD non può essere scansionata</string>
+     <string name="sdnContacts_empty">No SDN</string>
+     <string name="sdnContacts_emptyLoading">Caricamento SDN…</string>
      <string name="searchHint">Cerca contatti</string>
      <string name="search_batch_delete">Organizza;Contatti</string>
      <string name="search_contacts_display">Contatti;Display</string>
@@ -1110,6 +1115,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="social_widget_label">Contatto</string>
      <string name="social_widget_loading">Caricamento…</string>
      <string name="solar_calendar">Solare</string>
+     <string name="special_code_security_exception">Operazione rifiutata： Nessun compositore predefinito</string>
      <string name="splitConfirmation">Questo contatto verrà diviso in più contatti.</string>
      <string name="splitConfirmation_title">Separare contatto?</string>
      <string name="starredList">Speciali</string>
@@ -1120,6 +1126,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="strequentList">Preferiti</string>
      <string name="success_message_import_from_account">Contato importato</string>
      <string name="summary_kind_title">Sommario</string>
+     <string name="sv">SV</string>
      <string name="t9_search_empty_create_contact">Nuovo contatto</string>
      <string name="t9_search_empty_edit_contact">Aggiungi ad un contatto</string>
      <string name="t9_search_empty_send_sms">Invia messaggio</string>
@@ -1208,7 +1215,7 @@ Scegli una delle seguenti opzioni:"</string>
      <string name="wipe_data">Cancella dati</string>
      <string name="yellowPageNavigationIconLabel">Directory</string>
      <string name="yellowPageNavigationLabel">Directory</string>
-     <string name="yellowpage_fc_toast">Errore con Pagine Gialle, impossibile utilizzare questa funzione.</string>
+     <string name="yellowpage_fc_toast">Errore con Pagine Gialle, impossibile utilizzare questa funzionalità.</string>
      <string name="yellowpage_mi_family">Mi Family</string>
      <string name="yellowpage_navigation_ad_hint">Ad</string>
      <string name="yellowpage_navigation_balance_refresh_failed">Impossibile verificare saldo e dati mobili, riprova più tardi.</string>

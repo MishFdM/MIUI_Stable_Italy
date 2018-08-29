@@ -1,6 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
+     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+     <string name="abc_action_bar_up_description">Vai in alto</string>
+     <string name="abc_action_menu_overflow_description">Piú opzioni</string>
+     <string name="abc_action_mode_done">Fatto</string>
+     <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
+     <string name="abc_activitychooserview_choose_application">"Seleziona un'app"</string>
+     <string name="abc_capital_off">DISATTIVA</string>
+     <string name="abc_capital_on">ATTIVA</string>
+     <string name="abc_search_hint">Ricerca…</string>
+     <string name="abc_searchview_description_clear">Pulisci query</string>
+     <string name="abc_searchview_description_query">Cerca query</string>
+     <string name="abc_searchview_description_search">Cerca</string>
+     <string name="abc_searchview_description_submit">Invia query</string>
+     <string name="abc_searchview_description_voice">Ricerca vocale</string>
+     <string name="abc_shareactionprovider_share_with">Condividi con</string>
+     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+     <string name="abc_toolbar_collapse_description">Riduci</string>
      <string name="account_info">Mi Account</string>
      <string name="account_name_not_login">Accedi</string>
      <string name="account_unactivated">Account non attivato.</string>
@@ -9,6 +27,7 @@
      <string name="add_resource_detail_fail">Impossibile aggiungere risorsa</string>
      <string name="all_resources">Tutto</string>
      <string name="app_name">Temi</string>
+     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
      <string name="apply_default_font_tip">Vuoi continuare a utilizzare il font attuale del sistema?</string>
      <string name="apply_font_btn_exclude">Applica senza font</string>
      <string name="apply_font_btn_reboot">Applica e riavvia</string>
@@ -32,6 +51,8 @@
      <string name="card_retry">Riprova</string>
      <string name="change_host_hint">cambia host</string>
      <string name="change_wallpaper">Sfondi</string>
+     <string name="character_counter_pattern">%1$d di %2$d</string>
+     <string name="classification_more_understand_you">Seleziona la tua categoria preferita</string>
      <string name="close">Chiudi</string>
      <string name="component_backup_preference_title">Backup tema</string>
      <string name="component_category_finest_title">In evidenza</string>
@@ -93,8 +114,8 @@
      <string name="gift_use_confirmation_dlg_title">Inviare questo regalo?</string>
      <string name="gift_use_fail_dlg_title">Si è verificato un errore</string>
      <string name="gift_used">Inviato</string>
-     <string name="hide_free">Hide free %1$s</string>
-     <string name="hide_incompatible">Hide incompatible %1$s</string>
+     <string name="hide_free">"Nascondi gratis %1$s "</string>
+     <string name="hide_incompatible">"Nascondi incompatibili %1$s"</string>
      <string name="home_apply_failured">Impossibile applicare lo sfondo Home</string>
      <string name="home_apply_success">Sfondo Home applicato</string>
      <string name="in_the_end">No more</string>
@@ -137,6 +158,7 @@
      <string name="online_precust_abstract">Astratti</string>
      <string name="online_precust_animal">Animali</string>
      <string name="online_precust_asphalt">Asfalto</string>
+     <string name="online_precust_black_gold">Rhodium</string>
      <string name="online_precust_building">Costruzioni</string>
      <string name="online_precust_chubby_dreamer">Chubby Dreamer</string>
      <string name="online_precust_creative">Creativi</string>
@@ -150,6 +172,7 @@
      <string name="online_precust_scenery">Scenari</string>
      <string name="online_precust_tiny">Minuscoli</string>
      <string name="online_search_hint">Cerca risorse online</string>
+     <string name="password_toggle_content_description">Attiva visibilità password</string>
      <string name="present_local_themes">Scaricati</string>
      <string name="present_official_themes">Selezione ufficiale</string>
      <string name="present_online_themes">Online</string>
@@ -161,6 +184,12 @@
      <string name="purchased_list_current">MIUI 9</string>
      <string name="purchased_list_legacy">Vecchie versioni</string>
      <string name="recently_used">Usati di recente</string>
+     <string name="refresh_footer_all_loaded">Questo è tutto per ora.</string>
+     <string name="refresh_footer_failed">Impossibile caricare info</string>
+     <string name="refresh_footer_finish">Caricamento riuscito</string>
+     <string name="refresh_footer_loading">Solo un secondo…</string>
+     <string name="refresh_footer_pullup">"Trascina verso l'alto per caricare altro"</string>
+     <string name="refresh_footer_release">Rilascia per caricare altro</string>
      <string name="region_not_support">Spiacenti, temi non supportati nel tuo Paese.</string>
      <string name="reload">Riprova</string>
      <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
@@ -262,8 +291,8 @@
      <string name="resource_exchange_wrong_format_by_server">Il codice non può essere validato. Verificalo e riprova.</string>
      <string name="resource_expand_full_text">Espandi</string>
      <string name="resource_failed_to_load_list">Impossibile caricare la lista</string>
-     <string name="resource_free_trial_15_days">Try 15 days for free</string>
-     <string name="resource_free_use_last_one_day">Your trial expires tomorrow.</string>
+     <string name="resource_free_trial_15_days">Prova gratis per 15 giorni</string>
+     <string name="resource_free_use_last_one_day">Il periodo di prova scadrà domani.</string>
      <string name="resource_get_auth_checking">Ricerca autorizzazioni…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Il tema non può essere eseguito su questo dispositivo, hai raggiunto il limite massimo di 10 installazioni, si prega di usare il tema su un altro dispositivo</string>
      <string name="resource_get_auth_exceed_max_limit_title">Limite autorizzazioni superato</string>
@@ -275,8 +304,9 @@
      <string name="resource_import_failed">Impossibile importare</string>
      <string name="resource_import_successful">Download completato.</string>
      <string name="resource_importing">Importazione</string>
+     <string name="resource_is_off_shelf">Non disponibile</string>
      <string name="resource_list_title">Ultime</string>
-     <string name="resource_local_picker">Choose local ringtone</string>
+     <string name="resource_local_picker">Scegli una suoneria in locale</string>
      <string name="resource_menu_refresh">Aggiorna</string>
      <string name="resource_mute">Nessuna</string>
      <string name="resource_my">Locali</string>
@@ -286,9 +316,9 @@
      <string name="resource_no_result">Nessun risultato</string>
      <string name="resource_notification_default">Notifiche</string>
      <string name="resource_on_trial">Prova: %1$s</string>
-     <string name="resource_on_use">Using: %1$s</string>
+     <string name="resource_on_use">In uso: %1$s</string>
      <string name="resource_online">Online</string>
-     <string name="resource_online_picker">Choose online ringtone</string>
+     <string name="resource_online_picker">Scegli una suoneria online</string>
      <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti. Vuoi continuare?"</string>
      <string name="resource_pack_discount_info">%1$s Salvato!</string>
      <string name="resource_pack_get_auth_has_been_undercarriaged">Questo tema non è più disponibile.</string>
@@ -325,7 +355,7 @@
      <string name="resource_select_boot_audio_confirm">Selezionare questo suono di avvio?</string>
      <string name="resource_select_notification_audio_confirm">Selezionare questo tono di allarme?</string>
      <string name="resource_select_ringtone_audio_confirm">Selezionare questa suoneria?</string>
-     <string name="resource_select_ringtone_confirm">Select this ringtone?</string>
+     <string name="resource_select_ringtone_confirm">Selezionare questa suoneria?</string>
      <string name="resource_selected">In evidenza</string>
      <string name="resource_send">Invia</string>
      <string name="resource_server_alert_dialog_title">Il servizio non è momentaneamente disponibile</string>
@@ -343,11 +373,11 @@
      <string name="resource_title_rank">Classifiche</string>
      <string name="resource_title_select_ringtone">Seleziona suoneria</string>
      <string name="resource_title_subject">In evidenza</string>
-     <string name="resource_trial_15_days_end_title">15 days trial expired</string>
-     <string name="resource_trial_15_days_immediately">Try 15 days immediately</string>
+     <string name="resource_trial_15_days_end_title">I 15 giorni di prova sono scaduti</string>
+     <string name="resource_trial_15_days_immediately">Prova subito per 15 giorni</string>
      <string name="resource_trial_days">(prova: %1$dd)</string>
      <string name="resource_trial_days_hours">(prova: %1$dd %2$dh)</string>
-     <string name="resource_trial_end_change">Change</string>
+     <string name="resource_trial_end_change">Cambia</string>
      <string name="resource_trial_end_message">La prova di %1$s è terminata. Se ti piace, ti preghiamo di acquistarlo.</string>
      <string name="resource_trial_end_purchase">Acquista</string>
      <string name="resource_trial_end_restore">Prova terminata</string>
@@ -370,12 +400,15 @@
      <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora</string>
      <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
      <string name="search_hint_header_text">Parole più ricercate</string>
+     <string name="search_menu_title">Cerca</string>
      <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
+     <string name="set_color_ring_back_tone">Imposta colore tono di risposta</string>
      <string name="settings">Impostazioni</string>
      <string name="system_precust">Predefinito di sistema</string>
      <string name="the_picture_is_not_support">"L'immagine non è supportata"</string>
      <string name="the_picture_is_too_small">"L'immagine è troppo piccola"</string>
      <string name="theme_apply_audio_dialog_item_alarm">Sveglia</string>
+     <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Colore tono di risposta</string>
      <string name="theme_apply_audio_dialog_item_notification">Notifiche</string>
      <string name="theme_apply_audio_dialog_item_ringtone">Suoneria</string>
      <string name="theme_apply_failured">Impossibile applicare lo sfondo per la Schermata di blocco</string>
@@ -455,16 +488,18 @@
      <string name="title_my_audio_resource">Le mie suonerie</string>
      <string name="title_my_miwallpaper_resource">I miei sfondi Live</string>
      <string name="title_my_wallpaper_resource">I miei sfondi</string>
-     <string name="title_system_audio_notification_resource">System notifications</string>
+     <string name="title_system_audio_notification_resource">Notifiche di sistema</string>
      <string name="title_system_audio_resource">Suonerie di sistema</string>
      <string name="title_system_wallpaper_resource">Sfondi di sistema</string>
      <string name="to_activate_the_account">Attiva il tuo Mi Account</string>
      <string name="uid_change_dialog_message">Hai eliminato gli aggiornamenti. Riavvia il dispositivo per poter utilizzare i temi.</string>
      <string name="uid_change_dialog_ok">Ho capito</string>
      <string name="uid_change_dialog_title">Riavvia dispositivo</string>
+     <string name="up_to_the_end">Questo è tutto per il momento. Ritorna più tardi.</string>
      <string name="wallpaper_apply">Applica</string>
      <string name="wallpaper_crop">Taglia</string>
      <string name="wallpaper_decoded_error">Decodifica fallita</string>
+     <string name="wallpaper_detail_load_page_no_network">Collegati alla rete e prova di nuovo.</string>
      <string name="wallpaper_scroll_type_tips">Scorrimento sfondo</string>
      <string name="wallpaper_set_as_both">Imposta per entrambi</string>
      <string name="wallpaper_set_as_destop">Imposta come sfondo</string>
@@ -474,4 +509,7 @@
      <string name="wallpaper_settings_no_history">Nessuna cronologia</string>
      <string name="wallpaper_settings_pad_more_page_title">Altri sfondi</string>
      <string name="wallpaper_settings_page_title">Sfondo</string>
+     <string name="xiaoai_speech_not_installed_download">Scarica</string>
+     <string name="xiaoai_speech_not_installed_message">"Per continuare scarica ed installa l'assistente vocale Mi AI."</string>
+     <string name="xiaoai_speech_not_installed_title">"L'assistente vocale Mi AI non è installato."</string>
 </resources>

@@ -10,7 +10,7 @@
      <string name="accessibility_hdr">Tasto HDR</string>
      <string name="accessibility_mode_dismiss_button">Pulsante di selezione ravvicinata</string>
      <string name="accessibility_peak">Messa a fuoco Peak</string>
-     <string name="accessibility_portrait_button">Portrait mode</string>
+     <string name="accessibility_portrait_button">Modalità ritratto</string>
      <string name="accessibility_review_thumbnail">Foto recenti</string>
      <string name="accessibility_seek_bar_line">SeekBarLine</string>
      <string name="accessibility_setting_button">Pulsante impostazioni aggiuntive</string>
@@ -20,7 +20,7 @@
      <string name="accessibility_video_capture_button">Pulsante cattura</string>
      <string name="accessibility_video_module_picker">VideoModulePicker</string>
      <string name="accessibility_video_pause_button">Pulsante pausa</string>
-     <string name="accessibility_zoom_button">Zoom mode</string>
+     <string name="accessibility_zoom_button">Modalità Zoom</string>
      <string name="audio_focus_exit_button_text">Disattiva Audio Focus</string>
      <string name="burst_shoot_exit_button_text">Chiudi Scatto continuo</string>
      <string name="button_fisheye_camera_title">Fish-eye</string>
@@ -32,14 +32,14 @@
      <string name="camera_mode_options">Modalità</string>
      <string name="camera_setting">Impostazioni fotocamera</string>
      <string name="camera_settings_label">Fotocamera</string>
-     <string name="camera_snap_mode_title">Modalità Quick Snap</string>
+     <string name="camera_snap_mode_title">Modalità Scatto Veloce</string>
      <string name="camera_snap_mode_title_detail">Tocca per i dettagli</string>
      <string name="cannot_connect_camera_once">Impossibile avviare la fotocamera</string>
      <string name="cannot_connect_camera_twice">Impossibile avviare la fotocamera, riavvia il dispositivo</string>
      <string name="cannot_connect_camera_volte_call">La video chiamata è in corso, prova più tardi.</string>
      <string name="cannot_move_warning_message">Mantieni il dispositivo fermo</string>
-     <string name="confirm_install_scanner_message">"Scanner allows you to scan QR codes, barcodes, and more. You don't have to connect to the internet to install it."</string>
-     <string name="confirm_install_scanner_title">Install Scanner</string>
+     <string name="confirm_install_scanner_message">Lo scanner ti permette di scansionare codici QR, a barre, ed altri. E non dovrai connetterti ad internet per installarlo.</string>
+     <string name="confirm_install_scanner_title">Installa scanner</string>
      <string name="confirm_location_alert">Memorizza posizione GPS quando scatti una foto</string>
      <string name="confirm_location_message">Vuoi attivare i servizi di localizzazione per la fotocamera?</string>
      <string name="confirm_location_title">Utilizza posizione GPS</string>
@@ -54,7 +54,6 @@
      <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
      <string name="dual_camera_use_hint">"La modalità Dual Camera permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere più lontano di 2 metri."</string>
-     <string name="empty">" "</string>
      <string name="error_fail_to_start_audio_capture">"Impossibile registrare l'audio: il microfono potrebbe essere in uso da un'altra app."</string>
      <string name="face_analyze_info">Age: %2$s (%1$s)</string>
      <string name="face_analyze_info_female">Donna</string>
@@ -78,11 +77,10 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_2">Medio</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
-     <string name="groupshot_mode_use_hint">"Camera will take multiple photos
-and then create a shot where everyone looks best."</string>
+     <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
      <string name="hibernate_hint">Tap the screen to wake Camera</string>
-     <string name="install_confirmed">Install</string>
-     <string name="message_snap_double_confirm">La funzione attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
+     <string name="install_confirmed">Installa</string>
+     <string name="message_snap_double_confirm">La funzionlità attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
      <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
      <string name="not_enough_space">Scheda SD piena.</string>
      <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
@@ -91,12 +89,12 @@ and then create a shot where everyone looks best."</string>
      <string name="pano_how_to_use_prompt_slow_down">Si prega di rallentare</string>
      <string name="pano_how_to_use_prompt_to_move">Inizia a ruotare lentamente</string>
      <string name="path_settings">Applicazioni di sistema/Fotocamera/Impostazioni</string>
-     <string name="portrait_mode_depth_effect_success_hint">Depth effect</string>
-     <string name="portrait_mode_lowlight_hint">"It's too dark now"</string>
-     <string name="portrait_mode_too_close_hint">Move farther from the object</string>
-     <string name="portrait_mode_too_far_hint">Place object within 2.5 meters</string>
-     <string name="portrait_mode_use_hint">"Portrait mode blurs the background
-and brings out the people in the front."</string>
+     <string name="portrait_mode_depth_effect_success_hint">Effetto profondità</string>
+     <string name="portrait_mode_lowlight_hint">Adesso è troppo scuro</string>
+     <string name="portrait_mode_too_close_hint">"Allontanati dall'oggetto"</string>
+     <string name="portrait_mode_too_far_hint">"Posiziona l'oggetto entro 2.5"</string>
+     <string name="portrait_mode_use_hint">"La modalità verticale ti aiuta a sfocare lo sfondo
+per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="portrait_with_facebeauty_hint">Beautify is now available in Portrait mode</string>
      <string name="pref_advance_settings">Impostazioni aggiuntive</string>
      <string name="pref_audio_focus_entry_front">Frontale</string>
@@ -109,10 +107,10 @@ and brings out the people in the front."</string>
      <string name="pref_camera_antibanding_entry_0">Disattivato</string>
      <string name="pref_camera_antibanding_entry_1">50 Hz</string>
      <string name="pref_camera_antibanding_entry_2">60 Hz</string>
-     <string name="pref_camera_antibanding_entry_3">Auto</string>
-     <string name="pref_camera_antibanding_title">Anti banding</string>
+     <string name="pref_camera_antibanding_entry_3">Automatico</string>
+     <string name="pref_camera_antibanding_title">Anti-banding</string>
      <string name="pref_camera_asd_night_title">Miglioramento foto notturne</string>
-     <string name="pref_camera_asd_popup_title">Notify when flash is needed</string>
+     <string name="pref_camera_asd_popup_title">Notifica quando il flash è richiesto</string>
      <string name="pref_camera_audio_capture_title">Scatto vocale</string>
      <string name="pref_camera_auto_capture_when_stable_summary">"Per selezionare un oggetto, tocca due punti in diagonale lungo il suo bordo. Quando l'oggetto sarà stabile, la fotocamera scatterà automaticamente."</string>
      <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
@@ -153,7 +151,6 @@ and brings out the people in the front."</string>
      <string name="pref_camera_delay_capture_entry_5s">5 sec</string>
      <string name="pref_camera_delay_capture_entry_audio">Audio</string>
      <string name="pref_camera_delay_capture_title">Autoscatto</string>
-     <string name="pref_camera_exposuretime_entry_0.5">2s</string>
      <string name="pref_camera_exposuretime_entry_1">1s</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
      <string name="pref_camera_exposuretime_entry_125">1/125s</string>
@@ -212,7 +209,7 @@ and brings out the people in the front."</string>
      <string name="pref_camera_jpegquality_title">Qualità</string>
      <string name="pref_camera_long_press_shutter_feature_title">Tieni premuto il tasto di scatto</string>
      <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto continuo</string>
-     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
+     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Messa a fuoco</string>
      <string name="pref_camera_long_pressing_shutter_title">Tieni premuto il tasto di scatto per bloccare AE/AF/AWB</string>
      <string name="pref_camera_magic_mirror_title">Specchio magico</string>
      <string name="pref_camera_manual_mode_title">Manuale</string>
@@ -252,13 +249,13 @@ and brings out the people in the front."</string>
      <string name="pref_camera_picturesize_entry_3328x1872">6M(3328x1872)</string>
      <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
      <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
-     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">Schermo Intero 16:9</string>
+     <string name="pref_camera_picturesize_entry_standard">Normale 4:3</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
-     <string name="pref_camera_portrait_mode_entry_off">Portrait mode is off</string>
-     <string name="pref_camera_portrait_mode_entry_on">Portrait mode is on</string>
-     <string name="pref_camera_portrait_mode_title">Portrait mode</string>
-     <string name="pref_camera_portrait_with_facebeauty_title">Beautify in Portrait mode</string>
+     <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
+     <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>
+     <string name="pref_camera_portrait_mode_title">Modalità ritratto</string>
+     <string name="pref_camera_portrait_with_facebeauty_title">Funzionlità Bellezza in modalità ritratto</string>
      <string name="pref_camera_proximity_lock_summary">Blocca i movimenti touch quando posizionato in una tasca</string>
      <string name="pref_camera_proximity_lock_title">Modalità Pocket</string>
      <string name="pref_camera_raw_title">RAW</string>
@@ -297,7 +294,7 @@ and brings out the people in the front."</string>
      <string name="pref_camera_snap_entry_take_picture">Foto</string>
      <string name="pref_camera_snap_label_take_movie">Video</string>
      <string name="pref_camera_snap_label_take_picture">Foto</string>
-     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva.</string>
+     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzionlità \"Utilizza i tasti volume per attivare\" è attiva.</string>
      <string name="pref_camera_sound_title">"Suoni nell'applicazione"</string>
      <string name="pref_camera_square_mode_title">Quadrato</string>
      <string name="pref_camera_stereo_mode_title">Stereo</string>
@@ -325,15 +322,15 @@ and brings out the people in the front."</string>
      <string name="pref_camera_whitebalance_entry_manual">Manuale</string>
      <string name="pref_camera_whitebalance_entry_measure">Misurato</string>
      <string name="pref_camera_whitebalance_title">Bil. bianco</string>
-     <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
-     <string name="pref_camera_zoom_mode_entry_wide">Wide</string>
-     <string name="pref_camera_zoom_mode_title">Lens</string>
+     <string name="pref_camera_zoom_mode_entry_tele">Teleobiettivo</string>
+     <string name="pref_camera_zoom_mode_entry_wide">Grandangolo</string>
+     <string name="pref_camera_zoom_mode_title">Lenti</string>
      <string name="pref_camera_zoom_ratio_tele">200</string>
      <string name="pref_camera_zoom_ratio_wide">100</string>
      <string name="pref_camera_zsl_entry_off">Disattivato</string>
      <string name="pref_camera_zsl_entry_on">Attivato</string>
      <string name="pref_capture_settings">Impostazioni fotocamera</string>
-     <string name="pref_dualcamera_watermark_title">Dual camera watermark</string>
+     <string name="pref_dualcamera_watermark_title">Logo dual camera</string>
      <string name="pref_face_beauty_title">Bellezza</string>
      <string name="pref_front_mirror_entry_auto">Quando il viso viene rilevato</string>
      <string name="pref_front_mirror_entry_off">Disattivato</string>
@@ -353,10 +350,10 @@ and brings out the people in the front."</string>
      <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
-     <string name="pref_video_captrue_ability_title">Image capture while recording</string>
-     <string name="pref_video_focusmode_entry_auto">Tap</string>
+     <string name="pref_video_captrue_ability_title">Cattura immagini durante la registrazione</string>
+     <string name="pref_video_focusmode_entry_auto">Tocca</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
-     <string name="pref_video_focusmode_title">Focus mode</string>
+     <string name="pref_video_focusmode_title">Modalità di messa a fuoco</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
@@ -423,7 +420,7 @@ and brings out the people in the front."</string>
      <string name="tap_to_focus">Tocca per mettere a fuoco</string>
      <string name="time_lapse_error">Dimensione video non valida per il Time-lapse.</string>
      <string name="title_snap_double_confirm">Conferma di nuovo</string>
-     <string name="toast_burst_snap_finished_summary">Burst shot done, %1$s photos taken</string>
+     <string name="toast_burst_snap_finished_summary">Scatto multiplo completato, %1$s foto scattate</string>
      <string name="toast_burst_snap_forbidden_when_audio_capture_open">Impossibile acquisire scatti multipli durante la registrazione audio</string>
      <string name="toast_saving">Salvataggio foto...</string>
      <string name="toast_start_audio_capture">Riproduci un suono al momento dello scatto</string>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_enabled">Accessibilità attivata.</string>
      <string name="agree">OK</string>
@@ -22,7 +21,7 @@
      <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicazioni e servizi.</string>
      <string name="disagree">Annulla</string>
      <string name="enable_accessibility_canceled">Accessibilità annullata.</string>
-     <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
+     <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce un feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
      <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
      <string name="enable_accessibility_dialog_positive_btn">OK</string>
      <string name="ime_privacy_policy">Termini della Privacy per la tastiera selezionata</string>
@@ -45,6 +44,8 @@
      <string name="next">Avanti</string>
      <string name="next_fingerprint">Avanti</string>
      <string name="other_settings">Impostazioni aggiuntive</string>
+     <string name="other_settings_ad_enable">Suggerimenti Pubblicità Consigliati</string>
+     <string name="other_settings_ad_enable_summary">Suggerisci pubblicità personalizzate basate sulle tue abitudini</string>
      <string name="other_settings_auto_update">Aggiorna automaticamente</string>
      <string name="other_settings_auto_update_summary">"MIUI sceglierà il tempo di attesa per scaricare ed installare gli aggiornamenti."</string>
      <string name="other_settings_location">Localizzazione</string>
@@ -64,6 +65,7 @@ Leggi questo documento per la tastiera: "</string>
      <string name="shut_down">Spegni</string>
      <string name="sim_card_detecting">Controllo SIM in corso…</string>
      <string name="sim_card_detecting_check">Impossibile trovare SIM. Assicurati che la SIM sia correttamente installata e di avere credito sufficiente."</string>
+     <string name="sim_card_detecting_confirm_turn_on_network">Consenti il collegamento a reti dati mobili? Se lo fai, la scheda SIM che si inserisce sarà utilizzata per connettersi alle reti dati mobili.</string>
      <string name="sim_card_detecting_title">Cerca SIM</string>
      <string name="sim_card_detection">Nessuna SIM rilevata</string>
      <string name="sim_card_detection_info">Hai bisogno di una SIM per impostare il tuo Mi Account.</string>

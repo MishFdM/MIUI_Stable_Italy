@@ -104,11 +104,11 @@
      <string name="permdesc_bluetoothAvrcpDataManager">Allows the app to access the BluetoothAvrcpData manager and use it to display on UI.</string>
      <string name="permdesc_bluetoothShareManager">"Consente all'applicazione di accedere al gestore BluetoothShare e di utilizzarlo per trasferire i file."</string>
      <string name="permdesc_bluetoothWhitelist">"Consente all'applicazione di autorizzare temporaneamente un dispositivo Bluetooth, permettendo a tale dispositivo di inviare file a questo dispositivo senza la conferma dell'utente."</string>
-     <string name="permdesc_handoverStatus">Consenti di ricevere informazioni sullo stato del Bluetooth.</string>
+     <string name="permdesc_handoverStatus">Allows receiving handover transfer status information from Bluetooth.</string>
      <string name="permlab_bluetoothAvrcpDataManager">Access avrcp metadata.</string>
      <string name="permlab_bluetoothShareManager">Accedere al gestore dei download.</string>
      <string name="permlab_bluetoothWhitelist">"Autorizzazione dell'accesso del dispositivo Bluetooth."</string>
-     <string name="permlab_handoverStatus">Ricevi trasmissione trasferimento BT.</string>
+     <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
      <string name="process" />
      <string name="sharedUserId" />
      <string name="start_server">Avvia server TCP</string>
