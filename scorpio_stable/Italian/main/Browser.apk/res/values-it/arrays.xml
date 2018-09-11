@@ -13,6 +13,10 @@
         <item>Telefono</item>
         <item>Tablet</item>
      </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Visualizzazione verticale</item>
+        <item>Visualizzazione orizzontale</item>
+     </string-array>
      <string-array name="pref_text_zoom_choices">
         <item>Molto piccolo</item>
         <item>Piccolo</item>
@@ -37,6 +41,10 @@
      <string-array name="shortcut_dialog_title">
         <item>Messaggio dal browser</item>
         <item>Segui le Olimpiadi con Xiaomi</item>
+     </string-array>
+     <string-array name="suggestion_topic_tips">
+        <item>Visione focalizzata</item>
+        <item>Pubblicazioni di rilievo</item>
      </string-array>
      <string-array name="suggestion_weather_condition_message">
         <item>Sereno</item>
@@ -69,7 +77,7 @@
         <item>Neve da moderata a forte</item>
         <item>Neve da forte a bufera</item>
         <item>Polvere sospesa</item>
-        <item>Sabbia nell\'aria</item>
+        <item>"Sabbia nell\'aria"</item>
         <item>Tempesta di sabbia</item>
         <item>Nebbia densa</item>
         <item>Forte nebbia</item>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_title_ad">Pubblicità</string>
      <string name="activity_title_apk">Pacchetti</string>
@@ -302,14 +303,15 @@
      <string name="low_memory_warning_dialog_ok_button">Avvia la pulizia</string>
      <string name="low_memory_warning_dialog_title">Spazio insufficiente in memoria</string>
      <string name="main_title_filesize">%1$s spazzatura</string>
-     <string name="mainbtn_text_no_trash">Skip</string>
+     <string name="main_total_garbage">Spazzatura totale</string>
+     <string name="mainbtn_text_no_trash">Salta</string>
      <string name="mainbtn_text_quick_cleanup">Pulisci %s</string>
      <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
      <string name="megabyteShort">MB</string>
      <string name="memeory_check_content">%1$d app, memoria %2$s</string>
      <string name="menu_add_to_white_list">Aggiungi alle eccezioni</string>
      <string name="menu_clear">Cancella</string>
-     <string name="menu_install">Installa con questa app</string>
+     <string name="menu_install">"Installa con quest'app"</string>
      <string name="menu_open">Apri</string>
      <string name="menu_view">Mostra nella cartella</string>
      <string name="month_day_format">dd MMM</string>
@@ -525,6 +527,8 @@
      <string name="wechat_copying_video_dialog_title">Esporta sulla Galleria</string>
      <string name="wechat_copying_video_empty">Nessun video da esportare</string>
      <string name="wechat_copying_video_success">Esportazione riuscita</string>
+     <string name="wechat_msg_time_long">yyyy-MM-dd</string>
+     <string name="wechat_msg_time_short">MM-dd</string>
      <string name="wechat_qq_activity_title">Pulizia approfondita</string>
      <string name="wechat_qq_celan_tab_file">File</string>
      <string name="wechat_qq_celan_tab_image">Immagini</string>
@@ -533,6 +537,31 @@
      <string name="wechat_qq_chat_files">Cronologia chat</string>
      <string name="wechat_qq_deep_clean_button_text">Pulizia profonda</string>
      <string name="wechat_qq_normal_files">Cestino</string>
+     <string name="whatsapp_btn_quick_cleanup">Pulisci %s</string>
+     <string name="whatsapp_clean_exit_confirm_cancel">Annulla</string>
+     <string name="whatsapp_clean_exit_confirm_msg">Interrompi scansione</string>
+     <string name="whatsapp_clean_exit_confirm_ok">Ok</string>
+     <string name="whatsapp_clean_exit_confirm_title">Interrompi scansione di WhatsApp</string>
+     <string name="whatsapp_content_empty">Nessun file da pulire</string>
+     <string name="whatsapp_delete_confirm_cancel">Annulla</string>
+     <string name="whatsapp_delete_confirm_message">Eliminare?</string>
+     <string name="whatsapp_delete_confirm_ok">OK</string>
+     <string name="whatsapp_delete_done">Tutto completato!</string>
+     <string name="whatsapp_file_show_order">Oggi</string>
+     <string name="whatsapp_function_summery">Pulisci i file spazzatura di WhatsApp</string>
+     <string name="whatsapp_function_title">Pulizia per WhatsApp</string>
+     <string name="whatsapp_group_audio">Audio</string>
+     <string name="whatsapp_group_document">Documenti</string>
+     <string name="whatsapp_group_gif">GIF</string>
+     <string name="whatsapp_group_image">Immagini</string>
+     <string name="whatsapp_group_video">Video</string>
+     <string name="whatsapp_group_voice">Voce</string>
+     <string name="whatsapp_group_wallpaper">Sfondi</string>
+     <string name="whatsapp_title">Pulizia WhatsApp</string>
+     <string name="whatsapp_type_document_recv">File ricevuti</string>
+     <string name="whatsapp_type_document_send">File inviati</string>
+     <string name="whatsapp_type_image_recv">Immagini ricevute</string>
+     <string name="whatsapp_type_image_send">Immagini inviate</string>
      <string name="white_list_ad_header">Pubblicità: %d</string>
      <string name="white_list_apk_header">Pacchetti di installazione: %d</string>
      <string name="white_list_cache_header">File nella cache: %d</string>
