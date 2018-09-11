@@ -452,6 +452,7 @@ utilizzando %s"</string>
      <string name="forward_intent_to_owner">"Stai utilizzando l'app al di fuori del tuo profilo di lavoro"</string>
      <string name="forward_intent_to_work">"Stai utilizzando l'app nel tuo profilo di lavoro"</string>
      <string name="gadget_host_error_inflating">Aggiunta del widget non riuscita.</string>
+     <string name="gigabyteShort">GB</string>
      <string name="global_action_assist">Assistente</string>
      <string name="global_action_bug_report">Segnalazione di bug</string>
      <string name="global_action_emergency">Emergenza</string>
@@ -614,7 +615,6 @@ Visita "<b>google.com/accounts/recovery</b>."</string>
      <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
      <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
      <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
-     <string name="kg_text_message_separator">" – "</string>
      <string name="kg_too_many_failed_attempts_countdown">Riprova fra %1$d secondi.</string>
      <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Hai digitato la tua password %d volte in modo errato. 
 
@@ -628,6 +628,7 @@ Riprova tra %d secondi."</string>
      <string name="kg_wrong_password">Password sbagliata</string>
      <string name="kg_wrong_pattern">Sequenza sbagliata</string>
      <string name="kg_wrong_pin">PIN errato</string>
+     <string name="kilobyteShort">KB</string>
      <string name="language_picker_section_all">Tutte le lingue</string>
      <string name="language_picker_section_suggested">Suggerite</string>
      <string name="language_selection_title">Aggiungi una lingua</string>
@@ -825,6 +826,7 @@ Riprova tra %d secondi."</string>
      <string name="mediasize_na_tabloid">Tabloid</string>
      <string name="mediasize_unknown_landscape">Orizzontale sconosciuto</string>
      <string name="mediasize_unknown_portrait">Verticale sconosciuto</string>
+     <string name="megabyteShort">MB</string>
      <string name="meid">MEID</string>
      <string name="menu_delete_shortcut_label">Canc</string>
      <string name="menu_enter_shortcut_label">Invio</string>
