@@ -10,6 +10,7 @@
      <string name="accessibility_button_clear">Cancella</string>
      <string name="account_prifix">Account:</string>
      <string name="action">Accedi</string>
+     <string name="action_imme_open">Apertura immediata</string>
      <string name="action_menu_account_not_login">Non accedere</string>
      <string name="action_menu_account_not_login_hint">Utilizza le impostazioni cloud quando accedi</string>
      <string name="action_menu_bookshelf">Libreria</string>
@@ -46,14 +47,13 @@
      <string name="action_menu_useful_page_added">Utilità aggiunta</string>
      <string name="action_menu_user_center">Centro utente</string>
      <string name="action_modify_bookmark">Modifica segnalibro</string>
-     <string name="action_one_touch">Open notifications</string>
      <string name="action_put_in_search_box">Inserisci %s nel campo di ricerca</string>
-     <string name="action_skip">Skip</string>
+     <string name="action_skip">Salta</string>
      <string name="adblock_force_updating_rules_toast">Aggiornamento Ad blocker</string>
      <string name="adblock_notification">%d pubblicità bloccate</string>
      <string name="adblock_rules_not_updated_toast">Fallito</string>
      <string name="adblock_rules_restore">Ripristina</string>
-     <string name="adblock_rules_updated_toast">Complete</string>
+     <string name="adblock_rules_updated_toast">Completa</string>
      <string name="adblock_websites_settings_empyt_hint">Regole vuote</string>
      <string name="adblock_websites_settings_title">Regole personalizzate</string>
      <string name="add_bookmark_group">Aggiungi gruppo</string>
@@ -132,15 +132,17 @@
      <string name="browserFrameFormResubmitLabel" />
      <string name="browserFrameFormResubmitMessage">La pagina che stai tentando di visualizzare contiene dati già inviati (\"POSTDATA\"). Se invii di nuovo i dati, ogni azione effettuata dal modulo nella pagina (come una ricerca o un acquisto online) verrà ripetuta.</string>
      <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
+     <string name="bubble_guide_logined_text">Accedi per il disegno fortunato</string>
+     <string name="bubble_guide_unlogined_text">Accedi per godere dei privilegi</string>
      <string name="cancel">Annulla</string>
      <string name="cancle_sync_cloud_tabs">Annulla sincronizzazione</string>
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
      <string name="cast_video">Streaming video</string>
-     <string name="check_security_tip_privacy_policy">Informativa Privacy</string>
+     <string name="check_security_tip_privacy_policy">Informativa sulla Privacy</string>
      <string name="check_security_tip_user_agreement">Accordo Utente</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
      <string name="clear_history">Cancella cronologia</string>
-     <string name="clear_most_visited">Mantieni cronologia</string>
+     <string name="clear_most_visited">Recent history</string>
      <string name="clear_search_history">Cancella cronologia</string>
      <string name="clear_video_download">Cancella i video</string>
      <string name="clip_dialog_title">"Aprire l'URL copiato?"</string>
@@ -167,8 +169,8 @@
      <string name="comment_max_length">Spiacente, la casella di input è piena.</string>
      <string name="comment_menu">Commenti</string>
      <string name="comment_num_description">Numero commento</string>
-     <string name="common_use_phrase_bottom_bar_text_next">Avanti</string>
-     <string name="common_use_phrase_bottom_bar_text_previous">Indietro</string>
+     <string name="common_use_phrase_bottom_bar_text_next">Next</string>
+     <string name="common_use_phrase_bottom_bar_text_previous">Prev</string>
      <string name="context_menu_add_to_desk_id">Aggiungi alla Home</string>
      <string name="context_menu_orientation_portrait_swap_id">V/H</string>
      <string name="contextmenu_add_contact">Aggiungi contatto</string>
@@ -200,10 +202,15 @@
      <string name="current_version_phone">Telefono</string>
      <string name="custom_head_card_text">"Pensa sempre che qualcosa di stupendo
 stia per accadere"</string>
+     <string name="custom_head_pull_down_text">Entra nel flusso di informazioni</string>
      <string name="data_monitor">Monitor dati</string>
      <string name="data_monitor_dialog_message">Sembra che qualcosa stia consumando il traffico dati. Apri la pagina iniziale per interrompere.</string>
-     <string name="data_traffic_prompt_message">"L'utilizzo della rete dati mobile per la navigazione aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+     <string name="data_traffic_continue">Continua</string>
+     <string name="data_traffic_goto">Traffico dati gratuito</string>
+     <string name="data_traffic_prompt_free_data">"L'utilizzo della rete mobile per la navigazione fra i video aumenterà il consumo di dati. Prego assicurati di ottenere prima del traffico dati gratuito."</string>
+     <string name="data_traffic_prompt_message">"L'utilizzo della rete mobile per la navigazione aumenterà il consumo di dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
      <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
+     <string name="data_traffic_stop">Ferma</string>
      <string name="delete">Elimina</string>
      <string name="delete_bookmark">Elimina</string>
      <string name="delete_bookmark_action_warning">Eliminare segnalibri?</string>
@@ -286,7 +293,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="enable_geolocation_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="enter_developer_mode">Modalità sviluppatore</string>
      <string name="enter_incongnito_mode">Entra in modalità incognito</string>
-     <string name="enter_infoflow_guide">Slide up to see news</string>
+     <string name="enter_infoflow_guide">"Scorri verso l'alto per leggere le notizie"</string>
      <string name="enter_the_group_name">Inserisci il nome del gruppo</string>
      <string name="enter_the_password">Inserisci la password</string>
      <string name="enter_the_user_name">Inserisci il nome utente</string>
@@ -383,7 +390,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="menu_title_open_file_management">Apri File Explorer</string>
      <string name="menu_title_pause_all">Metti tutto in pausa</string>
      <string name="menu_title_resume_all">Avvia tutto</string>
-     <string name="message_notice_push">Latest hot spots no longer miss!</string>
+     <string name="message_notice_push">Ultimi hotspot disponibili!</string>
      <string name="miui_autologin_bar_error">Impossibile accedere</string>
      <string name="miui_autologin_bar_title">Usa account di sistema per accedere</string>
      <string name="miui_bookmark_action_bar_add_group_title">Aggiungi gruppo</string>
@@ -502,7 +509,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="mw_common_google_play_services_update_text">"%1$s non funzionerà a meno che tu non aggiorni i servizi Google Play."</string>
      <string name="mw_common_google_play_services_update_title">Aggiorna i servizi Google Play</string>
      <string name="mw_common_google_play_services_updating_text">"%1$s non funzionerà senza i servizi Google Play, i quali sono in fase di aggiornamento."</string>
-     <string name="mw_common_google_play_services_wear_update_text">"E' necessaria una nuova versione dei serivzi Google Play. Verranno aggiornati automaticamente a breve."</string>
+     <string name="mw_common_google_play_services_wear_update_text">"E' necessaria una nuova versione dei servizi Google Play. Verranno aggiornati automaticamente a breve."</string>
      <string name="mw_common_open_on_phone">Apri sul telefono</string>
      <string name="mw_common_signin_button_text">Accedi</string>
      <string name="mw_common_signin_button_text_long">Accedi con Google</string>
@@ -631,7 +638,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_mr_button_content_description">Tasto trasmissione</string>
      <string name="mw_mr_cast_button_connected">Tasto trasmissione. Connesso</string>
      <string name="mw_mr_cast_button_connecting">Tasto trasmissione. Connessione</string>
-     <string name="mw_mr_cast_button_disconnected">CTasto trasmissione. Disconnesso</string>
+     <string name="mw_mr_cast_button_disconnected">Tasto trasmissione. Disconnesso</string>
      <string name="mw_mr_chooser_searching">Trova dispositivi</string>
      <string name="mw_mr_chooser_title">Trasmetti a</string>
      <string name="mw_mr_controller_album_art">Album art</string>
@@ -702,7 +709,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_payments_android_app_error">"Impossibile aprire l'app di pagamento"</string>
      <string name="mw_payments_billing_address_required">"E' richiesto un indirizzo di fatturazione"</string>
      <string name="mw_payments_card_and_address_settings">"Puoi gestire carte e indirizzi in BEGIN_LINKSettingsEND_LINK.</string>
-     <string name="mw_payments_card_and_address_settings_signed_in">Le carte e gli indirizzi provengono da Chrome e dal tuo your Account Google (%1$s). Puoi gestirli da BEGIN_LINKSettingsEND_LINK.</string>
+     <string name="mw_payments_card_and_address_settings_signed_in">Le carte e gli indirizzi provengono da Chrome e dal tuo Account Google (%1$s). Puoi gestirli da BEGIN_LINKSettingsEND_LINK.</string>
      <string name="mw_payments_card_and_address_settings_signed_out">Le carte e gli indirizzi provengono da Chrome. Puoi gestirli da BEGIN_LINKSettingsEND_LINK.</string>
      <string name="mw_payments_card_billing_address_required">Indirizzi di fatturazione carte richiesti</string>
      <string name="mw_payments_card_expiration_invalid_validation_message">Inserisci una data di scadenza valida</string>
@@ -792,7 +799,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_time_picker_dialog_am">AM</string>
      <string name="mw_time_picker_dialog_pm">PM</string>
      <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
-     <string name="mw_time_picker_dialog_title">Set time</string>
+     <string name="mw_time_picker_dialog_title">Imposta tempo</string>
      <string name="mw_updating_chrome">Aggiornamento Chrome…</string>
      <string name="mw_video_buffering_percent">"Buffering "</string>
      <string name="mw_video_float_window">Pop-up</string>
@@ -814,6 +821,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="navigationbar_rightbutton_actiontext_cancle">Annulla</string>
      <string name="navigationbar_rightbutton_actiontext_go">Vai</string>
      <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
+     <string name="network_not_available_comment">Nessuna connessione internet, impossibile commentare</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Connetti a questa rete</string>
      <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
      <string name="next_button_label">Avanti</string>
@@ -824,7 +832,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="no_space_alert_title">Download in pausa</string>
      <string name="no_space_clean_failed">Non è possibile liberare spazio sul dispositivo​</string>
      <string name="not_allowed_open">"Impossibile utilizzare il Browser all'avvio"</string>
-     <string name="not_now">Not now</string>
+     <string name="not_now">Non ora</string>
      <string name="not_remind_again">Ricorda la mia scelta</string>
      <string name="notif_install_successful">Download completato</string>
      <string name="ok">OK</string>
@@ -853,8 +861,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="positive_confirm_message">Disattiva comunque</string>
      <string name="pref_accept_quicklink_push">Avvia push pagina</string>
      <string name="pref_accessibility_title">Accessibilità</string>
-     <string name="pref_accessibility_url_shortcut_enter_summary">Combinazioni comuni di lettere possono essere inserite in un colpo solo nella barra degli indirizzi</string>
-     <string name="pref_accessibility_url_shortcut_enter_title">Immissione rapida URL</string>
+     <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one tap in the address bar</string>
+     <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
      <string name="pref_adblock_counts">%d bloccati</string>
      <string name="pref_adblock_title">Ad blocker</string>
      <string name="pref_advert_null">"Pubblicità non segnalata, puoi toccare l'etichetta sulla pagina"</string>
@@ -908,7 +916,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_nav_mode_summary_pad">Tablet</string>
      <string name="pref_nav_mode_summary_phone">Telefono</string>
      <string name="pref_nav_mode_title">Modalità browser</string>
-     <string name="pref_navscreen_layoutstate_title">Multi-window management</string>
+     <string name="pref_navscreen_layoutstate_title">Gestione multi-finestra</string>
      <string name="pref_notifications_hint">Notifiche</string>
      <string name="pref_notifications_receive">Avvisi per nuove notifiche</string>
      <string name="pref_notifications_title">Notifiche</string>
@@ -959,7 +967,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
      <string name="pwa_app_name">Web App</string>
      <string name="qr_code_title">Codice QR</string>
-     <string name="qr_description">Scan QR code</string>
+     <string name="qr_description">Scansiona codice QR</string>
      <string name="quicklink_bookmark_save">Salva in</string>
      <string name="quicklink_cannot_save_url">Questo URL non può essere aggiunto.</string>
      <string name="quicklink_folder_text">App Top</string>
@@ -988,7 +996,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="readmode_recommend_message">Hai letto tutti i capitoli di questo libro. Passa alla lettura di un altro.</string>
      <string name="readmode_refresh">Aggiorna</string>
      <string name="readmodelist_bookmarks_to_show">Lista di lettura</string>
-     <string name="refresh_description">Refresh</string>
+     <string name="refresh_description">Ricarica</string>
      <string name="refuse_permissions_request">Rifiuta</string>
      <string name="remember_passwords_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."."</string>
      <string name="remove_bookmark">Elimina segnalibro</string>
@@ -997,7 +1005,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="remove_history_item">Rimuovi da cronologia</string>
      <string name="remove_snapshot">Elimina pagina salvata</string>
      <string name="removed_from_bookmarks">Rimosso dai segnalibri.</string>
-     <string name="reopen">Open</string>
+     <string name="reopen">Apri</string>
      <string name="replace">Sostituisci</string>
      <string name="reply_comment_title">risposta: %s</string>
      <string name="resume_download">Avvia</string>
@@ -1028,6 +1036,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="save_to_camera_success">Salvato in Fotocamera</string>
      <string name="scanner_uninstalled_text">Continua ad utilizzare, installa lo scanner</string>
      <string name="scanner_uninstalled_title">Lo scanner è stato disinstallato</string>
+     <string name="screenshot_loading_dialog_title">Cattura...</string>
      <string name="sdcard_error">Verifica la tua scheda SD</string>
      <string name="search">Cerca</string>
      <string name="search_baidu">Baidu</string>
@@ -1065,8 +1074,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="share_image_text">Sto guardando una foto bellissima</string>
      <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
      <string name="share_video">Condividi video</string>
-     <string name="short_video_description">Video channel</string>
-     <string name="short_video_tip">Look! Fun video</string>
+     <string name="short_video_description">Canale Video</string>
+     <string name="short_video_tip">Guarda! Che video buffo</string>
      <string name="show_check_security_url_check_tip_dialog_description">"Raccoglieremo ed utilizzeremo i tuoi dati personali se scegli di utilizzare il nostro servizio.
 Questi sono i dati che raccoglieremo:
 1. URL sicuri: raccoglieremo gli URL dei siti che visiti mentre utilizzi il nostro servizio.
@@ -1076,10 +1085,10 @@ Utilizzeremo i dati in questo modo:
 2. Contenuto: i tuoi dati ci aiutano a fornire contenuti delle news personalizzate.
 Per navigare correttamente devi essere collegato ad Internet. Per poter utilizzare il Browser devi accettare %2$s e %1$s.​"</string>
      <string name="show_security_tip_dialog_title">Termini del Servizio</string>
-     <string name="sign_and_open">Sin and open</string>
-     <string name="sign_in">Check in</string>
+     <string name="sign_and_open">Accedi ed apri</string>
+     <string name="sign_in">Registrati</string>
      <string name="sign_in_to" formatted="false">Accedi a %s1 \"%s2\"</string>
-     <string name="signed_in">Checked in</string>
+     <string name="signed_in">Registrato</string>
      <string name="skip_button_label">Salta</string>
      <string name="skip_current_version">Salta questa versione</string>
      <string name="snapshot">Locale</string>
@@ -1118,19 +1127,20 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggest_access_item_app_mark">APP</string>
      <string name="suggest_access_item_app_size">%.2fMB</string>
      <string name="suggest_access_item_app_update">Aggiornamento: %s</string>
-     <string name="suggest_access_item_book_mark">BOOK</string>
-     <string name="suggest_access_item_mina_mark">DIRECT SERVICE</string>
-     <string name="suggest_access_item_music_mark">MUSIC</string>
+     <string name="suggest_access_item_book_mark">SEGNALIBRO</string>
+     <string name="suggest_access_item_mina_mark">SERVIZIO DIRETTO</string>
+     <string name="suggest_access_item_music_mark">MUSICA</string>
      <string name="suggest_access_item_singer_albums">%d album</string>
      <string name="suggest_access_item_singer_pop">%d brani popolari</string>
-     <string name="suggest_access_item_site_mark">SITES</string>
+     <string name="suggest_access_item_site_mark">SITI</string>
+     <string name="suggest_access_item_topic_mark">ARGOMENTO</string>
      <string name="suggest_access_item_video_mark">VIDEO</string>
-     <string name="suggest_access_item_weather_mark">WEATHER</string>
+     <string name="suggest_access_item_weather_mark">METEO</string>
      <string name="suggest_access_item_yellow_mark">PAGINE GIALLE</string>
      <string name="suggest_access_music">Mi Music</string>
-     <string name="suggest_item_delete_text">Elimina</string>
+     <string name="suggest_item_delete_text">Delete</string>
      <string name="suggest_open_app_failed">Non è stato possibile aprire questa app</string>
-     <string name="suggestion_clear_record_message">Do you confirm empty input record?</string>
+     <string name="suggestion_clear_record_message">"Confermi di voler cancellare i messaggi salvatati?"</string>
      <string name="suggestion_express_button_query_more">VEDI ALTRO</string>
      <string name="suggestion_express_button_text_query">QUERY</string>
      <string name="suggestion_express_exception_net">Si è verificato un problema di rete. Prego verifica la connessione di rete</string>
@@ -1140,17 +1150,21 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggestion_express_input_hint_inside">Prego inserisci il numero di tracciamento</string>
      <string name="suggestion_express_input_hint_out">Numero di tracciamento:</string>
      <string name="suggestion_express_title">Query a singolo numero espresso</string>
-     <string name="suggestion_lottery_detail_pour">%sNOTA</string>
-     <string name="suggestion_lottery_detail_price">OGNI NOTA%sYUAN</string>
-     <string name="suggestion_lottery_detail_text">QUESTO%s</string>
-     <string name="suggestion_lottery_period">NO.%s</string>
+     <string name="suggestion_lottery_detail_pour">%s NOTA</string>
+     <string name="suggestion_lottery_detail_price">OGNI NOTA %s YUAN</string>
+     <string name="suggestion_lottery_detail_text">QUESTO %s</string>
+     <string name="suggestion_lottery_period">NO. %s</string>
+     <string name="suggestion_more_button_text">MOSTRA DI PIÙ</string>
+     <string name="suggestion_more_news">PIÙ NOTIZIE</string>
+     <string name="suggestion_more_news_start_title_text">Notizie Correlate</string>
+     <string name="suggestion_topic_subtitle_hyphen">Focalizzazione</string>
      <string name="suggestion_translation_more">PIÙ TRADUZIONI</string>
      <string name="switchText">SI</string>
      <string name="switch_proxy_dialog_msg">"Rilevato tentativo di deviazione di rete. Utilizza l'app Sicurezza di MIUI o segnala al tuo operatore."</string>
      <string name="switch_proxy_dialog_title">Deviazione di rete</string>
      <string name="sync_and_backup_bookmark">Sincronizzazione e backup dei segnalibri</string>
      <string name="sync_and_backup_history">Sincronizzazione e backup delle cronologie</string>
-     <string name="sync_cloud_tabs">Sync</string>
+     <string name="sync_cloud_tabs">Sincr.</string>
      <string name="tab_hotpage">Tendenza</string>
      <string name="tab_quicklinks">Utilità</string>
      <string name="tab_yellowpage">In evidenza</string>
@@ -1161,7 +1175,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="tae_sdk_qr_login_icon_scan"></string>
      <string name="temp_refuse">Rifiuta</string>
      <string name="title_bar_loading">Caricamento…</string>
-     <string name="title_notice_push">Notice reminding</string>
+     <string name="title_notice_push">Posticipazione notifica</string>
      <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>
      <string name="too_many_windows_dialog_title">Limite schede raggiunto</string>
      <string name="transfer_prompt_0">Avvia video</string>
@@ -1232,7 +1246,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="video_downloaded_group">Scaricati</string>
      <string name="video_downloading_group">Download in corso</string>
      <string name="video_edit">Modifica</string>
-     <string name="video_float_window_text">PopUp</string>
+     <string name="video_float_window_text">Popup</string>
      <string name="video_fragment_name_collections">Le mie collezioni</string>
      <string name="video_fragment_name_download">Video Offline</string>
      <string name="video_fragment_name_historys">Cronologia</string>
@@ -1247,7 +1261,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="video_push_multi_message">Ci sono %1$d aggiornamenti</string>
      <string name="video_push_multi_title">Ci sono nuovi aggiornamenti</string>
      <string name="video_push_single_message">Aggiornato a %1$d</string>
-     <string name="video_service_notification_title">Playing pop-up video</string>
+     <string name="video_service_notification_title">Riproduci video popup</string>
      <string name="video_subtitle_last_message1">Resta meno di un minuto</string>
      <string name="video_subtitle_prefix1">Visto</string>
      <string name="video_subtitle_prefix2">"Visto "</string>
@@ -1258,7 +1272,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="voice_check_network">Controlla la rete e prova di nuovo</string>
      <string name="voice_close_description">Chiudi</string>
      <string name="voice_connect_network">Impossibile connettersi alla rete</string>
-     <string name="voice_description">RIcerca vocale</string>
+     <string name="voice_description">Ricerca vocale</string>
      <string name="voice_network_connection">"L'utilizzo della ricerca vocale richiede la connessione di rete, devi autorizzare la connessione"</string>
      <string name="voice_open_permission_baidu">Vai in Impostazioni attiva i permessi vocali per le Impostazioni del Riconoscimento Vocale</string>
      <string name="voice_open_permission_xiaoai">Vai in Impostazioni attiva i permessi vocali per il Motore Vocale Xiaomi</string>

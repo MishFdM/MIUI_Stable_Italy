@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="account_logout">"Esci dall'account “%1$s”"</string>
      <string name="action_mode_deselect_all">Deseleziona tutto</string>
@@ -58,7 +59,7 @@
      <string name="month_day_format">dd MMM</string>
      <string name="move_failed">Impossibile tagliare</string>
      <string name="move_failed_retry">Impossibile tagliare, aspetta %1$s e prova di nuovo</string>
-     <string name="need_get_accounts_permission">"Mi Drive richiede i permessi per accedere all'account per funzionare correttamente."</string>
+     <string name="need_get_accounts_permission">Mi Drive needs to access your account to work normally.</string>
      <string name="never_notify">Non mostrare più</string>
      <string name="no_app_found_to_open_file">Non è stata trovata nessuna app per eseguire questa operazione.</string>
      <string name="no_more_space">Spazio di archiviazione insufficiente.</string>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">MusicFX</string>
      <string name="bass_boost_strength">Bassi più intensi</string>
@@ -19,6 +20,7 @@
      <string name="main_toggle_effects_title">Effetti audio</string>
      <string name="mediumhall">MediumHall</string>
      <string name="mediumroom">MediumRoom</string>
+     <string name="new_app_name">AudioEffect</string>
      <string name="no_effects">Effetti non disponibili.</string>
      <string name="none">None</string>
      <string name="normal">Normal</string>
