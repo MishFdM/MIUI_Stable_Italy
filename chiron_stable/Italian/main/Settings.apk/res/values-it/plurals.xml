@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Ritardo estremamente breve(%1$d ms)</item>
+        <item quantity="other">Ritardo estremamente breve (%1$d ms)</item>
         <item quantity="one">Ritardo estremamente breve (%1$d ms)</item>
      </plurals>
      <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
@@ -235,6 +236,10 @@
      <plurals name="show_rep_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per avviare una segnalazione bug</item>
         <item quantity="one">Ti manca %1$d tocco per avviare una segnalazione bug</item>
+     </plurals>
+     <plurals name="show_reset_countdown">
+        <item quantity="other">Completa %1$d passaggi per eseguire un ripristino di fabbrica</item>
+        <item quantity="one">Completa %1$d passaggio per eseguire un ripristino di fabbrica</item>
      </plurals>
      <plurals name="special_access_summary">
         <item quantity="other">%d app possono utilizzare dati senza restrizioni</item>
