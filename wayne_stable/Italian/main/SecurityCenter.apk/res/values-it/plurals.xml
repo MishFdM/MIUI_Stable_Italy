@@ -86,6 +86,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%1$d persone stanno giocando</item>
         <item quantity="one">%1$d persona sta giocando</item>
      </plurals>
+     <plurals name="gb_signed_days_sum">
+        <item quantity="other">Registrato %d giorni di seguito</item>
+        <item quantity="one">Registrato %d volta</item>
+     </plurals>
      <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permessi</item>
         <item quantity="one">%d permesso</item>
@@ -154,6 +158,22 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d altri utenti lo hanno segnalato</item>
         <item quantity="one">%d un altro utente lo ha segnalato</item>
      </plurals>
+     <plurals name="menu_text_antispam_2">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
+     </plurals>
+     <plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
+     </plurals>
+     <plurals name="menu_text_antivirus_3">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+     </plurals>
+     <plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
+     </plurals>
      <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d d rimanenti prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete.</item>
         <item quantity="one">%d d rimanente prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete</item>
@@ -211,6 +231,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="power_center_battery_minute">
         <item quantity="other">"%d minuti "</item>
         <item quantity="one">"%d minuto "</item>
+     </plurals>
+     <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+     </plurals>
+     <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
      </plurals>
      <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problemi batteria</item>

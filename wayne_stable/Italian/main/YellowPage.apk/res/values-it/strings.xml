@@ -125,13 +125,13 @@
      <string name="mark_number_feedback">Segnala</string>
      <string name="mark_number_feedback_hint">Inserisci la tua segnalazione</string>
      <string name="mark_number_feedback_invalid_hint">Inserisci una segnalazione valida</string>
-     <string name="mark_number_feedback_not_number">"It's not %s number"</string>
-     <string name="mark_number_feedback_personal_number">"It's personal number"</string>
      <string name="mark_number_feedback_success">Segnalazione inviata, il numero verrà verificato.</string>
+     <string name="mark_number_feedback_title_hint">Questo numero è:</string>
      <string name="mark_number_marked_maintitle">Modifica</string>
      <string name="mark_number_marked_subtitle">Etichettato come %s</string>
      <string name="mark_number_notification_title">Segnala numero sospetto</string>
      <string name="mark_number_remove">Rimuovi etichetta</string>
+     <string name="mark_number_second_edit_hint">Nessuno dei precedenti. Questa è la mia categoria.</string>
      <string name="mark_title_null_hint">Il valore non può essere vuoto</string>
      <string name="menu_add_black_list">Aggiungi alla blacklist</string>
      <string name="menu_add_to_favorite">Aggiungi ai preferiti</string>
@@ -164,6 +164,7 @@
      <string name="miuishare_wechat_timeline_title">Cronologia Wechat</string>
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="more_coupons">Tutti i coupon</string>
+     <string name="more_mark_category">Altro</string>
      <string name="navigation_search_all_cities">Tutte</string>
      <string name="navigation_search_automatically_positioned_city">Città attuale</string>
      <string name="navigation_search_default_hint">Cerca posizioni</string>

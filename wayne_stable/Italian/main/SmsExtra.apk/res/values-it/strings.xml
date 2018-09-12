@@ -3,6 +3,7 @@
 <resources>
      <string name="activity_not_found">Non è stata trovata nessuna app per eseguire questa operazione</string>
      <string name="back_to_message_list">Indietro alla lista messaggi</string>
+     <string name="button_close">Chiudi</string>
      <string name="confirm_delete_conversation">Eliminare questo intero thread?</string>
      <string name="confirm_delete_group_message">Eliminare i messaggi di gruppo?</string>
      <string name="confirm_delete_locked_message">Eliminare questo messaggio bloccato?</string>
@@ -24,12 +25,15 @@
      <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare…</string>
      <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
      <string name="hybrid_try_again">Prova di nuovo</string>
+     <string name="imageview_ad">Pubblicità</string>
      <string name="menu_forward">Avanti</string>
      <string name="menu_lock">Blocca</string>
      <string name="menu_unlock">Sblocca</string>
      <string name="message_details_title">Dettagli messaggio</string>
      <string name="message_type_label">"Tipo: "</string>
      <string name="messaging">Messaggistica</string>
+     <string name="more">Altro</string>
+     <string name="net_sms_unsubscribe">Disiscrizione riuscita</string>
      <string name="packages_select_sim_cards_title">Seleziona scheda SIM</string>
      <string name="received_label">"Ricevuto: "</string>
      <string name="repayment_network_error">Qualcosa è andato storto con la tua connessione</string>

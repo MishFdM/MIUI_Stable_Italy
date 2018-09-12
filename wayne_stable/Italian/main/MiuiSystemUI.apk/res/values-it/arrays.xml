@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
@@ -17,6 +16,11 @@
         <item>Massimo 2 processi</item>
         <item>Massimo 3 processi</item>
         <item>Massimo 4 processi</item>
+     </string-array>
+     <string-array name="battery_options">
+        <item>Mostra sempre la percentuale</item>
+        <item>Mostra la percentuale quando in carica (predefinito)</item>
+        <item>Non mostrare questa icona</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usa selezione di sistema (Predefinito)</item>
@@ -47,9 +51,9 @@
         <item>Migliore possibile (Bit Rate adattivo)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Ottimizzato epr qualità audio (990kbps/909kbps)</item>
+        <item>Ottimizzato per qualità audio (990kbps/909kbps)</item>
         <item>Bilanciato audio e qualità di connessione (660kbps/606kbps)</item>
-        <item>Ottimizzato epr qualità di connessione (330kbps/303kbps)</item>
+        <item>Ottimizzato per qualità di connessione (330kbps/303kbps)</item>
         <item>MIgliore possibile (Bit Rate adattivo)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
@@ -91,13 +95,10 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
-     <string-array name="carrier_name">
-        <item>SmarToneVodafone</item>
-        <item>SmarToneVodafone 3G</item>
-     </string-array>
-     <string-array name="carrier_simple_name">
-        <item>SMC HK</item>
-        <item>SMC HK 3G</item>
+     <string-array name="clock_options">
+        <item>Mostra ore, minuti e secondi</item>
+        <item>Mostra ore e minuti (predefinito)</item>
+        <item>Non mostrare questa icona</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Colori migliorati</item>
@@ -115,7 +116,7 @@
         <item>Mostra aree per Deuteranomalia</item>
      </string-array>
      <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Default)</item>
+        <item>OpenGL (Predefinito)</item>
         <item>OpenGL (Skia)</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
@@ -133,6 +134,25 @@
         <item>Non controllare mai</item>
         <item>Controlla solo per contenuti DRM</item>
         <item>Controlla sempre</item>
+     </string-array>
+     <string-array name="miui_volume_timer_segments_title">
+        <item>Disattivato</item>
+        <item>"Mezz'ora"</item>
+        <item>1 ora</item>
+        <item>2 ore</item>
+        <item>8 ore</item>
+     </string-array>
+     <string-array name="nav_bar_buttons">
+        <item>Appunti</item>
+        <item>Chiave</item>
+        <item>Cambio tastiera</item>
+        <item>Nessuno</item>
+     </string-array>
+     <string-array name="nav_bar_layouts">
+        <item>Normale</item>
+        <item>Compatto</item>
+        <item>Verso sinistra</item>
+        <item>Verso destra</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
@@ -169,6 +189,14 @@
         <item>1M</item>
         <item>4M</item>
         <item>16M</item>
+     </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Disattivato</item>
+        <item>Errore</item>
+        <item>Avviso</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
      </string-array>
      <string-array name="select_logpersist_summaries">
         <item>Disattivato</item>
@@ -224,7 +252,7 @@
         <item>Ricarica</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
+        <item>RNDIS (USB LAN)</item>
         <item>Sorgente audio</item>
         <item>MIDI</item>
      </string-array>

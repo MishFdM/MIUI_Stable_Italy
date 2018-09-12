@@ -30,10 +30,11 @@
      <string name="attach_image">Immagini</string>
      <string name="attach_record_sound">Registra Audio</string>
      <string name="attach_record_video">Registra Video</string>
-     <string name="attach_slideshow">Slideshow</string>
+     <string name="attach_slideshow">Presentazione</string>
      <string name="attach_sound">Audio</string>
      <string name="attach_subject">Oggetto</string>
      <string name="attach_take_photo">Scatta Foto</string>
+     <string name="attach_transaction">Invia denaro</string>
      <string name="attach_video">Video</string>
      <string name="audio_download_failed">Download audio fallito</string>
      <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
@@ -51,6 +52,16 @@
      <string name="bookmark_confirm_delete_message">Gli elementi selezionati saranno eliminati</string>
      <string name="bookmark_empty">Nessun modello</string>
      <string name="bookmark_list_title">Preferiti</string>
+     <string name="button_emoji_creature">Emoji animale</string>
+     <string name="button_emoji_lifestyle">Emoji stile di vita</string>
+     <string name="button_emoji_smiley">Emoji volto</string>
+     <string name="button_emoji_symbol">Emoji simbolo</string>
+     <string name="button_emoji_text">Emoji testo</string>
+     <string name="button_fold">Piega</string>
+     <string name="button_next_slide">Successivo</string>
+     <string name="button_pre_slide">Precedente</string>
+     <string name="button_resend_message">Invia nuovamente</string>
+     <string name="button_unfold">Dispiega</string>
      <string name="call_sender">Chiama mittente</string>
      <string name="cannot_add_picture_and_video">Impossibile aggiungere video e immagine a una diapositiva.</string>
      <string name="cannot_add_slide_anymore">Impossibile aggiungere altre diapositive.</string>
@@ -107,7 +118,7 @@
      <string name="context_menu_view_mms">Leggi MMS</string>
      <string name="conversation">Messaggi</string>
      <string name="conversation_listitem_avatar">Avatar</string>
-     <string name="conversation_style">bubble</string>
+     <string name="conversation_style">bolle</string>
      <string name="converting_to_picture_message">Conversione in messaggio multimediale…</string>
      <string name="converting_to_text_message">Conversione in messaggio di testo…</string>
      <string name="copy_message_text">Copia testo</string>
@@ -120,14 +131,16 @@
      <string name="delete_message">Elimina</string>
      <string name="delete_phrase">Elimina modello</string>
      <string name="delete_unlocked">Elimina messaggi bloccati</string>
-     <string name="delete_verification_code_sms_message">ELiminare tutte le OTP?</string>
+     <string name="delete_verification_code_sms_message">Eliminare tutte le OTP?</string>
      <string name="delete_verification_code_sms_title">Cancella le OTP</string>
      <string name="delete_wild_sims">Elimina numeri</string>
      <string name="delete_wild_sims_confirm">Tutti i numeri associati a questo contatto verranno eliminati dal dispositivo. Puoi ripristinarli su i.mi.com.</string>
      <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
      <string name="delivery_report_activity">Conferma di recapito</string>
      <string name="delivery_toast_body">Messaggio correttamente inviato a %s</string>
+     <string name="dialog_message_fake_cell_detect_error">Correggere le informazioni su questo messaggio? Per fare ciò, MIUI dovrà caricare il numero di telefono (%1$s), i contenuti del messaggio e le informazioni sulla posizione vicina ai suoi server.</string>
      <string name="dialog_message_sms_report">"I messaggi spam e le informazioni sui loro mittenti verranno segnalati a MIUI con il tuo report. Verranno utilizzati unicamente per migliorare i filtri spam MIUI."</string>
+     <string name="dialog_title_fake_cell_detect_error">Correzione</string>
      <string name="disable_notifications_dialog_message">"Interrompere la notifica dei messaggi di testo provenienti dall'applicazione predefinita ?"</string>
      <string name="disabled">Disattivato</string>
      <string name="discard">Ignora</string>
@@ -140,6 +153,7 @@
      <string name="download_later">Download attualmente non disponibile. Riprova più tardi.</string>
      <string name="downloading">Download…</string>
      <string name="downloading_file_can_not_play">Attendi fino alla fine del download</string>
+     <string name="draft">Bozza</string>
      <string name="duration_not_a_number">La durata deve essere un numero.</string>
      <string name="duration_sec">Durata (%s sec)</string>
      <string name="duration_selector_title">"Durata diapositiva "</string>
@@ -156,7 +170,6 @@
      <string name="error_state">Errore di incoerenza</string>
      <string name="error_state_text">Lo stato delle conversazioni e dei destinatari è incoerente. Raccogli un rapporto ed invialo a http://go/droidanizer</string>
      <string name="error_timed_msg">Impossibile programmare un orario antecedente</string>
-     <string name="ex_type_guide">Informazione</string>
      <string name="ex_type_mx">Messaggio cloud</string>
      <string name="ex_type_sms">SMS/MMS</string>
      <string name="exceed_message_size_limitation">Limite di dimensione del messaggio raggiunto.</string>
@@ -168,9 +181,9 @@
      <string name="fail_to_view_attachment">allegato non disponibile</string>
      <string name="failed_to_add_media">Impossibile aggiungere %1$s al messaggio.</string>
      <string name="failed_to_resize_image">Immagine non ridimensionata.</string>
+     <string name="fake_cell_alert_detect_error">Questo non è stato inviato da una cella base fasulla</string>
      <string name="fake_cell_alert_hint">Sembra che questo messaggio sia stato inviato da un numero di telefono che diverso è diverso da quello visualizzato. Fai attenzione agli SMS che contengono richieste finanziarie.</string>
      <string name="fake_cell_checking_hint">Controllo di sicurezza…</string>
-     <string name="fake_cell_detection_entry">Fake base station detection</string>
      <string name="fake_cell_safe_hint">Questo messaggio è sicuro</string>
      <string name="fake_cell_timeout_hint">Controllo di sicurezza fallito</string>
      <string name="favorite_at_time">Aggiunto ai preferiti alle: %1s</string>
@@ -350,8 +363,18 @@
      <string name="no_subject_view">(Nessun oggetto)</string>
      <string name="non_english_subject_limit">Limite di 13 caratteri per soggetti non in inglese</string>
      <string name="nosend_message">Non inviato</string>
+     <string name="notification_channel_msg_description">Notifica messaggio</string>
+     <string name="notification_channel_msg_name">Messaggio</string>
+     <string name="notification_channel_other_description">Notifica non di messaggio</string>
+     <string name="notification_channel_other_name">Altro</string>
+     <string name="notification_channel_sim1_description">Notifica messaggio SIM1</string>
+     <string name="notification_channel_sim1_name">Messaggio SIM1</string>
+     <string name="notification_channel_sim2_description">Notifica messaggio SIM2</string>
+     <string name="notification_channel_sim2_name">Messaggio SIM2</string>
+     <string name="notification_copy">Copia OTP</string>
      <string name="notification_failed_multiple">%s messaggi potrebbe non essere inviati.</string>
      <string name="notification_failed_multiple_title">Messaggi non inviati</string>
+     <string name="notification_group_name">Messaggistica</string>
      <string name="notification_multiple">[%s]</string>
      <string name="notification_multiple_title">Nuovi messaggi</string>
      <string name="number_add_hint">Inserisci numero da aggiungere al Contatto Privato</string>
@@ -383,7 +406,7 @@
      <string name="pref_show_blocked_messages_summary">Mostra gli SMS bloccati nella lista delle conversazioni</string>
      <string name="pref_show_list_avatar_summary">Visualizza foto ed altre informazioni di contatto nella lista</string>
      <string name="pref_show_photo_word_summary">Assegna automaticamente una foto ai contatti che ne sono sprovvisti</string>
-     <string name="pref_show_sms_template_entry_summary">Rileva one-time-password (OTP) negli SMS</string>
+     <string name="pref_show_sms_template_entry_summary">Rileva password singola (OTP) negli SMS</string>
      <string name="pref_show_sms_template_in_summary">Rileva automaticamente OTP negli SMS</string>
      <string name="pref_show_sms_template_summary">Copia ed inserisci automaticamente i codici di verifica</string>
      <string name="pref_smart_messages_settings">Messaggi smart</string>
@@ -513,6 +536,7 @@
      <string name="select_local_audio">Seleziona audio locale</string>
      <string name="select_local_video">Seleziona video locale</string>
      <string name="select_message_send_sim">Scegli SIM</string>
+     <string name="select_phone_number">Seleziona il numero di telefono</string>
      <string name="select_recipient">Seleziona destinatario</string>
      <string name="select_sim">Seleziona SIM</string>
      <string name="select_top_text">Testo in alto</string>
@@ -551,7 +575,7 @@
      <string name="slide_show_part">Parte %1$d/%2$d</string>
      <string name="slide_up_to_cancel">Scorri in alto per annullare</string>
      <string name="slideshow_activity">Presentazione</string>
-     <string name="sms_card_partner_label">"SMS card partner: "</string>
+     <string name="sms_card_partner_label">"Scheda SMS partner: "</string>
      <string name="sms_card_teddy_mobile">Teddy Mobile</string>
      <string name="sms_content">Contenuto del messaggio</string>
      <string name="sms_full_body">SMS in entrata rifiutato a causa di memoria piena. Elimina i vecchi messaggi.</string>
@@ -615,6 +639,7 @@
      <string name="to_address_label">"A: "</string>
      <string name="to_label">"A "</string>
      <string name="to_send_wrapper">Sarà inviato alle %s</string>
+     <string name="toast_pending_hangup_msg">Message will be sent after the call ends</string>
      <string name="today">Oggi</string>
      <string name="too_many_attachments">"C'è un limite di %1$s allegati. Verranno aggiunti solo i primi %2$s."</string>
      <string name="too_many_recipients">"Questo messaggio ha troppi destinatari (%1$s). C'è un limite di %2$s destinatari."</string>
@@ -635,6 +660,7 @@
      <string name="unstick">Non evidenziare</string>
      <string name="unstick_conversation">Non evidenziare la conversazione attuale</string>
      <string name="unsticked_conversation">La conversazione attuale è già non evidenziata</string>
+     <string name="unsubscribe">Disiscrivi</string>
      <string name="unsupported_media_format">Formato %1$s non supportato.</string>
      <string name="url_fraud_dangerous_alert">"Il sito che stai per visitare potrebbe non essere sicuro e potrebbe danneggiare il tuo dispositivo. Continuare? 
 %s"</string>
@@ -643,6 +669,7 @@
      <string name="url_fraud_title">Possibile truffa</string>
      <string name="url_fraud_visit"><u>Visita comunque</u></string>
      <string name="url_result_safe">Questo URL è sicuro</string>
+     <string name="url_scan_again">Verifica nuovamente</string>
      <string name="url_scanning">Scansione URL…</string>
      <string name="verification_code_icon_name">V</string>
      <string name="verification_code_list_title">Codici di verifica</string>

@@ -237,7 +237,7 @@ only in frame mode"</string>
      <string name="call_test">Call test</string>
      <string name="call_test_hint">Talk to the main mic, see if you can hear your voice.</string>
      <string name="camera_test">Camera</string>
-     <string name="camera_zoom">Zoom</string>
+     <string name="camera_zoom">zoom</string>
      <string name="camerainfo">Informazioni camera</string>
      <string name="cancel">Cancel</string>
      <string name="cancelEnrol">CancelEnrol</string>
@@ -267,7 +267,7 @@ only in frame mode"</string>
      <string name="charge_voltage">Charge Voltage：</string>
      <string name="charger_in_test">Charger Test</string>
      <string name="charger_out_test">Charger plug out</string>
-     <string name="checkerboard_test">TEST CHECKBOARD</string>
+     <string name="checkerboard_test">CHECKERBOARD TEST</string>
      <string name="choose_channel">Channel select</string>
      <string name="cit1">HW1:</string>
      <string name="cit1reporttitle">CIT 1 Test Report</string>
@@ -318,12 +318,12 @@ only in frame mode"</string>
      <string name="enrolCount">EnrolCount</string>
      <string name="enrolQuality">EnrolQuality</string>
      <string name="enrollover">Enroll over,Try to Verify!</string>
-     <string name="error">Errore</string>
+     <string name="error">Error</string>
      <string name="error_app_internal">Errore interno applicazione</string>
      <string name="error_app_unsupported">Formato non supportato</string>
      <string name="error_mediadb_incall">this option is supported, only while in call</string>
      <string name="error_mediadb_new_record">Unable to save recorded audio</string>
-     <string name="error_sdcard_access">Unable to access system space!</string>
+     <string name="error_sdcard_access">Impossibile accedere allo spazio di sistema!</string>
      <string name="evdoonly">EvDO Only</string>
      <string name="evdoorcdma">CDMA/EvDo</string>
      <string name="exit">Exit</string>
@@ -333,7 +333,7 @@ only in frame mode"</string>
      <string name="external_version">External Version:</string>
      <string name="factory_restore">Factory Restore</string>
      <string name="fail">Fail</string>
-     <string name="far">FAR(False Accept Rate):</string>
+     <string name="far">far</string>
      <string name="field_netinfo">network information</string>
      <string name="field_state">state</string>
      <string name="field_test">Field Test</string>
@@ -419,7 +419,8 @@ only in frame mode"</string>
      <string name="hw_test_fail">IR data send Unsuccess!</string>
      <string name="hw_test_finish">IR data send success</string>
      <string name="hwstart">test running...</string>
-     <string name="image_quality_test">TEST QUALITÀ IMMAGINE</string>
+     <string name="hwversion_label">HW Version</string>
+     <string name="image_quality_test">IMAGE QUALITY TEST</string>
      <string name="imei">[ IMEI]:</string>
      <string name="imei_no">IMEI:</string>
      <string name="input_passwords">Please input password!</string>
@@ -450,7 +451,7 @@ the selected?"</string>
      <string name="key_7">7</string>
      <string name="key_8">8</string>
      <string name="key_9">9</string>
-     <string name="keyboard">KEY</string>
+     <string name="keyboard">CHIAVE</string>
      <string name="keyboard_and_motor_test">Key And Motor</string>
      <string name="keyboard_show">The current key button button BACK、button HOME、button MENU、button VOLUME_UP、button VOLUME_DOWN</string>
      <string name="keyboard_show_miui">The current key button button POWER、button VOLUME_UP、button VOLUME_DOWN</string>
@@ -463,7 +464,7 @@ the selected?"</string>
      <string name="latitude">Latitude :</string>
      <string name="lcd_click_continue">Click screen to continue</string>
      <string name="lcd_test">Color</string>
-     <string name="lcminfo">LCM informazioni</string>
+     <string name="lcminfo">Informazioni LCM</string>
      <string name="learn_test">"Hello I'm sorry!I said \"sorry!\" "</string>
      <string name="led_info">Please note if the LED blink or not in 3 color</string>
      <string name="led_test">Led</string>
@@ -512,7 +513,7 @@ the selected?"</string>
      <string name="mic2test">MIC2</string>
      <string name="mic_play_in_earphone">Please to MIC, after plug in headphones, listening to the headphones sound, recording, please say some words opponent main MIC</string>
      <string name="mic_test_pass">Mic Test Pass</string>
-     <string name="micphone_test">MIC＆ SPK</string>
+     <string name="micphone_test">MIC e SPK</string>
      <string name="micrectest">MIC＆ REC</string>
      <string name="midmainboardtest">PCBA test</string>
      <string name="midtest">Assemble test</string>
@@ -556,7 +557,7 @@ off---Disabling continuous Tx"</string>
      <string name="networktype_sim1">SIM1 Network Type:</string>
      <string name="networktype_sim2">SIM2 Network Type:</string>
      <string name="newinfo">New</string>
-     <string name="next">Prossimo</string>
+     <string name="next">Next</string>
      <string name="next_text">next</string>
      <string name="nfc_discovered">Discovered tag</string>
      <string name="nfc_scan">Scan a tag</string>
@@ -569,7 +570,7 @@ off---Disabling continuous Tx"</string>
      <string name="nofinger">No Fingerprint</string>
      <string name="nomatch">NoMatch</string>
      <string name="nomatch5">NoMatch for 5 times!</string>
-     <string name="none">N/A</string>
+     <string name="none" />
      <string name="nosim">No SIM Card</string>
      <string name="notestdata">There is no test data!</string>
      <string name="nowhave">Now have</string>
@@ -704,6 +705,7 @@ mod:0-15"</string>
      <string name="rpmb_info">RPMB Provisioned:</string>
      <string name="sar_cal">Sarsensor Calibration</string>
      <string name="sar_test">Sarsensor Test</string>
+     <string name="sar_test_show">The following shows the output data values of each channel about SAR sensor, use hand to cover the bottom of the mobile phone, the data is changed to indicate normal, please do not test when charging USB</string>
      <string name="save">Save</string>
      <string name="save_local_freq">Save local frequence</string>
      <string name="sd_u_test">SD_U disk</string>
