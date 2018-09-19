@@ -1429,6 +1429,7 @@ avviso"</string>
      <string name="delete_or_keep_legacy_passwords_confirm_msg">"Eliminare i dati sull'impronta?"</string>
      <string name="delete_rule">Rimuovi regole</string>
      <string name="delete_saved_network">Eliminazione reti salvate</string>
+     <string name="delete_sound_effect">\"Delete\" sound</string>
      <string name="deleted_apps">App rimosse</string>
      <string name="deletion_helper_automatic_title">Automatico</string>
      <string name="deletion_helper_manual_title">Manuale</string>
