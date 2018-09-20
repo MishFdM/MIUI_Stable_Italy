@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="accept_and_continue">Accept &amp; continue</string>
      <string name="access_links">Access links</string>
@@ -48,7 +49,7 @@
      <string name="device_owner_error_ok">OK</string>
      <string name="device_owner_error_package_invalid">"Non è possibile utilizzare l'app admin. Alcuni componenti sono mancanti o danneggiati. Contatta il reparto IT."</string>
      <string name="device_owner_error_wifi">Impossibile connettersi alla rete Wi-Fi</string>
-     <string name="device_owner_exists">I profili di lavoro non possono essere impostati o gestiti</string>
+     <string name="device_owner_exists">Work profiles can not be setup on a managed device</string>
      <string name="device_owner_info">This device will be managed and kept secure by %1$s. Terms will apply. %2$s</string>
      <string name="device_owner_info_with_terms_headers">This device will be managed and kept secure by %1$s. Terms from %2$s will apply. %3$s</string>
      <string name="dismiss">Dismiss</string>

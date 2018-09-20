@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="a_negative">A, negativo</string>
      <string name="a_positive">A, positivo</string>
@@ -47,7 +48,9 @@
      <string name="date_of_birth">Data di nascita</string>
      <string name="edit_info">Modifica informazioni di emergenza</string>
      <string name="emergency_contacts_title">Contatti di emergenza</string>
-     <string name="emergency_info_continue">Continua</string>
+     <string name="emergency_info_continue">Continue</string>
+     <string name="enable_webview_multiprocess">Multiprocessi WebView</string>
+     <string name="enable_webview_multiprocess_desc">Avvia il redender WebView separatamente</string>
      <string name="fail_add_contact">Impossibile leggere correttamente le informazioni del contatto</string>
      <string name="fail_display_contact">Impossibile visualizzare il contatto</string>
      <string name="fail_load_contact_picker">Impossibile trovare un selezionatore dei contatti</string>
@@ -84,11 +87,9 @@
      <string name="unknown_medications">Sconosciuto</string>
      <string name="unknown_name">Sconosciuto</string>
      <string name="unknown_organ_donor">Sconosciuto</string>
-     <string name="user_emergency_info_consent">Le informazioni riportate qui possono aiutare per i primi interventi di emergenza. Viene memorizzato solo sul dispositivo e chiunque può leggerle dal tastierino di emergenza senza sbloccare il telefono.</string>
-     <string name="user_emergency_info_title">Informazioni di emergenza</string>
+     <string name="user_emergency_info_consent">Information you enter here can help first responders in an emergency. It is stored on your device only, and anyone can read it from the emergency dialer without unlocking your phone.</string>
+     <string name="user_emergency_info_title">Emergency information</string>
      <string name="v7_preference_off">OFF</string>
      <string name="v7_preference_on">ON</string>
      <string name="yes">Si</string>
-	 <string name="enable_webview_multiprocess">Multiprocessi WebView</string>
-     <string name="enable_webview_multiprocess_desc">Avvia il redender WebView separatamente</string>
 </resources>

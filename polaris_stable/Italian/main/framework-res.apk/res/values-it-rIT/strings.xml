@@ -315,10 +315,10 @@ utilizzando %s"</string>
      <string name="deleted_key">%1$s eliminato</string>
      <string name="demo_restarting_message">Ripristino dispositivo…</string>
      <string name="demo_starting_message">Avvio demo…</string>
-     <string name="demo_user_inactivity_timeout_countdown">Perderai tutte le modifiche e la dimostrazione ripartirà di nuovo entro %1$s secondi…</string>
-     <string name="demo_user_inactivity_timeout_left_button">Annulla</string>
-     <string name="demo_user_inactivity_timeout_right_button">Resetta ora</string>
-     <string name="demo_user_inactivity_timeout_title">Resettare il dispositivo?</string>
+     <string name="demo_user_inactivity_timeout_countdown">You’ll lose any changes and the demo will start again in %1$s seconds…</string>
+     <string name="demo_user_inactivity_timeout_left_button">Cancel</string>
+     <string name="demo_user_inactivity_timeout_right_button">Reset now</string>
+     <string name="demo_user_inactivity_timeout_title">Reset device?</string>
      <string name="deny">Nega</string>
      <string name="deny_button">Nega</string>
      <string name="description_target_unlock_tablet">Scorri per sbloccare.</string>
@@ -342,18 +342,18 @@ utilizzando %s"</string>
      <string name="dump_heap_notification_detail">"Dump dell'heap raccolto; tocca per condividere"</string>
      <string name="dump_heap_text">"Il processo %1$s ha superato il suo limite di memoria pari a %2$s. È disponibile un dump dell'heap che puoi condividere con lo sviluppatore. Presta attenzione: questo dump dell'heap può contenere tue informazioni personali a cui l'applicazione ha accesso."</string>
      <string name="dump_heap_title">"Condividere il dump dell'heap?"</string>
-     <string name="durationDayHour">%1$d giorno %2$d ora</string>
-     <string name="durationDayHours">%1$d giorno %2$d ore</string>
-     <string name="durationDays">%1$d giorni</string>
-     <string name="durationHourMinute">%1$d ora %2$d minuto</string>
-     <string name="durationHourMinutes">%1$d ora %2$d minuti</string>
-     <string name="durationHours">%1$d ore</string>
-     <string name="durationMinute">%1$d minuto</string>
-     <string name="durationMinuteSecond">%1$d minuto %2$d secondo</string>
-     <string name="durationMinuteSeconds">%1$d minuto %2$d secondi</string>
-     <string name="durationMinutes">%1$d minuti</string>
-     <string name="durationSecond">%1$d secondo</string>
-     <string name="durationSeconds">%1$d secondi</string>
+     <string name="durationDayHour">%1$d day %2$d hr</string>
+     <string name="durationDayHours">%1$d day %2$d hrs</string>
+     <string name="durationDays">%1$d days</string>
+     <string name="durationHourMinute">%1$d hr %2$d min</string>
+     <string name="durationHourMinutes">%1$d hr %2$d mins</string>
+     <string name="durationHours">%1$d hrs</string>
+     <string name="durationMinute">%1$d min</string>
+     <string name="durationMinuteSecond">%1$d min %2$d sec</string>
+     <string name="durationMinuteSeconds">%1$d min %2$d secs</string>
+     <string name="durationMinutes">%1$d mins</string>
+     <string name="durationSecond">%1$d sec</string>
+     <string name="durationSeconds">%1$d secs</string>
      <string name="editTextMenuTitle">Azioni testo</string>
      <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
      <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -622,7 +622,6 @@ Visita "<b>google.com/accounts/recovery</b>."</string>
      <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
      <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
      <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
-     <string name="kg_text_message_separator">" – "</string>
      <string name="kg_too_many_failed_attempts_countdown">Riprova fra %1$d secondi.</string>
      <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Hai digitato la tua password %d volte in modo errato. 
 
@@ -906,7 +905,7 @@ Riprova tra %d secondi."</string>
      <string name="notification_channel_wfc">WLAN calling</string>
      <string name="notification_header_divider_symbol">•</string>
      <string name="notification_header_divider_symbol_with_spaces">" • "</string>
-     <string name="notification_hidden_by_policy_text">Contenuto nascosto da policy</string>
+     <string name="notification_hidden_by_policy_text">Contents hidden by policy</string>
      <string name="notification_hidden_text">Contenuto nascosto</string>
      <string name="notification_inbox_ellipsis">…</string>
      <string name="notification_listener_binding_label">Listener di notifica</string>
@@ -1275,8 +1274,8 @@ per l'account %s."</string>
      <string name="replace">Sostituisci…</string>
      <string name="report">Segnala</string>
      <string name="reset">Reimposta</string>
-     <string name="reset_retail_demo_mode_text">Premi per resettare il dispositivo</string>
-     <string name="reset_retail_demo_mode_title">Resettare il dispositivo?</string>
+     <string name="reset_retail_demo_mode_text">Tap to reset device</string>
+     <string name="reset_retail_demo_mode_title">Reset device?</string>
      <string name="restr_pin_confirm_pin">Conferma il nuovo PIN</string>
      <string name="restr_pin_create_pin">Crea un PIN per la modifica delle limitazioni</string>
      <string name="restr_pin_enter_admin_pin">Inserisci PIN amministratore</string>
