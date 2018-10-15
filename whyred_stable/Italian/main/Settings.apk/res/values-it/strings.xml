@@ -1206,6 +1206,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="credentials_reset_warning_plural">"Password non corretta. Hai altre %1$d possibilità prima che l'archivio credenziali venga eliminato."</string>
      <string name="credentials_settings_not_available">Credenziali non disponibili per questo utente</string>
      <string name="credentials_title">Archivio credenziali</string>
+     <string name="credentials_title_verification">Verification</string>
      <string name="credentials_unlock" />
      <string name="credentials_unlock_hint">"Digita la password per l'archivio credenziali."</string>
      <string name="credentials_wrong_password">Password errata.</string>
@@ -1429,6 +1430,7 @@ avviso"</string>
      <string name="delete_or_keep_legacy_passwords_confirm_msg">"Eliminare i dati sull'impronta?"</string>
      <string name="delete_rule">Rimuovi regole</string>
      <string name="delete_saved_network">Eliminazione reti salvate</string>
+     <string name="delete_sound_effect">\"Delete\" sound</string>
      <string name="deleted_apps">App rimosse</string>
      <string name="deletion_helper_automatic_title">Automatico</string>
      <string name="deletion_helper_manual_title">Manuale</string>
@@ -1832,6 +1834,8 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="factory_reset_summary">Elimina tutti i dati dalla memoria interna del tuo dispositivo</string>
      <string name="failed_to_check_find_device_status_content">Impossibile verificare lo stato di Trova dispositivo, riprova più tardi.</string>
      <string name="failed_to_check_find_device_status_title">Impossibile verificare lo stato di Trova dispositivo</string>
+     <string name="failed_to_erase_text">Please turn off lock screen password before performing 1217 operation.</string>
+     <string name="failed_to_erase_title">Forbidden operation</string>
      <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni di %1$s</string>
      <string name="failed_to_shut_down_find_device_content">Impossibile disattivare Trova dispositivo. Riprova più tardi.</string>
      <string name="failed_to_shut_down_find_device_title">Impossibile disattivare Trova dispositivo</string>
