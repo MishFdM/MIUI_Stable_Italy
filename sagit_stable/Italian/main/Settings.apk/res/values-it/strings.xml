@@ -1208,6 +1208,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="credentials_reset_warning_plural">"Password non corretta. Hai altre %1$d possibilità prima che l'archivio credenziali venga eliminato."</string>
      <string name="credentials_settings_not_available">Credenziali non disponibili per questo utente</string>
      <string name="credentials_title">Archivio credenziali</string>
+     <string name="credentials_title_verification">Verification</string>
      <string name="credentials_unlock" />
      <string name="credentials_unlock_hint">"Digita la password per l'archivio credenziali."</string>
      <string name="credentials_wrong_password">Password errata.</string>
@@ -1431,6 +1432,7 @@ avviso"</string>
      <string name="delete_or_keep_legacy_passwords_confirm_msg">"Eliminare i dati sull'impronta?"</string>
      <string name="delete_rule">Rimuovi regole</string>
      <string name="delete_saved_network">Eliminazione reti salvate</string>
+     <string name="delete_sound_effect">\"Delete\" sound</string>
      <string name="deleted_apps">App rimosse</string>
      <string name="deletion_helper_automatic_title">Automatico</string>
      <string name="deletion_helper_manual_title">Manuale</string>
@@ -1739,6 +1741,7 @@ Questa funzionalità aiuta a proteggere i propri dati su dispositivi persi o rub
      <string name="enter_password">"Digita la password per decrittare l'archivio"</string>
      <string name="enter_pattern">Inizia ad usare Android, esegui la sequenza di sblocco</string>
      <string name="enter_pin">Inizia ad usare Android, inserisci il tuo PIN</string>
+     <string name="enterprise_mode">Enterprise mode</string>
      <string name="enterprise_privacy_always_on_vpn_device">VPN sempre attiva, impostata</string>
      <string name="enterprise_privacy_always_on_vpn_personal">VPN sempre-attiva impostata sul tuo profilo personale</string>
      <string name="enterprise_privacy_always_on_vpn_work">VPN sempre-attiva impostata nel tuo profilo di lavoro</string>
