@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="antispam_local_marked">Segnalato localmente</string>
      <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>

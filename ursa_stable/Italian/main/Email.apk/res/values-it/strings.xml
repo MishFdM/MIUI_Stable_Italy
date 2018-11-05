@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="SMTP_independent_verification_text">Verifica SMTP indipendente</string>
      <string name="SMTP_password_text">Password</string>
      <string name="SMTP_username_text">Nome utente</string>
-     <string name="accessibility_guide_first">Nella prossima schermata, seleziona il tab \"Servizi\" per attivare il 139 Email Configurazione Automatica</string>
-     <string name="accessibility_guide_second">"Poi tocca il comando nell'angolo in alto a destra, tocca \"Conferma\" per continuare."</string>
+     <string name="accessibility_guide_first">In the next screen, select the \"Services\" tab to activate the 139 Mailbox Automatical Configuring</string>
+     <string name="accessibility_guide_second">Then click the switch on the top right corner, click the \"Confirm\" to continue.</string>
      <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
      <string name="account_duplicate_dlg_title">Account duplicato</string>
      <string name="account_failure">Errore account</string>
@@ -213,10 +214,10 @@
      <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
      <string name="auto_login_fail">Accesso automatico fallito</string>
      <string name="auto_login_fail_to_retry">Accesso automatico fallito, prova di nuovo.</string>
-     <string name="auto_mail_describe">139 Email è un servizio di configurazione automatica che può aiutare a compilare le informazioni di login sulla casella di posta. Desideri attivare questa funzionalità?</string>
-     <string name="auto_mail_disable_txt">Disattivato</string>
+     <string name="auto_mail_describe">139 Email Service Automatical Configuring can help you filling in the login information to the mailbox. Do you want to enable this feature?</string>
+     <string name="auto_mail_disable_txt">Disabled</string>
      <string name="auto_mail_enable_txt">Inizia impostazioni</string>
-     <string name="auto_mail_go_email">Casella di posta</string>
+     <string name="auto_mail_go_email">Mailbox</string>
      <string name="auto_mail_name">AutoMail</string>
      <string name="auto_mail_title_note">"Trova l'opzione 139 Email Configurazione Automatica, tocca per iniziare."</string>
      <string name="auto_mail_window_description">Servizio 139 Email Configurazione Automatica</string>
@@ -267,7 +268,7 @@
      <string name="clear_display_images_whitelist_title">Revoca consenso immagini</string>
      <string name="click_download_all_content">[Tocca per scaricare]</string>
      <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
-     <string name="close">Chiudi</string>
+     <string name="close">Shut down</string>
      <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
      <string name="compose">Scrivi</string>
      <string name="compose_attachment_number_limit">Non puoi inserire più di 10 allegati</string>
@@ -409,7 +410,7 @@
      <string name="edit_quick_response_dialog">Risposta veloce</string>
      <string name="edit_signature">Modifica firma</string>
      <string name="elided_padding_token"> </string>
-     <string name="email_address">Indirizzo email</string>
+     <string name="email_address">Email address</string>
      <string name="email_feedback_uri" />
      <string name="email_netease">NetEase Mail</string>
      <string name="email_qq">QQ Mail</string>
@@ -455,7 +456,7 @@
      <string name="file_save_term">File salvataggio termine</string>
      <string name="filtered_tag">" [%1$s]%2$s"</string>
      <string name="first_quick_default_reply">Tocca questo collegamento, \"%s\" verrà inviato a tutti i destinatari.</string>
-     <string name="float_window_content">"Rilevato che si sta utilizzando la casella di posta, premi su Conferma per impostare automaticamente l'account e password di 139 Email."</string>
+     <string name="float_window_content">Detects that you are using the mailbox, click Confirm for you to automatically fill 139 E-mail account and password.</string>
      <string name="float_window_info">Quando stai configurando la 139 email, non puoi operare con il telefono,altrimenti la configurazione fallirà.</string>
      <string name="float_window_title">Configurazione………</string>
      <string name="folder_drafts_name_cn0">草稿</string>
@@ -528,7 +529,7 @@
      <string name="header_category_other">Segnalazione bug</string>
      <string name="header_label_general_preferences">Generali</string>
      <string name="help_and_info">Guida</string>
-     <string name="help_config">Auto configurazione</string>
+     <string name="help_config">Self configuration</string>
      <string name="hide_elided">▼ Nascondi testo citato</string>
      <string name="hide_password">hide password</string>
      <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -680,7 +681,7 @@ Prova a passare ad un diverso account email."</string>
      <string name="no_matched_attachment">Nessun allegato corrispondente.</string>
      <string name="no_recognize_describe">"Impossibile trovare email contenenti biglietti o prenotazioni.
 Prova con una diverso account."</string>
-     <string name="no_remind">Non ricordare</string>
+     <string name="no_remind">Not to remind</string>
      <string name="not_subject">(Nessun oggetto)</string>
      <string name="not_synced_title">Account non sincronizzato</string>
      <string name="note_text">Possibile tramite la rete di China Mobile o verifica SMS, potrebbero generare costi aggiuntivi per traffico o SMS.</string>
@@ -740,7 +741,7 @@ Prova con una diverso account."</string>
      <string name="over_due">Scaduto</string>
      <string name="overlays_fail_tip">Siamo spiacenti mala la tua casella email non è configurata correttamente, apri la finestra a comparsa con richiesta dei permessi e prova di nuovo</string>
      <string name="overlays_ok">Apri permessi</string>
-     <string name="overlays_tip">Apri le finestre dei permessi e goditi subito la casella 139 per configurare automaticamente la grande esperienza.</string>
+     <string name="overlays_tip">Apri le finestre dei permessi e goditi subito la casella di posta 139 per configurare automaticamente la grande esperienza.</string>
      <string name="overlays_title">Apri le finestre dei permessi</string>
      <string name="parase_setup_data">Recupero dati di configurazione…</string>
      <string name="parse_bill_discribe">Bollette con carta di credito …</string>
@@ -1002,7 +1003,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="shortcut_name_title">Abbreviazione nome cartella</string>
      <string name="show_elided">▶ Mostra testo citato</string>
      <string name="show_images">Mostra immagini</string>
-     <string name="show_password">show password</string>
+     <string name="show_password">mostra password</string>
      <string name="signature">"
 
 
@@ -1027,7 +1028,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="subject_hint">Oggetto</string>
      <string name="sync_contacts_fail_per_content">Concedi permessi contatti, tocca per concedere</string>
      <string name="sync_contacts_fail_per_title">Sincronizzazione Contatti fallita</string>
-     <string name="sync_contacts_fail_permission">Sincronizzazione Contatti fallita, l\'accesso ai contatti non è abilitata, vai nelle Impostazioni - gestione permessi</string>
+     <string name="sync_contacts_fail_permission">"Sincronizzazione Contatti fallita, l\'accesso ai contatti non è abilitata, vai nelle Impostazioni - gestione permessi"</string>
      <string name="sync_contacts_req_per_ignored">Il contatto non è aperto e non può sincronizzare i contatti</string>
      <string name="sync_error">Impossibile sincronizzare</string>
      <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
