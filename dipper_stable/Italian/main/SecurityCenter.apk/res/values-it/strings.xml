@@ -507,19 +507,19 @@ se dimenticata"</string>
      <string name="card_main_xspace_action">Crea</string>
      <string name="card_main_xspace_summary">Crea un doppio account per le applicazioni</string>
      <string name="card_main_xspace_title">Clona app</string>
-     <string name="card_sms_report">Rapporto SMS</string>
+     <string name="card_sms_report">Report via SMS</string>
      <string name="card_tc_failed">Impossibile calibrare</string>
-     <string name="card_tc_failed_content">"Ragioni possibili:
- 1. Gli operatori rispondono lentamente all'inizio e alla fine del mese. Riprova fra un paio di giorni.
- 2. E' necessario un modello di richiesta di rete quando esegui la calibrazione per la prima volta. Connettiti alla rete e prova di nuovo.
- 3. Il tuo operatore potrebbe non supportare l'invio di messaggi di testo con i dati e il saldo rimanenti. Contatta il tuo operatore per maggiori informazioni.
- 4. Potrebbe essersi verificato un errore nei dati dell'operatore. Prova ad eseguire una diagnostica per risolvere il problema.
- 5. Niente ti è stato di aiuto? Tocca \"Segnala tramite SMS\" per inviare la tua segnalazione bug a Xiaomi con un messaggio di testo."</string>
+     <string name="card_tc_failed_content">"Possible reasons:
+ 1. Carriers respond slower at the beginning and at the end of a month. Try again in a couple of days.
+ 2. A network request template is required when you calibrate for the first time. Connect to the network and try again.
+ 3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
+ 4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
+ 5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
      <string name="celcius_symbol">°C</string>
      <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
      <string name="charging_text_battery_nearly_full">Quasi carico</string>
      <string name="charging_text_battery_perfect">Carica completata\u0020</string>
-     <string name="check_network_state">Test rete</string>
+     <string name="check_network_state">Test network</string>
      <string name="choose">Scegli</string>
      <string name="clean_immediately">Pulisci</string>
      <string name="cleaned">Puliti</string>
@@ -851,7 +851,7 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="gmscore_support_service">Servizi Google</string>
      <string name="go_to">Procedi</string>
      <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
-     <string name="google_base_app_install_choice">\"%s\" requires Google Services Framework to work normally, download and install it?</string>
+     <string name="google_base_app_install_choice"> \"%s\" requires Google Services Framework to work normally, download and install it?</string>
      <string name="gs_anto_clean_memory_whitelist">Eccezioni</string>
      <string name="gs_app_back_self_start">Risparmio energetico</string>
      <string name="gs_auto_clean_memory">Cancella cache</string>
@@ -961,7 +961,7 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="label_callwait">Chiamata in attesa</string>
      <string name="label_mi_stats">Statistiche Mi</string>
      <string name="last_check_canceled">La scansione precedente è stata annullata</string>
-     <string name="later">Più tardi</string>
+     <string name="later">稍后处理</string>
      <string name="left_precent">60%</string>
      <string name="legal_workday">Festivi</string>
      <string name="legal_workday_invalidate">Dati scaduti (Attualmente attivo da Lunedì a Venerdì)</string>
@@ -1053,9 +1053,9 @@ dall'operatore"</string>
      <string name="main_tobe_added_desc">Dati su rete mobile da ¥0.03/MB</string>
      <string name="main_today_used">Oggi</string>
      <string name="main_toolbar_firewall">Limita utilizzo dati</string>
-     <string name="main_toolbar_internet_by_mobiledata">Connessione dati</string>
-     <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
-     <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
+     <string name="main_toolbar_internet_by_mobiledata">Mobile data</string>
+     <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
+     <string name="main_toolbar_internet_by_wifi">WLAN</string>
      <string name="main_toolbar_purchase">Ricarica</string>
      <string name="main_toolbar_statistic">Statistiche di utilizzo dati</string>
      <string name="main_used_bill">%s CNY</string>
@@ -1268,7 +1268,7 @@ dall'operatore"</string>
      <string name="note_call_none">Nessun dato da modificare</string>
      <string name="note_list_none">Nessuna lista da modificare</string>
      <string name="note_sms_none">Nessun messaggio da modificare</string>
-     <string name="notification_battery_consume_abnormal_summary">%2$s di consumo della batteria negli ultimi %1$d minuti</string>
+     <string name="notification_battery_consume_abnormal_summary">Drained %2$s of the battery during last %1$d minutes</string>
      <string name="notification_battery_consume_abnormal_title">La batteria sta scendendo molto velocemente</string>
      <string name="notification_exit_power_save_mode">Disattiva il Risparmio energetico</string>
      <string name="notification_exit_power_save_mode_subtitle">Batteria ha %s di carica.</string>
@@ -1472,7 +1472,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_btn_analyze">Analizza utilizzo batteria</string>
      <string name="power_cell">Cellulare in standby</string>
-     <string name="power_center_auto_shutdown">Comando</string>
+     <string name="power_center_auto_shutdown">Operazioni automatiche</string>
      <string name="power_center_back">Ritorna al centro</string>
      <string name="power_center_charge_time">Carica completata tra %1$s</string>
      <string name="power_center_main_percent_formatted">%s%%</string>
@@ -1932,7 +1932,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
      <string name="status_bar_network_flow_purchase">"   Acquista &gt;"</string>
      <string name="status_bar_network_flow_setup_data_plan">"   Imposta piano dati &gt;"</string>
-     <string name="status_bar_network_flow_today">Oggi: %1$s</string>
+     <string name="status_bar_network_flow_today">Today: %1$s</string>
      <string name="still_retain_btn">Mantieni</string>
      <string name="suggest_app_tolock">Suggerimenti</string>
      <string name="suggest_app_tolock_masked">Nascoste</string>
@@ -1971,6 +1971,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="summary_permission">Proteggi la mia privacy dalle app potenzialmente malevoli</string>
      <string name="summary_permission_root">Il tuo dispositivo ed i dati personali in esso contenuti sono più vulnerabili ad attacchi provenienti da applicazioni con permessi root</string>
      <string name="summary_power_optimizer">Riduci le prestazioni del tuo dispositivo quando la batteria è scarica</string>
+     <string name="summary_rcs_switch">Send SMS to China Mobile users without incurring charges</string>
      <string name="summary_realname_verify">Verifica la tua identità per rendere i pagamenti più sicuri.</string>
      <string name="summary_restrict_data_usage">"Hai limitato l'utilizzo di dati per questa app. Tocca per correggere."</string>
      <string name="summary_show_notification">Cancella cache, mostra lo stato della batteria e blocca gli elementi nel pannello delle notifiche</string>
@@ -2146,6 +2147,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="title_permission_root">Avviso accesso root</string>
      <string name="title_permission_yes">Gestore permessi attivato</string>
      <string name="title_power_optimizer">Risparmio energetico</string>
+     <string name="title_rcs_switch">Turn on China Mobile Messaging</string>
      <string name="title_realname_verify">Verifica ID</string>
      <string name="title_restrict_data_usage">"%s non riesce a connettersi ad Internet?</string>
      <string name="title_show_notification">Controlli pannello di notifica</string>
@@ -2223,7 +2225,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="traffic_setting_fragment_button2_text">Salva</string>
      <string name="traffic_setting_fragment_city">Città</string>
      <string name="traffic_setting_fragment_default">Seleziona</string>
-     <string name="traffic_setting_fragment_find_brand">Non conosci il brand?</string>
+     <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Not sure about the carrier?&lt;/U>&lt;/font>"</string>
      <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
      <string name="traffic_setting_fragment_operator">Operatore</string>
      <string name="traffic_setting_fragment_operator_setting">Impostazioni operatore</string>

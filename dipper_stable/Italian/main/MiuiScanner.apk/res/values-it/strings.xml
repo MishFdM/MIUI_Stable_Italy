@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="access_sd_fail">"Impossibile accedere alla scheda SD"</string>
+     <string name="access_sd_fail">Impossibile accedere alla scheda SD</string>
      <string name="accessibility_shutter_button">Scatta</string>
      <string name="address">Indirizzo:</string>
+     <string name="agree_btn">Agree</string>
      <string name="amazon_assistant_shopping_title">Cerca su Amazon</string>
      <string name="app_description_content">"Scanner può scansionare codici QR, biglietti da visita, e documenti. Assicurati di poter fare ciò che ti occorre senza quest'app prima di rimuoverla."</string>
      <string name="app_description_title">Info su Scanner</string>
@@ -11,6 +13,14 @@
      <string name="back">Indietro</string>
      <string name="barcode_into_rectangle">"Piazza il codice all'interno della cornice"</string>
      <string name="birthday">Compleanno:</string>
+     <string name="blog">Weibo</string>
+     <string name="business_card">Business card</string>
+     <string name="business_card_title">Place the business card inside the frame</string>
+     <string name="business_copy">Copy</string>
+     <string name="business_new_contacts">Create contact</string>
+     <string name="business_no_result">"Couldn't recognize business card. Try again."</string>
+     <string name="calender">Calendar</string>
+     <string name="call_anyone">Call</string>
      <string name="camera_error_title">Errore camera</string>
      <string name="cancel">Annulla</string>
      <string name="choose_picture">Seleziona immagine codice QR</string>
@@ -23,6 +33,7 @@
      <string name="common_retake_picture">Riprendi</string>
      <string name="common_save">Salva</string>
      <string name="company">Compagnia:</string>
+     <string name="confirm">OK</string>
      <string name="connect_wifi">Connetti a questa rete</string>
      <string name="contact_details">Contatto codice QR:</string>
      <string name="continue_access_web_url">Vai al sito web</string>
@@ -51,20 +62,27 @@
      <string name="document_top_panel_title">Foto documento</string>
      <string name="done">Eseguito</string>
      <string name="drag_barcode_into_frame">Sposta la cornice per far adattarla al codice</string>
+     <string name="drag_crop_to_business_card">Move to crop</string>
      <string name="email">Email:</string>
      <string name="error_camera_disabled">"L'accesso alla fotocamera è stato negato per motivi di sicurezza"</string>
      <string name="error_cannot_connect_camera">Impossibile accedere alla fotocamera</string>
      <string name="error_get_image">"Errore nell'acquisizione dell'immagine"</string>
      <string name="error_media_storage_failure">Impossibile salvare la foto</string>
      <string name="error_permissions">Scanner non ha i permessi richiesti per funzionare normalmente. Per continuare controlla i permessi sulle Impostazioni.</string>
+     <string name="fax">Fax</string>
      <string name="feed_search_fail">Nessun risultato, riprova</string>
      <string name="feedback_description_camera_access">Scanner non può connettersi alla fotocamera</string>
      <string name="feedback_description_save_photo">Impossibile salvare foto o video</string>
+     <string name="got_it">Got it</string>
+     <string name="gps">Navigate</string>
      <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
      <string name="import_contact">Importa contatti</string>
-     <string name="impunity_declaration_content">"Quest'app necessita di connettersi ad Internet ed al servizio di localizzazione per funzionare normalmente."</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 2
+	%s: 0 Original: 2
+	%d: 0 Original: 0 -->
+     <!-- Original string: "Scanner requires permissions to access your camera and make photos. Scanner also needs to connect to the internet to work normally. You'll be deemed to have read and agreed to our %1$sPrivacy Policy%2$s when you tap \"Agree\" below." -->
+     <string name="impunity_declaration_content">This app needs to connect to the internet and location services to work normally.</string>
      <string name="impunity_declaration_negative_text">Esci</string>
-     <string name="impunity_declaration_positive_text">Permetti</string>
      <string name="impunity_declaration_title">Termini di servizio</string>
      <string name="keywords_search_code">Scanner;Scansione;codice QR;QR;Riconoscimento;Codice a barre;Codici a barre;Prodotto;Prodotti;Alipay;WeChat;Come scansionare un codice QR;Come scansionare un codice a barre;Come scansionare;MIUI Scanner</string>
      <string name="keywords_search_document">Scanner;Scansiona documento;Scansiona documenti;OCR;Scansiona testo;Scansiona</string>
@@ -88,17 +106,20 @@
      <string name="miracast_message">Trasmettere a %s ?</string>
      <string name="miracast_switch_off">Schermo wireless disattivato</string>
      <string name="miracast_switch_tip">Attiva uno schermo wireless per utilizzare questa funzionalità</string>
+     <string name="module_title_business_card">Business card</string>
      <string name="module_title_code">Codice QR</string>
      <string name="module_title_document">Documento</string>
      <string name="module_title_shopping">Shopping</string>
      <string name="module_title_translation">Traduci</string>
      <string name="name">Nome:</string>
+     <string name="new_schedule">Create event</string>
      <string name="nickname">Nickname:</string>
      <string name="no_network">Impossibile connettersi alla rete</string>
      <string name="no_storage">Nessuna memoria interna</string>
      <string name="not_insert_contact">Impossibile aggiungere contatto</string>
      <string name="not_recommend_access_web_url">Continua comunque</string>
      <string name="note">Nota:</string>
+     <string name="open_url">Open URL</string>
      <string name="path_scanner_setting">App di sistema/Scanner</string>
      <string name="payment_text">Apri con %s</string>
      <string name="phone">Telefono:</string>
@@ -110,26 +131,28 @@
      <string name="preparing_sd">Preparazione memoria interna…</string>
      <string name="previous">Indietro</string>
      <string name="qr_code_details">Dettagli codice QR:</string>
-     <string name="recognition_ar_download_data_msg">Scarica il motore di riconoscimento AR. La dimensione è circa 13MB. Utilizzare la rete dati per il download?</string>
-     <string name="recognition_ar_download_msg">Scarica il motore di riconoscimento AR. La dimensione è di circa 13MB.</string>
-     <string name="recognition_download_title">Attendi un momento</string>
-     <string name="recognition_error_download_cancel">Dopo</string>
-     <string name="recognition_error_download_fail">Impossibile scaricare motore di riconoscimento</string>
-     <string name="recognition_error_download_no_network">Impossibile scaricare. Assicurati di essere connesso ad una rete funzionante.</string>
+     <string name="recognition_ar_download_data_msg">Download AR recognition engine. Its size is about 13MB. Use mobile data to download?</string>
+     <string name="recognition_ar_download_msg">Download AR recognition engine. Its size is about 13MB.</string>
+     <string name="recognition_download_title">Just a sec…</string>
+     <string name="recognition_error_download_cancel">Later</string>
+     <string name="recognition_error_download_fail">"Couldn't download recognition engine"</string>
+     <string name="recognition_error_download_no_network">"Couldn't download. Make sure you're connected to the network."</string>
      <string name="recognition_error_download_ok">Download</string>
-     <string name="recognition_error_download_title">Il motore di riconoscimento è richiesto</string>
-     <string name="recognition_error_downloading">Download motore di riconoscimento…</string>
+     <string name="recognition_error_download_title">Recognition engine is required</string>
+     <string name="recognition_error_downloading">Downloading recognition engine…</string>
      <string name="recognize">Scansione</string>
      <string name="recognize_fail">Impossibile leggere il codice</string>
      <string name="scan_result">Risultato</string>
      <string name="sdk_not_ready">Preparazione SDK. Riprova più tardi.</string>
      <string name="secure_access_web_url">Vai al sito web</string>
      <string name="see_app_details">Visualizza dettagli app</string>
+     <string name="send_mail">Send email</string>
      <string name="shopping_searching">Ricerca…</string>
      <string name="shopping_title">Acquisisci foto del prodotto</string>
      <string name="shopping_vendor_info">Offerto da Taobao</string>
      <string name="spaceIsLow_content">Spazio su memoria interna insufficiente. Liberane un pò.</string>
      <string name="switch_open">Attiva</string>
+     <string name="tel">Phone</string>
      <string name="title">Titolo:</string>
      <string name="translation_language_chinese">Cinese</string>
      <string name="translation_language_english">Inglese</string>
@@ -155,6 +178,7 @@
      <string name="website_details">Sito web:</string>
      <string name="weixin_code_tip">Prego usa WeChat per scansionare questo codice QR</string>
      <string name="wifi_details">Wi-FI:</string>
+     <string name="wifi_exist_fail">Wi-Fi hotspot \"%1$s\" already exists. Delete it and try again.</string>
      <string name="wifi_open_fail">Impossibile attivare Wi-Fi</string>
      <string name="wifi_pwd">Password:</string>
      <string name="wifi_security">Sicurezza:</string>
