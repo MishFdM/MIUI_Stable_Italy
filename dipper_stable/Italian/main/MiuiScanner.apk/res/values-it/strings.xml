@@ -77,11 +77,7 @@
      <string name="gps">Navigate</string>
      <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
      <string name="import_contact">Importa contatti</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 2
-	%s: 0 Original: 2
-	%d: 0 Original: 0 -->
-     <!-- Original string: "Scanner requires permissions to access your camera and make photos. Scanner also needs to connect to the internet to work normally. You'll be deemed to have read and agreed to our %1$sPrivacy Policy%2$s when you tap \"Agree\" below." -->
-     <string name="impunity_declaration_content">This app needs to connect to the internet and location services to work normally.</string>
+     <string name="impunity_declaration_content">Scanner requires permissions to access your camera and make photos. Scanner also needs to connect to the internet to work normally. You'll be deemed to have read and agreed to our %1$sPrivacy Policy%2$s when you tap \"Agree\" below.".</string>
      <string name="impunity_declaration_negative_text">Esci</string>
      <string name="impunity_declaration_title">Termini di servizio</string>
      <string name="keywords_search_code">Scanner;Scansione;codice QR;QR;Riconoscimento;Codice a barre;Codici a barre;Prodotto;Prodotti;Alipay;WeChat;Come scansionare un codice QR;Come scansionare un codice a barre;Come scansionare;MIUI Scanner</string>
