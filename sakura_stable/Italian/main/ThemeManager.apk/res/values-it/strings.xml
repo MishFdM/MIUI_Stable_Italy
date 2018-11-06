@@ -8,7 +8,7 @@
      <string name="abc_action_menu_overflow_description">Piú opzioni</string>
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
-     <string name="abc_activitychooserview_choose_application">"Seleziona un'app"</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">DISATTIVA</string>
      <string name="abc_capital_on">ATTIVA</string>
      <string name="abc_search_hint">Ricerca…</string>
@@ -59,7 +59,7 @@
      <string name="component_category_finest_title">In evidenza</string>
      <string name="component_category_more_title">Altro</string>
      <string name="component_title_ringtone">Suonerie</string>
-     <string name="component_title_video_wallpaper">Wallpaper movies</string>
+     <string name="component_title_video_wallpaper">Sfondi filmato</string>
      <string name="component_title_wallpaper">Sfondi</string>
      <string name="current_using_desktop_wallpaper_text">Home</string>
      <string name="current_using_lockscreen_wallpaper_text">Schermata di blocco</string>
@@ -185,7 +185,7 @@
      <string name="my_gifts">Regali</string>
      <string name="my_gifts_purchased">Acquistati</string>
      <string name="my_gifts_received">Ricevuti</string>
-     <string name="no_data">Impossibile collegare alla rete</string>
+     <string name="no_data">Impossibile collegarsi alla rete</string>
      <string name="online_no_network">Impossibile connettere alla rete</string>
      <string name="online_precust_abstract">Astratti</string>
      <string name="online_precust_animal">Animali</string>

@@ -198,7 +198,7 @@
      <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_baby_lock_wallpaper_confirm_msg">Annullare lo sfondo del bambino e ripristinare lo sfondo predefinito della Schermata di blocco?</string>
-     <string name="cancel_download_btn_text">Stop</string>
+     <string name="cancel_download_btn_text">Interrompi</string>
      <string name="cancel_hint">Operazione annullata</string>
      <string name="cannot_remove_creator">Impossibile rimuovere il proprietario</string>
      <string name="cannot_send_message">Impossibile inviare il messaggio</string>
@@ -637,6 +637,9 @@
      <string name="cloudfolder_name_reserved">Il nome della cartella è riservato.</string>
      <string name="collage__talkback_effect">effetto %d</string>
      <string name="collage_choose">Scegli</string>
+     <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+     <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+     <string name="collage_drawable_rect_date_year">yyyy</string>
      <string name="collage_margin_text">Margine</string>
      <string name="collage_mirror">Specchio</string>
      <string name="collage_poster_global_cat_text">Cuccioli</string>
@@ -647,7 +650,7 @@
      <string name="collage_poster_global_summer_flower_text">FIORI ESTIVI</string>
      <string name="collage_poster_global_tea_text">TÉ POMERIDIANO</string>
      <string name="collage_rotate">Ruota</string>
-     <string name="collage_title_layout">Layout</string>
+     <string name="collage_title_layout">Disposizione</string>
      <string name="collage_title_poster">Poster</string>
      <string name="collaps_people">Chiudi altre persone</string>
      <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
@@ -1239,6 +1242,10 @@ per personalizzare la Galleria"</string>
      <string name="play_gif_desc">Riproduci GIF</string>
      <string name="play_video_desc">Riproduci video</string>
      <string name="preparing_data">Preparazione…</string>
+     <string name="privacy_permission_request_message">"Galleria richiede l'accesso a %3$s. Le informazioni raccolte saranno utilizzate in conformità con la nostra %1$s e %2$s. Consentire?"</string>
+     <string name="privacy_permission_request_negative">Limita</string>
+     <string name="privacy_permission_request_positive">Consenti</string>
+     <string name="privacy_permission_request_title">Permessi richiesti</string>
      <string name="projection_cancel">Annulla</string>
      <string name="projection_checkbox_text">Ricorda questo schermo</string>
      <string name="projection_device_connection_failed">Impossibile collegare il proiettore</string>

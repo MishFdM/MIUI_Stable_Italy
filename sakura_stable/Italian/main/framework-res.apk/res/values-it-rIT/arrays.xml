@@ -1,31 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="app_ops_labels">
         <item>Prova ad abilitare il Wi-Fi</item>
         <item>Prova ad abilitare il Bluetooth</item>
-     </string-array>
-     <string-array name="config_nightDisplayColorTemperatureCoefficients">
-        <item>0.0</item>
-        <item>0.0</item>
-        <item>1.0</item>
-        <item>-0.00000000962353339</item>
-        <item>0.000153045476</item>
-        <item>0.390782778</item>
-        <item>-0.0000000189359041</item>
-        <item>0.000302412211</item>
-        <item>-0.198650895</item>
-     </string-array>
-     <string-array name="config_nightDisplayColorTemperatureCoefficientsNative">
-        <item>0.0</item>
-        <item>0.0</item>
-        <item>1.0</item>
-        <item>-0.00000000962353339</item>
-        <item>0.000153045476</item>
-        <item>0.390782778</item>
-        <item>-0.0000000189359041</item>
-        <item>0.000302412211</item>
-        <item>-0.198650895</item>
      </string-array>
      <string-array name="emailAddressTypes">
         <item>Casa</item>
@@ -104,8 +81,8 @@
         <item>Casa</item>
         <item>Lavoro</item>
         <item>Altro</item>
-        <item>Personalizzato</item>
-     </string-array>
+     <item>Personalizzato</item>
+		</string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
         <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>
      </string-array>
