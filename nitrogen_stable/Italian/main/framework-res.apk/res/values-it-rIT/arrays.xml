@@ -5,28 +5,6 @@
         <item>Prova ad abilitare il Wi-Fi</item>
         <item>Prova ad abilitare il Bluetooth</item>
      </string-array>
-     <string-array name="config_nightDisplayColorTemperatureCoefficients">
-        <item>0.0</item>
-        <item>0.0</item>
-        <item>1.0</item>
-        <item>-0.00000000962353339</item>
-        <item>0.000153045476</item>
-        <item>0.390782778</item>
-        <item>-0.0000000189359041</item>
-        <item>0.000302412211</item>
-        <item>-0.198650895</item>
-     </string-array>
-     <string-array name="config_nightDisplayColorTemperatureCoefficientsNative">
-        <item>0.0</item>
-        <item>0.0</item>
-        <item>1.0</item>
-        <item>-0.00000000962353339</item>
-        <item>0.000153045476</item>
-        <item>0.390782778</item>
-        <item>-0.0000000189359041</item>
-        <item>0.000302412211</item>
-        <item>-0.198650895</item>
-     </string-array>
      <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Lavoro</item>

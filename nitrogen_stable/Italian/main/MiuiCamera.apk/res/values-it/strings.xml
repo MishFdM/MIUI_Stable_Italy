@@ -36,6 +36,7 @@
      <string name="accessibility_hdr_off">HDR disattivato</string>
      <string name="accessibility_hdr_on">HDR attivato</string>
      <string name="accessibility_intent_done_apply">Fatto</string>
+     <string name="accessibility_intent_done_retry">Retake</string>
      <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
      <string name="accessibility_more">Altro</string>
      <string name="accessibility_open">Attivato</string>
@@ -578,7 +579,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="user_agreement4">Informativa sulla Privacy</string>
      <string name="user_notice_identify_summary_format">"Utilizzando questo servizio accetti i %1$s e %2$s di Xiaomi.</string>
      <string name="user_notice_title">Termini e condizioni</string>
-     <string name="video_camera_label">Videocamera</string>
+     <string name="video_camera_label">Video</string>
      <string name="video_effect_entry_blackwhite">B/N</string>
      <string name="video_effect_entry_bygone">Passato</string>
      <string name="video_effect_entry_film">Film</string>
@@ -586,5 +587,6 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="video_effect_entry_holiday">Riflessi</string>
      <string name="video_effect_entry_polaroid">Polaroid</string>
      <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
+     <string name="view_privacy_policy">View Privacy Policy</string>
      <string name="wait">Just a sec…</string>
 </resources>

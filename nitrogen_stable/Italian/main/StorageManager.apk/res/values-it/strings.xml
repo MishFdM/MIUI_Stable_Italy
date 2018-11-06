@@ -6,7 +6,7 @@
      <string name="abc_action_menu_overflow_description">More options</string>
      <string name="abc_action_mode_done">Done</string>
      <string name="abc_activity_chooser_view_see_all">See all</string>
-     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
      <string name="abc_search_hint">Search…</string>
@@ -282,12 +282,12 @@ Sample Rate"</string>
      <string name="pointer_location">Pointer location</string>
      <string name="pointer_location_summary">Screen overlay showing current touch data</string>
      <string name="power_charging">%1$s - %2$s</string>
-     <string name="power_charging_duration">^1 - ^2 until fully charged</string>
+     <string name="power_charging_duration">^1 - ^2 until full</string>
      <string name="power_discharging_duration">^1 - about ^2 left</string>
      <string name="power_discharging_duration_enhanced">^1 - about ^2 left based on your usage</string>
      <string name="power_discharging_duration_short">^1 - ^2 left</string>
-     <string name="power_remaining_charging_duration_only">1 left until fully charged</string>
-     <string name="power_remaining_duration_only">About ^1 left</string>
+     <string name="power_remaining_charging_duration_only">^1 left until fully charged</string>
+     <string name="power_remaining_duration_only">Approx. ^1 left</string>
      <string name="power_remaining_duration_only_enhanced">About ^1 left based on your usage</string>
      <string name="power_remaining_duration_only_short">^1 left</string>
      <string name="power_remaining_duration_only_short_enhanced">^1 left based on your usage</string>

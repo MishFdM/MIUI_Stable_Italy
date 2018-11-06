@@ -603,8 +603,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_data_introduction_msg">I dati del viso possono essere utilizzati per sbloccare il dispositivo o verificare la tua identità. Aggiungi la password della schermata di blocco prima di aggiungere i dati del tuo viso.</string>
      <string name="face_data_introduction_next">Prossimo</string>
      <string name="face_data_introduction_title">Riconoscimento del volto</string>
-     <string name="face_data_manage_delete">Eliminare dati facciali?</string>
-     <string name="face_data_manage_delete_msg">Elimina dati facciali</string>
+     <string name="face_data_manage_delete">Eliminare dati del volto?</string>
+     <string name="face_data_manage_delete_msg">Elimina dati del volto</string>
      <string name="face_data_manage_delete_sure">Non potrai sbloccare il dispositivo utilizzando i dati del tuo viso dopo averlo eliminati.</string>
      <string name="face_data_manage_delete_title">Dati volto</string>
      <string name="face_data_manage_unlock_msg">Sblocca il dispositivo usando i dati del tuo viso</string>
@@ -677,8 +677,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="fs_gesture_skip">Indietro</string>
      <string name="fs_gesture_switch_recents_summary">Scorri dal basso e attendi un secondo</string>
      <string name="fsg_demo_back">Indietro</string>
-     <string name="fsg_demo_go_on">Vai su</string>
-     <string name="go_to_web">Naviga nel web</string>
+     <string name="fsg_demo_go_on">Inizia</string>
+     <string name="go_to_web">Naviga in Internet</string>
      <string name="got_it">Fatto</string>
      <string name="gps_notification_found_text">Posizione GPS stabilita</string>
      <string name="gps_notification_searching_text">Ricerca del GPS</string>
@@ -930,7 +930,7 @@ Riprova tra %2$d secondi."</string>
      <string name="local_backup_password_toast_validation_failure">Impostazione password di backup fallita</string>
      <string name="lock_screen_date">EEEE, d MMMM</string>
      <string name="lock_screen_date_12">EEEE, d MMMM</string>
-     <string name="lock_screen_no_sim_card">Nessuna SIM</string>
+     <string name="lock_screen_no_sim_card">No SIM card</string>
      <string name="lock_wallpaper_enter">Inserisci</string>
      <string name="lock_wallpaper_learn_more">Altro</string>
      <string name="lockscreen_access_pattern_area">Area sequenza</string>
@@ -1454,7 +1454,7 @@ essere monitorata"</string>
      <string name="status_bar_alarm">Sveglia</string>
      <string name="status_bar_clear_all_button">Pulisci</string>
      <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
-     <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
+     <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
      <string name="status_bar_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_date_format_12">EEEE, dd MMMM</string>
      <string name="status_bar_ethernet">LAN</string>
@@ -1640,7 +1640,7 @@ Il tuo telefono potrebbe diventare troppo caldo se:
      <string name="usb_debugging_title">Consentire debug USB?</string>
      <string name="usb_device_confirm_prompt">Aprire %1$s quando questo dispositivo USB è collegato?</string>
      <string name="usb_device_permission_prompt">"Consentire all'applicazione %1$s di accedere al dispositivo USB?"</string>
-     <string name="usb_function_charging_text">Collegato in modalità ricarica</string>
+     <string name="usb_function_charging_text">Connected in charging mode</string>
      <string name="usb_mode_dont_ask">Non chiedere più</string>
      <string name="usb_mode_mount_storage_title">Apri archivio USB</string>
      <string name="usb_mode_notification">Archivio USB</string>
