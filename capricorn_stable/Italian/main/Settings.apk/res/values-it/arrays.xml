@@ -27,7 +27,7 @@
         <item>Scala animazione 10x</item>
      </string-array>
      <string-array name="ap_identify">
-        <item>default</item>
+        <item>Predefinito</item>
         <item>iPhone</item>
      </string-array>
      <string-array name="apn_auth_entries">
@@ -99,20 +99,20 @@
         <item>Attiva VPN</item>
         <item>Cambia wlan</item>
         <item>Cambia bluetooth</item>
-        <item>assisti screenshot</item>
-        <item>leggi lo stato del telefono</item>
-        <item>aggiungi voicemail</item>
-        <item>utilizza sip</item>
-        <item>processa chiamata in uscita</item>
-        <item>impronta digitale</item>
-        <item>sensori del corpo</item>
-        <item>leggi trasmissione cella</item>
-        <item>posizione fittizia</item>
-        <item>leggi archivio</item>
-        <item>scrivi archivio</item>
-        <item>attiva schermo</item>
-        <item>recupera account</item>
-        <item>esegui in background</item>
+        <item>Assisti screenshot</item>
+        <item>Leggi lo stato del telefono</item>
+        <item>Aggiungi voicemail</item>
+        <item>Utilizza sip</item>
+        <item>Processa chiamata in uscita</item>
+        <item>Impronta digitale</item>
+        <item>Sensori del corpo</item>
+        <item>Leggi trasmissione cella</item>
+        <item>Posizione fittizia</item>
+        <item>Leggi archivio</item>
+        <item>Scrivi archivio</item>
+        <item>Attiva schermo</item>
+        <item>Recupera account</item>
+        <item>Esegui in background</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
@@ -147,7 +147,7 @@
         <item>lettura degli appunti</item>
         <item>modifica degli appunti</item>
         <item>pulsanti contenuti multimediali</item>
-        <item>focus audio</item>
+        <item>messa a fuoco audio</item>
         <item>volume principale</item>
         <item>volume voce</item>
         <item>volume suoneria</item>
@@ -159,9 +159,9 @@
         <item>monitora posizione</item>
         <item>monitora localizzazione a consumo elevato</item>
         <item>ottieni statistiche uso</item>
-        <item>muto/non muto microfono</item>
+        <item>microfono silenziato/sonoro</item>
         <item>finestra toast</item>
-        <item>media project</item>
+        <item>proietta media</item>
         <item>attiva VPN</item>
         <item>cambia wi-fi</item>
         <item>cambia bluetooth</item>
@@ -251,11 +251,11 @@
      <string-array name="captioning_typeface_selector_titles">
         <item>Predefinito</item>
         <item>Sans-serif</item>
-        <item>Sans-serif condensed</item>
-        <item>Sans-serif monospace</item>
+        <item>Sans-serif condensato</item>
+        <item>Sans-serif mono-spazio</item>
         <item>Serif</item>
         <item>Serif monospace</item>
-        <item>Casual</item>
+        <item>Casuale</item>
         <item>Corsivo</item>
         <item>Maiuscoletto</item>
      </string-array>
@@ -303,12 +303,12 @@
         <item>Kinshasa</item>
         <item>Lagos</item>
         <item>Maseru</item>
-        <item>Mogadishu</item>
+        <item>Mogadiscio</item>
         <item>Nairobi</item>
         <item>São Tomé</item>
         <item>Timbuktu</item>
         <item>Tripoli</item>
-        <item>Tunis</item>
+        <item>Tunisi</item>
         <item>Anchorage</item>
         <item>Mendoza</item>
         <item>Aruba</item>
@@ -319,7 +319,7 @@
         <item>Buenos Aires</item>
         <item>Cancun</item>
         <item>Caracas</item>
-        <item>Cayman Islands</item>
+        <item>Isole Cayman</item>
         <item>Chicago</item>
         <item>Costa Rica</item>
         <item>Curaçao</item>
@@ -351,14 +351,14 @@
         <item>Managua</item>
         <item>Martinique</item>
         <item>Metlakatla</item>
-        <item>Mexico City</item>
+        <item>Città del Messico</item>
         <item>Monterrey</item>
         <item>Montevideo</item>
         <item>Montreal</item>
         <item>Nassau</item>
         <item>New York</item>
         <item>Beulah</item>
-        <item>New Salem</item>
+        <item>Nuova Salem</item>
         <item>Panama</item>
         <item>Phoenix</item>
         <item>Port of Spain</item>
@@ -374,7 +374,7 @@
         <item>Toronto</item>
         <item>Vancouver</item>
         <item>Winnipeg</item>
-        <item>South Pole</item>
+        <item>Polo Sud</item>
         <item>Longyearbyen</item>
         <item>Almaty</item>
         <item>Amman</item>
@@ -386,7 +386,7 @@
         <item>Bangkok</item>
         <item>Beirut</item>
         <item>Calcutta</item>
-        <item>Damascus</item>
+        <item>Damasco</item>
         <item>Dhaka</item>
         <item>Dubai</item>
         <item>Gaza</item>
@@ -394,7 +394,7 @@
         <item>Ho Chi Minh</item>
         <item>Hong Kong</item>
         <item>Jakarta</item>
-        <item>Jerusalem</item>
+        <item>Gerusalemme</item>
         <item>Kabul</item>
         <item>Karachi</item>
         <item>Kathmandu</item>
@@ -417,67 +417,67 @@
         <item>Tokyo</item>
         <item>Ulaanbaatar</item>
         <item>Bermuda</item>
-        <item>Canary Islands</item>
-        <item>Cape Verde</item>
+        <item>Isole Canarie</item>
+        <item>Capo Verde</item>
         <item>Reykjavik</item>
         <item>Adelaide</item>
         <item>Brisbane</item>
         <item>Canberra</item>
         <item>Darwin</item>
         <item>Melbourne</item>
-        <item>New South Wales</item>
+        <item>Nuovo Galles del Sud</item>
         <item>Perth</item>
         <item>Queensland</item>
         <item>Sydney</item>
         <item>Victoria</item>
         <item>Newfoundland</item>
         <item>Saskatchewan</item>
-        <item>Easter Island</item>
+        <item>Isola di Pasqua</item>
         <item>Amsterdam</item>
         <item>Andorra</item>
-        <item>Athens</item>
+        <item>Atene</item>
         <item>Belfast</item>
-        <item>Belgrade</item>
-        <item>Berlin</item>
+        <item>Belgrado</item>
+        <item>Berlino</item>
         <item>Bratislava</item>
-        <item>Brussels</item>
-        <item>Bucharest</item>
+        <item>Bruxelles</item>
+        <item>Bucarest</item>
         <item>Budapest</item>
         <item>Chisinau</item>
         <item>Copenhagen</item>
-        <item>Dublin</item>
-        <item>Gibraltar</item>
+        <item>Dublino</item>
+        <item>Gibilterra</item>
         <item>Helsinki</item>
-        <item>Isle of Man</item>
+        <item>Isola di Man</item>
         <item>Istanbul</item>
-        <item>Lisbon</item>
-        <item>London</item>
-        <item>Luxembourg</item>
+        <item>Lisbona</item>
+        <item>Londra</item>
+        <item>Lussemburgo</item>
         <item>Madrid</item>
         <item>Malta</item>
         <item>Minsk</item>
         <item>Monaco</item>
-        <item>Moscow</item>
+        <item>Mosca</item>
         <item>Oslo</item>
-        <item>Paris</item>
-        <item>Prague</item>
+        <item>Parigi</item>
+        <item>Praga</item>
         <item>Riga</item>
-        <item>Rome</item>
+        <item>Roma</item>
         <item>San Marino</item>
         <item>Sarajevo</item>
         <item>Simferopol</item>
         <item>Skopje</item>
         <item>Sofia</item>
-        <item>Stockholm</item>
+        <item>Stoccolma</item>
         <item>Tallinn</item>
-        <item>Vatican City</item>
+        <item>Città del Vaticano</item>
         <item>Vienna</item>
         <item>Vilnius</item>
-        <item>Warsaw</item>
-        <item>Zagreb</item>
-        <item>Zurich</item>
+        <item>Varsavia</item>
+        <item>Zagabria</item>
+        <item>Zurigo</item>
         <item>Antananarivo</item>
-        <item>Maldives</item>
+        <item>Maldive</item>
         <item>Mauritius</item>
         <item>Auckland</item>
         <item>Fiji</item>
@@ -513,7 +513,7 @@
         <item>Baltimore</item>
         <item>Nashville</item>
         <item>Milwaukee</item>
-        <item>Oklahoma City</item>
+        <item>Città di Oklahoma</item>
         <item>Las Vegas</item>
         <item>Albuquerque</item>
         <item>Tucson</item>
@@ -527,7 +527,7 @@
         <item>Mountain View</item>
         <item>Reno</item>
         <item>Doha</item>
-        <item>Beijing</item>
+        <item>Pechino</item>
         <item>Mumbai</item>
         <item>Delhi</item>
         <item>Osaka</item>
@@ -535,13 +535,13 @@
         <item>"Sana'a"</item>
         <item>Barcelona</item>
         <item>Munich</item>
-        <item>Milan</item>
-        <item>Frankfurt</item>
+        <item>Milano</item>
+        <item>Francoforte</item>
         <item>Hanoi</item>
         <item>Ankara</item>
         <item>Bangalore</item>
         <item>Brasília</item>
-        <item>Cape Town</item>
+        <item>Città del Capo</item>
         <item>Islamabad</item>
         <item>Rio de Janeiro</item>
         <item>Ann Arbor</item>
@@ -559,11 +559,11 @@
         <item>Chihuahua</item>
         <item>Gurgaon</item>
         <item>Manchester</item>
-        <item>Kyiv</item>
-        <item>St. Petersburg</item>
-        <item>Kraków</item>
-        <item>Wroclaw</item>
-        <item>Hamburg</item>
+        <item>Kiev</item>
+        <item>San. Petersburg</item>
+        <item>Cracovia</item>
+        <item>Breslavia</item>
+        <item>Amburgo</item>
         <item>Oulu</item>
         <item>Haifa</item>
         <item>San Juan</item>
@@ -594,7 +594,7 @@
         <item>Africa/Kinshasa</item>
         <item>Africa/Lagos</item>
         <item>Africa/Maseru</item>
-        <item>Africa/Mogadishu</item>
+        <item>Africa/Mogadiscio</item>
         <item>Africa/Nairobi</item>
         <item>Africa/Sao_Tome</item>
         <item>Africa/Timbuktu</item>
@@ -665,8 +665,8 @@
         <item>America/Toronto</item>
         <item>America/Vancouver</item>
         <item>America/Winnipeg</item>
-        <item>Antarctica/South_Pole</item>
-        <item>Arctic/Longyearbyen</item>
+        <item>Antarctide/Polo_Sud</item>
+        <item>Arctico/Longyearbyen</item>
         <item>Asia/Almaty</item>
         <item>Asia/Amman</item>
         <item>Asia/Anadyr</item>
@@ -677,7 +677,7 @@
         <item>Asia/Bangkok</item>
         <item>Asia/Beirut</item>
         <item>Asia/Calcutta</item>
-        <item>Asia/Damascus</item>
+        <item>Asia/Damasco</item>
         <item>Asia/Dhaka</item>
         <item>Asia/Dubai</item>
         <item>Asia/Gaza</item>
@@ -685,7 +685,7 @@
         <item>Asia/Ho_Chi_Minh</item>
         <item>Asia/Hong_Kong</item>
         <item>Asia/Jakarta</item>
-        <item>Asia/Jerusalem</item>
+        <item>Asia/Gerusalemme</item>
         <item>Asia/Kabul</item>
         <item>Asia/Karachi</item>
         <item>Asia/Kathmandu</item>
@@ -707,9 +707,9 @@
         <item>Asia/Tel_Aviv</item>
         <item>Asia/Tokyo</item>
         <item>Asia/Ulaanbaatar</item>
-        <item>Atlantic/Bermuda</item>
-        <item>Atlantic/Canary</item>
-        <item>Atlantic/Cape_Verde</item>
+        <item>Atlantico/Bermuda</item>
+        <item>Atlantico/Canarie</item>
+        <item>Atlantico/Capo_Verde</item>
         <item>Atlantic/Reykjavik</item>
         <item>Australia/Adelaide</item>
         <item>Australia/Brisbane</item>
@@ -723,61 +723,61 @@
         <item>Australia/Victoria</item>
         <item>Canada/Newfoundland</item>
         <item>Canada/Saskatchewan</item>
-        <item>Chile/EasterIsland</item>
-        <item>Europe/Amsterdam</item>
-        <item>Europe/Andorra</item>
-        <item>Europe/Athens</item>
-        <item>Europe/Belfast</item>
-        <item>Europe/Belgrade</item>
-        <item>Europe/Berlin</item>
-        <item>Europe/Bratislava</item>
-        <item>Europe/Brussels</item>
-        <item>Europe/Bucharest</item>
-        <item>Europe/Budapest</item>
-        <item>Europe/Chisinau</item>
-        <item>Europe/Copenhagen</item>
-        <item>Europe/Dublin</item>
-        <item>Europe/Gibraltar</item>
-        <item>Europe/Helsinki</item>
-        <item>Europe/Isle_of_Man</item>
-        <item>Europe/Istanbul</item>
-        <item>Europe/Lisbon</item>
-        <item>Europe/London</item>
-        <item>Europe/Luxembourg</item>
-        <item>Europe/Madrid</item>
-        <item>Europe/Malta</item>
-        <item>Europe/Minsk</item>
-        <item>Europe/Monaco</item>
-        <item>Europe/Moscow</item>
-        <item>Europe/Oslo</item>
-        <item>Europe/Paris</item>
-        <item>Europe/Prague</item>
-        <item>Europe/Riga</item>
-        <item>Europe/Rome</item>
-        <item>Europe/San_Marino</item>
-        <item>Europe/Sarajevo</item>
-        <item>Europe/Simferopol</item>
-        <item>Europe/Skopje</item>
-        <item>Europe/Sofia</item>
-        <item>Europe/Stockholm</item>
-        <item>Europe/Tallinn</item>
-        <item>Europe/Vatican</item>
-        <item>Europe/Vienna</item>
-        <item>Europe/Vilnius</item>
-        <item>Europe/Warsaw</item>
-        <item>Europe/Zagreb</item>
-        <item>Europe/Zurich</item>
+        <item>Cile/EasterIsland</item>
+        <item>Europa/Amsterdam</item>
+        <item>Europa/Andorra</item>
+        <item>Europa/Atene</item>
+        <item>Europa/Belfast</item>
+        <item>Europa/Belgrado</item>
+        <item>Europa/Berlino</item>
+        <item>Europa/Bratislava</item>
+        <item>Europa/Bruxelles</item>
+        <item>Europa/Bucarest</item>
+        <item>Europa/Budapest</item>
+        <item>Europa/Chisinau</item>
+        <item>Europa/Copenhagen</item>
+        <item>Europa/Dublino</item>
+        <item>Europa/Gibilterra</item>
+        <item>Europa/Helsinki</item>
+        <item>Europa/Isola_di_Man</item>
+        <item>Europa/Istanbul</item>
+        <item>Europa/Lisbona</item>
+        <item>Europa/Londra</item>
+        <item>Europa/Lussemburgo</item>
+        <item>Europa/Madrid</item>
+        <item>Europa/Malta</item>
+        <item>Europa/Minsk</item>
+        <item>Europa/Monaco</item>
+        <item>Europa/Mosca</item>
+        <item>Europa/Oslo</item>
+        <item>Europa/Parigi</item>
+        <item>Europa/Praga</item>
+        <item>Europa/Riga</item>
+        <item>Europa/Roma</item>
+        <item>Europa/San_Marino</item>
+        <item>Europa/Sarajevo</item>
+        <item>Europa/Sinferopoli</item>
+        <item>Europa/Skopje</item>
+        <item>Europa/Sofia</item>
+        <item>Europa/Stoccolma</item>
+        <item>Europa/Tallinn</item>
+        <item>Europa/Vaticano</item>
+        <item>Europa/Vienna</item>
+        <item>Europa/Vilnius</item>
+        <item>Europa/Varsavka</item>
+        <item>Europa/Zagabria</item>
+        <item>Europa/Zurigo</item>
         <item>Indian/Antananarivo</item>
-        <item>Indian/Maldives</item>
+        <item>Indian/Maldive</item>
         <item>Indian/Mauritius</item>
-        <item>Pacific/Auckland</item>
-        <item>Pacific/Fiji</item>
-        <item>Pacific/Guam</item>
-        <item>Pacific/Honolulu</item>
-        <item>Pacific/Kiritimati</item>
-        <item>Pacific/Noumea</item>
-        <item>Pacific/Samoa</item>
-        <item>Pacific/Tahiti</item>
+        <item>Pacifico/Auckland</item>
+        <item>Pacifico/Fiji</item>
+        <item>Pacifico/Guam</item>
+        <item>Pacifico/Honolulu</item>
+        <item>Pacifico/Isola Christmas</item>
+        <item>Pacifico/Numea</item>
+        <item>Pacifico/Samoa</item>
+        <item>Pacifico/Tahiti</item>
         <item>America/Antigua</item>
         <item>America/Chicago</item>
         <item>America/New_York</item>
@@ -824,12 +824,12 @@
         <item>Asia/Tokyo</item>
         <item>Asia/Karachi</item>
         <item>Asia/Riyadh</item>
-        <item>Europe/Madrid</item>
-        <item>Europe/Berlin</item>
-        <item>Europe/Rome</item>
-        <item>Europe/Berlin</item>
+        <item>Europa/Madrid</item>
+        <item>Europa/Berlin</item>
+        <item>Europa/Rome</item>
+        <item>Europa/Berlin</item>
         <item>Asia/Bangkok</item>
-        <item>Europe/Istanbul</item>
+        <item>Europa/Istanbul</item>
         <item>Asia/Kolkata</item>
         <item>America/Sao_Paulo</item>
         <item>Africa/Johannesburg</item>
@@ -849,15 +849,15 @@
         <item>Asia/Colombo</item>
         <item>America/Chihuahua</item>
         <item>Asia/Kolkata</item>
-        <item>Europe/London</item>
-        <item>Europe/Bucharest</item>
-        <item>Europe/Moscow</item>
-        <item>Europe/Warsaw</item>
-        <item>Europe/Warsaw</item>
-        <item>Europe/Berlin</item>
-        <item>Europe/Bucharest</item>
-        <item>Asia/Jerusalem</item>
-        <item>America/Puerto Rico</item>
+        <item>Europa/Londra</item>
+        <item>Europa/Bucharest</item>
+        <item>Europa/Mosca</item>
+        <item>Europa/Varsavia</item>
+        <item>Europa/Varsavia</item>
+        <item>Europa/Berlino</item>
+        <item>Europa/Bucarest</item>
+        <item>Asia/Gerusalemme</item>
+        <item>America/Porto Rico</item>
         <item>America/Tegucigalpa</item>
         <item>America/Paramaribo</item>
         <item>America/Panama</item>
@@ -868,7 +868,7 @@
         <item>Colori ottimizzati per contenuti digitali</item>
      </string-array>
      <string-array name="color_mode_names">
-        <item>Vibrante (default)</item>
+        <item>Vibrante (predefinito)</item>
         <item>Naturale</item>
         <item>Normale</item>
      </string-array>
@@ -884,9 +884,9 @@
         <item>Schermata di blocco</item>
         <item>Protezione privacy</item>
         <item>Modalità Genitore</item>
-        <item>File explorer</item>
-        <item>Blocco applicazioni</item>
-        <item>Spazio Secondario</item>
+        <item>Esplora File</item>
+        <item>Blocco app</item>
+        <item>Secondo Spazio</item>
      </string-array>
      <string-array name="connect_mode_entries">
         <item>Compatibilità</item>
@@ -895,6 +895,24 @@
      <string-array name="data_usage_data_range">
         <item>Ultimi 30 giorni</item>
         <item>Imposta ciclo di utilizzo...</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>Oggi (dati)</item>
+        <item>Questo mese (dati)</item>
+        <item>Ultimo nese (dati)</item>
+        <item>Oggi Wi-Fi</item>
+        <item>Questo mese Wi-Fi</item>
+        <item>Ultimo mese Wi-Fi</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Oggi "</item>
+        <item>"Questo mese "</item>
+        <item>"Ultimo mese "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Oggi: "</item>
+        <item>"Questo mese: "</item>
+        <item>"Ultimo mese: "</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">
         <item>Disattivato</item>
@@ -1005,8 +1023,8 @@
      </string-array>
      <string-array name="long_press_volume_down_action">
         <item>Nessuno</item>
-        <item>Scatto rapido(foto)</item>
-        <item>Scatto rapido(video)</item>
+        <item>Scatto rapido (foto)</item>
+        <item>Scatto rapido (video)</item>
         <item>Collegamenti ai trasporti pubblici</item>
      </string-array>
      <string-array name="max_number_titles">
@@ -1052,10 +1070,21 @@
         <item>"Disinstalla dispositivo fusermount -u /media/mtp
  Nota: solo per Ubuntu 8.04"</item>
      </string-array>
+     <string-array name="mvno_type_entries">
+        <item>Nessuno</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
+     </string-array>
      <string-array name="network_speed_slow_summary">
         <item>La rete è lenta a causa del traffico intenso</item>
         <item>La rete è lenta a causa del segnale debole</item>
         <item>In movimento…</item>
+     </string-array>
+     <string-array name="notch_battery_indicator_style_entries">
+        <item>Grafico</item>
+        <item>Percentuale</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
@@ -1207,6 +1236,14 @@
         <item>4M</item>
         <item>16M</item>
      </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Disattiva</item>
+        <item>Errore</item>
+        <item>Avvisa</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Disattivato</item>
         <item>Area ritaglio non rettangolare blu</item>
@@ -1223,14 +1260,9 @@
         <item>Consenti</item>
         <item>Nega</item>
      </string-array>
-     <string-array name="status_bar_show_carrier_entries">
-        <item>Mostra solo nella schermata di blocco e nel pannello delle notifiche</item>
-        <item>"Mostra sempre il nome dell\'operatore"</item>
-        <item>"Non mostrare mai il nome dell\'operatore"</item>
-     </string-array>
-     <string-array name="status_bar_style_entries">
-        <item>Combinato</item>
-        <item>Separato</item>
+     <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Ricerca</item>
+        <item>Impostazioni</item>
      </string-array>
      <string-array name="timezone_filters">
         <item>America</item>
@@ -1250,6 +1282,10 @@
         <item>Chiusa</item>
         <item>Modalità normale</item>
         <item>Modalità estrema</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Utilizzo mobile "</item>
+        <item>"Utilizzo Wi-Fi "</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
         <item>Animazioni disattivate</item>
@@ -1322,7 +1358,7 @@
         <item>Inizializzazione…</item>
         <item>Connessione…</item>
         <item>Connessa</item>
-        <item>Timeout</item>
+        <item>Sessione scaduta</item>
         <item>Operazione non riuscita</item>
      </string-array>
      <string-array name="vpn_types_long">
@@ -1338,7 +1374,7 @@
         <item>Sessione iniziata</item>
         <item>Chiusura sessione…</item>
         <item>Sessione fallita</item>
-        <item>Timeout creazione sessione, nuovo tentativo…</item>
+        <item>Sessione scaduta, nuovo tentativo…</item>
         <item>Dispositivo collegato</item>
      </string-array>
      <string-array name="whetstone_level_entries">
@@ -1397,9 +1433,10 @@
      <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-        <item>Proxy auto-config</item>
+        <item>Auto configurante</item>
      </string-array>
      <string-array name="wifi_signal">
+        <item>Scadente</item>
         <item>Scadente</item>
         <item>Discreta</item>
         <item>Buona</item>
