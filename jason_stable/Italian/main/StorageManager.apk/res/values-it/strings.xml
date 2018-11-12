@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Navigate home</string>
-     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Navigate up</string>
      <string name="abc_action_menu_overflow_description">More options</string>
      <string name="abc_action_mode_done">Done</string>
@@ -24,6 +23,8 @@
      <string name="accessibility_no_wifi">Wifi disconnected.</string>
      <string name="accessibility_wifi_off">Wifi off.</string>
      <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
+     <string name="accessibility_wifi_security_type_none">Open network</string>
+     <string name="accessibility_wifi_security_type_secured">Secure network</string>
      <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
      <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
      <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
@@ -37,12 +38,14 @@
      <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
      <string name="app_name">Gestione memoria</string>
      <string name="app_process_limit_title">Background process limit</string>
+     <string name="app_requesting_space">%1$s needs %2$s of space</string>
      <string name="automatic_storage_manager_activate_button">Turn on</string>
      <string name="automatic_storage_manager_activation_warning">Your storage is now being managed by the storage manager</string>
      <string name="automatic_storage_manager_cancel_button">No thanks</string>
      <string name="automatic_storage_manager_notification_summary">Let Storage Manager free up space by automatically removing old photos and videos when your phone starts to get full again.</string>
      <string name="automatic_storage_manager_notification_title">Your phone is low on space</string>
      <string name="automatic_storage_manager_service_label">Automatic Storage Management Service</string>
+     <string name="available_via_carrier">Available via %1$s</string>
      <string name="available_via_passpoint">Available via %1$s</string>
      <string name="battery_info_status_charging">Charging</string>
      <string name="battery_info_status_charging_lower">charging</string>
@@ -54,9 +57,13 @@
      <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Use for media audio</string>
      <string name="bluetooth_connected">Connected</string>
+     <string name="bluetooth_connected_battery_level">Connected, battery %1$s</string>
      <string name="bluetooth_connected_no_a2dp">Connected (no media)</string>
+     <string name="bluetooth_connected_no_a2dp_battery_level">Connected (no media), battery %1$s</string>
      <string name="bluetooth_connected_no_headset">Connected (no phone)</string>
+     <string name="bluetooth_connected_no_headset_battery_level">Connected (no phone), battery %1$s</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Connected (no phone or media)</string>
+     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connected (no phone or media), battery %1$s</string>
      <string name="bluetooth_connected_no_map">Connected (no message access)</string>
      <string name="bluetooth_connecting">Connecting…</string>
      <string name="bluetooth_disable_absolute_volume">Disable absolute volume</string>
@@ -120,6 +127,8 @@ Sample Rate"</string>
      <string name="bluetooth_select_a2dp_codec_type_dialog_title">Select Bluetooth Audio Codec</string>
      <string name="bluetooth_select_avrcp_version_dialog_title">Select Bluetooth AVRCP Version</string>
      <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP Version</string>
+     <string name="bluetooth_show_devices_without_names">Show Bluetooth devices without names</string>
+     <string name="bluetooth_show_devices_without_names_summary">Bluetooth devices without names (MAC addresses only) will be displayed</string>
      <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
      <string name="bt_hci_snoop_log_summary">Capture all bluetooth HCI packets in a file</string>
      <string name="bugreport_in_power">Bug report shortcut</string>
@@ -133,6 +142,7 @@ Sample Rate"</string>
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
+     <string name="connected_via_carrier">Connected via %1$s</string>
      <string name="connected_via_network_scorer">Automatically connected via %1$s</string>
      <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
      <string name="connected_via_passpoint">Connected via %1$s</string>
@@ -272,13 +282,16 @@ Sample Rate"</string>
      <string name="pointer_location">Pointer location</string>
      <string name="pointer_location_summary">Screen overlay showing current touch data</string>
      <string name="power_charging">%1$s - %2$s</string>
-     <string name="power_charging_duration">%1$s - %2$s until full</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
-     <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
-     <string name="power_discharging_duration_short">%1$s - %2$s left</string>
-     <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
-     <string name="power_remaining_duration_only">Approx. %1$s left</string>
-     <string name="power_remaining_duration_only_short">%1$s left</string>
+     <string name="power_charging_duration">^1 - ^2  until full</string>
+     <string name="power_discharging_duration">^1 - about ^2 left</string>
+     <string name="power_discharging_duration_enhanced">^1 - about ^2 left based on your usage</string>
+     <string name="power_discharging_duration_short">^1 - ^2 left</string>
+     <string name="power_remaining_charging_duration_only">^1 left until fully charged</string>
+     <string name="power_remaining_duration_only">About ^1 left</string>
+     <string name="power_remaining_duration_only_enhanced">About ^1 left based on your usage</string>
+     <string name="power_remaining_duration_only_short">^1 left</string>
+     <string name="power_remaining_duration_only_short_enhanced">^1 left based on your usage</string>
+     <string name="preference_summary_default_combination">%1$s / %2$s</string>
      <string name="process_kernel_label">Android OS</string>
      <string name="remaining_length_format">%1$s left</string>
      <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
@@ -319,6 +332,12 @@ Sample Rate"</string>
      <string name="show_touches">Show taps</string>
      <string name="show_touches_summary">Show visual feedback for taps</string>
      <string name="simulate_color_space">Simulate color space</string>
+     <string name="speed_label_fast">Fast</string>
+     <string name="speed_label_medium">Medium</string>
+     <string name="speed_label_okay">OK</string>
+     <string name="speed_label_slow">Slow</string>
+     <string name="speed_label_very_fast">Very Fast</string>
+     <string name="speed_label_very_slow">Very Slow</string>
      <string name="storage_menu_free">Free up space</string>
      <string name="strict_mode">Strict mode enabled</string>
      <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
@@ -332,7 +351,6 @@ Sample Rate"</string>
      <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
      <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
      <string name="tethering_settings_not_available">Tethering settings are not available for this user</string>
-     <string name="time_zone_gmt">GMT</string>
      <string name="title_convert_fbe">Converting to file based encryption</string>
      <string name="track_frame_time">Profile GPU rendering</string>
      <string name="transition_animation_scale_title">Transition animation scale</string>
@@ -397,8 +415,12 @@ Sample Rate"</string>
      <string name="wifi_aggressive_handover_summary">When enabled, WLAN will be more aggressive in handing over the data connection to Cellular, when WLAN signal is low</string>
      <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
      <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
+     <string name="wifi_ap_unable_to_handle_new_sta">Access point temporarily full</string>
      <string name="wifi_auth_password_wrong">Password may be incorrect</string>
      <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
+     <string name="wifi_cant_connect">"Can't connect"</string>
+     <string name="wifi_cant_connect_to_ap">"Can't connect to '%1$s'"</string>
+     <string name="wifi_check_password_try_again">Check password and try again</string>
      <string name="wifi_connected_no_internet">Connected, no Internet</string>
      <string name="wifi_disabled_by_recommendation_provider">Not connected due to low quality network</string>
      <string name="wifi_disabled_generic">Disabled</string>

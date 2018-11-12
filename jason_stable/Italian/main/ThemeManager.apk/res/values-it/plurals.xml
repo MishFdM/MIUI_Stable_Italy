@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="theme_batch_has_update_text">
         <item quantity="other">Aggiornamenti disponibili per %1$d temi.</item>

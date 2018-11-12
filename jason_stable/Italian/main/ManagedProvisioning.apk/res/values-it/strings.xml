@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="accept_and_continue">Accept &amp; continue</string>
      <string name="access_links">Access links</string>
@@ -15,6 +16,7 @@
      <string name="cancel_setup_and_factory_reset_dialog_ok">Resetta dispositivo</string>
      <string name="cancel_setup_and_factory_reset_dialog_title">Termina configurazione e resetta ad impostazioni di fabbrica?</string>
      <string name="cant_add_work_profile">"Can't add work profile"</string>
+     <string name="cant_replace_or_remove_work_profile">"Can't replace or remove work profile"</string>
      <string name="cant_set_up_device">"Can't set up device"</string>
      <string name="cant_set_up_profile">"Can't set up profile"</string>
      <string name="change_device_launcher">Change device launcher</string>
@@ -48,7 +50,6 @@
      <string name="device_owner_error_ok">OK</string>
      <string name="device_owner_error_package_invalid">"Non è possibile utilizzare l'app admin. Alcuni componenti sono mancanti o danneggiati. Contatta il reparto IT."</string>
      <string name="device_owner_error_wifi">Impossibile connettersi alla rete Wi-Fi</string>
-     <string name="device_owner_exists">I profili di lavoro non possono essere impostati o gestiti</string>
      <string name="device_owner_info">This device will be managed and kept secure by %1$s. Terms will apply. %2$s</string>
      <string name="device_owner_info_with_terms_headers">This device will be managed and kept secure by %1$s. Terms from %2$s will apply. %3$s</string>
      <string name="dismiss">Dismiss</string>
@@ -126,13 +127,11 @@
      <string name="the_following_is_your_mdm_for_device">La seguente applicazione gestirà il tuo dispositivo:</string>
      <string name="theft_protection_disabled_warning">Continuando, la protezione antifurto non verrà attivata. Per attivare la protezione antifurto annulla adesso e imposta questo dispositivo come personale.</string>
      <string name="this_will_reset_take_back_first_screen">This will reset your device and take you back to the first screen</string>
-     <string name="too_many_users_on_device_remove_user_try_again">There may be too many users on this device. Remove a user, then try again.</string>
      <string name="url_error">This link cannot be displayed.</string>
-     <string name="user_cannot_have_work_profiles_contact_admin">This user cannot have work profiles. Contact your admin.</string>
-     <string name="user_cant_have_work_profile_contact_admin">"This user can't have a work profile. For help, contact your admin."</string>
      <string name="user_consent_msg">Acconsento</string>
      <string name="user_setup_incomplete">Configurazione utente incompleta</string>
      <string name="view_terms">View terms</string>
+     <string name="work_profile_cant_be_added_contact_admin">A work profile can’t be added to this device. If you have questions, contact your admin.</string>
      <string name="work_profile_info">Work profile info</string>
      <string name="work_profile_setup_later_message">"Puoi impostare il tuo profilo di lavoro più tardi dall'app di gestione utilizzata dalla tua azienda."</string>
      <string name="work_profile_setup_later_title">"Interrompere l'impostazione del profilo?"</string>

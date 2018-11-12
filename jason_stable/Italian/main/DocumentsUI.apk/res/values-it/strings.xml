@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Naviga la Home</string>
-     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Navigate up</string>
      <string name="abc_action_menu_overflow_description">Altre opzioni</string>
      <string name="abc_action_mode_done">OK</string>
@@ -20,6 +19,7 @@
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Chiudi</string>
      <string name="allow">Consenti</string>
+     <string name="app_label">File</string>
      <string name="archive_loading_failed">Unable to open archive for browsing. File is either corrupt, or an unsupported format.</string>
      <string name="authentication_required">To view this directory, sign in to %1$s</string>
      <string name="button_compress">Compress</string>
@@ -100,7 +100,6 @@
      <string name="root_type_shortcut">Collegamenti</string>
      <string name="save_error">Impossibile salvare documento</string>
      <string name="search_menu_title">Ricerca</string>
-	 <string name="app_label">File</string>
      <string name="share_via">Condividi con</string>
      <string name="sign_in">Accedi</string>
      <string name="sort_dimension_date">Modificato</string>

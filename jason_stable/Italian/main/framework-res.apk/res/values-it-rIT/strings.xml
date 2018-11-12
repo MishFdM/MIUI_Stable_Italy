@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="BaMmi">Blocco chiamate</string>
      <string name="CLIRDefaultOffNextCallOff">ID chiamante generalmente non limitato. Prossima chiamata: non limitato</string>
@@ -16,6 +17,8 @@
      <string name="ColrMmi">Limitazione ID linea connessa</string>
      <string name="CwMmi">Avviso di chiamata</string>
      <string name="DndMmi">Non disturbare</string>
+     <string name="EmergencyCallWarningSummary">Emergency calls require a mobile network.</string>
+     <string name="EmergencyCallWarningTitle">WLAN calling is active</string>
      <string name="Midnight">Mezzanotte</string>
      <string name="NetworkPreferenceSwitchSummary">To improve reception, try changing the type selected at System &gt; Network &amp; Internet &gt; Mobile networks &gt; Preferred network type.</string>
      <string name="NetworkPreferenceSwitchTitle">Can’t reach network</string>
@@ -314,10 +317,6 @@ utilizzando %s"</string>
      <string name="deleted_key">%1$s eliminato</string>
      <string name="demo_restarting_message">Ripristino dispositivo…</string>
      <string name="demo_starting_message">Avvio demo…</string>
-     <string name="demo_user_inactivity_timeout_countdown">Perderai tutte le modifiche e la dimostrazione ripartirà di nuovo entro %1$s secondi…</string>
-     <string name="demo_user_inactivity_timeout_left_button">Annulla</string>
-     <string name="demo_user_inactivity_timeout_right_button">Resetta ora</string>
-     <string name="demo_user_inactivity_timeout_title">Resettare il dispositivo?</string>
      <string name="deny">Nega</string>
      <string name="deny_button">Nega</string>
      <string name="description_target_unlock_tablet">Scorri per sbloccare.</string>
@@ -327,8 +326,6 @@ utilizzando %s"</string>
 utilizzando %s"</string>
      <string name="dialog_alert_title">Attenzione</string>
      <string name="disable_accessibility_shortcut">Turn off Shortcut</string>
-     <string name="disable_tether_notification_message">Contact your admin for details</string>
-     <string name="disable_tether_notification_title">Tethering is disabled</string>
      <string name="display_manager_built_in_display_name">Schermo incorporato</string>
      <string name="display_manager_hdmi_display_name">Schermo HDMI</string>
      <string name="display_manager_overlay_display_name">Overlay n. %1$d</string>
@@ -341,18 +338,6 @@ utilizzando %s"</string>
      <string name="dump_heap_notification_detail">"Dump dell'heap raccolto; tocca per condividere"</string>
      <string name="dump_heap_text">"Il processo %1$s ha superato il suo limite di memoria pari a %2$s. È disponibile un dump dell'heap che puoi condividere con lo sviluppatore. Presta attenzione: questo dump dell'heap può contenere tue informazioni personali a cui l'applicazione ha accesso."</string>
      <string name="dump_heap_title">"Condividere il dump dell'heap?"</string>
-     <string name="durationDayHour">%1$d giorno %2$d ora</string>
-     <string name="durationDayHours">%1$d giorno %2$d ore</string>
-     <string name="durationDays">%1$d giorni</string>
-     <string name="durationHourMinute">%1$d ora %2$d minuto</string>
-     <string name="durationHourMinutes">%1$d ora %2$d minuti</string>
-     <string name="durationHours">%1$d ore</string>
-     <string name="durationMinute">%1$d minuto</string>
-     <string name="durationMinuteSecond">%1$d minuto %2$d secondo</string>
-     <string name="durationMinuteSeconds">%1$d minuto %2$d secondi</string>
-     <string name="durationMinutes">%1$d minuti</string>
-     <string name="durationSecond">%1$d secondo</string>
-     <string name="durationSeconds">%1$d secondi</string>
      <string name="editTextMenuTitle">Azioni testo</string>
      <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
      <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -621,7 +606,6 @@ Visita "<b>google.com/accounts/recovery</b>."</string>
      <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
      <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
      <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
-     <string name="kg_text_message_separator">" – "</string>
      <string name="kg_too_many_failed_attempts_countdown">Riprova fra %1$d secondi.</string>
      <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Hai digitato la tua password %d volte in modo errato. 
 
@@ -888,7 +872,7 @@ Riprova tra %d secondi."</string>
      <string name="notification_channel_emergency_callback">Emergency callback mode</string>
      <string name="notification_channel_foreground_service">Apps running in background</string>
      <string name="notification_channel_hotspot">WLAN Hotspot notification</string>
-     <string name="notification_channel_mobile_data_alert">Mobile data alerts</string>
+     <string name="notification_channel_mobile_data_status">Mobile data status</string>
      <string name="notification_channel_network_alert">Alerts</string>
      <string name="notification_channel_network_alerts">Network alerts</string>
      <string name="notification_channel_network_available">Network available</string>
@@ -905,11 +889,11 @@ Riprova tra %d secondi."</string>
      <string name="notification_channel_wfc">WLAN calling</string>
      <string name="notification_header_divider_symbol">•</string>
      <string name="notification_header_divider_symbol_with_spaces">" • "</string>
-     <string name="notification_hidden_by_policy_text">Contenuto nascosto da policy</string>
      <string name="notification_hidden_text">Contenuto nascosto</string>
      <string name="notification_inbox_ellipsis">…</string>
      <string name="notification_listener_binding_label">Listener di notifica</string>
      <string name="notification_ranker_binding_label">Servizio di notifiche classificate</string>
+     <string name="notification_reply_button_accessibility">Reply</string>
      <string name="notification_title">Errore di accesso per %1$s</string>
      <string name="notification_work_profile_content_description">Profilo di lavoro</string>
      <string name="now_string_shortest">ora</string>
@@ -1067,7 +1051,6 @@ Riprova tra %d secondi."</string>
      <string name="permgrouplab_sensors">Sensori</string>
      <string name="permgrouplab_sms">SMS</string>
      <string name="permgrouplab_storage">Archiviazione</string>
-     <string name="permission">Permesso</string>
      <string name="permission_request_notification_title">Autorizzazione richiesta</string>
      <string name="permission_request_notification_with_subtitle">"Autorizzazione richiesta
 per l'account %s."</string>
@@ -1225,6 +1208,7 @@ per l'account %s."</string>
      <string name="policylab_watchLogin">controllo tentativi di sblocco dello schermo</string>
      <string name="policylab_wipeData">Cancellazione di tutti i dati</string>
      <string name="policylab_wipeData_secondaryUser">"Resetta i dati dell'utente"</string>
+     <string name="popup_window_default_title">Popup Window</string>
      <string name="postalTypeCustom">Personalizzato</string>
      <string name="postalTypeHome">Casa</string>
      <string name="postalTypeOther">Altro</string>
@@ -1274,8 +1258,6 @@ per l'account %s."</string>
      <string name="replace">Sostituisci…</string>
      <string name="report">Segnala</string>
      <string name="reset">Reimposta</string>
-     <string name="reset_retail_demo_mode_text">Premi per resettare il dispositivo</string>
-     <string name="reset_retail_demo_mode_title">Resettare il dispositivo?</string>
      <string name="restr_pin_confirm_pin">Conferma il nuovo PIN</string>
      <string name="restr_pin_create_pin">Crea un PIN per la modifica delle limitazioni</string>
      <string name="restr_pin_enter_admin_pin">Inserisci PIN amministratore</string>
@@ -1332,10 +1314,6 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="searchview_description_voice">Ricerca vocale</string>
      <string name="second">sec</string>
      <string name="seconds">sec</string>
-     <string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
-     <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
-     <string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
-     <string name="securespaces_extension_hidden_serviceName" />
      <string name="selectAll">Seleziona tutto</string>
      <string name="selectTextMode">Seleziona testo</string>
      <string name="select_character">Inserisci carattere</string>
@@ -1413,6 +1391,10 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="ssl_ca_cert_noti_managed">Da %s</string>
      <string name="ssl_certificate">Certificato di sicurezza</string>
      <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
+     <string name="status_bar_airplane">airplane</string>
+     <string name="status_bar_ethernet">ethernet</string>
+     <string name="status_bar_mobile">mobile</string>
+     <string name="status_bar_vpn">vpn</string>
      <string name="stk_cc_ss_to_dial">La richiesta SS è stata modificata in richiesta DIAL.</string>
      <string name="stk_cc_ss_to_dial_video">SS request is modified to Video DIAL request.</string>
      <string name="stk_cc_ss_to_ss">La richiesta SS è stata modificata in nuova richiesta SS.</string>
@@ -1438,7 +1420,6 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="system_error_manufacturer">Si è verificato un problema interno con il dispositivo. Per informazioni dettagliate, contatta il produttore.</string>
      <string name="system_error_wipe_data">Si è verificato un problema interno con il dispositivo, che potrebbe essere instabile fino al ripristino dei dati di fabbrica.</string>
      <string name="taking_remote_bugreport_notification_title">Esecuzione bug report…</string>
-     <string name="terabyteShort">TB</string>
      <string name="tethered_notification_message">Tocca per configurare</string>
      <string name="tethered_notification_multi_device_message">%1$s dispositivi connessi</string>
      <string name="tethered_notification_no_device_message">Nessun dispositivo connesso</string>
@@ -1501,6 +1482,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="usb_storage_stop_title">Archivio USB in uso</string>
      <string name="usb_storage_title">USB collegato</string>
      <string name="usb_supplying_notification_title">La USB fornirà energia al dispositivo connesso</string>
+     <string name="usb_unsupported_audio_accessory_message">The attached device is not compatible with this phone. Tap to learn more.</string>
+     <string name="usb_unsupported_audio_accessory_title">Analog audio accessory detected</string>
      <string name="use_a_different_app">"Utilizza un'app diversa"</string>
      <string name="user_creation_account_exists">Permetti a %1$s di creare un nuovo Utente con %2$s ?</string>
      <string name="user_creation_adding">Permetti a %1$s di creare un nuovo Utente con %2$s (un Utente con questo account è attualmente esistente) ?</string>
@@ -1573,7 +1556,14 @@ Vuoi chiuderla?"</string>
      <string name="whichViewApplicationNamed">Apri con %1$s</string>
      <string name="widget_default_class_name" />
      <string name="widget_default_package_name" />
+     <string name="wifi_available_action_all_networks">All Networks</string>
+     <string name="wifi_available_action_connect">Connect</string>
+     <string name="wifi_available_content_failed_to_connect">Tap to see all networks</string>
      <string name="wifi_available_sign_in">Accedi a rete Wi-Fi</string>
+     <string name="wifi_available_title">Connect to open WLAN network</string>
+     <string name="wifi_available_title_connected">Connected to WLAN network</string>
+     <string name="wifi_available_title_connecting">Connecting to open WLAN network</string>
+     <string name="wifi_available_title_failed_to_connect">Could not connect to WLAN network</string>
      <string name="wifi_calling_off_summary">Disattivato</string>
      <string name="wifi_connect_alert_message">"L'app %1$s vorrebbe connettersi alla rete Wi-Fi %2$s"</string>
      <string name="wifi_connect_alert_title">Consentire la connessione?</string>
