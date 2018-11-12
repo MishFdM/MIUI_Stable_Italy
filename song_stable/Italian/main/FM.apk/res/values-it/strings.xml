@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="alert_frequency_duplicate">Frequenza già esistente</string>
      <string name="alert_invalid_frequency">Frequenza non valida!</string>
@@ -23,6 +24,7 @@
      <string name="menu_headset">Passa alle cuffie</string>
      <string name="menu_label">Menu</string>
      <string name="menu_new_station">Aggiungi stazione</string>
+     <string name="menu_privacy">Privacy Policy</string>
      <string name="menu_record_list">Lista registrazioni</string>
      <string name="menu_record_start">Inizia registrazione</string>
      <string name="menu_record_stop">Interrompi registrazione</string>
@@ -60,7 +62,6 @@
      <string name="toast_sleep_mode">La radio si arresterà tra %s</string>
      <string name="toast_sleep_mode_exit">Spegnimento annullato</string>
      <string name="turn_off_fm">Spegni FM</string>
-     <string name="txt_divider">" | "</string>
      <string name="txt_sleep_mode">Modalità sospensione</string>
      <string name="using_recorder_cancel">Rifiuta</string>
      <string name="using_recorder_confirm">Consenti</string>

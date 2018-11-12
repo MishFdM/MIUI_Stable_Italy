@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="aquarius_info">
         <item>aquario</item>
@@ -43,6 +44,13 @@
         <item>Solo questo evento</item>
         <item>Questo ed eventi futuri</item>
         <item>Tutti gli eventi</item>
+     </string-array>
+     <string-array name="edit_event_dislike">
+        <item>No event type I want to create</item>
+        <item>More Settings</item>
+        <item>Some Settings cannot be determined</item>
+        <item>Just look around</item>
+        <item>"Don't tell you"</item>
      </string-array>
      <string-array name="gemini_info">
         <item>gemelli</item>
@@ -121,7 +129,7 @@
      </string-array>
      <string-array name="repeat_choose_week_right">
         <item>Lun - Ven</item>
-        <item>Weekend</item>
+        <item>Fine settimana</item>
         <item>Settimana</item>
      </string-array>
      <string-array name="repeat_choose_weekday">

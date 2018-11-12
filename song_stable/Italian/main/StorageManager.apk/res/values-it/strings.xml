@@ -8,7 +8,7 @@
      <string name="abc_action_menu_overflow_description">More options</string>
      <string name="abc_action_mode_done">Done</string>
      <string name="abc_activity_chooser_view_see_all">See all</string>
-     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
      <string name="abc_search_hint">Search…</string>
@@ -152,10 +152,10 @@
      <string name="debug_networking_category">Networking</string>
      <string name="debug_view_attributes">Enable view attribute inspection</string>
      <string name="deletion_helper_app_summary">%1$s • %2$d days ago</string>
-     <string name="deletion_helper_app_summary_never_used">%1$s • Not used in last year</string>
+     <string name="deletion_helper_app_summary_never_used">%1$s • Never used befor</string>
      <string name="deletion_helper_app_summary_unknown_used">%1$s • Not sure when last used</string>
      <string name="deletion_helper_apps_group_summary">%1$s • Last used %2$d days ago</string>
-     <string name="deletion_helper_apps_group_title">Apps (%1$d)</string>
+     <string name="deletion_helper_apps_group_title">Apps (%1$d) </string>
      <string name="deletion_helper_automatic_title">Automatic</string>
      <string name="deletion_helper_clear_dialog_message">%1$s will be removed from your device</string>
      <string name="deletion_helper_clear_dialog_message_first_time">%1$s will be removed from your device</string>

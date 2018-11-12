@@ -100,10 +100,10 @@
      <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Work</string>
-     <string name="change_default_dialer_dialog_affirmative">Set Default</string>
+     <string name="change_default_dialer_dialog_affirmative">Set as default Phone app</string>
      <string name="change_default_dialer_dialog_negative">Cancel</string>
-     <string name="change_default_dialer_dialog_title">Make %s your default Phone app?</string>
-     <string name="change_default_dialer_warning_message">%s will be able to place and control all aspects of calls. Only apps you trust should be set as the default Phone app.</string>
+     <string name="change_default_dialer_dialog_title">Set %s as your default Phone app?</string>
+     <string name="change_default_dialer_warning_message">%s will be able to make and control all aspects of calls. Only apps you trust should be set as your default Phone app.</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="choose_profile">Choose Profile</string>
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
@@ -116,7 +116,7 @@
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
      <string name="connected_via_passpoint">Connected via %1$s</string>
-     <string name="connected_via_wfa">Connected via WLAN assistant</string>
+     <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
      <string name="content_description_menu_button">Menu</string>
      <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
@@ -369,7 +369,7 @@
      <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
      <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
      <string name="wifi_no_internet">Nessu accesso ad Internet.</string>
-     <string name="wifi_no_internet_no_reconnect">Nessun accesso ad Internet rilevato, nessuna riconnessione automatica.</string>
+     <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_not_in_range">Fuori dal raggio</string>
      <string name="wifi_remembered">Salvato</string>
      <string name="wifi_security_eap">802.1x EAP</string>
