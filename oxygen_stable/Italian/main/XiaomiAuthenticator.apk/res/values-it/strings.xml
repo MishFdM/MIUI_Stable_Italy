@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_preference_screen_title">Informazioni</string>
      <string name="about_preference_title">Informazioni</string>
@@ -63,9 +63,9 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
      <string name="install_button">Installa</string>
      <string name="install_dialog_message">Per scansionare un codice a barre che contiene delle chiavi, devi installare lo ZXing barcode scanner.</string>
      <string name="install_dialog_title">Installare lo scanner di codici a barre?</string>
-     <string name="jump_createpattern_tip">"Saltare questa impostazione di sicurezza non è raccomandato. Continuare?"</string>
+     <string name="jump_createpattern_tip">"Saltare questa impostazione di sicurezza non è consigliato. Continuare?"</string>
      <string name="jump_lockpattern_title">Nota</string>
-     <string name="jump_updatepattern_tip">Disattivare il blocco password è un rischio per la sicurezza, ti raccomandiamo di non disattivare questa opzione.</string>
+     <string name="jump_updatepattern_tip">Disattivare il blocco password è un rischio per la sicurezza, ti consigliamo di non disattivare questa opzione.</string>
      <string name="lockpassword_choose_your_pattern_header">Scegli la tua sequenza</string>
      <string name="lockpassword_confirm_your_pattern_header">Conferma la tua sequenza</string>
      <string name="lockpassword_input_your_pattern_header">Conferma la tua sequenza</string>
@@ -106,7 +106,7 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
      <string name="password_forget">Hai dimenticato la password?</string>
      <string name="password_hint">Inserisci la tua password</string>
      <string name="privacy_page_url">http://www.xiaomi.com/policies/privacy/</string>
-     <string name="privacy_preference_title">Informativa Privacy</string>
+     <string name="privacy_preference_title">Informativa sulla Privacy</string>
      <string name="progress_loading">Caricamento in corso…</string>
      <string name="remove_Xiaomi_account_dialog_message">Rimuovendo questo account &lt;b&gt;perderai la possibilità&lt;/b&gt; di generare dei codici, comunque questo &lt;b&gt;non&lt;/b&gt; disattiverà la verifica in 2 passi. Questo potrebbe impedirti di accedere al tuo account. &lt;p&gt; Prima di procedere con la rimozione: &lt;ul&gt; &lt;li&gt;Disattivare la verifica in 2 passi per questo account, oppure &lt;/li&gt; &lt;li&gt;Assicurati di avere un meccanismo alternativo per la generazione dei codici.&lt;/li&gt; &lt;/ul&gt;</string>
      <string name="remove_account">Remove account</string>
