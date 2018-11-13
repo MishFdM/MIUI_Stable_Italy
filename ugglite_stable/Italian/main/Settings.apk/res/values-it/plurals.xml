@@ -2,7 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Ritardo estremamente breve(%1$d ms)</item>
+        <item quantity="other">Ritardo estremamente breve (%1$d ms)</item>
         <item quantity="one">Ritardo estremamente breve (%1$d ms)</item>
      </plurals>
      <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
@@ -33,6 +33,14 @@
         <item quantity="other">"%d autorizzate all'avvio automatico"</item>
         <item quantity="one">"%d autorizzata all'avvio automatico"</item>
      </plurals>
+     <plurals name="bg_network_allow_count">
+        <item quantity="other">%d app possono connettersi alla rete</item>
+        <item quantity="one">%d app può connettersi alla rete</item>
+     </plurals>
+     <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d app non possono connettersi alla rete"</item>
+        <item quantity="one">"%d app non può connettersi alla rete"</item>
+     </plurals>
      <plurals name="connected_devices_number">
         <item quantity="other">%d dispositivi</item>
         <item quantity="one">%d dispositivo</item>
@@ -49,6 +57,10 @@
         <item quantity="other">%d apps can open their supported links</item>
         <item quantity="zero">No app can open any supported link</item>
         <item quantity="one">One app can open its supported links</item>
+     </plurals>
+     <plurals name="firewall_item_summary">
+        <item quantity="other">Connessione limitata per %s app</item>
+        <item quantity="one">Connessione limitata per %s app</item>
      </plurals>
      <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d persone collegate</item>
