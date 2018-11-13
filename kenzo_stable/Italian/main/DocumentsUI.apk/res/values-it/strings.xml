@@ -4,7 +4,7 @@
      <string name="app_label">File</string>
      <string name="button_copy">Copia</string>
      <string name="button_select">Seleziona</string>
-     <string name="copy_failure_alert_content">"These files weren't copied: %1$s"</string>
+     <string name="copy_failure_alert_content">These files weren’t copied: %1$s</string>
      <string name="copy_notification_title">Copia file</string>
      <string name="copy_preparing">Preparazione copia…</string>
      <string name="copy_remaining">%s mancante</string>

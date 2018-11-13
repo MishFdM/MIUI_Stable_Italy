@@ -536,7 +536,6 @@ Visita "<b>google.com/accounts/recovery</b>."</string>
      <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
      <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
      <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
-     <string name="kg_text_message_separator">" – "</string>
      <string name="kg_too_many_failed_attempts_countdown">Riprova fra %1$d secondi.</string>
      <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Hai digitato la tua password %d volte in modo errato. 
 
@@ -575,7 +574,7 @@ Per sbloccare, premi e tieni premuti insieme i pulsanti Home e Power."</string>
      <string name="lock_to_app_unlock_password">Richiedi password prima di sbloccare</string>
      <string name="lock_to_app_unlock_pattern">Richiedi sequenza di sblocco prima di sbloccare</string>
      <string name="lock_to_app_unlock_pin">Richiedi il PIN prima di sbloccare</string>
-     <string name="lockscreen_access_pattern_area">Area pattern.</string>
+     <string name="lockscreen_access_pattern_area">Area sequenza</string>
      <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
      <string name="lockscreen_access_pattern_cell_added_verbose">%1$s celle aggiunte</string>
      <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
