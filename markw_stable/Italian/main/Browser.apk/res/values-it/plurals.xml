@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="adblock_rules_number_text">
         <item quantity="other">%d elementi bloccati</item>
         <item quantity="one">%d elemento bloccato</item>
      </plurals>
      <plurals name="find_on_page_matches">
-        <item quantity="other">%d combaciano</item>
-        <item quantity="one">%d combacia</item>
+        <item quantity="other">%d abbinamenti</item>
+        <item quantity="one">%d abbinamenti</item>
      </plurals>
      <plurals name="mw_last_num_days">
-        <item quantity="other">Last %d days</item>
+        <item quantity="other">Ultimi %d giorni</item>
      </plurals>
      <plurals name="mw_matches_found">
-        <item quantity="other">%1$d of %2$d</item>
-        <item quantity="one">1 match</item>
+        <item quantity="other">%1$d di %2$d</item>
+        <item quantity="one">1 abbinamento</item>
      </plurals>
      <plurals name="nav_screen_incognito_time">
         <item quantity="other">Dopo %d secondi verrà creata automaticamente una nuova pagina</item>
