@@ -8,6 +8,7 @@
      <string name="DOWNLOAD_UNIT_TB">TB</string>
      <string name="Only_the_wifi">Solo con Wi-Fi</string>
      <string name="about">Informazioni</string>
+     <string name="action_back">indietro</string>
      <string name="action_settings">Impostazioni</string>
      <string name="ad_download">Installa</string>
      <string name="ad_mark">AD</string>
@@ -25,6 +26,7 @@
      <string name="app_label">Download</string>
      <string name="auth_activity_title">Account Xunlei</string>
      <string name="auth_fail">"Impossibile ottenere l'autorizzazione"</string>
+     <string name="average_speed">Velocità media</string>
      <string name="bind_xunlei_account">Associa un account Xunlei %1$s</string>
      <string name="bt_download">Download</string>
      <string name="bt_path_not_exit">Questo percorso non esiste</string>
@@ -61,8 +63,8 @@
      <string name="dialog_btn_ok">OK</string>
      <string name="dialog_btn_ok_disabled_net">Impostazioni di rete</string>
      <string name="dialog_cannot_resume">Download interrotto. Impossibile riprendere.</string>
-     <string name="dialog_confirm_delete_checkbox_message">Mantieni i file locali</string>
-     <string name="dialog_confirm_delete_downloads_message">Eliminare i %d elementi selezionati?</string>
+     <string name="dialog_confirm_delete_checkbox_message">Elimina i file locali</string>
+     <string name="dialog_confirm_delete_downloads_message">Delete %d tasks?</string>
      <string name="dialog_confirm_delete_the_download_item_message">"Eliminare l'elemento selezionato?"</string>
      <string name="dialog_content_limit0">Limita download</string>
      <string name="dialog_content_limit_max">Illimitati</string>
@@ -74,7 +76,7 @@
      <string name="dialog_insufficient_space_on_external">"Impossibile terminare il download. Non c'è abbastanza spazio sulla memoria esterna."</string>
      <string name="dialog_media_not_found">Impossibile scaricare. Il supporto esterno non è disponibile.</string>
      <string name="dialog_msg_disabled_net">"%1$s download limitati dalla rete attuale. Tocca le impostazioni di rete per andare nell'app sicurezza."</string>
-     <string name="dialog_msg_recommend">"Continuando, non sarai in grado di vedere le Risorse consigliate. Abilita \"Carica risorse solo in Wi-Fi\" per risparmiare il traffico dati."</string>
+     <string name="dialog_msg_recommend">Continuando, non sarai in grado di vedere le Risorse consigliate. Abilita \"Carica risorse solo in Wi-Fi\" per risparmiare il traffico dati.</string>
      <string name="dialog_queued_body">Questo file è accodato per essere scaricato in futuro.</string>
      <string name="dialog_speed_cancel">Annulla</string>
      <string name="dialog_speed_msg">"L'utilizzo della rete dati mobile per testare la funzionalità potrebbe aumentare il consumo di dati. Continuare comunque?"</string>
@@ -98,7 +100,7 @@
      <string name="download_filesize_unknown">Sconosciuto</string>
      <string name="download_from">Fonte:</string>
      <string name="download_in_process">In corso</string>
-     <string name="download_info_count_deleted_tasks">%s download rimossi</string>
+     <string name="download_info_count_deleted_tasks">%s downloads removed</string>
      <string name="download_info_start_deleted_tasks">Elimina i download</string>
      <string name="download_list_get_free_vip">Prova Xunlei</string>
      <string name="download_list_get_hightspeed_flow_auto_open">Accelerazione download Xunlei attivato</string>
@@ -154,16 +156,18 @@
      <string name="editmode_menu_share">Condividi</string>
      <string name="engine_open">Apri</string>
      <string name="enter_search">Cerca</string>
+     <string name="everyone_test">Tutti stanno provando</string>
      <string name="experience_xunlei_account_speed">"Gli utenti Xunlei possono provare l'esperienza del download accelerato."</string>
      <string name="expire_notification_msg">Il tuo account Xunlei sta per scadere, tocca Mostra Dettagli</string>
      <string name="expire_today_notification_msg">Il tuo account Xunlei scade oggi, tocca Mostra Dettagli</string>
      <string name="extend">estendi</string>
      <string name="extra_ad_title">Potrebbe piacerti anche</string>
      <string name="extract_file">Decompressione file…</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
+     <string name="fastest_speed">Velocità massima</string>
      <string name="file_exist_hint">Questi file esiste già</string>
      <string name="file_picker">Scegli un percorso</string>
      <string name="file_size">Dimensione:</string>
+     <string name="flow_consume">Traffico</string>
      <string name="force_touch_newdownload">New download</string>
      <string name="force_touch_rank">Classifiche</string>
      <string name="force_touch_search">Cerca in rete</string>
@@ -221,7 +225,7 @@
      <string name="network_error">Impossibile collegarsi alla rete</string>
      <string name="new_add">Nuovo</string>
      <string name="new_add_bt">Aggiungi torrent</string>
-     <string name="no_downloads">Nessun download</string>
+     <string name="no_downloads">Nessuno</string>
      <string name="no_file_hint">Il download di questo file è già presente</string>
      <string name="no_result_for_keyword">Impossibile trovare \"%1$s\"</string>
      <string name="no_share_file">Impossibile condividere questo file</string>
@@ -262,7 +266,7 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="petabyteShort">PB</string>
      <string name="pref_download_revert_default">Predefinito</string>
      <string name="pref_download_settings_title">Autorizzazione utilizzo dati</string>
-     <string name="pref_download_storage_path">Crea una nuova cartella per i download</string>
+     <string name="pref_download_storage_path">Cartella download</string>
      <string name="pref_sniff_shortcut">Crea un collegamento in Home per la ricerca web</string>
      <string name="pref_summary_any_bytes_popup">Metti sempre in coda con rete Wi-Fi</string>
      <string name="pref_summary_enable_max_bytes_popup">Sotto rete dati cellulare comparirà una richiesta di autorizzazione se le dimensioni del file superano il limite</string>
@@ -270,6 +274,7 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
      <string name="pref_title_enable_max_bytes_popup">Autorizzazione download dati</string>
      <string name="preferences_title">Impostazioni</string>
+     <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="privacy_tip_cancel">Annulla</string>
      <string name="privacy_tip_content">"Utilizzare Xunlei Accelerator per velocizzare i download? L'URL del download verrà caricato sui server Xunlei. Anche i dettagli del tuo Mi Account verranno caricati per verificare se hai qualche iscrizione attiva per questo servizio."</string>
      <string name="privacy_tip_ok">OK</string>
@@ -357,9 +362,9 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="sniff_no_result_text">Nessun risultato</string>
      <string name="sniff_result_empty_prompt">Nessun risultato</string>
      <string name="sniff_result_num_prefix">Trovati</string>
-     <string name="sniff_result_num_video_suffix">elementi</string>
+     <string name="sniff_result_num_video_suffix">items</string>
      <string name="sniff_result_num_website_suffix">siti web</string>
-     <string name="sniff_result_website_intro">Totale &lt;font color=\"#6699ff\">%1$d&lt;/font> elementi | Fonte: %2$s</string>
+     <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\">%1$d&lt;/font> items | Source: %2$s</string>
      <string name="sniff_search_assoicate_sizeinfo">Dimensione: %1$s</string>
      <string name="sniff_search_install">Installa</string>
      <string name="sniff_shortcut_cloudconfig_btn">Ho capito</string>
@@ -388,6 +393,7 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="speed_entrance">Test velocità Wi-Fi</string>
      <string name="speed_result_broadband_text1">Velocità download attuale</string>
      <string name="speed_result_broadband_text2">%s di banda</string>
+     <string name="speed_result_broadband_text3">Broadband</string>
      <string name="speed_result_finish">Fatto</string>
      <string name="speed_result_restart">Ripeti il test</string>
      <string name="speed_start">Avvia</string>
@@ -413,6 +419,10 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="task_detail_notfound_confirm">OK</string>
      <string name="task_fail">fallito</string>
      <string name="terabyteShort">TB</string>
+     <string name="test_speed">Test</string>
+     <string name="test_speed_detail">Dettagli</string>
+     <string name="test_speed_please">Tocca per testare la velocità...</string>
+     <string name="test_speed_result">Risultati test</string>
      <string name="text_showmore_infoflow">Mostra altre risorse</string>
      <string name="third_web_cancel">Annulla</string>
      <string name="third_web_confirm">OK</string>
@@ -421,6 +431,7 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="third_web_filesize">Dimensione:</string>
      <string name="third_web_savepath">Salva in</string>
      <string name="third_web_title">Salva</string>
+     <string name="time_consume">Durata</string>
      <string name="title_homepage_infoflow">Aggiornamenti recenti</string>
      <string name="title_tips">Attenzione</string>
      <string name="title_unbind_xunlei">Rimuovi il tuo Account Xunlei</string>
@@ -430,6 +441,7 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="torrent_file_error">Impossibile analizzare il file torrent</string>
      <string name="torrent_no_subfile">Non ci sono sotto file in questo torrent</string>
      <string name="total_speedup">Incremento velocità (totale)</string>
+     <string name="try_download">Prova a scaricare</string>
      <string name="turn_off_xunlei_message">Potresti riscontrare una minore velocità di download.</string>
      <string name="turn_off_xunlei_tips">Accelerazione download Xunlei disattivato</string>
      <string name="turn_off_xunlei_title">Disabilita il motore di download Xunlei</string>
@@ -443,8 +455,8 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="valid_in_this_month">valido solo questo mese</string>
      <string name="version">Versione %s</string>
      <string name="vip_auto_speedup">Gli utenti Xunlei possono scaricare direttamente</string>
-     <string name="vip_expire_show_info">"Registrazione Xunlei scaduta."</string>
-     <string name="vip_expire_today_show_info">"Registrazione Xunlei scaduta."</string>
+     <string name="vip_expire_show_info">Registrazione Xunlei scaduta.</string>
+     <string name="vip_expire_today_show_info">Registrazione Xunlei scaduta.</string>
      <string name="vip_show_info">"5 milioni di membri.
 Accelerate i download su tutti i tuoi dispositivi."</string>
      <string name="vip_speedup">Incremento di velocità:</string>
@@ -469,7 +481,7 @@ Accelerate i download su tutti i tuoi dispositivi."</string>
      <string name="xl_privilege_storage_info">Hai spazio sufficiente per tutti i tuoi download</string>
      <string name="xl_privilege_support">Dispositivi multipli</string>
      <string name="xl_privilege_title">Abbonamento Xunlei</string>
-     <string name="xl_validate_title">Valido fino al: </string>
+     <string name="xl_validate_title">Valido fino al:</string>
      <string name="xl_vip_annual">Annuale: %1$s Mi Credit × 12</string>
      <string name="xl_vip_combo">Piani</string>
      <string name="xl_vip_month">Mensile: %1$s Mi Credit × 1</string>

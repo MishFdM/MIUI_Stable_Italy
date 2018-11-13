@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="alert_message_clear_records">Eliminare le registrazioni selezionate?</string>
+     <string name="alert_message_delete_local_record">Elimina questa registrazione?</string>
      <string name="alert_message_delete_record">Vuoi eliminare la registrazione selezionata?</string>
      <string name="alert_message_delete_record_title">Elimina registrazione</string>
      <string name="app_name">Registratore</string>
      <string name="back">Indietro</string>
-     <string name="btn_clear_records">Delete recordings (%d items)</string>
      <string name="button_queue_for_wifi">Coda</string>
      <string name="button_start_now">Download</string>
      <string name="call_record">Chiamate registrate</string>
-     <string name="choose_call_records_count">%d items</string>
      <string name="clear_records">Elimina le registrazioni sincronizzate</string>
      <string name="cloud_record_open">Sincronizza le registrazioni</string>
      <string name="cloud_record_tip">Sincronizza le registrazioni con Mi Cloud.</string>
@@ -66,7 +64,6 @@
      <string name="notification_recording_ticker">Telefono silenziato</string>
      <string name="notification_stopped">Registrazione interrotta</string>
      <string name="notification_title_all_paused">Download in pausa</string>
-     <string name="notification_warning">Storage low (less than %d minutes)</string>
      <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>
      <string name="pause">Pausa</string>
      <string name="playback_delete_records">Elimina la registrazione</string>
@@ -79,6 +76,7 @@
      <string name="preference_scenes">Impostazioni scene</string>
      <string name="preference_silent_mode">Silenzia durante registrazione</string>
      <string name="preference_tip_rename">"Rinomina al termine della registrazione"</string>
+     <string name="privacy_policy_title">Informativa sulla Privacy</string>
      <string name="recognition_error_cancel">Annullato</string>
      <string name="recognition_error_download_cancel">Più tardi</string>
      <string name="recognition_error_download_fail">Impossibile scaricare. Controlla le impostazioni di rete e riprova.</string>
@@ -101,6 +99,7 @@
      <string name="record_downloading_notification">Download in corso…</string>
      <string name="record_downloading_notification_complete">Download completato</string>
      <string name="record_downloading_notification_count">%d in download</string>
+     <string name="record_format_preference_title">Formato di registrazione</string>
      <string name="record_list">Elenco registrazioni</string>
      <string name="record_list_call">Registrazioni chiamate</string>
      <string name="record_list_category_title_format">MMMM yyyy</string>
