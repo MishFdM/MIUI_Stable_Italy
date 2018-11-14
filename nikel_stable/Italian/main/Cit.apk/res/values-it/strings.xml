@@ -84,9 +84,9 @@
      <string name="SD1_SDCard_unmounted">SDCard 1 unavailable</string>
      <string name="SD2_SDCard_mounted">Detect SD_2_Card</string>
      <string name="SD2_SDCard_unmounted">SDCard 2 unavailable</string>
-     <string name="SDCard">External SD Card</string>
-     <string name="SD_INTERNAL_SDCard_mounted">检测到内部SD卡</string>
-     <string name="SD_INTERNAL_SDCard_unmounted">没有检测到内部SD卡</string>
+     <string name="SDCard">SD Card</string>
+     <string name="SD_INTERNAL_SDCard_mounted">Detect Internal SDCard</string>
+     <string name="SD_INTERNAL_SDCard_unmounted">Internal SDCard unavailable</string>
      <string name="SD_SDCard_available_szie">Available size</string>
      <string name="SD_SDCard_mounted">Detect SDCard</string>
      <string name="SD_SDCard_total_size">Total size</string>
@@ -142,7 +142,7 @@
      <string name="adjust_again">Calibration again</string>
      <string name="adjust_begin">Calibration</string>
      <string name="adjust_fail">Calibration fail</string>
-     <string name="adjust_getadc_ok">校准成功，请放上黑卡，进行黑卡测试！</string>
+     <string name="adjust_getadc_ok">Calibration success，put on black card and start test！</string>
      <string name="adjust_ok">Calibration success</string>
      <string name="aifsninfo">Aifsn:</string>
      <string name="aifsnlimit">[0-255]</string>
@@ -218,7 +218,7 @@ only in frame mode"</string>
      <string name="battery_vol_test">Battery capacity</string>
      <string name="bearing">North to East:</string>
      <string name="black">Black</string>
-     <string name="blackcardtest">黑卡测试</string>
+     <string name="blackcardtest">Black Card</string>
      <string name="blow_from_mic_to_rec">Blowing on the MIC, the receiver playback. Judge whether there is sound.</string>
      <string name="blow_to_earphone_mic">Blowing on the earphone MIC, the earphone speaker playback. Judge whether there is sound.</string>
      <string name="blow_to_mic">Blowing on the MIC, the speaker playback. Judge whether there is sound.</string>
@@ -377,8 +377,8 @@ only in frame mode"</string>
      <string name="flashled">FlashLed</string>
      <string name="flashled2_off">关闭闪光灯2</string>
      <string name="flashled2_on">打开闪光灯2</string>
-     <string name="flashled_off">Torch off</string>
-     <string name="flashled_on">Torch on</string>
+     <string name="flashled_off">Torch0 off</string>
+     <string name="flashled_on">Torch0 on</string>
      <string name="flashledtest">Flash LED is light?</string>
      <string name="fm_no_headset_text">To start listening, plug in headphones (used as an antenna).</string>
      <string name="fm_recorder_name">FM Recorder</string>
@@ -388,7 +388,7 @@ only in frame mode"</string>
      <string name="fm_test">FM</string>
      <string name="fm_turn_on">Play or stop FM radio</string>
      <string name="frame_mod_info">frame</string>
-     <string name="freq">Freq:</string>
+     <string name="freq">Channel:</string>
      <string name="freq_add">Add frequence</string>
      <string name="freq_edit">Edit channel</string>
      <string name="freq_item_del">Delete frequence list</string>
@@ -400,8 +400,8 @@ only in frame mode"</string>
      <string name="frequence2">Frequence:</string>
      <string name="frequence_range" formatted="false">" (Range:%2.1f~%2.1fMHz)"</string>
      <string name="front_camera">FrontCamera</string>
-     <string name="getadc_fail">黑卡测试失败</string>
-     <string name="getadc_pass">黑卡测试成功</string>
+     <string name="getadc_fail">black card test fail</string>
+     <string name="getadc_pass">black card test pass</string>
      <string name="golden">Golden</string>
      <string name="gotoairplane">Go to airplane mode</string>
      <string name="gotosleep">Go to sleep</string>
@@ -414,7 +414,7 @@ only in frame mode"</string>
      <string name="gyroscope">Gyroscope</string>
      <string name="gyroscope_hint">Please rotate cube</string>
      <string name="hallsensorinfo">Hall Sensor test...</string>
-     <string name="hand_test">CIT Test</string>
+     <string name="hand_test">CIT Test 1</string>
      <string name="hardver">Hardware version:</string>
      <string name="hardware_test">Hardware Test</string>
      <string name="hardware_version">Hardware Version:</string>
@@ -592,7 +592,7 @@ off---Disabling continuous Tx"</string>
      <string name="play_music_no_sd_hint">请听喇叭是否播放声音</string>
      <string name="play_music_on_sd">Play mp3 on SD card</string>
      <string name="play_over_and_judge">Play over, please to judge if pass or fail</string>
-     <string name="pls_plug_charger_out">Please pull out charger</string>
+     <string name="pls_plug_charger_out">Please pull put charger</string>
      <string name="pls_plug_otg_out">Please pull out OTG device</string>
      <string name="pls_see_photo">Please see the photo</string>
      <string name="plug_charger">Please plug in charger</string>
@@ -627,16 +627,16 @@ mod:0-15"</string>
      <string name="radioInfo_display_asu">asu</string>
      <string name="radioInfo_display_dbm">dBm</string>
      <string name="radioInfo_lac">LAC</string>
-     <string name="radioInfo_unknown">未知</string>
+     <string name="radioInfo_unknown">unknown</string>
      <string name="radio_info_band_label">"[BAND]   :"</string>
      <string name="radio_info_freq_label">[CHANNEL]:</string>
      <string name="radio_info_mcc_label">"[MCC]    :"</string>
      <string name="radio_info_mnc_label">"[MNC]    :"</string>
-     <string name="radio_info_neighboring_location_label">[Neighbor]</string>
+     <string name="radio_info_neighboring_location_label">Informazione cella vicina:</string>
      <string name="radio_info_network_type_label">[RFMODE] :</string>
      <string name="radio_info_signal_cid_label">"[CID]    :"</string>
-     <string name="radio_info_signal_location_label">"[LAC]    :"</string>
-     <string name="radio_info_signal_strength_label">"[RSSI]   :"</string>
+     <string name="radio_info_signal_location_label">Informazione località cella:</string>
+     <string name="radio_info_signal_strength_label">Potenza segnale:</string>
      <string name="radio_info_state_label">"[STATE]  :"</string>
      <string name="ram_size">RAM size :</string>
      <string name="ram_title">RAM :</string>
@@ -699,13 +699,13 @@ mod:0-15"</string>
      <string name="send">Send</string>
      <string name="send_test">Send test</string>
      <string name="sensors_test">Sensors</string>
-     <string name="serial_no">Serial No</string>
-     <string name="shake_phone">Please calibrate with tools before testing, If the result is error below, please shake the phone</string>
+     <string name="serial_no">Serial No:</string>
+     <string name="shake_phone">If the result is error below, please shake the phone</string>
      <string name="short_vib">Short Vibration</string>
      <string name="sim_out_status_test">SIM Plug Out Test</string>
      <string name="sim_sd_out_status_test">SIM And SD Plug Out Test</string>
      <string name="sim_sd_status_test">SIM And SD Plug In Test</string>
-     <string name="sim_status_test">SIM Plug In Test</string>
+     <string name="sim_status_test">SIM Test</string>
      <string name="sine_mod_info">sine</string>
      <string name="sleeptest">Sleep test</string>
      <string name="sn">[ S/N]:</string>
@@ -713,10 +713,10 @@ mod:0-15"</string>
 "</string>
      <string name="softver">Software version:</string>
      <string name="softversion">Software version</string>
-     <string name="softversion_hint">进入功能测试？</string>
+     <string name="softversion_hint">Enter the function test？</string>
      <string name="someinfo">Some info</string>
      <string name="sound_mode">Sound mode</string>
-     <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
+     <string name="speak_from_mic">Speaking to the MIC, the speaker playback.The sound must more than <b>29DB</b>.</string>
      <string name="speaker">Speaker</string>
      <string name="speakerinfo">speaker test</string>
      <string name="speed">Speed :</string>
@@ -804,7 +804,7 @@ mod:0-15"</string>
      <string name="unique_id_null">unique id is null</string>
      <string name="unique_id_text">unique id</string>
      <string name="unit">" MHz"</string>
-     <string name="unknown">未知</string>
+     <string name="unknown">unknown</string>
      <string name="unlock">unlock</string>
      <string name="unmodulated">Unmodulated</string>
      <string name="usrdata_version">Userdata Version</string>
