@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accept">OK</string>
      <string name="activate">Attiva</string>
@@ -17,6 +16,7 @@
      <string name="activate_feature_register_xiaomi_account">Impostazione Mi Account</string>
      <string name="activate_feature_remote_assist">Assistente remoto</string>
      <string name="activate_feature_verify_mx_token">Verifica Mi Account</string>
+     <string name="activate_feature_voip">Mi Message Voce</string>
      <string name="activate_history_canceled_overview">Attivazione SIM annullata. Attivazione eseguita da \"%1$s\".</string>
      <string name="activate_history_multisim_canceled_overview">Attivazione SIM %2$d annullata. Attivazione eseguita da \"%1$s\".</string>
      <string name="activate_history_multisim_success_overview">Attivazione SIM %2$d riuscita. Attivazione eseguita da \"%1$s\".</string>
@@ -63,7 +63,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="activate_popup_desc_register_account_intl">Il tuo operatore potrebbe addebitarti il costo per il SMS internazionale generato per attivare il tuo Mi Account.</string>
      <string name="activate_popup_desc_sim_card">Un SMS normale sarà inviato per attivare %s. Verrà effettuato un addebito dal tuo operatore.</string>
      <string name="activate_popup_desc_sim_card_downlink">Immetti il numero di telefono corrente per attivare %s.</string>
-     <string name="activate_popup_desc_voip_privacy">Privacy Policy</string>
+     <string name="activate_popup_desc_voip_privacy">Informativa sulla Privacy</string>
      <string name="activate_popup_desc_voip_privacy_prefix">"Servizio VoIP supportato da Weihui. Accedi a Weihui"</string>
      <string name="activate_popup_title_all_gateway_failed_query_info">"Impossibile trovare il numero"</string>
      <string name="activate_popup_title_all_gateway_failed_send_sms">"Impossibile inviare messaggio di testo"</string>
@@ -105,8 +105,13 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="activate_status_desc_wait_for_sms_success">SMS di attivazione ricevuto correttamente</string>
      <string name="activate_status_title_activating">Attivazione SIM…</string>
      <string name="activate_status_title_activating_msim">Attivazione SIM %d…</string>
-     <string name="agree">Agree</string>
+     <string name="agree">Concordo</string>
      <string name="app_name">Servizio attivazione SIM Xiaomi</string>
+     <string name="checking_client">Verifica client env</string>
+     <string name="error_checking_client">Errore client env</string>
+     <string name="error_network_io">Errore di rete</string>
+     <string name="error_no_send_sms_permission">Nessun permesso per invio SMS</string>
+     <string name="error_sim_not_in_service">La SIM non è in servizio</string>
      <string name="explain_send_sms_permission_button">Verifica</string>
      <string name="explain_send_sms_permission_msg">"Per attivare %s, Xiaomi Service Framework invierà un SMS per verificare il tuo numero di telefono. Il costo dell'SMS sarà quello previsto dal tuo piano tariffario."</string>
      <string name="explain_send_sms_permission_title">Verifica il tuo numero di telefono</string>
@@ -116,5 +121,8 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="phone_verify_processing">verifica in corso…</string>
      <string name="phone_verify_text">%1$s non accederà al tuo numero telefonico,ne verificherà soltanto la corrispondenza.</string>
      <string name="phone_verify_title">Acconsenti che %1$s verifichi il tuo numero telefonico</string>
+     <string name="privacy_revoke_failed_msg">Revoca privacy, impossibile acquisire il numero di telefono, attivazione fallita</string>
+     <string name="privacy_revoke_tips">"Se revochi, non potrai usare la sincronizzazione SMS"</string>
      <string name="sim_unactivated_title">La tua SIM non è stata attivata</string>
+     <string name="waiting_sim_in_service">In attesa del servizio SIM</string>
 </resources>
