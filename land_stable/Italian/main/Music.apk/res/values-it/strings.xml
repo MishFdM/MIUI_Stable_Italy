@@ -352,11 +352,7 @@
      <string name="hungama_subscribe_title">PRO membership</string>
      <string name="i_know">Ho capito</string>
      <string name="id_namespace">hungama</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: You must read and agree with our &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">User Agreement&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Privacy Policy&lt;/a> before using the product. -->
-     <string name="impunity_declaration_content">You must read and agree with our %1$s and %2$s before using this product.</string>
+     <string name="impunity_declaration_content">You must read and agree with our &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">User Agreement&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Privacy Policy&lt;/a> before using the product.</string>
      <string name="impunity_declaration_ignore">Non mostrare più</string>
      <string name="impunity_declaration_negative_text">Esci</string>
      <string name="impunity_declaration_positive_text">OK</string>
