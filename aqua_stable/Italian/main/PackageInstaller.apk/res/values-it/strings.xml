@@ -9,7 +9,7 @@
      <string name="abc_action_menu_overflow_description">Altre opzioni</string>
      <string name="abc_action_mode_done">Fine</string>
      <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
-     <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
      <string name="abc_search_hint">Cerca…</string>
@@ -21,7 +21,7 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Comprimi</string>
-     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzione è sperimentale e potrebbe influire sulle prestazioni.</string>
+     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale e potrebbe influire sulle prestazioni.</string>
      <string name="accessibility_display_daltonizer_preference_title">Correzione del colore</string>
      <string name="accessibility_no_wifi">Wi-Fi disconnesso.</string>
      <string name="accessibility_wifi_off">Wi-Fi disattivato.</string>
@@ -68,7 +68,7 @@
      <string name="bluetooth_connected_no_map">Connesso (nessun messaggio di accesso)</string>
      <string name="bluetooth_connecting">Connessione...</string>
      <string name="bluetooth_disable_absolute_volume">Disattiva volume assoluto</string>
-     <string name="bluetooth_disable_absolute_volume_summary">Consente di disattivare la funzione del volume assoluto Bluetooth in caso di problemi con il volume dei dispositivi remoti, ad esempio un volume troppo alto o la mancanza di controllo.</string>
+     <string name="bluetooth_disable_absolute_volume_summary">Consente di disattivare la funzionlità del volume assoluto Bluetooth in caso di problemi con il volume dei dispositivi remoti, ad esempio un volume troppo alto o la mancanza di controllo.</string>
      <string name="bluetooth_disconnected">Disconnesso</string>
      <string name="bluetooth_disconnecting">Disconnessione in corso...</string>
      <string name="bluetooth_headset_profile_summary_connected">"Collegato all'audio telefono"</string>
@@ -115,11 +115,11 @@
      <string name="charge_length_format">%1$s fa</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
-     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
+     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzionlità di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
-     <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file. Attenzione. Questa operazione eliminerà tutti i tuoi dati. Questa funzione è in versione alpha, pertanto potrebbe non funzionare correttamente. Premi \"Cancella e converti...\" per continuare."</string>
+     <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file. Attenzione. Questa operazione eliminerà tutti i tuoi dati. Questa funzionalità è in versione alpha, pertanto potrebbe non funzionare correttamente. Premi \"Cancella e converti...\" per continuare."</string>
      <string name="convert_to_file_encryption">Converti in crittografia basata su file</string>
      <string name="convert_to_file_encryption_done">Crittografia su base file già eseguita</string>
      <string name="convert_to_file_encryption_enabled">Converti...</string>
@@ -191,7 +191,7 @@
      <string name="hdcp_checking_dialog_title">Comportamento di verifica HDCP</string>
      <string name="hdcp_checking_title">Verifica HDCP</string>
      <string name="help_app_permissions" />
-     <string name="help_feedback_label">Guida e feedback</string>
+     <string name="help_feedback_label">Guida e segnalazione bug</string>
      <string name="home">Home page Impostazioni</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
      <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
@@ -251,7 +251,6 @@
      <string name="lb_search_bar_hint_speech">Parla per cercare</string>
      <string name="lb_search_bar_hint_with_title">Cerca in %1$s</string>
      <string name="lb_search_bar_hint_with_title_speech">Parla per cercare in %1$s</string>
-     <string name="lb_time_separator">:</string>
      <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
      <string name="loading">Caricamento…</string>
      <string name="local_backup_password_summary_change">Tocca per modificare o rimuovere la password per i backup desktop completi</string>
@@ -315,7 +314,6 @@
      <string name="power_remaining_duration_only">Circa %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">Tempo rimanente: %1$s</string>
      <string name="privacyPerms">Privacy</string>
-     <string name="process_kernel_label">Android OS</string>
      <string name="remaining_length_format">%1$s rimanenti</string>
      <string name="review_button_cancel">Annulla</string>
      <string name="review_button_continue">Continua</string>

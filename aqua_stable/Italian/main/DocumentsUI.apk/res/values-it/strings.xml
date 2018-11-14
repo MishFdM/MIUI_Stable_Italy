@@ -21,7 +21,7 @@
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Chiudi</string>
      <string name="allow">Consenti</string>
-     <string name="app_label">Documents</string>
+     <string name="app_label">File</string>
      <string name="button_copy">Copia</string>
      <string name="button_dismiss">Rifiuta</string>
      <string name="button_move">Sposta</string>
