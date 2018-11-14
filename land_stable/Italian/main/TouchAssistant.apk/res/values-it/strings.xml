@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Assistente Touch</string>
      <string name="app_not_installed">Non installato</string>
@@ -8,13 +9,13 @@
      <string name="close_panel">Chiudi Assistente Touch</string>
      <string name="customize_entries">Imposta scorciatoie</string>
      <string name="enable_touch_assistant">Attiva Assistente Touch</string>
-     <string name="enabled_for_pad_hint">Lavora quando \"Blocca i tasti navigazione in landscape\" è attivato</string>
      <string name="function_settings">Impostazioni funzione</string>
      <string name="handy_mode_default_to_close_whether_open">La modalità Mano Singola è disattivata in modo predefinito. Attivarla adesso?</string>
      <string name="hide_touch_assistant">"Nascondi automaticamente l'Assistente Touch"</string>
      <string name="hide_touch_assistant_intro">"Nascondi l'Assistente Touch in alcune app"</string>
      <string name="hide_when_fullscreen">Nascondi a tutto schermo</string>
      <string name="hide_when_fullscreen_intro">Nascondi quando si entra in modalità a tutto schermo</string>
+     <string name="mi_wallet_summary">Scheda di trasporto/Mi Pay/Scheda chiave</string>
      <string name="motion_behavior">Modalità movimento</string>
      <string name="name_alipay_payment_code">Pagamento veloce Alipay</string>
      <string name="name_alipay_scan">Scansiona codice Alipay</string>
@@ -22,6 +23,7 @@
      <string name="name_handy_mode">Modalità una mano</string>
      <string name="name_long_press_power_key">Tieni premuto il tasto power</string>
      <string name="name_memory_clean">Svuota cache</string>
+     <string name="name_mi_wallet">Mi Wallet</string>
      <string name="name_music_next_song">Prossimo brano</string>
      <string name="name_music_prev_song">Brano precedente</string>
      <string name="name_music_toggle">Riproduzione/Pausa</string>
@@ -49,7 +51,7 @@
      <string name="pref_category_quick_settings">Impostazioni rapide</string>
      <string name="pref_category_system">Impostazioni di sistema</string>
      <string name="restore_default">Ripristina predefinite</string>
-     <string name="restore_intro">Ripristina le impostazioni predefinite, che includono funzioni e ordini. Questo non eliminerà i dati sul tuo telefono.</string>
+     <string name="restore_intro">Ripristina le impostazioni predefinite, che includono funzionalità e ordini. Questo non eliminerà i dati sul tuo telefono.</string>
      <string name="show_on_keyguard">Mostra su schermata di blocco</string>
      <string name="theme_manager_not_supported">Gestore temi non supportato.</string>
      <string name="three_seconds_auto_hide">Torna sul bordo dopo 3 secondi di inattività</string>
