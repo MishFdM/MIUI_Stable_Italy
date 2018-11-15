@@ -9,7 +9,7 @@
      <string name="abc_action_menu_overflow_description">Altre opzioni</string>
      <string name="abc_action_mode_done">Fine</string>
      <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
-     <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
      <string name="abc_search_hint">Cerca…</string>
@@ -152,8 +152,8 @@
      <string name="debug_networking_category">Reti</string>
      <string name="debug_view_attributes">Attiva controllo attributi visualizzazione</string>
      <string name="default_permission_description">"esegue un'azione sconosciuta"</string>
-     <string name="dev_logpersist_clear_warning_message">Quando non controlliamo più con logger persistente, richiediamo che i dati del logger sul tuo dispositivo vengano cancellati.</string>
-     <string name="dev_logpersist_clear_warning_title">Ripulire memoria logger persistenti?</string>
+     <string name="dev_logpersist_clear_warning_message">When we no longer are monitoring with the persistent logger, we are required to erase the logger data resident on your device.</string>
+     <string name="dev_logpersist_clear_warning_title">Clear logger persistent storage?</string>
      <string name="dev_settings_warning_message">"Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso."</string>
      <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
      <string name="development_settings_enable">Attiva le opzioni sviluppatore</string>
@@ -335,13 +335,13 @@
      <string name="screen_zoom_summary_large">Grande</string>
      <string name="screen_zoom_summary_small">Piccolo</string>
      <string name="screen_zoom_summary_very_large">Più grande</string>
-     <string name="search_menu_title">Ricerca</string>
+     <string name="search_menu_title">Search</string>
      <string name="security_settings_desc">Consenti a questa applicazione di:</string>
      <string name="select_application">Seleziona applicazione</string>
      <string name="select_logd_size_dialog_title">Seleziona dimensioni Logger per buffer log</string>
      <string name="select_logd_size_title">Dimensioni buffer Logger</string>
-     <string name="select_logpersist_dialog_title">Seleziona buffer log per memorizzazione persistente su dispositivo</string>
-     <string name="select_logpersist_title">Memorizza dati logger persistenti su dispositivo</string>
+     <string name="select_logpersist_dialog_title">Select log buffers to store persistently on device</string>
+     <string name="select_logpersist_title">Store logger data persistently on device</string>
      <string name="select_usb_configuration_dialog_title">Seleziona configurazione USB</string>
      <string name="select_usb_configuration_title">Seleziona configurazione USB</string>
      <string name="select_webview_provider_dialog_title">"Imposta l'implementazione di WebView"</string>
@@ -445,7 +445,7 @@
      <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione schermo wireless</string>
      <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
      <string name="wifi_no_internet">Nessun accesso ad internet rilevato, non verrà riconnesso automaticamente.</string>
-     <string name="wifi_no_internet_no_reconnect">"Nessuna accesso alla rete, non si verrà riconnesso automaticamente."</string>
+     <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_not_in_range">Fuori campo</string>
      <string name="wifi_remembered">Salvato</string>
      <string name="wifi_security_eap">802.1x EAP</string>

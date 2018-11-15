@@ -34,10 +34,10 @@
         <item>Mostra aree per Deuteranomalia</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Nessuno</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Systrace (Grafico)</item>
+        <item>Stack su glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Non usare mai il controllo HDCP</item>
@@ -46,7 +46,7 @@
      </string-array>
      <string-array name="hdcp_checking_titles">
         <item>Non controllare mai</item>
-        <item>COntrolla solo per contenuti DRM</item>
+        <item>Controlla solo per contenuti DRM</item>
         <item>Controlla sempre</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
@@ -86,16 +86,16 @@
         <item>16M</item>
      </string-array>
      <string-array name="select_logpersist_summaries">
-        <item>Disattivato</item>
-        <item>Tutti i buffer log</item>
-        <item>Tutti i buffer log tranne radio</item>
-        <item>Solo buffer log kernel</item>
+        <item>Off</item>
+        <item>All log buffers</item>
+        <item>All but radio log buffers</item>
+        <item>kernel log buffer only</item>
      </string-array>
      <string-array name="select_logpersist_titles">
-        <item>Disattivato</item>
-        <item>Tutti</item>
-        <item>Tutti tranne radio</item>
-        <item>Solo kernel</item>
+        <item>Off</item>
+        <item>All</item>
+        <item>All but radio</item>
+        <item>kernel only</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Disattivato</item>
@@ -139,7 +139,7 @@
         <item>In carica</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
+        <item>RNDIS (USB LAN)</item>
         <item>Fonte audio</item>
         <item>MIDI</item>
      </string-array>

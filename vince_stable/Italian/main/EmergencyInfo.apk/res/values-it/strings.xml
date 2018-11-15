@@ -140,7 +140,7 @@
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
      <string name="connected_via_passpoint">Connected via %1$s</string>
-     <string name="connected_via_wfa">Connected via WLAN assistant</string>
+     <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
      <string name="content_description_menu_button">Menu</string>
      <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
@@ -235,7 +235,7 @@
      <string name="medications">Farmaci</string>
      <string name="medications_hint">Per esempio, aspirina</string>
      <string name="mobile_data_always_on">Cellular data always active</string>
-     <string name="mobile_data_always_on_summary">Always keep mobile data active, even when WLAN is active (for fast network switching).</string>
+     <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
      <string name="mock_location_app">Select mock location app</string>
      <string name="mock_location_app_not_set">No mock location app set</string>
      <string name="mock_location_app_set">Mock location app: %1$s</string>
@@ -290,7 +290,7 @@
      <string name="screen_zoom_summary_large">Large</string>
      <string name="screen_zoom_summary_small">Small</string>
      <string name="screen_zoom_summary_very_large">Larger</string>
-     <string name="search_menu_title">Cerca</string>
+     <string name="search_menu_title">Search</string>
      <string name="select_application">Select application</string>
      <string name="select_logd_size_dialog_title">Select Logger sizes per log buffer</string>
      <string name="select_logd_size_title">Logger buffer sizes</string>
@@ -318,7 +318,7 @@
      <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
      <string name="tab_title_contacts">Contatti</string>
      <string name="tab_title_info">Informazioni</string>
-     <string name="tap_pencil">"Se questo è il tuo telefono, tocca l'icona fatta a matita per aggiungere informazioni che verranno mostrate qui in caso di emergenza"</string>
+     <string name="tap_pencil">If this is your phone, tap the pencil icon to add information that will be displayed here in case of emergency</string>
      <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
      <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
      <string name="tether_settings_title_usb">USB tethering</string>
@@ -377,10 +377,10 @@
      <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
      <string name="wait_for_debugger">Wait for debugger</string>
      <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
-     <string name="wifi_aggressive_handover">Aggressive WLAN to Cellular handover</string>
-     <string name="wifi_aggressive_handover_summary">When enabled, WLAN will be more aggressive in handing over the data connection to Cellular, when WLAN signal is low</string>
-     <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
-     <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
+     <string name="wifi_aggressive_handover">Aggressive Wi‑Fi to Cellular handover</string>
+     <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
+     <string name="wifi_allow_scan_with_traffic">Always allow Wi‑Fi Roam Scans</string>
+     <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
      <string name="wifi_auth_password_wrong">Password may be incorrect</string>
      <string name="wifi_connected_no_internet">Connected, no Internet</string>
      <string name="wifi_disabled_generic">Disabled</string>
@@ -390,7 +390,7 @@
      <string name="wifi_display_certification">Wireless display certification</string>
      <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
      <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
-     <string name="wifi_no_internet">No Internet Access.</string>
+     <string name="wifi_no_internet">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_not_in_range">Not in range</string>
      <string name="wifi_remembered">Saved</string>
@@ -406,8 +406,8 @@
      <string name="wifi_security_wpa">WPA PSK</string>
      <string name="wifi_security_wpa2">WPA2 PSK</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-     <string name="wifi_verbose_logging">Enable WLAN Verbose Logging</string>
-     <string name="wifi_verbose_logging_summary">Increase WLAN logging level, show per SSID RSSI in WLAN Picker</string>
+     <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
+     <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
      <string name="window_animation_scale_title">Window animation scale</string>
      <string name="yes">Si</string>
 </resources>
