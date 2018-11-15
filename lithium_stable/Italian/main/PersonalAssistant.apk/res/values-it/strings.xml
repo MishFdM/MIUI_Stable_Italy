@@ -234,6 +234,7 @@
      <string name="edit_category_dialog_title">Seleziona la categoria di pagamento</string>
      <string name="edit_comment_hint">Segna</string>
      <string name="edit_delete_dialog_message">Eliminare questa cronologia?</string>
+     <string name="edit_record_category">"Category: "</string>
      <string name="edit_record_label">Dettagli</string>
      <string name="empty_card_btn">Apri app</string>
      <string name="empty_card_tip">"Sembra che tu non abbia ancora eseguito l'accesso o impostato questa scheda."</string>
@@ -756,9 +757,13 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="payment_record_add">Aggiungi pagamento</string>
      <string name="payment_record_delete">Elimina dai pagamenti</string>
      <string name="payment_record_empty">Ancora nessun pagamento</string>
+     <string name="payment_record_label">Details</string>
      <string name="payment_record_list">Dettagli</string>
      <string name="payment_record_menu_delete">Elimina</string>
      <string name="payment_record_menu_select">Seleziona</string>
+     <string name="payment_record_new_lable">Add history record</string>
+     <string name="payment_record_recent_title">Recent payments</string>
+     <string name="payment_record_show_more">View more</string>
      <string name="payment_report_failed_record_dialog_cancel">Indietro</string>
      <string name="payment_report_failed_record_dialog_message">"Segnala le fatture non elaborate per aiutarci a rendere il calcolo dei pagamenti più preciso.
 &lt;b&gt;Gli elementi che condividerai verranno utilizzati solo per migliorare l'Assistente.&lt;/b&gt;"</string>
@@ -820,7 +825,6 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="scan_exercise">Studio</string>
      <string name="scan_parent">Scanner</string>
      <string name="scan_trans">Traduci</string>
-     <string name="search">Cerca</string>
      <string name="search_add_header">Aggiungi immagine di copertina</string>
      <string name="search_category_article">Articoli</string>
      <string name="search_category_shopping">Shopping</string>

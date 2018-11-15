@@ -254,7 +254,7 @@
      <string name="resource_comment_good_comments">Positivi</string>
      <string name="resource_comment_invalid">Tocca le stelle per dare una valutazione</string>
      <string name="resource_comment_loading_list">Caricamento commenti…</string>
-     <string name="resource_comment_name_default">Utente %1$s</string>
+     <string name="resource_comment_name_default">User %1$s</string>
      <string name="resource_comment_no_average_score">Media non disponibile</string>
      <string name="resource_comment_no_comment">Nessun commento</string>
      <string name="resource_comment_publish">Invia</string>
