@@ -18,13 +18,15 @@
         <item>Massimo 3 processi</item>
         <item>Massimo 4 processi</item>
      </string-array>
-     <string-array name="carrier_name">
-        <item>SmarToneVodafone</item>
-        <item>SmarToneVodafone 3G</item>
+     <string-array name="battery_options">
+        <item>Mostra sempre la percentuale</item>
+        <item>Mostra la percentuale quando in carica (predefinito)</item>
+        <item>Non mostrare questa icona</item>
      </string-array>
-     <string-array name="carrier_simple_name">
-        <item>SMC HK</item>
-        <item>SMC HK 3G</item>
+     <string-array name="clock_options">
+        <item>Mostra ore, minuti e secondi</item>
+        <item>Mostra ore e minuti (predefinito)</item>
+        <item>Non mostrare questa icona</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Colori migliorati</item>
@@ -56,6 +58,25 @@
         <item>Non controllare mai</item>
         <item>Controlla solo per contenuti DRM</item>
         <item>Controlla sempre</item>
+     </string-array>
+     <string-array name="miui_volume_timer_segments_title">
+        <item>Disattivato</item>
+        <item>"Mezz'ora"</item>
+        <item>1 ora</item>
+        <item>2 ore</item>
+        <item>8 ore</item>
+     </string-array>
+     <string-array name="nav_bar_buttons">
+        <item>Appunti</item>
+        <item>Chiave</item>
+        <item>Cambio tastiera</item>
+        <item>Nessuno</item>
+     </string-array>
+     <string-array name="nav_bar_layouts">
+        <item>Normale</item>
+        <item>Compatto</item>
+        <item>Verso sinistra</item>
+        <item>Verso destra</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
@@ -93,6 +114,14 @@
         <item>4M</item>
         <item>16M</item>
      </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Disattivato</item>
+        <item>Errore</item>
+        <item>Avviso</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Disattivato</item>
         <item>Mostra regione di ritaglio non rettangolare in blu</item>
@@ -111,14 +140,6 @@
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
-     </string-array>
-     <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
      </string-array>
      <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -143,7 +164,7 @@
         <item>Ricarica</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
+        <item>RNDIS (USB LAN)</item>
         <item>Sorgente audio</item>
         <item>MIDI</item>
      </string-array>

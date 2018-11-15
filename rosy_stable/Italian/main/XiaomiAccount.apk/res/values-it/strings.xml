@@ -19,8 +19,10 @@
      <string name="account_error_user_name">Il nome inserito non è valido</string>
      <string name="account_global_region">Stranieri</string>
      <string name="account_has_been_set">Modifica</string>
+     <string name="account_invalid_user_avatar">Foto non valida</string>
      <string name="account_limit_update_birthday">Siamo spiacenti, non possiamo elaborare la richiesta in questo momento.</string>
      <string name="account_mibi_center">Mi Credit</string>
+     <string name="account_mibi_charge">Ricarica Mi Credit</string>
      <string name="account_mipay_info">Mi Pay</string>
      <string name="account_no_set">Nessuno</string>
      <string name="account_none">Nessuno</string>
@@ -120,7 +122,6 @@
      <string name="find_device_account_error">"Impossibile recuperare lo stato a causa di un errore con l'account"</string>
      <string name="find_device_activate_account">Attiva account</string>
      <string name="find_device_bad_response_error">Impossibile recuperare lo stato, riprova più tardi</string>
-     <string name="find_device_display_id">Unlock number: %s</string>
      <string name="find_device_error_password_not_confirmed">Impossibile disattivare Trova Dispositivo. Inserisci il tuo Mi Account.</string>
      <string name="find_device_error_password_recently_changed">Hai modificato la password negli ultimi 3 giorni. Impossibile disattivare Trova Dispositivo per motivi di sicurezza.</string>
      <string name="find_device_interrupted">"L'operazione è stata interrotta, riprova più tardi"</string>
@@ -166,9 +167,9 @@
      <string name="mipay_identity">Identità</string>
      <string name="mipay_indentity_done">Fatto</string>
      <string name="mipay_others">Altro</string>
-     <string name="mipay_transit_card">Carta trasporti</string>
+     <string name="mipay_transit_card">Scheda trasporti</string>
      <string name="multi_user_not_show_sync_activity_message_1">Sembra che tu stia utilizzando il tuo spazio Mi Account predefinito.</string>
-     <string name="multi_user_not_show_sync_activity_message_2">In questo caso, tutti i dati verranno sincronizzati con il tuo spazio secondario. Per evitare questo non attivare la sincronizzazione con Mi Cloud.</string>
+     <string name="multi_user_not_show_sync_activity_message_2">In questo caso, tutti i dati verranno sincronizzati con il tuo Secondo Spazio. Per evitare questo non attivare la sincronizzazione con Mi Cloud.</string>
      <string name="multi_user_not_show_sync_activity_title">Non attivare la sincronizzazione con Mi Cloud</string>
      <string name="my_device_title">Dispositivo attuale</string>
      <string name="no_network_btn">Aggiorna</string>
@@ -186,6 +187,7 @@
      <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; otterrà i seguenti permessi:&lt;br&gt; &lt;br&gt; %3$s</string>
      <string name="oauth_title">Accedi con il Mi Account</string>
      <string name="other_devices_title">Altri dispositivi</string>
+     <string name="passport_Resend">Reinvia</string>
      <string name="passport_access_denied">Accesso negato</string>
      <string name="passport_account_hint_text">Email o numero di telefono</string>
      <string name="passport_account_identity_title">Verifica la tua identità</string>
@@ -205,6 +207,7 @@
      <string name="passport_back">Indietro</string>
      <string name="passport_bad_authentication">Nome utente o password non validi</string>
      <string name="passport_barcode_add_account_prompt">"Per collegarti ad un account, scansiona il codice QR di nuovo dopo aver effettuato l'accesso."</string>
+     <string name="passport_btn_change_account">Cambia account</string>
      <string name="passport_change_account"><u>Cambia account</u></string>
      <string name="passport_change_phone_number">Cambia numero</string>
      <string name="passport_checking_account">Verifica password…</string>
@@ -234,6 +237,7 @@ Per attivare il tuo account, segui il
      <string name="passport_error_empty_pwd">Inserisci la password</string>
      <string name="passport_error_empty_username">Inserisci il nome utente</string>
      <string name="passport_error_empty_vcode">Inserisci il codice di verifica</string>
+     <string name="passport_error_empty_voice_code">Immetti captcha</string>
      <string name="passport_error_illegal_pwd">Password non valida</string>
      <string name="passport_error_invalid_dev_id">ID non valido</string>
      <string name="passport_error_invalid_phone_num">Numero di telefono non valido</string>
@@ -248,7 +252,7 @@ Per attivare il tuo account, segui il
      <string name="passport_error_user_name">Nome utente non valido</string>
      <string name="passport_error_verify_activator_phone_message">Assicurati che il tuo servizio SIM sia attivato ed il tuo dispositivo sia collegato alla rete.</string>
      <string name="passport_error_verify_activator_phone_title">Impossibile verificare il numero di telefono</string>
-     <string name="passport_extra_gdpr_license">Creating your Mi Account means that you agree that Xiaomi will collect, process, and use your personal data, including verification data (e.g., verification codes), Second space data (e.g., information about the ways you use Second space, IDs used in First and Second spaces), and other data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we process and use personal data.</string>
+     <string name="passport_extra_gdpr_license">"Creando il tuo Mi Account accetti che Xiaomi raccolga, elabori ed utilizzi i tuoi dati personali, inclusi i dati di verifica (es: codici di verifica), Dati sul Secondo Spazio (es: informazioni sui modi in cui utilizzi il Secondo Spazio, ID utilizzati nel Primo e Secondo Spazio), ed altri dati specificati nella nostra Informativa sulla Privacy. Leggi la nostra Informativa sulla Privacy per scoprire come elaboriamo i dati personali.</string>
      <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
      <string name="passport_find_password_on_web_msg">Visita <b>account.mi.com</b> per reimpostare la password.</string>
      <string name="passport_forget_password"><u>Password dimenticata</u></string>
@@ -270,7 +274,11 @@ Per attivare il tuo account, segui il
      <string name="passport_input_password_hint">Inserisci la password</string>
      <string name="passport_input_phone_hint">Inserisci il numero di telefono</string>
      <string name="passport_input_vcode_hint">Inserisci il codice di verifica</string>
+     <string name="passport_input_voice_captcha_hint">Inserisci il codice di verifica vocale</string>
+     <string name="passport_input_voice_hint">Immetti codice vocale</string>
      <string name="passport_license_host_unreachable">"Impossibile connettersi alla rete. Puoi vedere questa pagina a %s."</string>
+     <string name="passport_license_info_collapse">Raggruppa</string>
+     <string name="passport_license_info_open">Dettagli</string>
      <string name="passport_loading">Caricamento…</string>
      <string name="passport_login">Accedi con un account esistente</string>
      <string name="passport_login_failed">Impossibile accedere</string>
@@ -283,6 +291,7 @@ Per attivare il tuo account, segui il
      <string name="passport_login_title">Accedi al tuo Mi Account</string>
      <string name="passport_login_using_other_ways"><u>Altre modalità di accesso</u></string>
      <string name="passport_message_dialog_title">SMS con codici di verifica</string>
+     <string name="passport_new_user_register">Crea un account</string>
      <string name="passport_next">Avanti</string>
      <string name="passport_no">No</string>
      <string name="passport_notification_title">Errore di accesso per %1$s</string>
@@ -326,6 +335,7 @@ Per attivare il tuo account, segui il
      <string name="passport_register_by_email"><u>Registrati tramite email</u></string>
      <string name="passport_register_restricted">Sono stati associati troppi account a questo numero, provane uno diverso</string>
      <string name="passport_register_restricted_title">Impossibile utilizzare questo numero</string>
+     <string name="passport_register_using_other_ways">Altri modi per registrarsi</string>
      <string name="passport_registered_phone_num">Telefono:%s</string>
      <string name="passport_registered_phone_user_ID">Nome utente: %s</string>
      <string name="passport_registered_phone_user_name">Nome utente: %s</string>
@@ -360,6 +370,10 @@ Per attivare il tuo account, segui il
      <string name="passport_sms_verification_code_login">Accesso codice verifica SMS</string>
      <string name="passport_sync_account_data">Informazioni di sincronizzazione account…</string>
      <string name="passport_sync_account_data_failed_warning">Le informazioni del tuo account sono in fase di sincronizzazione, puoi accedere con il tuo ID Mi Account. Se vuoi accedere utilizzando il tuo numero di telefono o la tua email or email, attendi fino alla completa sincronizzazione.</string>
+     <string name="passport_talkback_image_captcha">Codice di verifica con immagine</string>
+     <string name="passport_talkback_switch_image_captcha">Passa al codice di verifica con immagine</string>
+     <string name="passport_talkback_switch_voice_captcha">Passa al codice di verifica vocale</string>
+     <string name="passport_talkback_voice_captcha">Play voice verification code</string>
      <string name="passport_title_reg">Crea un account</string>
      <string name="passport_trust_device">Ricorda questo dispositivo</string>
      <string name="passport_trying_read_verify_code_sms">Recupero codice di verifica...</string>
@@ -373,7 +387,7 @@ Per attivare il tuo account, segui il
      <string name="passport_user_agreement_p2">Accordo Utente</string>
      <string name="passport_user_agreement_p3"> e </string>
      <string name="passport_user_agreement_p4">Informativa sulla Privacy</string>
-     <string name="passport_user_id_notice">IL tuo ID Mi Account ID è %s.</string>
+     <string name="passport_user_id_notice">Il tuo ID Mi Account ID è %s.</string>
      <string name="passport_user_reg_region">Nazione/Regione</string>
      <string name="passport_user_reg_region_warning">"Non sarai in grado di modificare la Nazione/Regione una volta che avrai creato l'account"</string>
      <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
@@ -386,6 +400,7 @@ Per attivare il tuo account, segui il
      <string name="passport_wrong_captcha">Il captcha inserito non è corretto</string>
      <string name="passport_wrong_phone_number_format">Il formato del numero inserito non è valido</string>
      <string name="passport_wrong_vcode">Il codice inserito non è corretto</string>
+     <string name="passport_wrong_voice">Il codice immesso non è corretto</string>
      <string name="passport_yes">Sì</string>
      <string name="phone_activated">%s attivato</string>
      <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
@@ -439,6 +454,7 @@ Per attivare il tuo account, segui il
      <string name="trusted_browsers">Browser sicuri</string>
      <string name="trusted_browsers_prompt">Il browser non sarà più sicuro se elimini i cookies.</string>
      <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova dispositivo</string>
+     <string name="turning_off_find_device">Disattivazione Trova Dispositivo…</string>
      <string name="unbind_sns_description">"Scollegando l'account non potrai accedere alle informazioni del tuo account %s per accedere al tuo Mi Account"</string>
      <string name="unlock_help_notice">"Aiuto:
 · Se hai dimenticato la password, vai su id.mi.com per ripristinarla.
