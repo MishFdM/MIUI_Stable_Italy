@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="add_channel">Add Channel</string>
+     <string name="add_channel">Aggiungi canale</string>
      <string name="alert_reminder_interval_summary" />
      <string name="alert_reminder_interval_title">Promemoria allerta</string>
      <string name="app_label">Trasmissione Cella</string>
@@ -124,9 +124,9 @@
      <string name="show_cmas_opt_out_summary">Mostra una finestra di disattivazione dopo aver visualizzato il primo avviso CMAS (esclusi gli avvisi Presidenziali).</string>
      <string name="show_cmas_opt_out_title">Mostra finestra disattivazione</string>
      <string name="sms_cb_settings">Impostazioni di trasmissione cella</string>
-     <string name="tw_alert_message">Messaggio di avviso</string>
-     <string name="tw_emergency_alert">Avviso di emergenza</string>
-     <string name="tw_required_monthly_test">Richiede Test Mensile</string>
+     <string name="tw_alert_message">Alert Message</string>
+     <string name="tw_emergency_alert">Emergency Alert</string>
+     <string name="tw_required_monthly_test">Required Monthly Test</string>
      <string name="updating_settings">Aggiornamento impostazioni</string>
      <string name="updating_title">Impostazioni chiamata</string>
      <string name="view_details_title">Dettagli allerta</string>

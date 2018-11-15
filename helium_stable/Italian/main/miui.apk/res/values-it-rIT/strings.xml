@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Naviga in home</string>
      <string name="abc_action_bar_up_description">Livello superiore</string>
@@ -15,6 +14,7 @@
      <string name="afternoon">PM</string>
      <string name="am">AM</string>
      <string name="birthday">Compleanno</string>
+     <string name="cancel_description">Annulla</string>
      <string name="check_phone_error_title">Servizio di sincronizzazione non attivato</string>
      <string name="check_phone_io_error">Errore di rete.</string>
      <string name="chinese_day_1" />
@@ -89,6 +89,7 @@
      <string name="chinese_symbol_animals_tiger" />
      <string name="clearable_edittext_clear_description">Cancella</string>
      <string name="close">Chiudi</string>
+     <string name="confirm_description">Conferma</string>
      <string name="copyright">Copyright</string>
      <string name="country_name_ac">AC</string>
      <string name="country_name_ad">AD</string>
@@ -326,7 +327,9 @@
      <string name="date_picker_label_year" />
      <string name="date_time_done">Fatto</string>
      <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+     <string name="delete_description">Elimina</string>
      <string name="deselect_all">Deseleziona</string>
+     <string name="deselect_all_description">Deseleziona tutto</string>
      <string name="early_morning">AM</string>
      <string name="earthly_branches_chen" />
      <string name="earthly_branches_chou" />
@@ -341,7 +344,6 @@
      <string name="earthly_branches_you" />
      <string name="earthly_branches_zi" />
      <string name="email">Email</string>
-     <string name="empty" />
      <string name="eras_ad">DC</string>
      <string name="eras_bc">AC</string>
      <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
@@ -417,7 +419,7 @@
      <string name="hybrid_provider">Pagina web fornita da %1$s .</string>
      <string name="im">IM</string>
      <string name="immersion_button_close_description">chiudi</string>
-     <string name="instruction">Istruzioni</string>
+     <string name="instruction">Istruzioni sicurezza</string>
      <string name="label">MIUI SDK</string>
      <string name="midnight">AM</string>
      <string name="monday">lunedì</string>
@@ -475,7 +477,7 @@
      <string name="permlab_sendSmsNoConfirmation">Consenti SMS in background</string>
      <string name="phone">Telefono</string>
      <string name="pm">PM</string>
-     <string name="privacy_policy">Informativa Privacy</string>
+     <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="sar">SAR</string>
      <string name="saturday">sabato</string>
      <string name="saturday_short">sab</string>
@@ -483,6 +485,7 @@
      <string name="search_input_description">cerca</string>
      <string name="search_mode_button_back_description">indietro</string>
      <string name="select_all">Seleziona tutto</string>
+     <string name="select_all_description">Seleziona tutto</string>
      <string name="select_item">Seleziona elementi</string>
      <string name="send">Invia</string>
      <string name="send_sms_for_sync_notice">Verrà inviato un messaggio di attivazione automaticamente.</string>
@@ -580,7 +583,7 @@
      <string name="tuesday_short">mar</string>
      <string name="tuesday_shortest">M</string>
      <string name="user_agreement">Termini del servizio</string>
-     <string name="user_experience_program">User Experience Program</string>
+     <string name="user_experience_program">Programma Esperienza Utente</string>
      <string name="user_manual">Guida utente</string>
      <string name="web_sso_login_fail">Devi accedere di nuovo</string>
      <string name="web_sso_login_message">Accesso in corso…</string>
