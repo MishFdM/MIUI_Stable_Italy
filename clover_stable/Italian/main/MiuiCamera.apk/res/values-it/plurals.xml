@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="delete_selection">
+        <item quantity="other">Delete selected items?</item>
+        <item quantity="one">Delete selected item?</item>
+     </plurals>
+</resources>
