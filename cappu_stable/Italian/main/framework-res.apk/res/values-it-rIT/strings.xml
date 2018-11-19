@@ -97,7 +97,7 @@ Vuoi chiuderlo?"</string>
      <string name="app_not_found">Nessuna applicazione trovata in grado di gestire questa azione</string>
      <string name="app_running_notification_text">"Tocca per ulteriori informazioni o per interrompere l'app."</string>
      <string name="app_running_notification_title">%1$s è in esecuzione</string>
-     <string name="app_upgrading_toast">%1$s è in fase di upgrade…</string>
+     <string name="app_upgrading_toast">%1$s is upgrading…</string>
      <string name="audit_safemode_notification">Factory reset to use this device without restrictions</string>
      <string name="audit_safemode_notification_details">Touch to learn more.</string>
      <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
@@ -568,7 +568,6 @@ Visita "<b>google.com/accounts/recovery</b>."</string>
      <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
      <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
      <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
-     <string name="kg_text_message_separator">" – "</string>
      <string name="kg_too_many_failed_attempts_countdown">Riprova fra %1$d secondi.</string>
      <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Hai digitato la tua password %d volte in modo errato. 
 
@@ -609,7 +608,7 @@ Per sbloccare, premi e tieni premuti insieme i pulsanti Home e Power."</string>
      <string name="lock_to_app_unlock_password">Richiedi password prima di sbloccare</string>
      <string name="lock_to_app_unlock_pattern">Richiedi sequenza di sblocco prima di sbloccare</string>
      <string name="lock_to_app_unlock_pin">Richiedi il PIN prima di sbloccare</string>
-     <string name="lockscreen_access_pattern_area">Area pattern.</string>
+     <string name="lockscreen_access_pattern_area">Area sequenza</string>
      <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
      <string name="lockscreen_access_pattern_cell_added_verbose">%1$s celle aggiunte</string>
      <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
@@ -792,6 +791,7 @@ Riprova tra %d secondi."</string>
      <string name="mobile_provisioning_url" />
      <string name="month_day_year" formatted="false">%B %-e, %Y</string>
      <string name="more_item_label">Altro</string>
+     <string name="move_button_text">Cambia</string>
      <string name="muted_by">Audio disattivato da %1$s</string>
      <string name="needPuk">La SIM è bloccata tramite PUK. Digita il codice PUK per sbloccarla.</string>
      <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>

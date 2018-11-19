@@ -246,7 +246,7 @@
      <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
      <string name="connect_later">Impossibile connettersi ora a questa rete. Riprova più tardi.</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
-     <string name="connected_via_wfa">Connected via WLAN assistant</string>
+     <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
      <string name="connection_service_default_label">Servizi di connessione integrati</string>
      <string name="contactPhoto">foto contatto</string>
      <string name="convert_to_fbe_warning">"Converti partizione dati a file basato su crittografia!!
@@ -266,11 +266,11 @@
      <string name="data_enabled">Connessione dati</string>
      <string name="data_usage_uninstalled_apps">App rimosse</string>
      <string name="data_usage_uninstalled_apps_users">App e utenti rimossi</string>
-     <string name="debug_app">Seleziona apo di debug</string>
+     <string name="debug_app">Seleziona app di debug</string>
      <string name="debug_app_not_set">Nessuna app di debug impostata</string>
-     <string name="debug_app_set">Debugging applicazioni: %1$s</string>
+     <string name="debug_app_set">Debug applicazioni: %1$s</string>
      <string name="debug_applications_category">App</string>
-     <string name="debug_debugging_category">Debugging</string>
+     <string name="debug_debugging_category">Debug</string>
      <string name="debug_drawing_category">Disegno</string>
      <string name="debug_hw_drawing_category">Rendering hardware accelerato</string>
      <string name="debug_hw_overdraw">Debug overdraw GPU</string>
@@ -683,7 +683,7 @@ Sono rimasti %d tentativo(i)."</string>
      <string name="preferred_network_mode_wcdma_perf_summary">Modalità di rete preferita: WCDMA preferita</string>
      <string name="private_num">Numero privato</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
-     <string name="proxy_address">ProxyAddress</string>
+     <string name="proxy_address">Indirizzo Proxy</string>
      <string name="proxy_address_title">"Indirizzo proxy verso l'esterno"</string>
      <string name="pstn_connection_service_label">SIM implementata</string>
      <string name="puk2_blocked">PUK2 è bloccato permanentemente.</string>
@@ -886,7 +886,6 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tts_status_ok">%1$s é pienamente supportato</string>
      <string name="tts_status_requires_network">%1$s richiede una connessione alla rete</string>
      <string name="tts_status_title">Stato lingua predefinita</string>
-     <string name="tty_mode_key">button_tty_mode_key</string>
      <string name="tty_mode_not_allowed_video_call">La modifica della modalità TTY non è consentita durante una videochiamata</string>
      <string name="tty_mode_option_summary">Imposta modalità TTY</string>
      <string name="tty_mode_option_title">Modalità TTY</string>

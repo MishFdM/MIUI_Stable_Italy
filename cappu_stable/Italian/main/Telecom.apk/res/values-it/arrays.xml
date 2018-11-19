@@ -34,10 +34,10 @@
         <item>Mostra aree per Deuteranomalia</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Nessuno</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Systrace (Grafico)</item>
+        <item>Stack su glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Non usare mai il controllo HDCP</item>
@@ -46,7 +46,7 @@
      </string-array>
      <string-array name="hdcp_checking_titles">
         <item>Non controllare mai</item>
-        <item>COntrolla solo per contenuti DRM</item>
+        <item>Controlla solo per contenuti DRM</item>
         <item>Controlla sempre</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
@@ -127,7 +127,7 @@
         <item>In carica</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
+        <item>RNDIS (USB LAN)</item>
         <item>Fonte audio</item>
         <item>MIDI</item>
      </string-array>

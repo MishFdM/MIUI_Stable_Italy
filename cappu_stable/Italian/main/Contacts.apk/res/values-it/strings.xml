@@ -156,7 +156,7 @@
      <string name="composer_failed_to_get_database_infomation">Recupero informazioni database non riuscito.</string>
      <string name="composer_has_no_exportable_contact">"Non sono presenti contatti esportabili. Se hai contatti sul dispositivo, è possibile che alcuni fornitori di dati non consentano l'esportazione dei contatti."</string>
      <string name="composer_not_initialized">Il compositore di vCard non si è avviato correttamente.</string>
-     <string name="confirm_delete_contact_all_call_logs">Cancellare il registro chiamate?</string>
+     <string name="confirm_delete_contact_all_call_logs">Eliminare cronologia?</string>
      <string name="confirm_delete_selected_all_call_logs">Cancellare il registro chiamate?</string>
      <string name="confirm_delete_sim_entry_miui">Delete %d contacts from SIM card?</string>
      <string name="confirm_export_message">"L'elenco dei contatti verrà esportato nel file: %s."</string>
@@ -269,7 +269,7 @@
      <string name="device_import_progress_begin_message">Importazione…</string>
      <string name="device_import_progress_end_message">Importazione completata</string>
      <string name="device_import_progress_message">Importazione…</string>
-     <string name="device_import_progress_toast">%1$d contatti importati</string>
+     <string name="device_import_progress_toast">%1$d contacts imported</string>
      <string name="device_import_title">Importa</string>
      <string name="device_list_title">Scegli un dispositivo</string>
      <string name="device_other_guide">Se il tuo dispositivo non è nella lista, segui i passi seguenti</string>
@@ -371,7 +371,7 @@ Motivo: \"%s\"</string>
      <string name="favoritesFrequentContacted">Contattati spesso</string>
      <string name="favorites_list_empty">Nessun preferito</string>
      <string name="fools_day">愚人节</string>
-     <string name="foundTooManyContacts">Più di %d trovati.</string>
+     <string name="foundTooManyContacts">More than %d found.</string>
      <string name="frequency_none">Never</string>
      <string name="frequency_three_days">Every 3 days</string>
      <string name="frequency_weekly">Every week</string>
@@ -508,7 +508,7 @@ Motivo: \"%s\"</string>
      <string name="lunar_wu">五</string>
      <string name="lunar_year">年</string>
      <string name="lunar_yi">一</string>
-     <string name="lunar_yue" />
+     <string name="lunar_yue">月</string>
      <string name="lunar_zheng">正</string>
      <string name="make_primary">Ricorda questa scelta</string>
      <string name="map_custom">Visualizza indirizzo %s</string>
@@ -565,7 +565,7 @@ Motivo: \"%s\"</string>
      <string name="menu_splitAggregate">Separa</string>
      <string name="menu_sync_remove">Rimuovi gruppo sincronizzazione</string>
      <string name="menu_viewContact">Visualizza contatto</string>
-     <string name="merge_contact_message">%1$d contatti con info parzialmente identiche</string>
+     <string name="merge_contact_message">%1$d contacts with partially identical info</string>
      <string name="messageShortcutActivityTitle">Scegli un numero a cui inviare il messaggio</string>
      <string name="missing_name">I miei gruppi</string>
      <string name="move_and_resize">Muovi e ridimensiona</string>
@@ -589,7 +589,7 @@ Motivo: \"%s\"</string>
      <string name="next">Avanti</string>
      <string name="next_birthday">Prossimo compleanno: %s</string>
      <string name="nfc_vcard_file_name">Contatto via NFC</string>
-     <string name="nicknameLabelsGroup">Nickname</string>
+     <string name="nicknameLabelsGroup">Soprannome</string>
      <string name="nickname_editor_title">Modifica soprannome</string>
      <string name="nickname_picker_name_column">Nome contatto</string>
      <string name="nickname_picker_nickname_column">Titolo</string>
@@ -1010,7 +1010,7 @@ Scegli una delle seguenti opzioni:"</string>
      <string name="viewContactTitle">Dettagli contatto</string>
      <string name="view_updates_from_group">Visualizza aggiornamenti</string>
      <string name="voicemail">Messaggio in segreteria</string>
-     <string name="voicemail_buffering">Creazione buffe…</string>
+     <string name="voicemail_buffering">Creazione buffer…</string>
      <string name="voicemail_fetching_content">Recupero messaggi vocali…</string>
      <string name="voicemail_fetching_timout">Impossibile recuperare i messaggi vocali</string>
      <string name="voicemail_playback_error">Impossibile riprodurre il messaggio vocale</string>
