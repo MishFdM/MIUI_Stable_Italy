@@ -286,10 +286,25 @@
         <item>Attiva Codec Opzionali</item>
         <item>Disattiva Codec Opzionali</item>
      </string-array>
+     <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, active</item>
+        <item>, active (media)</item>
+        <item>, active (phone)</item>
+     </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
+		<item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+     </string-array>
+     <string-array name="bluetooth_max_connected_audio_devices">
+        <item>Use System Default: %1$d</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
      </string-array>
      <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 minuti</item>
@@ -963,16 +978,19 @@
         <item>Blocco app</item>
         <item>Secondo Spazio</item>
      </string-array>
-     <string-array name="config_preinstalled_interaction_control_services">
-        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
-     </string-array>
-     <string-array name="config_preinstalled_screen_reader_services">
-        <item>com.google.android.marvin.talkback/com.google.android.marvin.talkback.TalkBackService</item>
-        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
-     </string-array>
      <string-array name="connect_mode_entries">
         <item>Compatibilità</item>
         <item>Alta velocità</item>
+     </string-array>
+     <string-array name="dark_ui_mode_entries">
+        <item>Automatic (based on time of day)</item>
+        <item>Always on</item>
+        <item>Always off</item>
+     </string-array>
+     <string-array name="dark_ui_mode_values">
+        <item>auto</item>
+        <item>yes</item>
+        <item>no</item>
      </string-array>
      <string-array name="data_usage_data_range">
         <item>Ultimi 30 giorni</item>
@@ -1000,10 +1018,6 @@
         <item>Disattivato</item>
         <item>Visualizza le zone di conflitto</item>
         <item>Mostra aree adattate per deuteranomalia</item>
-     </string-array>
-     <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Predefinito)</item>
-        <item>OpenGL (Skia)</item>
      </string-array>
      <string-array name="dream_timeout_entries">
         <item>Mai</item>
@@ -1509,9 +1523,18 @@
         <item>Solo 5 GHz</item>
         <item>Solo 2,4 GHz</item>
      </string-array>
+     <string-array name="wifi_hidden_entries">
+        <item>No</item>
+        <item>Yes</item>
+     </string-array>
      <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Statico</item>
+     </string-array>
+     <string-array name="wifi_metered_entries">
+        <item>Detect automatically</item>
+        <item>Treat as metered</item>
+        <item>Treat as unmetered</item>
      </string-array>
      <string-array name="wifi_p2p_status">
         <item>Connesso</item>
@@ -1556,16 +1579,6 @@
         <item>Discreta</item>
         <item>Buona</item>
         <item>Eccellente</item>
-     </string-array>
-     <string-array name="wifi_sleep_policy_entries">
-        <item>Sempre</item>
-        <item>Solo se in carica</item>
-        <item>"Mai (aumenta l'utilizzo dei dati)"</item>
-     </string-array>
-     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Sempre</item>
-        <item>Solo se in carica</item>
-        <item>Mai</item>
      </string-array>
      <string-array name="wifi_ssid_type_entries">
         <item>Connetti automaticamente</item>

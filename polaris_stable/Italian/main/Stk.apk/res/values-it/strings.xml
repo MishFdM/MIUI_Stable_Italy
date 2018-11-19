@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="alphabet">Alfabeto</string>
      <string name="app_name">Strumenti SIM</string>
@@ -29,6 +30,5 @@
      <string name="stk_dialog_accept">SI</string>
      <string name="stk_dialog_reject">NO</string>
      <string name="stk_dialog_title">Strumenti SIM</string>
-     <string name="stk_intent_permission">Consenti Strumenti SIM</string>
      <string name="stk_no_service">Nessun servizio disponibile</string>
 </resources>

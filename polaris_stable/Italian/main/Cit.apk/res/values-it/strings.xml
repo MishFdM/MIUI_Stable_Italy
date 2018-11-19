@@ -11,15 +11,23 @@
      <string name="SD_SDCard_total_size">Dimensione totale</string>
      <string name="SD_SDCard_unmounted">Scheda SD non disponibile</string>
      <string name="abc_action_bar_home_description">Naviga verso schermata iniziale</string>
-     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">"Naviga verso l'alto"</string>
      <string name="abc_action_menu_overflow_description">Più opzioni</string>
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Vedi tutti</string>
-     <string name="abc_activitychooserview_choose_application">"Seleziona un'app"</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">DISATTIVA</string>
      <string name="abc_capital_on">ATTIVA</string>
+     <string name="abc_menu_alt_shortcut_label">Alt+</string>
+     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+     <string name="abc_menu_delete_shortcut_label">delete</string>
+     <string name="abc_menu_enter_shortcut_label">enter</string>
+     <string name="abc_menu_function_shortcut_label">Function+</string>
+     <string name="abc_menu_meta_shortcut_label">Meta+</string>
+     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+     <string name="abc_menu_space_shortcut_label">space</string>
+     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+     <string name="abc_prepend_shortcut_label">Menu+</string>
      <string name="abc_search_hint">Cerca…</string>
      <string name="abc_searchview_description_clear">Pulisci query</string>
      <string name="abc_searchview_description_query">Cerca query</string>
@@ -34,7 +42,6 @@
      <string name="action_farr_verify">FAR FRR:verifica</string>
      <string name="action_init_base">FAR FRR:inizial. base</string>
      <string name="action_nothing">Attendi il test</string>
-     <string name="action_settings">FingerprintUnlockSettings</string>
      <string name="add">Add</string>
      <string name="afdcalibration_test">TEST CALIBRAZIONE ADF</string>
      <string name="afdcalibrationrubberstamp_test">TEST CALIBRAZIONE STAMPO DI GOMMA AFD</string>
@@ -62,6 +69,7 @@
      <string name="camera_preview">preview</string>
      <string name="camera_zoom">Zoom</string>
      <string name="camerainfo">Informazioni camera</string>
+     <string name="can_not_get_numbers_of_keys">can not get numbers of keys</string>
      <string name="cancel">Cancel</string>
      <string name="cancelEnrol">CancelEnrol</string>
      <string name="cancel_test">TEST ANNULLATO</string>
@@ -213,8 +221,8 @@ and reverse plug in the charger"</string>
      <string name="cit_display_continue">Tocca lo schermo per iniziare</string>
      <string name="cit_emergencycall_check_summary">"Clicca sul pulsante Componi 112 per comporre il numero 112 e verificarne l'effettiva possibilità di posizionamento."</string>
      <string name="cit_emergencycall_check_title">Chiamata di Emergenza</string>
-     <string name="cit_exit_test_summary">Uscita dalla diagnostica, tutti i relativi dati saranno rimossi.</string>
-     <string name="cit_exit_test_title">Chiudi test</string>
+     <string name="cit_exit_test_summary">Uscire dalla diagnostica? Tutti i relativi dati verranno rimossi.</string>
+     <string name="cit_exit_test_title">Chiusura test</string>
      <string name="cit_external_sd_check_summary">Questo test verificherà lo stato della Scheda SD</string>
      <string name="cit_external_sd_check_title">Test Scheda SD</string>
      <string name="cit_fail">Fallito</string>
@@ -245,6 +253,8 @@ and reverse plug in the charger"</string>
 3. Tocca l'icona a forma di spunta. Il sistema salverà la foto automaticamente
 4. La foto che hai scattato dovrebbe comparire di seguito. Tocca "Elimina" per completare questo test"</string>
      <string name="cit_front_camera_check_title">Test Fotocamera anteriore</string>
+     <string name="cit_front_rear_dual_camera_check_title">Front rear dual camera</string>
+     <string name="cit_front_rear_sub_camera_check_title">Front rear sub camera</string>
      <string name="cit_get_signature_failed">ottenimento firma FALLITO</string>
      <string name="cit_goodix_sensor_check_summary">Test sensore Goodix. Premi il pulsante e attendi che le informazioni di completamento con successo evidenziate in verde siano corrette.</string>
      <string name="cit_goodix_sensor_check_title">Sensore impronte Goodix</string>
@@ -266,8 +276,10 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_hall_far">lontano</string>
      <string name="cit_hall_miui_test_summary">When a magnet is close to the green area, the black screen, otherwise the screen is bright screen.</string>
      <string name="cit_hall_near">vicino</string>
+     <string name="cit_hall_phone_slider_status_down">Phone sliding status: slide down</string>
+     <string name="cit_hall_phone_slider_status_up">Phone sliding status: slide up</string>
      <string name="cit_hall_test_summary">"Quando un magnete si troverà nell'area verde, il testo dovrebbe avvicinarsi, in alternativa dovrebbe apparire lontano."</string>
-     <string name="cit_hall_test_title">Sala</string>
+     <string name="cit_hall_test_title">Magnetico</string>
      <string name="cit_hd_full">Cit Full Test</string>
      <string name="cit_hd_partial">Cit Partial Test</string>
      <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti sulle cuffie (posizionati solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
@@ -299,6 +311,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_kayboard_volume_down">Pulsante: VOLUME SU</string>
      <string name="cit_kayboard_volume_up">Pulsante: VOLUME GIÙ</string>
      <string name="cit_kernal_log_txt">kernel log</string>
+     <string name="cit_keyboard_ai_key">Button: AI_KEY</string>
      <string name="cit_keyboard_back">Pulsante: INDIETRO</string>
      <string name="cit_keyboard_current">Tasto attuale: %s</string>
      <string name="cit_keyboard_current_def">Current keyboard:</string>
@@ -412,6 +425,9 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_sim_state_puk_required">PUK richiesto</string>
      <string name="cit_sim_state_ready">Scheda SIM pronta</string>
      <string name="cit_sim_state_unkown">Sconosciuto</string>
+     <string name="cit_slider_hall_miui_test_summary">Execute a complete phone slide up and slide down operate.</string>
+     <string name="cit_slider_hall_test_summary">Execute a complete phone slide up and slide down operate.</string>
+     <string name="cit_slider_hall_test_title">Slider Hall</string>
      <string name="cit_soft_torch">front soft flash led</string>
      <string name="cit_soft_torch_on">Turn on soft flash light</string>
      <string name="cit_start_calibration">Calibra</string>
@@ -610,7 +626,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_touch_calib_pass">Calibrazione Touchscreen riuscita</string>
      <string name="cit_touch_calib_summary">"Il prossimo passo calibrerà il touchscreen, premi il pulsante di conferma e non toccare più lo schermo. Attendi l\'avviso di calibrazione eseguita."</string>
      <string name="cit_touch_calib_title">Calibrazione Touchscreen</string>
-     <string name="cit_touch_panel_test_title">Touch sensor</string>
+     <string name="cit_touch_panel_test_title">Sensore touch</string>
      <string name="cit_usb_OTG_error_condition">"USB device has plugged in, but can not get the device info
 test fail!"</string>
      <string name="cit_usb_OTG_in">Rilevato dispositivo USB OTG</string>
@@ -622,8 +638,10 @@ test fail!"</string>
      <string name="cit_usb_OTG_plug_re_plugin">USB_OTG test has complete, no need retest</string>
      <string name="cit_usb_charger_in">Ricarica via USB</string>
      <string name="cit_usb_charger_out">Alimentazione USB scollegata</string>
-     <string name="cit_version_check_summary">Di seguito trovi la versione del SO. Verifica che le informazioni evidenziate in verde sono corrette.</string>
-     <string name="cit_version_check_title">Versione Test</string>
+     <string name="cit_version_check_summary">Di seguito troverai la versione del SO. Verifica che le informazioni evidenziate in verde siano corrette.</string>
+     <string name="cit_version_check_title">Test versione</string>
+     <string name="cit_vga_camera_cameraid_fail">Error: cameraid not config</string>
+     <string name="cit_vga_camera_cameralist_fail">Error: cameralist not match</string>
      <string name="cit_vga_camera_capture">Avvia</string>
      <string name="cit_vga_camera_capture_fail">Impossibile scattare una foto</string>
      <string name="cit_vga_camera_delete">Elimina</string>
@@ -672,6 +690,7 @@ test fail!"</string>
      <string name="far_count">FAC (Conteggio Tasso Accettazione Errato):</string>
      <string name="far_total_count">FATC (Conteggio Totale Tasso Accettazione Errato):</string>
      <string name="fingerprint">Fingerprint:</string>
+     <string name="fingerprint_input_title">fingerprint input test</string>
      <string name="firstplug_mic_check_record_tip">Stop Record, After you plug in the headset confirm the result</string>
      <string name="fod_check_start_error">"Can not start the sensor check program
 Test fialed!"</string>
@@ -748,11 +767,10 @@ the specified position"</string>
      <string name="keyboard">CHIAVE</string>
      <string name="keyboard_vibrator_test">Keyboard test</string>
      <string name="keyboard_vibrator_test_old">Keyboard and vibration test</string>
+     <string name="keys_times">Keys Times:</string>
      <string name="lastTestResult">Last Test Result:</string>
      <string name="last_time_test_result">RISULTATO PRECEDENTE</string>
      <string name="launcher_d5x_sar_summary">The output data of each channel of the SAR sensor is displayed below. Please reverse the phone to the Sar calibration fixture, click Start calibration, display the calibration PASS, then indicate normal. Please note that the school is on time, and hands are not near the cell phone.</string>
-     <string name="launcher_new_full">新首页硬件全检</string>
-     <string name="launcher_new_partial">新首页硬件抽检</string>
      <string name="lcminfo">Informazioni LCM</string>
      <string name="led_tip_txt">The following items will be randomly switched on. Please select the current status of the light</string>
      <string name="magnetic_info_hint">Prego ruotare il dispositivo come nella figura 8</string>
@@ -769,13 +787,13 @@ the specified position"</string>
      <string name="next">Avanti</string>
      <string name="next_step">Next step</string>
      <string name="nfc_disable_tip">Prego abilita la funzionalità NFC</string>
-     <string name="nfc_test">Nfc接口测试</string>
      <string name="no">No</string>
      <string name="no_data">--</string>
      <string name="no_vibrator">No vibrator</string>
      <string name="noise">Rumore:</string>
      <string name="none">N/A</string>
      <string name="pass">Pass</string>
+     <string name="phone_not_been_restarted">Phone not been restarted</string>
      <string name="picture">Picture</string>
      <string name="placeholder">占位置</string>
      <string name="plugout_and_reverse_plugin">"
@@ -822,6 +840,8 @@ Please plug out the charger and reverse plug in."</string>
      <string name="radio_info_unknown">Sconosciuto</string>
      <string name="radio_info_voice_network_type_label">Tipologia servizio rete:</string>
      <string name="radio_no">Can not hear</string>
+     <string name="reboot_times">Reboot Times:</string>
+     <string name="refresh_number_of_keys">refresh number of keys</string>
      <string name="removeFingerprint">Remove Fingerprint</string>
      <string name="remove_headset_and_starttest">Prego rimuovi gli auricolari e premere start oer eseguire il test</string>
      <string name="request_permission">This sample needs camera permission.</string>
@@ -900,7 +920,6 @@ Please click the appropriate button according to the number you hear"</string>
      <string name="title_open_short_pixel">Apri pixel breve</string>
      <string name="title_spi">spi</string>
      <string name="top_mic_check_record_tip">Recording, please say something to MIC at the top of the phone</string>
-     <string name="torch">闪光灯</string>
      <string name="touch_auto">Self test pannello tocchi in corso, prego attendere....</string>
      <string name="touch_sefl_fail">Test fail</string>
      <string name="touch_self">Please do not touch the screen during the test…</string>
