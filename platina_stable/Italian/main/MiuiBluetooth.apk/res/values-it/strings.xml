@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">MIUI Bluetooth</string>
      <string name="ble_device_address">Dispositivi smart MAC bluetooth</string>

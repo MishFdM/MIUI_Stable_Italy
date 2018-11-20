@@ -19,9 +19,9 @@
         <item>Visualizzazione orizzontale</item>
      </string-array>
      <string-array name="pref_tab_restore_array">
-        <item>Always asking</item>
-        <item>Open</item>
-        <item>Close</item>
+        <item>Chiedi sempre</item>
+        <item>Apri</item>
+        <item>Chiudi</item>
      </string-array>
      <string-array name="pref_text_zoom_choices">
         <item>Molto piccolo</item>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="abort_backup_confirm">Backup non completato. Interrompere comunque?</string>
      <string name="abort_restore_confirm">Il ripristino non è ancora completo. Interrompere lo stesso?</string>

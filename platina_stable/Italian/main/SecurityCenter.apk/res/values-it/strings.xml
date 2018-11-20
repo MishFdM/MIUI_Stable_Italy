@@ -507,19 +507,19 @@ se dimenticata"</string>
      <string name="card_main_xspace_action">Crea</string>
      <string name="card_main_xspace_summary">Crea un doppio account per le applicazioni</string>
      <string name="card_main_xspace_title">Clona app</string>
-     <string name="card_sms_report">Rapporto SMS</string>
+     <string name="card_sms_report">Report via SMS</string>
      <string name="card_tc_failed">Impossibile calibrare</string>
-     <string name="card_tc_failed_content">"Ragioni possibili:
- 1. Gli operatori rispondono lentamente all'inizio e alla fine del mese. Riprova fra un paio di giorni.
- 2. E' necessario un modello di richiesta di rete quando esegui la calibrazione per la prima volta. Connettiti alla rete e prova di nuovo.
- 3. Il tuo operatore potrebbe non supportare l'invio di messaggi di testo con i dati e il saldo rimanenti. Contatta il tuo operatore per maggiori informazioni.
- 4. Potrebbe essersi verificato un errore nei dati dell'operatore. Prova ad eseguire una diagnostica per risolvere il problema.
- 5. Niente ti è stato di aiuto? Tocca \"Segnala tramite SMS\" per inviare la tua segnalazione bug a Xiaomi con un messaggio di testo."</string>
+     <string name="card_tc_failed_content">"Possible reasons:
+ 1. Carriers respond slower at the beginning and at the end of a month. Try again in a couple of days.
+ 2. A network request template is required when you calibrate for the first time. Connect to the network and try again.
+ 3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
+ 4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
+ 5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
      <string name="celcius_symbol">°C</string>
      <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
      <string name="charging_text_battery_nearly_full">Quasi carico</string>
      <string name="charging_text_battery_perfect">Carica completata\u0020</string>
-     <string name="check_network_state">Test rete</string>
+     <string name="check_network_state">Test network</string>
      <string name="choose">Scegli</string>
      <string name="clean_immediately">Pulisci</string>
      <string name="cleaned">Puliti</string>
@@ -545,15 +545,15 @@ se dimenticata"</string>
      <string name="convenient_summary">"Non richiedere la password dopo che un'app è stata sbloccata"</string>
      <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Attendi il termine del processo e riprova.</string>
      <string name="cpu_usage_android_system">Sistema Android</string>
-     <string name="cpu_usage_app_bg_restrict_default">Auto (consigliato)</string>
+     <string name="cpu_usage_app_bg_restrict_default">Auto (recommended)</string>
      <string name="cpu_usage_app_bg_restrict_default_short">Auto</string>
-     <string name="cpu_usage_app_bg_restrict_full">Limita attività in background</string>
-     <string name="cpu_usage_app_bg_restrict_no_limit">Non limitare</string>
-     <string name="cpu_usage_app_bg_restrict_partly">Dopo %s</string>
-     <string name="cpu_usage_app_bg_restrict_partly_short">Dopo %s</string>
-     <string name="cpu_usage_app_bg_restrict_title">Impostazioni sfondo</string>
-     <string name="cpu_usage_app_tip_can_not_restrict_system_app">Impossibili limitare i servizi di sistema</string>
-     <string name="cpu_usage_app_uninstalled_toast">Questa app è stata disinstallata</string>
+     <string name="cpu_usage_app_bg_restrict_full">Restrict background activity</string>
+     <string name="cpu_usage_app_bg_restrict_no_limit">"Don't restrict"</string>
+     <string name="cpu_usage_app_bg_restrict_partly">After %s</string>
+     <string name="cpu_usage_app_bg_restrict_partly_short">After %s</string>
+     <string name="cpu_usage_app_bg_restrict_title">Background settings</string>
+     <string name="cpu_usage_app_tip_can_not_restrict_system_app">"Can't restrict system services"</string>
+     <string name="cpu_usage_app_uninstalled_toast">This app is uninstalled</string>
      <string name="cpu_usage_process_run_time_little_time">Meno di 1 minuto</string>
      <string name="cpu_usage_view_action_btn_text">Tocca per visualizzare</string>
      <string name="create_shortcut">Crea un collegamento sulla schermata Home per Turbo videogiochi</string>
@@ -851,7 +851,7 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="gmscore_support_service">Servizi Google</string>
      <string name="go_to">Procedi</string>
      <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
-     <string name="google_base_app_install_choice">\"%s\" requires Google Services Framework to work normally, download and install it?</string>
+     <string name="google_base_app_install_choice">\"%s\" requires Google Services Framework to work normally, download and install it? </string>
      <string name="gs_anto_clean_memory_whitelist">Eccezioni</string>
      <string name="gs_app_back_self_start">Risparmio energetico</string>
      <string name="gs_auto_clean_memory">Cancella cache</string>
@@ -961,7 +961,7 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="label_callwait">Chiamata in attesa</string>
      <string name="label_mi_stats">Statistiche Mi</string>
      <string name="last_check_canceled">La scansione precedente è stata annullata</string>
-     <string name="later">Più tardi</string>
+     <string name="later">稍后处理</string>
      <string name="left_precent">60%</string>
      <string name="legal_workday">Festivi</string>
      <string name="legal_workday_invalidate">Dati scaduti (Attualmente attivo da Lunedì a Venerdì)</string>
@@ -1053,9 +1053,9 @@ dall'operatore"</string>
      <string name="main_tobe_added_desc">Dati su rete mobile da ¥0.03/MB</string>
      <string name="main_today_used">Oggi</string>
      <string name="main_toolbar_firewall">Limita utilizzo dati</string>
-     <string name="main_toolbar_internet_by_mobiledata">Connessione dati</string>
-     <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
-     <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
+     <string name="main_toolbar_internet_by_mobiledata">Mobile data</string>
+     <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
+     <string name="main_toolbar_internet_by_wifi">WLAN</string>
      <string name="main_toolbar_purchase">Ricarica</string>
      <string name="main_toolbar_statistic">Statistiche di utilizzo dati</string>
      <string name="main_used_bill">%s CNY</string>
@@ -1098,15 +1098,15 @@ dall'operatore"</string>
      <string name="megabyteShort">MB</string>
      <string name="megabyte_per_second">M/s</string>
      <string name="memory_check_content">%s liberati</string>
-     <string name="memory_clean_btn_click_text">Aumenta velocità</string>
-     <string name="memory_clean_cleaning_title">Pulizia cache</string>
-     <string name="memory_clean_click_tip">Velocità aumentata</string>
+     <string name="memory_clean_btn_click_text">Boost speed</string>
+     <string name="memory_clean_cleaning_title">Clearing cache</string>
+     <string name="memory_clean_click_tip">Boost speed</string>
      <string name="memory_clean_memory_size_tip">Cache</string>
      <string name="memory_clean_no_need_clean">Sembra tutto OK</string>
-     <string name="memory_clean_no_running_process">Nessuna operazione da terminare</string>
-     <string name="memory_clean_running_process_title">App monitorate (%d)</string>
-     <string name="memory_cleaned_memory_info">Memoria disponibile</string>
-     <string name="memory_cleaned_memory_up">Aumenta velocità</string>
+     <string name="memory_clean_no_running_process">No tasks to clear</string>
+     <string name="memory_clean_running_process_title">Monitoring apps (%d)</string>
+     <string name="memory_cleaned_memory_info">Available memory</string>
+     <string name="memory_cleaned_memory_up">Speed boost</string>
      <string name="memory_clear_unused">Cancella cache (%s)</string>
      <string name="menu_add">Aggiungi</string>
      <string name="menu_bl_call_log">Controlla il registro delle chiamate bloccate</string>
@@ -1268,7 +1268,7 @@ dall'operatore"</string>
      <string name="note_call_none">Nessun dato da modificare</string>
      <string name="note_list_none">Nessuna lista da modificare</string>
      <string name="note_sms_none">Nessun messaggio da modificare</string>
-     <string name="notification_battery_consume_abnormal_summary">%2$s di consumo della batteria negli ultimi %1$d minuti</string>
+     <string name="notification_battery_consume_abnormal_summary">Drained %2$s of the battery during last %1$d minutes</string>
      <string name="notification_battery_consume_abnormal_title">La batteria sta scendendo molto velocemente</string>
      <string name="notification_exit_power_save_mode">Disattiva il Risparmio energetico</string>
      <string name="notification_exit_power_save_mode_subtitle">Batteria ha %s di carica.</string>
@@ -1299,46 +1299,46 @@ dall'operatore"</string>
      <string name="ok">OK</string>
      <string name="ok_button">OK</string>
      <string name="old_sdk_deny_warning">Questa app non è compatibile con gli ultimi requisiti di autorizzazione Android. I permessi negati potrebbero influire sul corretto funzionamento di questa app.</string>
-     <string name="om_btn_text_quick_fix">Ottimizza</string>
-     <string name="om_cpu_overload_activity_title">App con elevato utilizzo di CPU</string>
-     <string name="om_cpu_overload_app_fixed">Tutti i problemi sono stati risolti</string>
-     <string name="om_cpu_overload_app_name">App con elevato utilizzo di CPU</string>
-     <string name="om_cpu_overload_detail">Utilizzati %1$s di capacità CPU per %2$s</string>
-     <string name="om_cpu_overload_proc_activity_title">Problemi</string>
-     <string name="om_cpu_overload_proc_title">Problemi</string>
-     <string name="om_cpu_usage_warn_title_text">"Questa app potrebbe rallentare
-il tuo dispositivo"</string>
+     <string name="om_btn_text_quick_fix">Optimize</string>
+     <string name="om_cpu_overload_activity_title">Apps with high CPU usage</string>
+     <string name="om_cpu_overload_app_fixed">All issues were fixed</string>
+     <string name="om_cpu_overload_app_name">Apps with high CPU usage</string>
+     <string name="om_cpu_overload_detail">Used %1$s of CPU capacity for %2$s</string>
+     <string name="om_cpu_overload_proc_activity_title">Issues</string>
+     <string name="om_cpu_overload_proc_title">Issues</string>
+     <string name="om_cpu_usage_warn_title_text">"This app may slow down
+your device"</string>
      <string name="om_formatted_percent_string">%s%%</string>
-     <string name="om_ill_proc_activity_title">Problemi</string>
-     <string name="om_ill_proc_handle_uninstall_prompt">Disinstallare questa app per risolvere i problemi di consumo.</string>
-     <string name="om_ill_proc_handle_unstaill_title">Disinstallare %s?</string>
-     <string name="om_ill_proc_type_alarm_detail">Risolvi i problemi dovuti alle attività in background</string>
-     <string name="om_ill_proc_type_alarm_title">"L'app attiva spesso lo schermo e consuma molta batteria"</string>
-     <string name="om_ill_proc_type_cpu_detail">Risolvi problemi dovuti al sovraccarico della CPU</string>
-     <string name="om_ill_proc_type_cpu_title">"L'app utilizza in modo intensivo la CPU e consuma molta batteria"</string>
-     <string name="om_ill_proc_type_gps_detail">"Risolvi i problemi dovuti all'utilizzo del GPS"</string>
-     <string name="om_ill_proc_type_gps_title">"L'app utilizza intensamente il GPS e consuma molta batteria"</string>
-     <string name="om_ill_proc_type_radio_detail">Risolvi i problemi dovuti alle connessioni di rete</string>
-     <string name="om_ill_proc_type_radio_title">"L'app si connette spesso alla rete e consuma molta batteria"</string>
-     <string name="om_ill_proc_type_wakelock_detail">Risolvi problemi dovuti al blocco della modalità sospensione</string>
-     <string name="om_ill_proc_type_wakelock_title">Questa app blocca la modalità di sospensione e consuma batteria</string>
-     <string name="om_ill_proc_type_wifiscan_detail">Risolvi problemi dovuti alla ricerca di reti Wi-Fi</string>
-     <string name="om_ill_proc_type_wifiscan_title">"L'app cerca spesso reti Wi-Fi e consuma molta batteria"</string>
+     <string name="om_ill_proc_activity_title">Issues</string>
+     <string name="om_ill_proc_handle_uninstall_prompt">Uninstall this app to fix battery usage issues.</string>
+     <string name="om_ill_proc_handle_unstaill_title">Uninstall %s?</string>
+     <string name="om_ill_proc_type_alarm_detail">Fix background activity issues</string>
+     <string name="om_ill_proc_type_alarm_title">The app wakes the device frequently and drains battery</string>
+     <string name="om_ill_proc_type_cpu_detail">Fix CPU workload issues</string>
+     <string name="om_ill_proc_type_cpu_title">The app occupies CPU and drains battery</string>
+     <string name="om_ill_proc_type_gps_detail">Fix GPS usage issues</string>
+     <string name="om_ill_proc_type_gps_title">The app uses GPS frequently and drains battery</string>
+     <string name="om_ill_proc_type_radio_detail">Fix network connection issues</string>
+     <string name="om_ill_proc_type_radio_title">The app connects to the network frequently and drains battery</string>
+     <string name="om_ill_proc_type_wakelock_detail">Fix sleep mode issues</string>
+     <string name="om_ill_proc_type_wakelock_title">The app blocks sleep mode and drains battery</string>
+     <string name="om_ill_proc_type_wifiscan_detail">Fix WLAN scan issues</string>
+     <string name="om_ill_proc_type_wifiscan_title">The app searches for WLAN frequently and drains battery</string>
      <string name="om_lock_app_locked_app">Bloccato</string>
-     <string name="om_lock_app_locked_app_occupy_memory">Il blocco di troppe app riduce le prestazioni del telefono</string>
-     <string name="om_lock_app_tip_msg">Tocca per bloccare</string>
+     <string name="om_lock_app_locked_app_occupy_memory">"Locking too many apps reduces your phone's performance"</string>
+     <string name="om_lock_app_tip_msg">Tap to lock</string>
      <string name="om_lock_app_unlocked_app">Sbloccato</string>
-     <string name="om_media_scan_time_warn_title">"Il server multimediale lavora in background.
-Quest'attività riduce la durata della batteria."</string>
-     <string name="om_media_scan_timeout_proc_detail">Il server multimediale lavora in background. Puoi limitare la sua attività.</string>
-     <string name="om_media_scan_timeout_proc_name">Server Multimediale</string>
-     <string name="om_memory_clean_cleaning_text">Aumento della velocità...</string>
-     <string name="om_notify_cpu_load_too_high_summary">Limita le attività in background per aumentare la velocità</string>
-     <string name="om_notify_cpu_load_too_high_title">"L'utilizzo della CPU di %s è troppo elevato"</string>
-     <string name="om_notify_need_clean_memory_summary">Cancella cache per aumentare la velocità</string>
-     <string name="om_notify_need_clean_memory_title">Dimensione cache raggiunta %s</string>
-     <string name="om_other_processes">Altri processi</string>
-     <string name="om_other_processes_cpu_usage_summary">Utilizzo medio CPU inferiore al %s%%</string>
+     <string name="om_media_scan_time_warn_title">"Media server works in the background.
+This activity shortens battery life."</string>
+     <string name="om_media_scan_timeout_proc_detail">Media server works in the background. You can restrict its activity.</string>
+     <string name="om_media_scan_timeout_proc_name">Media server</string>
+     <string name="om_memory_clean_cleaning_text">Boosting speed…</string>
+     <string name="om_notify_cpu_load_too_high_summary">Restrict background activity to boost speed</string>
+     <string name="om_notify_cpu_load_too_high_title">CPU usage of %s is too high</string>
+     <string name="om_notify_need_clean_memory_summary">Clear cache to boost speed</string>
+     <string name="om_notify_need_clean_memory_title">Cache size reached %s</string>
+     <string name="om_other_processes">Other tasks</string>
+     <string name="om_other_processes_cpu_usage_summary">Average CPU usage is lower than %s%%</string>
      <string name="om_settings_cpu_over_load_notify">Utilizzo CPU</string>
      <string name="om_settings_cpu_over_load_summary">"Notifica quando l'utilizzo della CPU è troppo elevato"</string>
      <string name="om_settings_lock_app">Blocco app</string>
@@ -1387,7 +1387,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="optimize_result_button_see_detaills">Dettagli</string>
      <string name="optimize_result_button_to_set">Imposta</string>
      <string name="optimize_result_button_update_now">Aggiorna</string>
-     <string name="optimize_result_header_view_summary">Accelera velocità</string>
+     <string name="optimize_result_header_view_summary">Speed boost</string>
      <string name="optimize_result_summary_sucurity_risk">Alcune funzionalità di sicurezza sono disattivate. Attiva queste funzionalità per rendere il tuo dispositivo più sicuro:</string>
      <string name="optimize_result_summary_system_default_settings">"L'utilizzo di applicazioni predefinite MIUI aumenterà il livello di stabilità e sicurezza del sistema."</string>
      <string name="optimize_result_title_sucurity_risk">Trovati rischi per la sicurezza</string>
@@ -1472,7 +1472,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_btn_analyze">Analizza utilizzo batteria</string>
      <string name="power_cell">Cellulare in standby</string>
-     <string name="power_center_auto_shutdown">Comando</string>
+     <string name="power_center_auto_shutdown">Operazioni automatiche</string>
      <string name="power_center_back">Ritorna al centro</string>
      <string name="power_center_charge_time">Carica completata tra %1$s</string>
      <string name="power_center_main_percent_formatted">%s%%</string>
@@ -1932,7 +1932,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
      <string name="status_bar_network_flow_purchase">"   Acquista &gt;"</string>
      <string name="status_bar_network_flow_setup_data_plan">"   Imposta piano dati &gt;"</string>
-     <string name="status_bar_network_flow_today">Oggi: %1$s</string>
+     <string name="status_bar_network_flow_today">Today: %1$s</string>
      <string name="still_retain_btn">Mantieni</string>
      <string name="suggest_app_tolock">Suggerimenti</string>
      <string name="suggest_app_tolock_masked">Nascoste</string>
@@ -1971,6 +1971,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="summary_permission">Proteggi la mia privacy dalle app potenzialmente malevoli</string>
      <string name="summary_permission_root">Il tuo dispositivo ed i dati personali in esso contenuti sono più vulnerabili ad attacchi provenienti da applicazioni con permessi root</string>
      <string name="summary_power_optimizer">Riduci le prestazioni del tuo dispositivo quando la batteria è scarica</string>
+     <string name="summary_rcs_switch">Invia SMS agli utenti di Cina Mobile senza incorrere in addebiti</string>
      <string name="summary_realname_verify">Verifica la tua identità per rendere i pagamenti più sicuri.</string>
      <string name="summary_restrict_data_usage">"Hai limitato l'utilizzo di dati per questa app. Tocca per correggere."</string>
      <string name="summary_show_notification">Cancella cache, mostra lo stato della batteria e blocca gli elementi nel pannello delle notifiche</string>
@@ -2146,6 +2147,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="title_permission_root">Avviso accesso root</string>
      <string name="title_permission_yes">Gestore permessi attivato</string>
      <string name="title_power_optimizer">Risparmio energetico</string>
+     <string name="title_rcs_switch">Attiva servizio di Messaggistica Cina Mobile</string>
      <string name="title_realname_verify">Verifica ID</string>
      <string name="title_restrict_data_usage">"%s non riesce a connettersi ad Internet?</string>
      <string name="title_show_notification">Controlli pannello di notifica</string>
@@ -2223,7 +2225,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="traffic_setting_fragment_button2_text">Salva</string>
      <string name="traffic_setting_fragment_city">Città</string>
      <string name="traffic_setting_fragment_default">Seleziona</string>
-     <string name="traffic_setting_fragment_find_brand">Non conosci il brand?</string>
+     <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Not sure about the carrier?&lt;/U>&lt;/font>"</string>
      <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
      <string name="traffic_setting_fragment_operator">Operatore</string>
      <string name="traffic_setting_fragment_operator_setting">Impostazioni operatore</string>

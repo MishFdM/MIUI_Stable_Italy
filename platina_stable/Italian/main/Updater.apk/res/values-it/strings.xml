@@ -73,7 +73,7 @@
      <string name="current_version">Versione attuale</string>
      <string name="daily_build">Giornaliera</string>
      <string name="delay_update_text">Aggiorna dopo</string>
-     <string name="dialog_3g_desc">"Ricorda ce l'utilizzo della rete dati mobile per il download delle ROM potrebbe consumare un grande quantitativo del tuo traffico dati disponibile."</string>
+     <string name="dialog_3g_desc">"Ricorda che l'utilizzo della rete dati mobile per il download delle ROM potrebbe consumare un grande quantitativo del tuo traffico dati disponibile."</string>
      <string name="dialog_3g_title">Attenzione!</string>
      <string name="dialog_btn_3g">Continua comunque</string>
      <string name="dialog_btn_wifi">Passa a Wi-Fi</string>
@@ -359,7 +359,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="test">Test</string>
      <string name="tip_drag_last_toast">"Dai un'occhiata alle novità della MIUI 10"</string>
      <string name="title_can_download_update">Opzioni disponibili</string>
-     <string name="title_download_full">Scarica ROM completa</string>
+     <string name="title_download_full">Download full ROM</string>
      <string name="title_tip">Nuove funzionalità</string>
      <string name="title_toast_auto">Scarica aggiornamenti ed installa automaticamente</string>
      <string name="title_toast_auto_download">Gli aggiornamenti verranno scaricati automaticamente</string>
