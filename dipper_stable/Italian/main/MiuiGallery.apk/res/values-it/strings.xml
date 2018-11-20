@@ -98,7 +98,7 @@
      <string name="app_name">Galleria</string>
      <string name="app_name_view_picture">Mostra immagine</string>
      <string name="app_name_view_video">Mostra video</string>
-     <string name="apply">Applica</string>
+     <string name="apply">Apply</string>
      <string name="assistant_page_label">Assistente</string>
      <string name="associate_face_album">Scegli un album</string>
      <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
@@ -124,10 +124,10 @@
      <string name="baby_album_sharers_page_title">Condividi con i familiari</string>
      <string name="baby_birthday">Compleanno</string>
      <string name="baby_face_desc">Album bambino</string>
-     <string name="baby_lock_wallpaper">Sfondo Blocco schermo</string>
-     <string name="baby_lock_wallpaper_cancelled">Riattivato lo sfondo predefinito della Schermata di blocco</string>
-     <string name="baby_lock_wallpaper_save_settings_msg">Applicare queste impostazioni?</string>
-     <string name="baby_lock_wallpaper_title">Usa le foto del bambino come sfondo per la Schermata di blocco</string>
+     <string name="baby_lock_wallpaper">Lock screen wallpaper</string>
+     <string name="baby_lock_wallpaper_cancelled">Switched to default Lock screen wallpaper</string>
+     <string name="baby_lock_wallpaper_save_settings_msg">Apply current settings?</string>
+     <string name="baby_lock_wallpaper_title">"Use baby photos as Lock screen's wallpaper"</string>
      <string name="baby_name_cannot_empty">Inserisci nome</string>
      <string name="baby_name_cannot_start_with">"Il nome non può iniziare con '%s'"</string>
      <string name="baby_name_contain_invalidate_char">"Il nome non può contenere '%s'"</string>
@@ -197,7 +197,7 @@
      <string name="byteShort">B</string>
      <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
      <string name="cancel">Annulla</string>
-     <string name="cancel_baby_lock_wallpaper_confirm_msg">Annullare lo sfondo del bambino e ripristinare lo sfondo predefinito della Schermata di blocco?</string>
+     <string name="cancel_baby_lock_wallpaper_confirm_msg">Switch to default Lock screen wallpaper?</string>
      <string name="cancel_download_btn_text">Interrompi</string>
      <string name="cancel_hint">Operazione annullata</string>
      <string name="cannot_remove_creator">Impossibile rimuovere il proprietario</string>
@@ -1393,7 +1393,7 @@ per personalizzare la Galleria"</string>
      <string name="send_secret_file_failed">Impossibile condividere</string>
      <string name="send_secret_file_space_low">Spazio libero non sufficiente</string>
      <string name="send_too_many_files_error">Impossibile inviare tutti gli elementi (massimo %d elementi).</string>
-     <string name="set_as_baby_lock_wallpaper">Imposta come sfondo Schermata di blocco</string>
+     <string name="set_as_baby_lock_wallpaper">Set as Lock screen wallpaper</string>
      <string name="set_as_wallpaper_description">"Questa immagine è un'anteprima, vuoi scaricare l'originale?"</string>
      <string name="set_as_wallpaper_title">Imposta come sfondo</string>
      <string name="set_face_group_toast_msg_new_user">"Tieni premuto sul volto di copertina, i volti possono essere ."</string>

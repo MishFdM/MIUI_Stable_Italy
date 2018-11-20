@@ -259,12 +259,15 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="animator_duration_scale_title">Scala durata animatore</string>
      <string name="another_migration_already_in_progress">"E' già in corso un'altra migrazione."</string>
      <string name="anti_spam">Antispam</string>
+     <string name="aod_close_color_inversion">"This feature can't be combined with color inversion. Turn off color inversion first."</string>
+     <string name="aod_got_it">Got it</string>
      <string name="aod_mode_summary">Mostra ora, data e messaggi a schermo spento.</string>
      <string name="aod_mode_time_summary">"Pianifica l'ora in cui il dispositivo dovrà passare alla modalità Sempre attivo"</string>
      <string name="aod_mode_time_title">Pianifica</string>
      <string name="aod_mode_title">Modalità Sempre attivo</string>
      <string name="aod_mode_turn_off">Disattiva</string>
      <string name="aod_mode_turn_on">Attiva</string>
+     <string name="aod_to_close">Turn off</string>
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Tipo di autenticazione</string>
      <string name="apn_auth_type_chap">CHAP</string>
@@ -1083,8 +1086,11 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="clear_instant_app_data">Cancella app</string>
      <string name="clear_uri_btn_text">Annulla accesso</string>
      <string name="clear_user_data_text">Elimina dati</string>
+     <string name="close_aod">"Questa funzionalità non può essere combinata con \"Modalità sempre attivo\". Disattiva prima \"Modalità sempre acceso\"."</string>
      <string name="close_app">Chiudi app in uso</string>
      <string name="close_demo_mode">Annulla</string>
+     <string name="close_fod">Non sarai in grado di sbloccare il dispositivo utilizzando le impronte, quando lo schermo risulterà spento. Lo sblocco con impronta funziona solo a schermo attivo.</string>
+     <string name="close_fod_aod">"Non sarai in grado di sbloccare il dispositivo utilizzando le impronte, quando lo schermo risulterà spento. \"Sempre attivo\" non sarà disponibile. Lo sblocco con l'impronta funziona solo a schermo acceso."</string>
      <string name="close_gesture">Chiudi gesture in uso</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
      <string name="close_optimization_message">"La disposizione del testo, dell'account e di altre parti esterne alla MIUI potrebbero risultare compromesse dopo aver disattivato questa funzionalità."</string>
@@ -1147,7 +1153,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="confirm_bind_xiaomi_account_dialog_title">Aggiungi</string>
      <string name="confirm_convert_to_fbe_warning">Vuoi veramente cancellare i dati utente e convertire in crittografia file?</string>
      <string name="confirm_download_cancelation_dialog_message">Annullare il download?</string>
-     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione del dispositivo non funzionalitàrà mentre questa opzione è attiva.</string>
+     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione del dispositivo non funzionerà mentre questa opzione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
      <string name="confirm_erase">Elimina</string>
      <string name="confirm_fingerprint_icon_content_description">Usa la tua impronta per continuare.</string>
@@ -1895,7 +1901,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="fingerprint_manage_tittle">Impronta digitale</string>
      <string name="fingerprint_not_identified_msg">Impossibile leggere impronta. Inserisci la tua password</string>
      <string name="fingerprint_not_recognized">Non riconosciuta</string>
-     <string name="fingerprint_others_title">Altro</string>
+     <string name="fingerprint_others_title">Other</string>
      <string name="fingerprint_payment">Pagamenti con impronta</string>
      <string name="fingerprint_removal_failed">"Impossibile rimuovere l'impronta. Riprova più tardi."</string>
      <string name="fingerprint_swipe_for_notifications_summary">Per verificare le notifiche, scorri in basso fino al sensore di impronte sul retro del telefono.</string>
@@ -2077,14 +2083,14 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gxzw_add_fingerprint_put_finger_title">Premi più forte, solleva dopo la vibrazione</string>
      <string name="gxzw_add_fingerprint_title">"Aggiungi un'impronta digitale"</string>
      <string name="gxzw_anim_light">Neon</string>
-     <string name="gxzw_anim_metal">Metallo</string>
-     <string name="gxzw_anim_pulse">Pulsazione</string>
-     <string name="gxzw_anim_rhythm">Ritmo</string>
-     <string name="gxzw_anim_title">Animazione lettura impronta</string>
-     <string name="gxzw_dialog_message">Per essere in grado di utilizzare normalmente il sensore di impronte digitali a schermo, non utilizzare protezioni per lo schermo. Se pensi che sia necessaria una protezione per lo schermo, scegli tra le opzioni compatibili autorizzate.</string>
-     <string name="gxzw_dialog_not_show_again">Non mostrare di nuovo</string>
-     <string name="gxzw_dialog_ok">Fatto</string>
-     <string name="gxzw_dialog_title">Informazioni sul sensore di impronte digitali a schermo</string>
+     <string name="gxzw_anim_metal">Metal</string>
+     <string name="gxzw_anim_pulse">Pulse</string>
+     <string name="gxzw_anim_rhythm">Rhythm</string>
+     <string name="gxzw_anim_title">Fingerprint animation</string>
+     <string name="gxzw_dialog_message">"To be able to use in-screen fingerprint sensor normally, don't use screen protectors. If you think that a screen protector is still necessary, choose among authorized compatible options."</string>
+     <string name="gxzw_dialog_not_show_again">"Don't show again"</string>
+     <string name="gxzw_dialog_ok">Got it</string>
+     <string name="gxzw_dialog_title">About in-screen fingerprint sensor</string>
      <string name="handy_mode">Uso con una mano</string>
      <string name="handy_mode_enable">Modalità mano singola</string>
      <string name="handy_mode_size">Dimensione schermo</string>
@@ -2177,7 +2183,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="input_methods_and_subtype_enabler_title">Scegli metodi di immissione attivi</string>
      <string name="input_methods_settings_label_format">Impostazioni di %1$s</string>
      <string name="input_methods_settings_title">Inserimento testo</string>
-     <string name="input_settings">Impostazioni immissione</string>
+     <string name="input_settings">Impostazioni di immissione</string>
      <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app provenienti da fonti sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
      <string name="install_applications">Origini sconosciute</string>
      <string name="install_applications_title">Consenti tutte le sorgenti delle app</string>
@@ -2450,7 +2456,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lock_screen_notifications_interstitial_message_profile">Come vuoi che vengano visualizzate le notifiche del profilo quando il dispositivo è bloccato?</string>
      <string name="lock_screen_notifications_interstitial_title">Notifiche</string>
      <string name="lock_screen_notifications_interstitial_title_profile">Notifiche profilo</string>
-     <string name="lock_screen_notifications_summary_disable">Non mostrare le notifiche a tutti</string>
+     <string name="lock_screen_notifications_summary_disable">Non mostrare tutti i contenuti delle notifiche</string>
      <string name="lock_screen_notifications_summary_disable_profile">Non mostrare nessuna notifica di lavoro</string>
      <string name="lock_screen_notifications_summary_hide">Nascondi i contenuti sensibili delle notifiche</string>
      <string name="lock_screen_notifications_summary_hide_profile">Nascondi notifiche di lavoro con contenuto sensibile</string>
@@ -2494,7 +2500,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockpassword_choose_your_pin_header">Scegli il tuo PIN</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
-     <string name="lockpassword_choose_your_pin_title" formatted="false">Enter 4-16 digits</string>
+     <string name="lockpassword_choose_your_pin_title">Inserisci 4-16 cifre</string>
      <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
      <string name="lockpassword_confirm_passwords_dont_match">Password non corrispondente</string>
      <string name="lockpassword_confirm_pins_dont_match">I PIN non corrispondono</string>
@@ -4582,7 +4588,7 @@ Tutte le archiviate su questo ^1 verranno disinstallate e i loro dati verranno c
      <string name="storage_internal_title">Memoria dispositivo</string>
      <string name="storage_internal_unmount_details">"<b>Quando espelli ^1, le app memorizzate su di esso smetteranno di funzionare, e i file media archiviati su di esso non saranno disponibili fino al successivo reinserimento.</b>" 
 
-Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non funzionalitàrà su altri."</string>
+Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non funzionerà su altri."</string>
      <string name="storage_label">Archiviazione</string>
      <string name="storage_low_summary">Alcune funzionalità di sistema, come la sincronizzazione, potrebbero non funzionare correttamente. Prova a liberare spazio eliminando o sbloccando elementi, come applicazioni o contenuti multimediali.</string>
      <string name="storage_low_title">Spazio archiviazione in esaurimento.</string>
@@ -4631,7 +4637,7 @@ Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non fun
      <string name="storage_volume_used_total">Utilizzati in totale su %1$s</string>
      <string name="storage_wizard_format_confirm_body">"Questo richiede che ^1 venga formattato perché sia sicuro. 
 
-Dopo la formattazione, questo ^1 funzionalitàrà solo su questo dispositivo. 
+Dopo la formattazione, questo ^1 funzionerà solo su questo dispositivo. 
 
 "<b>La formattazione eliminerà tutti i dati attualmente archiviati su ^1.</b>" Per evitare di perdere i dati, esegui un backup. "</string>
      <string name="storage_wizard_format_confirm_next">Cancella e formatta</string>
@@ -4848,6 +4854,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_hdmi_color_calibration">Impostazione predefinita correzione colore</string>
      <string name="title_layout_current">Seleziona dimensione carattere</string>
      <string name="title_layout_current2">Dimensione carattere</string>
+     <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
      <string name="total">Non disturbare</string>
@@ -5027,7 +5034,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="unlock_set_unlock_password_title">Password</string>
      <string name="unlock_set_unlock_pattern_summary">Sicurezza media</string>
      <string name="unlock_set_unlock_pattern_title">Sequenza</string>
-     <string name="unlock_set_unlock_pin_summary" formatted="false">Enter 4 numbers to unlock device</string>
+     <string name="unlock_set_unlock_pin_summary">Immetti 4 numeri per sbloccare il dispositivo</string>
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
      <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni > Schermata di blocco e password.</string>

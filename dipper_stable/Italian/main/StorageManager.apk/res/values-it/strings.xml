@@ -287,7 +287,7 @@ Sample Rate"</string>
      <string name="power_discharging_duration_enhanced">^1 - about ^2 left based on your usage</string>
      <string name="power_discharging_duration_short">^1 - ^2 left</string>
      <string name="power_remaining_charging_duration_only">^1 left until fully charged</string>
-     <string name="power_remaining_duration_only">Approx. ^1 left</string>
+     <string name="power_remaining_duration_only">About ^1 left</string>
      <string name="power_remaining_duration_only_enhanced">About ^1 left based on your usage</string>
      <string name="power_remaining_duration_only_short">^1 left</string>
      <string name="power_remaining_duration_only_short_enhanced">^1 left based on your usage</string>

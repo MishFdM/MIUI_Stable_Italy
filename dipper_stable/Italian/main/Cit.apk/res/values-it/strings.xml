@@ -264,7 +264,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_hall_miui_test_summary">When a magnet is close to the green area, the black screen, otherwise the screen is bright screen.</string>
      <string name="cit_hall_near">vicino</string>
      <string name="cit_hall_test_summary">"Quando un magnete si troverà nell'area verde, il testo dovrebbe avvicinarsi, in alternativa dovrebbe apparire lontano."</string>
-     <string name="cit_hall_test_title">Sala</string>
+     <string name="cit_hall_test_title">Magnetico</string>
      <string name="cit_hd_full">Cit Full Test</string>
      <string name="cit_hd_partial">Cit Partial Test</string>
      <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti sulle cuffie (posizionati solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>

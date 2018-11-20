@@ -333,8 +333,8 @@ Le schede contatti sono disattivate"</string>
      <string name="description_image_button_plus">Più</string>
      <string name="description_image_button_pound">cancelletto</string>
      <string name="description_image_button_seven">sette</string>
-     <string name="description_image_button_sim1_dial">Chiama con SIM1</string>
-     <string name="description_image_button_sim2_dial">Chiama con SIM2</string>
+     <string name="description_image_button_sim1_dial">Dial using SIM1</string>
+     <string name="description_image_button_sim2_dial">Dial using SIM2</string>
      <string name="description_image_button_six">sei</string>
      <string name="description_image_button_star">asterisco</string>
      <string name="description_image_button_three">tre</string>

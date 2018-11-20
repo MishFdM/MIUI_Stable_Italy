@@ -1282,11 +1282,11 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="pointer_location_summary">"L'overlay schermo mostra gli attuali dati touch"</string>
      <string name="port_title">Numero porta</string>
      <string name="power_charging_duration">^1 - ^2 fino a completamento</string>
-     <string name="power_discharging_duration">^1 - appross. ^2 rimanenti</string>
+     <string name="power_discharging_duration">^1  - appross. ^2 rimanenti</string>
      <string name="power_discharging_duration_enhanced">^1 - about ^2 left based on your usage</string>
      <string name="power_discharging_duration_short">^1 - ^2 rimanenti</string>
      <string name="power_remaining_charging_duration_only">^1 rimanenti per la carica completa</string>
-     <string name="power_remaining_duration_only">Appross. ^1 rimanenti</string>
+     <string name="power_remaining_duration_only">Appross.  ^1 rimanenti</string>
      <string name="power_remaining_duration_only_enhanced">About ^1 left based on your usage</string>
      <string name="power_remaining_duration_only_short">^1 rimanenti</string>
      <string name="power_remaining_duration_only_short_enhanced">^1 left based on your usage</string>
