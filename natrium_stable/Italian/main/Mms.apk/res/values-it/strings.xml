@@ -148,7 +148,7 @@
      <string name="dialog_message_mx">Mi Message consente di inviare messaggi ad altri dispositivi MIUI senza incorrere in addebiti. Per attivare Mi Message sarà necessario inviare un messaggio SMS. Il tuo operatore ti addebiterà il costo di questo messaggio. Dovrai inoltre accettare i nostri \"%1$s\" e \"%2$s\" prima di utilizzare Mi Message.</string>
      <string name="dialog_message_networking">Messaging needs to connect to the internet and access your location in order to provide Smart Messaging, Sender ID recognition, and other services. Agree?</string>
      <string name="dialog_message_rcs">China Mobile Messaging allows you to send messages to other China Mobile users without incurring charges. You must agree to \"%1$s\" before using China Mobile Messaging.</string>
-     <string name="dialog_message_sms_report">"I messaggi spam e le informazioni sui loro mittenti verranno segnalati a MIUI con il tuo report. Verranno utilizzati unicamente per migliorare i filtri spam MIUI."</string>
+     <string name="dialog_message_sms_report">"Spam messages and sender's info will be uploaded to MIUI when you report them. They will only be used to improve MIUI's spam filters."</string>
      <string name="dialog_title_fake_cell_detect_error">Correzione</string>
      <string name="dialog_title_mx_rcs">Mi Message</string>
      <string name="dialog_title_networking">Termini e Condizioni</string>
@@ -429,7 +429,7 @@
      <string name="pref_sms_storage_title">Archiviazione</string>
      <string name="pref_sms_theme_title">Impostazioni tema</string>
      <string name="pref_summary_allow_si_sl_push">Consenti ricezione e notifica messaggi push WAP (SI/SL)</string>
-     <string name="pref_summary_allow_upload_message_info">I messaggi spam e le informazioni sui loro mittenti verranno segnalati a MIUI con il tuo report.</string>
+     <string name="pref_summary_allow_upload_message_info">"Spam messages and sender's info will be uploaded to MIUI when you report them."</string>
      <string name="pref_summary_auto_delete">Elimina i vecchi messaggi quando viene raggiunto il limite</string>
      <string name="pref_summary_delete_limit">%1$s messaggi per conversazione</string>
      <string name="pref_summary_delivery_reports">Ricezione del rapporto di consegna SMS</string>
@@ -446,7 +446,7 @@
      <string name="pref_switch_sdk_setting">Cambia servizio provider smart SMS</string>
      <string name="pref_system_title">Sistema</string>
      <string name="pref_title_allow_si_sl_push">Consenti push WAP</string>
-     <string name="pref_title_allow_upload_message_info">Carica messaggi spam</string>
+     <string name="pref_title_allow_upload_message_info">Upload spam messages</string>
      <string name="pref_title_auto_delete">Elimina i vecchi messaggi</string>
      <string name="pref_title_card_format">Formato condivisione scheda</string>
      <string name="pref_title_delivery_reports">Rapporti consegna</string>
@@ -522,6 +522,7 @@
      <string name="rcs_summary_auto_resend_mms">Converti i messaggi multimediali Cina Mobile in SMS dopo che il messaggio originale non potrà essere inviato. Il tuo operatore ti addebiterà il costo di questo messaggio.</string>
      <string name="rcs_summary_auto_resend_sms">Converti i messaggi multimediali Cina Mobile in SMS dopo che il messaggio originale non potrà essere inviato. Il tuo operatore ti addebiterà il costo di questo messaggio.</string>
      <string name="rcs_summary_silence_message">"Silenzia i messaggi di notifica quando l'applicazione desktop risulta funzionante"</string>
+     <string name="rcs_unavailable">"Impossibile utilizzare la Messaggistica di Cina Mobile ora. La schrda SIM Cina Mobile non è la tua scheda dati predefinita."</string>
      <string name="rcs_wait_for_retry_text">In attesa…</string>
      <string name="received_at_time">Ricevuto alle: %1s</string>
      <string name="received_label">"Ricevuto: "</string>
@@ -644,7 +645,7 @@
      <string name="sms_full_title">Memoria SMS piena</string>
      <string name="sms_rejected_body">SMS in entrata rifiutato per cause sconosciute.</string>
      <string name="sms_rejected_title">SMS rifiutato</string>
-     <string name="sms_report">Segnala messaggi spam</string>
+     <string name="sms_report">Report spam messages</string>
      <string name="sms_report_dialog_content">Impossibile inviare il rapporto, prova di nuovo.</string>
      <string name="sms_report_dialog_retry">Prova di nuovo</string>
      <string name="sms_report_dialog_title">Prova di nuovo</string>
