@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="carrier_name">
-        <item>SmarToneVodafone</item>
-        <item>SmarToneVodafone 3G</item>
+     <string-array name="battery_options">
+        <item>Mostra sempre la percentuale</item>
+        <item>Mostra la percentuale quando in carica (predefinito)</item>
+        <item>Non mostrare questa icona</item>
      </string-array>
-     <string-array name="carrier_simple_name">
-        <item>SMC HK</item>
-        <item>SMC HK 3G</item>
+     <string-array name="clock_options">
+        <item>Mostra ore, minuti e secondi</item>
+        <item>Mostra ore e minuti (predefinito)</item>
+        <item>Non mostrare questa icona</item>
+     </string-array>
+     <string-array name="miui_volume_timer_segments_title">
+        <item>Disattivato</item>
+        <item>"Mezz'ora"</item>
+        <item>1 ora</item>
+        <item>2 ore</item>
+        <item>8 ore</item>
+     </string-array>
+     <string-array name="nav_bar_buttons">
+        <item>Appunti</item>
+        <item>Chiave</item>
+        <item>Cambio tastiera</item>
+        <item>Nessuno</item>
+     </string-array>
+     <string-array name="nav_bar_layouts">
+        <item>Normale</item>
+        <item>Compatto</item>
+        <item>Verso sinistra</item>
+        <item>Verso destra</item>
      </string-array>
      <string-array name="select_logd_system_levels">
         <item>Disattivato</item>

@@ -33,7 +33,6 @@
      <string name="call_button_tools_text">Funzioni</string>
      <string name="call_contacts_deny_permission_msg">Hai limitato i permessi di lettura dei contatti, impossibile mostrare le informazioni del contatto.</string>
      <string name="call_description_recording">Registrazione…</string>
-     <string name="call_extension_conference_mode">Modalità conferenza</string>
      <string name="call_record_wait_label">In attesa</string>
      <string name="call_recording_deny_permission_msg">Hai limitato i permessi di registrazione, impossibile registrare.</string>
      <string name="call_recording_error_low_storage">Spazio insufficiente: la scheda SD è troppo piena</string>
@@ -79,6 +78,7 @@
      <string name="close_camera_requesting">Disattivazione fotocamera...</string>
      <string name="conference_call_description" formatted="false">%s,%s ecc. totale %s</string>
      <string name="conference_call_number">%s persone</string>
+     <string name="conference_call_recorder_title">Conferenza telefonica</string>
      <string name="conference_call_single_description" formatted="false">%s etc. totali %s</string>
      <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
      <string name="conference_callers_exceeded">Limite partecipanti superato</string>
@@ -106,6 +106,7 @@
      <string name="description_image_button_two">due</string>
      <string name="description_image_button_video_answer">Video chiamata</string>
      <string name="description_image_button_zero">zero</string>
+     <string name="description_message_list_title">Elenco di risposte rapide</string>
      <string name="description_target_answer">Rispondi</string>
      <string name="dialpad_abc">ABC</string>
      <string name="dialpad_def">DEF</string>
@@ -153,7 +154,7 @@
      <string name="notification_action_dismiss">Rifiuta</string>
      <string name="notification_action_earpiece">Cuffie</string>
      <string name="notification_action_end_call">Termina</string>
-     <string name="notification_action_speaker">Speaker</string>
+     <string name="notification_action_speaker">Altoparlante</string>
      <string name="notification_dialing">Composizione</string>
      <string name="notification_incoming_call">Chiamata ricevuta</string>
      <string name="notification_incoming_video_call">Videochiamata in arrivo</string>
@@ -182,7 +183,7 @@
      <string name="package_not_available">\"%s\" non è disponibile</string>
      <string name="pause_prompt_no">No</string>
      <string name="pause_prompt_yes">Sì</string>
-     <string name="payphone">Telefono a monete</string>
+     <string name="payphone">Telefono a gettoni</string>
      <string name="picking_participant">Recupero informazioni di contatto…</string>
      <string name="private_num">Numero privato</string>
      <string name="prompt_no_volte_when_failed">Il servizio VoLTE non è disponibile.</string>
@@ -193,14 +194,16 @@
      <string name="select_sim_hint">Impossibile utilizzare la SIM %2$d mentre la SIM %1$d è in uso.</string>
      <string name="select_voice_call_sim">Scegli SIM</string>
      <string name="separate_from_conference">Separa chiamata</string>
+     <string name="sim1_description">SIM1</string>
+     <string name="sim2_description">SIM2</string>
      <string name="sip_call_not_support_record">Impossibile registrare le chiamate SIP</string>
      <string name="suspect_info">"Verifica sempre l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unlock_phone">Sblocca dispositivo</string>
      <string name="upgrade_vt_prompt">Vuoi passare da chiamata audio a videochiamata?</string>
      <string name="user_locked_prompt">Sblocca il dispositivo per accedere ai contatti.</string>
-     <string name="video_conference_caller_info_name">Conference call video di %1$s</string>
-     <string name="video_crbt_title">%s Colore tono di richiamata</string>
+     <string name="video_conference_caller_info_name">Videoconferenza di %1$s</string>
+     <string name="video_crbt_title">È in riproduzione il tono di richiamata di un altro gruppo in videoconferenza</string>
      <string name="voicemail">Segreteria</string>
      <string name="wait_prompt_str">Inviare i numeri successivi?</string>
      <string name="waiting_close_airplane_mode">Solo un attimo…</string>

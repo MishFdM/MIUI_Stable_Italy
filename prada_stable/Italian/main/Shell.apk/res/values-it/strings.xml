@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Shell</string>
+     <string name="bugreport_confirm">"Le segnalazioni bug contengono dati provenienti da vari file di registro del sistema, che possono includere informazioni sensibili (come l'utilizzo delle app ed i dati sulla posizione). Condividi solo segnalazioni bug con persone e app affidabili"</string>
+     <string name="bugreport_confirm_repeat">Show this message next time</string>
+     <string name="bugreport_finished_text">Tocca per condividere la segnalazione bug</string>
+     <string name="bugreport_finished_title">Bug report captured</string>
+     <string name="bugreport_storage_title">Segnalazioni bug</string>
+</resources>
