@@ -53,7 +53,7 @@
         <item>30 minuti</item>
      </string-array>
      <string-array name="countries_names_miui">
-	      <item>"Coate d'Ivoire"</item>
+	            <item>"Coate d'Ivoire"</item>
         <item>Ghana</item>
         <item>Ethiopia</item>
         <item>Algeria</item>
@@ -349,7 +349,6 @@
         <item>Honduras</item>
         <item>Suriname</item>
         <item>Ecuador</item>
-     </string-array>
      <string-array name="snooze_duration_entries">
         <item>1 minuto</item>
         <item>5 minuti</item>
