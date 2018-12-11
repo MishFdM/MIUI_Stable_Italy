@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
+     <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s suggerimenti di riempimento automatico</item>
+        <item quantity="one">Un suggerimento di riempimento automatico</item>
+     </plurals>
      <plurals name="bugreport_countdown">
         <item quantity="other">Cattura screenshot per segnalazione bug in %d secondi.</item>
         <item quantity="one">Cattura screenshot per segnalazione bug in %d secondo.</item>
@@ -21,10 +24,6 @@
         <item quantity="other">in %dg</item>
         <item quantity="one">in %dg</item>
      </plurals>
-     <plurals name="duration_hours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">1 ora</item>
-     </plurals>
      <plurals name="duration_hours_relative">
         <item quantity="other">%d ore fà</item>
         <item quantity="one">%d ora fà</item>
@@ -41,10 +40,6 @@
         <item quantity="other">in %do</item>
         <item quantity="one">in %do</item>
      </plurals>
-     <plurals name="duration_minutes">
-        <item quantity="other">%d minuti</item>
-        <item quantity="one">1 minuto</item>
-     </plurals>
      <plurals name="duration_minutes_relative">
         <item quantity="other">%d minuti fà</item>
         <item quantity="one">%d minuto fà</item>
@@ -60,10 +55,6 @@
      <plurals name="duration_minutes_shortest_future">
         <item quantity="other">in %dm</item>
         <item quantity="one">in %dm</item>
-     </plurals>
-     <plurals name="duration_seconds">
-        <item quantity="other">%d secondi</item>
-        <item quantity="one">1 secondo</item>
      </plurals>
      <plurals name="duration_years_relative">
         <item quantity="other">%d anni fà</item>
@@ -144,5 +135,17 @@
      <plurals name="zen_mode_duration_minutes_summary_short">
         <item quantity="other">Per %1$d minuti (fino a %2$s)</item>
         <item quantity="one">Per 1 minuto (fino a %2$s)</item>
+     </plurals>
+	<plurals name="duration_seconds">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">1 secondo</item>
+     </plurals>
+     <plurals name="duration_minutes">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">1 minuto</item>
+     </plurals>
+     <plurals name="duration_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">1 ora</item>
      </plurals>
 </resources>
