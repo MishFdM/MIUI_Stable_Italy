@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="agps_network_entries">
         <item>Rete domestica</item>
@@ -7,6 +6,7 @@
      </string-array>
      <string-array name="ai_key_item_name">
         <item>Talk to Google Assistant</item>
+        <item>Open Google search</item>
         <item>Open rear camera</item>
         <item>Open front camera</item>
         <item>Open previous app</item>
@@ -1086,6 +1086,18 @@
         <item>Non controllare mai</item>
         <item>Controlla solo contenuti DRM</item>
         <item>Controlla sempre</item>
+     </string-array>
+     <string-array name="key_slider_voice_choice">
+        <item>slide_keji_open.ogg</item>
+        <item>slide_keji_close.ogg</item>
+        <item>slide_jianghu_open.ogg</item>
+        <item>slide_jianghu_close.ogg</item>
+        <item>slide_jiguan_open.ogg</item>
+        <item>slide_jiguan_close.ogg</item>
+        <item>slide_lingdong_open.ogg</item>
+        <item>slide_lingdong_close.ogg</item>
+        <item>slide_zippo_open.ogg</item>
+        <item>slide_zippo_close.ogg</item>
      </string-array>
      <string-array name="led_color_entries">
         <item>Blu</item>

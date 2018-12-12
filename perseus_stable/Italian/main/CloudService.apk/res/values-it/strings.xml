@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="access_denied">Accesso negato</string>
      <string name="account_related">Il dispositivo è associato ad un Mi Account esistente (%s). Collegati alla rete per verificare il dispositivo.</string>

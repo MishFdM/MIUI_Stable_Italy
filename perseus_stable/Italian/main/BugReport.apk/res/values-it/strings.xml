@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="action_cancel">Annulla</string>
      <string name="action_submit">Invia</string>
@@ -10,7 +9,7 @@
      <string name="app_search">Cerca app</string>
      <string name="btn_send">Invia</string>
      <string name="bugreport_dialog_not_show_again">Non mostrare più</string>
-     <string name="bugreport_dialog_submit_content">"You're saving software logs on this device now. Logs may contain personal info and your location data. Don't share logs with anyone else if you don't want this info to be exposed."</string>
+     <string name="bugreport_dialog_submit_content"><Data>"You're saving software logs on this device now. Logs may contain personal info and your location data. Don't share logs with anyone else if you don't want this info to be exposed."</Data></string>
      <string name="bugreport_dump_complete_notification_summary">Tocca per leggere.</string>
      <string name="bugreport_dump_complete_notification_title">Segnalazione bug creata</string>
      <string name="bugreport_dump_start_notification_summary">Richiede circa un minuto.</string>
@@ -278,8 +277,8 @@
      <string name="select_system_app_tag">Seleziona tag</string>
      <string name="submit_dialog_cancel">Annulla</string>
      <string name="submit_dialog_confirm">Invia</string>
-     <string name="submit_dialog_content">"Your feedback, along with attachments and logs, will be sent to MIUI's servers. It may contain personal info and your location data."</string>
-     <string name="submit_dialog_content_global">"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers. The information about your threads and forum activity will also be collected for analysis and further communication. Logs may contain personal info and your location data."</string>
+     <string name="submit_dialog_content"><Data>"Your feedback, along with attachments and logs, will be sent to MIUI's servers. It may contain personal info and your location data."</string>
+     <string name="submit_dialog_content_global"><Data>"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers. The information about your threads and forum activity will also be collected for analysis and further communication. Logs may contain personal info and your location data."</Data></string>
      <string name="submit_dialog_title">Invia segnalazione</string>
      <string name="submit_feedback_info_failed">Impossibile inviare segnalazione</string>
      <string name="suggestion_description">Scrivi qui i suggerimenti</string>
@@ -303,7 +302,7 @@
      <string name="toast_feedback_pending_wlan">La tua segnalazione verrà inviata quando la connessione Wi-Fi sarà pronta</string>
      <string name="toast_feedback_submitted">La tua segnalazione è stata inviato correttamente</string>
      <string name="toast_feedback_submitting">Invio in corso...</string>
-     <string name="toast_feedbackservice_in_submit">Invio segnalazione precedente...</string>
+     <string name="toast_feedbackservice_in_submit">Handling previous feedback…</string>
      <string name="toast_fill_brackets">Si prega di compilare i campi</string>
      <string name="toast_loading_app_id">Recupero informazioni…</string>
      <string name="toast_log_not_exists">Il log richiesto è stato eliminato o non esiste</string>

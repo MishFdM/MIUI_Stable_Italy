@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="VideoView_error_button">OK</string>
      <string name="VideoView_error_text_invalid_progressive_playback">Questo video non è valido per lo streaming da questo dispositivo.</string>

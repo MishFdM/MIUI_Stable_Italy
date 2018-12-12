@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="Phonepass">Consenti chiamate</string>
      <string name="SMS_and_MMS">SMS e MMS</string>
@@ -722,10 +721,10 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="exit_dialog_scan_title">Ottimizza prestazioni</string>
      <string name="extreme_add_white_list_summary">Add up to 4 apps</string>
      <string name="extreme_add_white_list_title">Background exceptions</string>
-     <string name="extreme_power_save_description"><li>"Extreme battery saver stops all background activity of an app after you leave it and go back to the Home screen. This app won't send you notifications or receive updates."</li>"
+     <string name="extreme_power_save_description">"<li>"Extreme battery saver stops all background activity of an app after you leave it and go back to the Home screen. This app won't send you notifications or receive updates."</li>"
 "<li>If you want an app to be running in the background, lock it in Recents, or add it to background exceptions below. Up to 4 apps can be running in the background when Extreme battery saver is on.</li>"
 "<li>Extreme battery saver turns off NFC by default. You can change this in the Settings.</li>"
-"<li>To make sure you can use all the features of your device normally, Extreme battery saver will be turned off automatically when your battery is 30% charged.</li></string>
+"<li>To make sure you can use all the features of your device normally, Extreme battery saver will be turned off automatically when your battery is 30% charged.</li>"</string>
      <string name="extreme_power_save_mode_summary">Extreme battery saver restricts background activity, and stops sync.</string>
      <string name="extreme_power_save_mode_title">Risparmio energetico estremo</string>
      <string name="finger_remind_message">Supporta lo sblocco con impronta digitale. Aggiungere impronta?</string>
@@ -1001,7 +1000,7 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continuerai ad utilizzare l
      <string name="lockpattern_need_to_unlock_wrong">Riprova</string>
      <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco</string>
      <string name="lockpattern_pattern_entered_header">Sequenza aggiunta</string>
-     <string name="lockpattern_recording_incorrect_too_short">Collega almeno %d punti</string>
+     <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots</string>
      <string name="lockpattern_recording_inprogress">Togli il dito quando hai completato al sequenza</string>
      <string name="lockpattern_recording_intro_header">Collega almeno 4 punti per creare una sequenza</string>
      <string name="lockpattern_retry_button_text">Disegna nuovamente</string>
@@ -1193,7 +1192,7 @@ dall'operatore"</string>
      <string name="mixed_password_confirmed_header_confirm">Impostato correttamente. Tocca per confermare.</string>
      <string name="mixed_password_confirmed_header_continue">Impostato correttamente. Tocca \"Avanti\".</string>
      <string name="mixed_pattern_entered_header">Password impostata correttamente</string>
-     <string name="mixed_recording_incorrect_too_short">Inserisci almeno %d caratteri.</string>
+     <string name="mixed_recording_incorrect_too_short">Enter at least %d characters.</string>
      <string name="mixed_recording_intro_header">Inserisci almeno 4 caratteri</string>
      <string name="mixed_retry_button_text">Annulla</string>
      <string name="mixed_settings_help_how_to_record">Come impostare la password</string>
@@ -1303,7 +1302,7 @@ dall'operatore"</string>
      <string name="numeric_password_confirmed_header_confirm">Impostato correttamente. Tocca per confermare.</string>
      <string name="numeric_password_confirmed_header_continue">Impostato correttamente. Tocca \"Avanti\".</string>
      <string name="numeric_pattern_entered_header">Imposta PIN correttamente</string>
-     <string name="numeric_recording_incorrect_too_short">Inserisci almeno %d numeri.</string>
+     <string name="numeric_recording_incorrect_too_short">Enter at least %d digit.</string>
      <string name="numeric_recording_intro_header">Inserisci password</string>
      <string name="numeric_retry_button_text">Annulla</string>
      <string name="numeric_settings_help_how_to_record">Come impostare il PIN</string>

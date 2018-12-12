@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
      <string name="accessibility_ai_scene_off">AI disattivata</string>
@@ -127,18 +126,18 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="edit_slim_nose">Naso</string>
      <string name="edit_smile">Sorriso</string>
      <string name="eye_light">Eye light</string>
-     <string name="eye_light_angel">Angel light</string>
-     <string name="eye_light_comic">Comic light</string>
-     <string name="eye_light_crescent">Crescent light</string>
-     <string name="eye_light_nature">Nature light</string>
-     <string name="eye_light_off">None</string>
-     <string name="eye_light_rainbow">Rainbow light</string>
-     <string name="eye_light_star">Star light</string>
-     <string name="eye_light_window">Window light</string>
+     <string name="eye_light_angel">Angel eye light</string>
+     <string name="eye_light_comic">Comic eye light</string>
+     <string name="eye_light_crescent">Crescent eye light</string>
+     <string name="eye_light_nature">Nature eye light</string>
+     <string name="eye_light_off">Eye light is off</string>
+     <string name="eye_light_rainbow">Rainbow eye light</string>
+     <string name="eye_light_star">Star eye light</string>
+     <string name="eye_light_window">Window eye light</string>
      <string name="face_age_info">Anni: %d</string>
      <string name="face_beauty_close">Disattivato</string>
      <string name="face_score_info">Punto: %.1f</string>
-     <string name="fps960_toast">Slow-motion capture will start at the last quarter of the recording</string>
+     <string name="fps960_toast">"L'acquisizione dello slow motion inizierà quando il timer raggiungerà il punto bianco"</string>
      <string name="front_camera_hint_text_place">"Fare un selfie sarà più facile se ruoti il telefono"</string>
      <string name="front_camera_hint_text_rotate">Ruota il tuo telefono</string>
      <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
@@ -260,7 +259,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_exposuretime_entry_8">1/8s</string>
      <string name="pref_camera_exposuretime_entry_8s">8s</string>
      <string name="pref_camera_exposuretime_entry_auto">Auto</string>
-     <string name="pref_camera_facedetection_auto_hidden_title">Rilevamento viso nascosto in automatico</string>
+     <string name="pref_camera_facedetection_auto_hidden_title">Rilevamento volto nascosto in automatico</string>
      <string name="pref_camera_facedetection_title">Rileva volti</string>
      <string name="pref_camera_flashmode_entry_auto">Auto</string>
      <string name="pref_camera_flashmode_entry_off">Disattivata</string>
@@ -418,7 +417,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
      <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi contemporaneamente i pulsanti volume su e indietro.</string>
      <string name="screen_on_proximity_sensor_summary">"Non coprire l'area auricolari"</string>
-     <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento viso;Suono fotocamera</string>
+     <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento volto;Suono fotocamera</string>
      <string name="see_qrcode_detals">Dettagli codice QR</string>
      <string name="snap_cancel">Annulla</string>
      <string name="snap_confirmed">Conferma</string>
@@ -448,5 +447,5 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="video_effect_entry_holiday">Riflessi</string>
      <string name="video_effect_entry_polaroid">Polaroid</string>
      <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
-     <string name="view_privacy_policy">View Privacy Policy</string>
+     <string name="view_privacy_policy">Visualizza Informativa sulla Privacy</string>
 </resources>

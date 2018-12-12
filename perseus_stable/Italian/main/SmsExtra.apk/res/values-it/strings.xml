@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_not_found">Non è stata trovata nessuna app per eseguire questa operazione</string>
      <string name="back_to_message_list">Indietro alla lista messaggi</string>

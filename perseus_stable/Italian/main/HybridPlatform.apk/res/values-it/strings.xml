@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="HIPS_Perm_AudioRecorder">Registra audio</string>
      <string name="HIPS_Perm_AudioRecorder_Desc">Registra audio e chiamate telefoniche</string>

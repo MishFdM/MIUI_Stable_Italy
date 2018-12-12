@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="additional_permissions_more">
         <item quantity="other">%1$d altri</item>

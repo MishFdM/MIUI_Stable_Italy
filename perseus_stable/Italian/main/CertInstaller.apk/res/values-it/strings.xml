@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Gestore installazione certificati</string>
      <string name="cert_is_added">%s è installato.</string>

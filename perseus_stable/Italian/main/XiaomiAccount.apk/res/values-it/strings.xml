@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="about_device_info">Mostra dettagli dispositivo</string>
      <string name="access_token_expired_warning">"L'account Weibo è scaduto"</string>

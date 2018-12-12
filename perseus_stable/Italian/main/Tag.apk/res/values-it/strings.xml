@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="action_call">Chiama %s</string>
      <string name="action_text">Invia SMS a %s</string>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="BaMmi">Blocco chiamate</string>
      <string name="CLIRDefaultOffNextCallOff">ID chiamante generalmente non limitato. Prossima chiamata: non limitato</string>
@@ -399,7 +398,7 @@ utilizzando %s"</string>
      <string name="ext_media_move_title">Spostamento dei dati in corso</string>
      <string name="ext_media_new_notification_message">Tap to set up</string>
      <string name="ext_media_new_notification_title">New %s</string>
-     <string name="ext_media_nomedia_notification_message">Some functionality may not work properly. Insert new storage</string>
+     <string name="ext_media_nomedia_notification_message">Some functionality may not work properly. Insert new storage.</string>
      <string name="ext_media_nomedia_notification_title">Rimosso %s</string>
      <string name="ext_media_ready_notification_message">Per trasferire foto e altri file</string>
      <string name="ext_media_status_bad_removal">Rimosso in modo non sicuro</string>
@@ -500,7 +499,7 @@ utilizzando %s"</string>
      <string name="gsm_alphabet_default_charset" />
      <string name="hardware">Hardware</string>
      <string name="harmful_app_warning_open_anyway">OPEN ANYWAY</string>
-     <string name="harmful_app_warning_title">Play Protect warning</string>
+     <string name="harmful_app_warning_title">Harmful app detected</string>
      <string name="harmful_app_warning_uninstall">UNINSTALL</string>
      <string name="heavy_weight_notification">%1$s in esecuzione</string>
      <string name="heavy_weight_notification_detail">Tocca per cambiare applicazione</string>

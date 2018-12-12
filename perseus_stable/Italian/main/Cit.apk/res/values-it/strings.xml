@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="FpTest">Esecuzione Test FP</string>
      <string name="FpTest_result">Risultato Test FP:</string>
@@ -142,7 +141,7 @@ Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'alto
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore."</string>
      <string name="cit_audio_loopback_check_summary_second">"Test feedback da microfono secondario all'altoparlante.
 
-Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
+Avvicina il dispositivo al volto e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
      <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
      <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
      <string name="cit_audio_loopback_next">Successivo</string>
@@ -500,10 +499,10 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_bluetooth_le_rx_num">num. pacchetti rx:</string>
      <string name="cit_tool_bluetooth_le_tx_4x">TX: BLE 4.x</string>
      <string name="cit_tool_bluetooth_le_tx_4x_channel">canale:</string>
-     <string name="cit_tool_bluetooth_le_tx_4x_payload">payload:</string>
+     <string name="cit_tool_bluetooth_le_tx_4x_payload">carico utile:</string>
      <string name="cit_tool_bluetooth_le_tx_50">TX: BLE 5.0</string>
      <string name="cit_tool_bluetooth_le_tx_50_channel">canale:</string>
-     <string name="cit_tool_bluetooth_le_tx_50_payload">payload:</string>
+     <string name="cit_tool_bluetooth_le_tx_50_payload">carico utile:</string>
      <string name="cit_tool_bluetooth_le_tx_50_phy">PHY:</string>
      <string name="cit_tool_bluetooth_le_tx_ch0">Avvia la modalità di test Bluetooth LE 2.402GHz test freq. TX</string>
      <string name="cit_tool_bluetooth_le_tx_ch1">Avvia la modalità di test Bluetooth LE 2.404GHz test freq. TX</string>
