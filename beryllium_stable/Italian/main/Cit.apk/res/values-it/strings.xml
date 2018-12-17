@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="FpTest">Esecuzione Test FP</string>
      <string name="FpTest_result">Risultato Test FP:</string>
@@ -18,6 +17,16 @@
      <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">DISATTIVA</string>
      <string name="abc_capital_on">ATTIVA</string>
+     <string name="abc_menu_alt_shortcut_label">Alt+</string>
+     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+     <string name="abc_menu_delete_shortcut_label">delete</string>
+     <string name="abc_menu_enter_shortcut_label">enter</string>
+     <string name="abc_menu_function_shortcut_label">Function+</string>
+     <string name="abc_menu_meta_shortcut_label">Meta+</string>
+     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+     <string name="abc_menu_space_shortcut_label">space</string>
+     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+     <string name="abc_prepend_shortcut_label">Menu+</string>
      <string name="abc_search_hint">Cerca…</string>
      <string name="abc_searchview_description_clear">Pulisci query</string>
      <string name="abc_searchview_description_query">Cerca query</string>
@@ -59,6 +68,7 @@
      <string name="camera_preview">preview</string>
      <string name="camera_zoom">Zoom</string>
      <string name="camerainfo">Informazioni camera</string>
+     <string name="can_not_get_numbers_of_keys">can not get numbers of keys</string>
      <string name="cancel">Cancel</string>
      <string name="cancelEnrol">CancelEnrol</string>
      <string name="cancel_test">TEST ANNULLATO</string>
@@ -131,7 +141,7 @@ Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'alto
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore."</string>
      <string name="cit_audio_loopback_check_summary_second">"Test feedback da microfono secondario all'altoparlante.
 
-Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
+Avvicina il dispositivo al volto e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
      <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
      <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
      <string name="cit_audio_loopback_next">Successivo</string>
@@ -190,6 +200,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
 1. Tocca il pulsante di calibrazione di seguito per avviare la fotocamera
 2. Premi il tasto Indietro per chiudere la fotocamera
 3. Un messaggio ti indicherà che lo stabilizzatore ottico (OIS) è stato calibrato"</string>
+     <string name="cit_camera_fast_check_title">Camera fast test</string>
      <string name="cit_camera_sdcard_error">Impossibile scattare foto. Scheda SD piena.</string>
      <string name="cit_charger_check_title">Charger Test</string>
      <string name="cit_charger_in_check_title">Charger insertion test</string>
@@ -242,6 +253,8 @@ and reverse plug in the charger"</string>
 3. Tocca l'icona a forma di spunta. Il sistema salverà la foto automaticamente
 4. La foto che hai scattato dovrebbe comparire di seguito. Tocca "Elimina" per completare questo test"</string>
      <string name="cit_front_camera_check_title">Test Fotocamera anteriore</string>
+     <string name="cit_front_rear_dual_camera_check_title">Front rear dual camera</string>
+     <string name="cit_front_rear_sub_camera_check_title">Front rear sub camera</string>
      <string name="cit_get_signature_failed">ottenimento firma FALLITO</string>
      <string name="cit_goodix_sensor_check_summary">Test sensore Goodix. Premi il pulsante e attendi che le informazioni di completamento con successo evidenziate in verde siano corrette.</string>
      <string name="cit_goodix_sensor_check_title">Sensore impronte Goodix</string>
@@ -263,6 +276,8 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_hall_far">lontano</string>
      <string name="cit_hall_miui_test_summary">When a magnet is close to the green area, the black screen, otherwise the screen is bright screen.</string>
      <string name="cit_hall_near">vicino</string>
+     <string name="cit_hall_phone_slider_status_down">Phone sliding status: slide down</string>
+     <string name="cit_hall_phone_slider_status_up">Phone sliding status: slide up</string>
      <string name="cit_hall_test_summary">"Quando un magnete si troverà nell'area verde, il testo dovrebbe avvicinarsi, in alternativa dovrebbe apparire lontano."</string>
      <string name="cit_hall_test_title">Magnetico</string>
      <string name="cit_hd_full">Cit Full Test</string>
@@ -291,11 +306,13 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_pull_finish">Le cuffie sono state scollegate</string>
      <string name="cit_headset_pull_hint">Scollega le cuffie ora</string>
      <string name="cit_hide_menu">Chiudi menu</string>
+     <string name="cit_hvdcp_charger_in">Charging via (USB_HVDCP)</string>
      <string name="cit_kayboard_home_down">Button: HOME</string>
      <string name="cit_kayboard_power_down">Button: POWER</string>
      <string name="cit_kayboard_volume_down">Pulsante: VOLUME SU</string>
      <string name="cit_kayboard_volume_up">Pulsante: VOLUME GIÙ</string>
      <string name="cit_kernal_log_txt">kernel log</string>
+     <string name="cit_keyboard_ai_key">Button: AI_KEY</string>
      <string name="cit_keyboard_back">Pulsante: INDIETRO</string>
      <string name="cit_keyboard_current">Tasto attuale: %s</string>
      <string name="cit_keyboard_current_def">Current keyboard:</string>
@@ -352,6 +369,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
      <string name="cit_proximity_us_sensitivity">Sensibilità:</string>
      <string name="cit_proximity_us_summary">Calibrazione Sensore di Prossimità ad Ultrasuoni</string>
      <string name="cit_rear_dual_camera_check_title">Doppia fotocamera posteriore</string>
+     <string name="cit_rear_dual_second_camera_check_title">dual second camera</string>
      <string name="cit_rear_sub_camera_check_summary">"Test instructions:
 
 1.Tap the Camera button below to enter rear sub Camera interface
@@ -359,6 +377,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
 3.System will save the photo automatically after capture
 4.The photo you took must be displayed on the screen, Tap Delete to complete the test."</string>
      <string name="cit_rear_sub_camera_check_title">Sub fotocamera posteriore</string>
+     <string name="cit_rear_sub_second_camera_check_title">rear sub second camera</string>
      <string name="cit_recovery_signature_failed">firma di recupero FALLITO</string>
      <string name="cit_recovery_signature_passed">firma di recupero PASSATO</string>
      <string name="cit_reset_check_summary">Questo test riavvierà il dispositivo. Tutti i dati dei precedenti test andranno persi.</string>
@@ -409,6 +428,9 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_sim_state_puk_required">PUK richiesto</string>
      <string name="cit_sim_state_ready">Scheda SIM pronta</string>
      <string name="cit_sim_state_unkown">Sconosciuto</string>
+     <string name="cit_slider_hall_miui_test_summary">Execute a complete phone slide up and slide down operate.</string>
+     <string name="cit_slider_hall_test_summary">Execute a complete phone slide up and slide down operate.</string>
+     <string name="cit_slider_hall_test_title">Slider Hall</string>
      <string name="cit_soft_torch">front soft flash led</string>
      <string name="cit_soft_torch_on">Turn on soft flash light</string>
      <string name="cit_start_calibration">Calibra</string>
@@ -480,8 +502,10 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_bluetooth_le_rx_num">num. pacchetti rx:</string>
      <string name="cit_tool_bluetooth_le_tx_4x">TX: BLE 4.x</string>
      <string name="cit_tool_bluetooth_le_tx_4x_channel">canale:</string>
+     <string name="cit_tool_bluetooth_le_tx_4x_payload">carico utile:</string>
      <string name="cit_tool_bluetooth_le_tx_50">TX: BLE 5.0</string>
      <string name="cit_tool_bluetooth_le_tx_50_channel">canale:</string>
+     <string name="cit_tool_bluetooth_le_tx_50_payload">carico utile:</string>
      <string name="cit_tool_bluetooth_le_tx_50_phy">PHY:</string>
      <string name="cit_tool_bluetooth_le_tx_ch0">Avvia la modalità di test Bluetooth LE 2.402GHz test freq. TX</string>
      <string name="cit_tool_bluetooth_le_tx_ch1">Avvia la modalità di test Bluetooth LE 2.404GHz test freq. TX</string>
@@ -530,6 +554,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_bluetooth_on">Attiva Bluetooth</string>
      <string name="cit_tool_bluetooth_tx_h">Avvia la modalità di test Bluetooth freq. BR/EDR 2.480GHz</string>
      <string name="cit_tool_bluetooth_tx_l">Avvia la modalità di test Bluetooth freq. BR/EDR 2.402GHz</string>
+     <string name="cit_tool_bluetooth_tx_m">Enter Bluetooth BR/EDR 2.441GHz Freq Test Mode</string>
      <string name="cit_tool_cal_accelerometer">Utilità di calibrazione Accel.</string>
      <string name="cit_tool_cal_camera">Calibrazione Fotocamera</string>
      <string name="cit_tool_cal_gyroscope">Utilità di calibrazione Giros.</string>
@@ -621,6 +646,8 @@ test fail!"</string>
      <string name="cit_usb_charger_out">Alimentazione USB scollegata</string>
      <string name="cit_version_check_summary">Di seguito troverai la versione del SO. Verifica che le informazioni evidenziate in verde siano corrette.</string>
      <string name="cit_version_check_title">Test versione</string>
+     <string name="cit_vga_camera_cameraid_fail">Error: cameraid not config</string>
+     <string name="cit_vga_camera_cameralist_fail">Error: cameralist not match</string>
      <string name="cit_vga_camera_capture">Avvia</string>
      <string name="cit_vga_camera_capture_fail">Impossibile scattare una foto</string>
      <string name="cit_vga_camera_delete">Elimina</string>
@@ -669,6 +696,7 @@ test fail!"</string>
      <string name="far_count">FAC (Conteggio Tasso Accettazione Errato):</string>
      <string name="far_total_count">FATC (Conteggio Totale Tasso Accettazione Errato):</string>
      <string name="fingerprint">Fingerprint:</string>
+     <string name="fingerprint_input_title">fingerprint input test</string>
      <string name="firstplug_mic_check_record_tip">Stop Record, After you plug in the headset confirm the result</string>
      <string name="fod_check_start_error">"Can not start the sensor check program
 Test fialed!"</string>
@@ -745,6 +773,7 @@ the specified position"</string>
      <string name="keyboard">CHIAVE</string>
      <string name="keyboard_vibrator_test">Keyboard test</string>
      <string name="keyboard_vibrator_test_old">Keyboard and vibration test</string>
+     <string name="keys_times">Keys Times:</string>
      <string name="lastTestResult">Last Test Result:</string>
      <string name="last_time_test_result">RISULTATO PRECEDENTE</string>
      <string name="launcher_d5x_sar_summary">The output data of each channel of the SAR sensor is displayed below. Please reverse the phone to the Sar calibration fixture, click Start calibration, display the calibration PASS, then indicate normal. Please note that the school is on time, and hands are not near the cell phone.</string>
@@ -770,6 +799,7 @@ the specified position"</string>
      <string name="noise">Rumore:</string>
      <string name="none">N/A</string>
      <string name="pass">Pass</string>
+     <string name="phone_not_been_restarted">Phone not been restarted</string>
      <string name="picture">Picture</string>
      <string name="placeholder">占位置</string>
      <string name="plugout_and_reverse_plugin">"
@@ -816,6 +846,8 @@ Please plug out the charger and reverse plug in."</string>
      <string name="radio_info_unknown">Sconosciuto</string>
      <string name="radio_info_voice_network_type_label">Tipologia servizio rete:</string>
      <string name="radio_no">Can not hear</string>
+     <string name="reboot_times">Reboot Times:</string>
+     <string name="refresh_number_of_keys">refresh number of keys</string>
      <string name="removeFingerprint">Remove Fingerprint</string>
      <string name="remove_headset_and_starttest">Prego rimuovi gli auricolari e premere start oer eseguire il test</string>
      <string name="request_permission">This sample needs camera permission.</string>

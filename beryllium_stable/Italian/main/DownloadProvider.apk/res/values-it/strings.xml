@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_label">Gestore Download</string>
      <string name="button_cancel_download">Annulla</string>
@@ -11,7 +10,7 @@
      <string name="download_queued">In coda</string>
      <string name="download_remaining">%s rimanenti</string>
      <string name="download_running">In corso</string>
-     <string name="download_running_percent">Download %</string>
+     <string name="download_running_percent">Download %s</string>
      <string name="download_unknown_title">&lt;Senza nome></string>
      <string name="miota_package">com.android.updater</string>
      <string name="notif_title_file_size">Totale %1$d</string>

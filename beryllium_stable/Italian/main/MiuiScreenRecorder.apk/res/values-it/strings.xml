@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Reg.Schermo</string>
      <string name="app_notification_info">La Registrazione Schermo sta operando in background</string>

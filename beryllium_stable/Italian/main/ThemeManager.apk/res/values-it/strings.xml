@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -222,6 +221,7 @@
      <string name="online_precust_scenery">Scenari</string>
      <string name="online_search_hint">Cerca risorse online</string>
      <string name="password_toggle_content_description">Attiva visibilità password</string>
+     <string name="pref_privacy_policy">Informativa sulla Privacy</string>
      <string name="present_local_themes">Scaricati</string>
      <string name="present_local_themes_subtitle">Personalizza il tuo dispositivo</string>
      <string name="present_official_themes">Selezione ufficiale</string>

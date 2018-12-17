@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="Ndays">
         <item quantity="other">%d giorni</item>
@@ -84,6 +83,10 @@
      <plurals name="edit_date_calculate_days_error_hint">
         <item quantity="other">Puoi inserire fino a %1$d giorni</item>
         <item quantity="one">Puoi inserire fino a %1$d giorno</item>
+     </plurals>
+     <plurals name="event_reminders_to_max">
+        <item quantity="other">Puoi impostare fino a %d promemoria</item>
+        <item quantity="one">Puoi impostare fino a %d promemoria</item>
      </plurals>
      <plurals name="month_more_events">
         <item quantity="other">+%d</item>

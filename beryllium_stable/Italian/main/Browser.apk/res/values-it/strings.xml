@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -246,10 +245,10 @@ Pages you view won't appear in history."</string>
      <string name="download_completed">Scaricati</string>
      <string name="download_default_path_txt">Ricorda la mia scelta</string>
      <string name="download_dialog_default_path_invalid">Il percorso per i download non è valido. Verrà usato invece il percorso predefinito per i file scaricati.</string>
-     <string name="download_dialog_file_length_hint_txt">Dimens.:</string>
+     <string name="download_dialog_file_length_hint_txt">"File size: "</string>
      <string name="download_dialog_file_length_lessthan1kb">Meno di 1K</string>
      <string name="download_dialog_file_length_nolength_error_txt">Impossibile scaricare</string>
-     <string name="download_dialog_file_length_nolength_txt">In download…</string>
+     <string name="download_dialog_file_length_nolength_txt">Just a sec…</string>
      <string name="download_failed">Download fallito</string>
      <string name="download_filter_all">Tutto</string>
      <string name="download_filter_apk">Apk</string>
@@ -913,8 +912,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_file_download_default_path_prefix">Percorso predefinito: %s</string>
      <string name="pref_file_download_save_modify_default_path">Percorso file scaricati</string>
      <string name="pref_file_download_save_title">Downloads</string>
-     <string name="pref_fling_on_border">Scorri dal bordo</string>
-     <string name="pref_fling_on_border_title_summary">Scorri dal bordo sinistro dello schermo a quello destro</string>
+     <string name="pref_fling_on_border">Swipe from edge</string>
+     <string name="pref_fling_on_border_title_summary">Swipe from the left or right edge</string>
      <string name="pref_font_size_category">Dimensioni testo</string>
      <string name="pref_force_userscalable">Attivazione forzata zoom</string>
      <string name="pref_force_userscalable_summary">Ignora richieste dei siti di controllare lo zoom</string>

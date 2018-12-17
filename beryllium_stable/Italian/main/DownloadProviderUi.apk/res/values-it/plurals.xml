@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="confirm_delete_downloads_message">
         <item quantity="other">%d downloads will be deleted.</item>
