@@ -534,5 +534,5 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_wrong_captcha">Il codice immesso non è corretto</string>
      <string name="passport_wrong_phone_number_format">Il formato del numero di telefono immesso non è valido</string>
      <string name="passport_wrong_vcode">Il codice immesso non è corretto</string>
-     <string name="passport_yes">Yes</string>
+     <string name="passport_yes">Sì</string>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="Active">Attivo</string>
      <string name="PassWordGuard">Password Secondo Spazio</string>
@@ -46,6 +45,8 @@ questa funzionalità verrà aggiunta automaticamente al Secondo Spazio."</string
      <string name="confirmDelete">Elimina</string>
      <string name="confirmSecondSpacePassword">Conferma la password del Secondo Spazio</string>
      <string name="confirm_airspace_password">Conferma password %s</string>
+     <string name="confirm_close_password_desc">Non potrai accedere al Secondo Spazio dalla schermata di blocco dopo aver disattivato la password. Disattivare comunque?</string>
+     <string name="confirm_close_password_title">Disattivazione password</string>
      <string name="confirm_main_space_password">Conferma la password del Primo Spazio</string>
      <string name="confirm_restore">Non mostrare</string>
      <string name="contactData">Contatti</string>
@@ -187,6 +188,7 @@ Puoi anche scaricarli separatamente"</string>
      <string name="loading_space">Solo un secondo</string>
      <string name="loading_success">Caricato correttamente</string>
      <string name="lock_screen_open_second_space">Entra nel Secondo Spazio dalla schermata di blocco</string>
+     <string name="menu_item_about_privacy_title">Informativa sulla Privacy</string>
      <string name="messageData">Messaggi</string>
      <string name="msg_switch_file">Eliminare questi file dal Primo Spazio dopo lo spostamento?</string>
      <string name="msg_switch_file_second">Eliminare questi file dal Secondo Spazio dopo lo spostamento?</string>
