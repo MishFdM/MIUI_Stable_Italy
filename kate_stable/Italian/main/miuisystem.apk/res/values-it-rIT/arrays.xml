@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="cta_permission_names">
         <item>accesso alla rete</item>
@@ -14,40 +13,5 @@
         <item>modifica registro chiamate</item>
         <item>accesso alla fotocamera</item>
         <item>accesso alla posizione</item>
-     </string-array>
-     <string-array name="religious_regions">
-        <item>PK</item>
-        <item>SA</item>
-        <item>IQ</item>
-        <item>OM</item>
-        <item>IR</item>
-        <item>AT</item>
-        <item>BE</item>
-        <item>BG</item>
-        <item>CY</item>
-        <item>CZ</item>
-        <item>DE</item>
-        <item>DK</item>
-        <item>EE</item>
-        <item>ES</item>
-        <item>FI</item>
-        <item>FR</item>
-        <item>GB</item>
-        <item>GR</item>
-        <item>HR</item>
-        <item>HU</item>
-        <item>IE</item>
-        <item>IT</item>
-        <item>LT</item>
-        <item>LU</item>
-        <item>LV</item>
-        <item>MT</item>
-        <item>NL</item>
-        <item>PL</item>
-        <item>PT</item>
-        <item>RO</item>
-        <item>SE</item>
-        <item>SI</item>
-        <item>SK</item>
      </string-array>
 </resources>
