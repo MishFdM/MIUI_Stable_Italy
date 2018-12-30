@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="Active">Attivo</string>
      <string name="PassWordGuard">Password Secondo Spazio</string>
@@ -46,6 +45,8 @@ questa funzionalità verrà aggiunta automaticamente al Secondo Spazio."</string
      <string name="confirmDelete">Elimina</string>
      <string name="confirmSecondSpacePassword">Conferma la password del Secondo Spazio</string>
      <string name="confirm_airspace_password">Conferma password %s</string>
+     <string name="confirm_close_password_desc">Non potrai accedere al Secondo Spazio dalla schermata di blocco dopo aver disattivato la password. Disattivare comunque?</string>
+     <string name="confirm_close_password_title">Disattivazione password</string>
      <string name="confirm_main_space_password">Conferma la password del Primo Spazio</string>
      <string name="confirm_restore">Non mostrare</string>
      <string name="contactData">Contatti</string>
@@ -90,8 +91,8 @@ per essere in grado di vederli sempre"</string>
      <string name="ent_activating">Attivazione…</string>
      <string name="ent_activation">Attiva</string>
      <string name="ent_activation_hint">Inserisci il tuo codice aziendale insieme al codice di licenza di attivazione della modalità Aziendale. Dopo aver effettuato questo passaggio, i servizi aziendali personalizzati verranno abilitati.</string>
-     <string name="ent_activation_hint_whit_licence">""Attiva la modalità Aziendale per abilitare i servizi aziendali personalizzati.
-Assicurati che il nome della tua azienda sia corretto. Leggi e accetta le relative politiche sulla privacy prima di eseguire l'attivazione"."</string>
+     <string name="ent_activation_hint_whit_licence">"Attiva la modalità Aziendale per abilitare i servizi aziendali personalizzati.
+Assicurati che il nome della tua azienda sia corretto. Leggi e accetta le relative politiche sulla privacy prima di eseguire l'attivazione."</string>
      <string name="ent_agency_code">Codice aziendale</string>
      <string name="ent_agency_code_hint">Inserisci codice aziendale</string>
      <string name="ent_agency_code_invalid">Il codice aziendale inserito non è valido</string>
@@ -150,6 +151,10 @@ Assicurati che il nome della tua azienda sia corretto. Leggi e accetta le relati
      <string name="green_guard_des3">"Controlla le applicazioni installate limitandone l'utilizzo"</string>
      <string name="green_guard_title2">Visualizza informazioni sulla posizione</string>
      <string name="green_guard_title3">Gestisci app</string>
+     <string name="greenguard_child_des">Usa la nostra app per rimanere connesso​</string>
+     <string name="greenguard_child_des_title">Evo aiutare amici e famigliari</string>
+     <string name="greenguard_parent_des">Scarica la notra app e aggiungi dispositivi altrui</string>
+     <string name="greenguard_parent_des_title">Devo aiutare amici e famigliari</string>
      <string name="guide_contact_sub_title_desc">"I contatti aggiunti al Secondo Spazio saranno privati.
 I messaggi saranno visibili solo nel Secondo Spazio."</string>
      <string name="guide_contact_suc_sub_title_desc">Solo i contatti e i messaggi privati verranno mostrati nel Secondo Spazio</string>
@@ -187,6 +192,7 @@ Puoi anche scaricarli separatamente"</string>
      <string name="loading_space">Solo un secondo</string>
      <string name="loading_success">Caricato correttamente</string>
      <string name="lock_screen_open_second_space">Entra nel Secondo Spazio dalla schermata di blocco</string>
+     <string name="menu_item_about_privacy_title">Informativa sulla Privacy</string>
      <string name="messageData">Messaggi</string>
      <string name="msg_switch_file">Eliminare questi file dal Primo Spazio dopo lo spostamento?</string>
      <string name="msg_switch_file_second">Eliminare questi file dal Secondo Spazio dopo lo spostamento?</string>
@@ -423,6 +429,7 @@ per accedere dalla schermata di blocco"</string>
      <string name="xspace_label">Clona app</string>
      <string name="xspace_loading_msg">Caricamento applicazioni…</string>
      <string name="xspace_qq_title">QQ</string>
+     <string name="xspace_remove">Elimina account per app clonate</string>
      <string name="xspace_setting_label">Doppia apertura impostata</string>
      <string name="xspace_uninstall_completed">App clonata disinstallata correttamente</string>
      <string name="xspace_uninstall_dialog_content">"La disinstallazione dell'app clonata comporta l'eliminazione dei dati associati."</string>
