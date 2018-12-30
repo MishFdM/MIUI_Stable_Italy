@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="accessibility_recent_task_enter">
         <item quantity="other">Recenti aperti, app disponibili: %d.</item>
@@ -29,6 +28,14 @@
         <item quantity="other">Codice PUK non corretto, %d tentativi rimanenti</item>
         <item quantity="one">Codice PUK non corretto, %d tentativo rimanente</item>
      </plurals>
+     <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Immetti la password richiesta dopo %d ore di inattività</item>
+        <item quantity="one">Immetti la password richiesta dopo %d ore di inattività</item>
+     </plurals>
+     <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Disegna la sequenza richiesta dopo %d ore di inattività</item>
+        <item quantity="one">Disegna la sequenza richiesta dopo %d ore di inattività</item>
+     </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Circa %d ore rimanenti</item>
         <item quantity="one">Circa %d ora rimanente</item>
@@ -53,6 +60,18 @@
         <item quantity="other">%1$d o %2$d m</item>
         <item quantity="one">%1$d o %2$d m</item>
      </plurals>
+     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d ore rimanenti</item>
+        <item quantity="one">%d ora rimanente</item>
+     </plurals>
+     <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d minuti rimanenti</item>
+        <item quantity="one">%d minuto rimanente</item>
+     </plurals>
+     <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d o e %2$d m rimanenti</item>
+        <item quantity="one">%1$d o %2$d m rimanenti</item>
+     </plurals>
      <plurals name="kg_password_default_pin_message">
         <item quantity="other">Immetti PIN SIM, hai %d tentativi rimasti.</item>
         <item quantity="one">Immetti PIN SIM, hai %d tentativo rimanente prima di contattare il tuo operatore per sbloccare il dispositivo.</item>
@@ -74,8 +93,8 @@
         <item quantity="one">Il dispositivo non è stato sbloccato per %d ora. Conferma la password.</item>
      </plurals>
      <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">Il dispositivo non è stato sbloccato per %d ore. Conferma il pattern.</item>
-        <item quantity="one">Il dispositivo non è stato sbloccato per %d ore. Conferma il pattern.</item>
+        <item quantity="other">Il dispositivo non è stato sbloccato per %d ore. Conferma la sequenza.</item>
+        <item quantity="one">Il dispositivo non è stato sbloccato per %d ore. Conferma la sequenza.</item>
      </plurals>
      <plurals name="kg_prompt_reason_time_pin">
         <item quantity="other">Il dispositivo non è stato sbloccato per %d ore. Conferma il PIN.</item>
@@ -120,5 +139,9 @@
      <plurals name="view_realtime_clear">
         <item quantity="other">Sereno</item>
         <item quantity="one">Sereno</item>
+     </plurals>
+     <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d devices connected</item>
+        <item quantity="one">%1$d device connected</item>
      </plurals>
 </resources>

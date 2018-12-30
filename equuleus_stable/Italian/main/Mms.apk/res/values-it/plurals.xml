@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">Eliminare %1$s messaggi?</item>
@@ -23,6 +22,10 @@
         <item quantity="zero">Seleziona elementi</item>
         <item quantity="one">%d selezionato</item>
      </plurals>
+     <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Messaggio ricevuto da %1$s ed altre %2$d persone</item>
+        <item quantity="one">Messaggio ricevuto da %1$s ed %2$d altra persona</item>
+     </plurals>
      <plurals name="group_message_failed_title">
         <item quantity="other">Impossibile inviare a %d contatti</item>
         <item quantity="one">Impossibile inviare a %d contatto</item>
@@ -31,6 +34,10 @@
         <item quantity="other">%d messaggi</item>
         <item quantity="zero">%d messaggi</item>
         <item quantity="one">%d messaggio</item>
+     </plurals>
+     <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Contrassegnato come %2$s da %1$d persone</item>
+        <item quantity="one">Contrassegnato come %2$s da %1$d persona</item>
      </plurals>
      <plurals name="message_count">
         <item quantity="other">%1$s messaggi</item>
