@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
      <string name="accessibility_ai_scene_off">AI disattivata</string>
@@ -9,9 +8,18 @@
      <string name="accessibility_beauty_panel_open">Menu bellezza aperto</string>
      <string name="accessibility_beauty_switch_closed">Bellezza disattivata</string>
      <string name="accessibility_beauty_switch_open">Bellezza attivata</string>
+     <string name="accessibility_camera_lighting_close_panel">Closed lighting menu</string>
+     <string name="accessibility_camera_lighting_open_panel">Opened lighting menu</string>
+     <string name="accessibility_camera_liveshot_off">动态照片模式已关闭</string>
+     <string name="accessibility_camera_liveshot_on">动态照片模式已开启</string>
      <string name="accessibility_camera_picker">Fotocamera frontale o posteriore</string>
      <string name="accessibility_camera_picker_finish">Cambio camera riuscito</string>
      <string name="accessibility_camera_shutter_finish">Foto scattata correttamente</string>
+     <string name="accessibility_camera_video_960fps_120">120FPS</string>
+     <string name="accessibility_camera_video_960fps_240">240FPS</string>
+     <string name="accessibility_camera_video_960fps_960">960FPS</string>
+     <string name="accessibility_camera_video_fps_120">120FPS</string>
+     <string name="accessibility_camera_video_fps_30">30FPS</string>
      <string name="accessibility_closed">Disattivato</string>
      <string name="accessibility_effect_mode_button">Effetti</string>
      <string name="accessibility_filter_close_panel">Menù filtro chiuso</string>
@@ -44,6 +52,13 @@
      <string name="accessibility_zoom_button">Modalità Zoom</string>
      <string name="ai_scene_mode_use_hint_text">"Scena-AI identifica il tipo di scena 
  ed ottimizza l'immagine"</string>
+     <string name="app_name">algoengine</string>
+     <string name="beauty_body">塑型</string>
+     <string name="beauty_body_body">瘦身</string>
+     <string name="beauty_body_head">头部</string>
+     <string name="beauty_body_legged">长腿</string>
+     <string name="beauty_body_reset_tip">美体效果已清除</string>
+     <string name="beauty_body_shoulder">肩部</string>
      <string name="beauty_fragment_tab_name_3d_beauty">Bellezza</string>
      <string name="beauty_fragment_tab_name_3d_makeup">Trucco</string>
      <string name="beauty_fragment_tab_name_3d_remodeling">Rimodellazione</string>
@@ -71,6 +86,9 @@
      <string name="cannot_connect_camera_twice">Impossibile avviare la fotocamera, riavvia il dispositivo</string>
      <string name="cannot_connect_camera_volte_call">La video chiamata è in corso, prova più tardi.</string>
      <string name="cannot_move_warning_message">Mantieni il dispositivo fermo</string>
+     <string name="capture_back_pressed_hint">Touch again to exit</string>
+     <string name="close_back_flash_toast">Il dispositivo è surriscaldato. Impossibile utilizzare il flash adesso.</string>
+     <string name="close_front_flash_toast">Il dispositivo è surriscaldato. Impossibile utilizzare il flash adesso.</string>
      <string name="color_effect_entry_berry">Frutti di bosco</string>
      <string name="color_effect_entry_blackwhite">N</string>
      <string name="color_effect_entry_cookie">Cookie</string>
@@ -103,6 +121,7 @@
      <string name="confirm_restore_message">Ripristinare le impostazioni predefinite della fotocamera?</string>
      <string name="confirm_restore_title">Ripristina le impostazioni predefinite</string>
      <string name="dialog_ok">OK</string>
+     <string name="dialog_ok_time">OK (<g id="NUMBER">%d</g>s)</string>
      <string name="do_not_remind_me">Non chiedere più</string>
      <string name="dual_camera_lens_covered_toast">"L'obiettivo è coperto"."</string>
      <string name="dual_camera_lowlight_toast">"Sembra che l'ambiente sia troppo buio."</string>
@@ -125,17 +144,18 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="edit_slim_nose">Naso</string>
      <string name="edit_smile">Sorriso</string>
      <string name="eye_light">Eye light</string>
-     <string name="eye_light_angel">Angel light</string>
-     <string name="eye_light_comic">Comic light</string>
-     <string name="eye_light_crescent">Crescent light</string>
-     <string name="eye_light_nature">Nature light</string>
-     <string name="eye_light_off">None</string>
-     <string name="eye_light_rainbow">Rainbow light</string>
-     <string name="eye_light_star">Star light</string>
-     <string name="eye_light_window">Window light</string>
+     <string name="eye_light_angel">Angel eye light</string>
+     <string name="eye_light_comic">Comic eye light</string>
+     <string name="eye_light_crescent">Crescent eye light</string>
+     <string name="eye_light_nature">Nature eye light</string>
+     <string name="eye_light_off" />
+     <string name="eye_light_rainbow">Rainbow eye light</string>
+     <string name="eye_light_star">Star eye light</string>
+     <string name="eye_light_window">Window eye light</string>
      <string name="face_age_info">Anni: %d</string>
      <string name="face_beauty_close">Disattivato</string>
      <string name="face_score_info">Punto: %.1f</string>
+     <string name="fps960_toast">"L'acquisizione dello slow motion inizierà quando il timer raggiungerà il punto bianco"</string>
      <string name="front_camera_hint_text_place">"Fare un selfie sarà più facile se ruoti il telefono"</string>
      <string name="front_camera_hint_text_rotate">Ruota il tuo telefono</string>
      <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
@@ -165,6 +185,7 @@ in modalità Portrait"</string>
      <string name="lighting_pattern_leaf">Foglie</string>
      <string name="lighting_pattern_movie">Film</string>
      <string name="lighting_pattern_nature">Naturale</string>
+     <string name="lighting_pattern_null">Null</string>
      <string name="lighting_pattern_rainbow">Arcobaleno</string>
      <string name="lighting_pattern_shutter">Oscuro</string>
      <string name="lighting_pattern_stage">Palcoscenico</string>
@@ -257,7 +278,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_exposuretime_entry_8">1/8s</string>
      <string name="pref_camera_exposuretime_entry_8s">8s</string>
      <string name="pref_camera_exposuretime_entry_auto">Auto</string>
-     <string name="pref_camera_facedetection_auto_hidden_title">Rilevamento viso nascosto in automatico</string>
+     <string name="pref_camera_facedetection_auto_hidden_title">Rilevamento volto nascosto in automatico</string>
      <string name="pref_camera_facedetection_title">Rileva volti</string>
      <string name="pref_camera_flashmode_entry_auto">Auto</string>
      <string name="pref_camera_flashmode_entry_off">Disattivata</string>
@@ -357,10 +378,11 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_whitebalance_entry_auto">Auto</string>
      <string name="pref_camera_whitebalance_title">Bil. bianco</string>
      <string name="pref_camera_zoom_mode_entry_tele">Teleobiettivo</string>
+     <string name="pref_camera_zoom_mode_entry_ultra">ULTRA</string>
      <string name="pref_camera_zoom_mode_entry_wide">Grandangolo</string>
      <string name="pref_camera_zoom_mode_title">Lenti</string>
      <string name="pref_capture_settings">Impostazioni fotocamera</string>
-     <string name="pref_dualcamera_watermark_title">Logo dual camera</string>
+     <string name="pref_dualcamera_watermark_title">Dual camera watermark</string>
      <string name="pref_fingerprint_capture_title">Scatto con impronta</string>
      <string name="pref_front_mirror_entry_off">Disattivato</string>
      <string name="pref_front_mirror_entry_on">Attivato</string>
@@ -411,10 +433,11 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_video_time_lapse_frame_interval_entry_900">Intervallo di 30 secondi (900x)</string>
      <string name="pref_video_time_lapse_frame_interval_title">Intervallo Time-lapse</string>
      <string name="preparing_sd">Preparo scheda SD...</string>
+     <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
      <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
      <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi contemporaneamente i pulsanti volume su e indietro.</string>
      <string name="screen_on_proximity_sensor_summary">"Non coprire l'area auricolari"</string>
-     <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento viso;Suono fotocamera</string>
+     <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento volto;Suono fotocamera</string>
      <string name="see_qrcode_detals">Dettagli codice QR</string>
      <string name="snap_cancel">Annulla</string>
      <string name="snap_confirmed">Conferma</string>
@@ -423,6 +446,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="start_capture">OK</string>
      <string name="sticker_tab1">Carino</string>
      <string name="sticker_tab2">Divertente</string>
+     <string name="super_night_toast">Taking a photo, please hold your phone</string>
      <string name="text_ai_scene_selector_text_off">CONTRO-GIORNO</string>
      <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
      <string name="time_lapse_error">Dimensione video non valida per il Time-lapse.</string>
@@ -430,6 +454,10 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="toast_saving">Salvataggio foto...</string>
      <string name="ubi_focus_capture_fail">Impossibile scattare la foto</string>
      <string name="ubifocus_capture_warning_message">"Per apprezzare al meglio UFocus l'inquadratura deve contenere soggetti vicini e lontani"</string>
+     <string name="ultra_wide_close_tip">超广角模式已关闭</string>
+     <string name="ultra_wide_mode">超广角</string>
+     <string name="ultra_wide_open_tip">超广角模式</string>
+     <string name="ultra_wide_recommend_tip_hint">建议开启超广角模式</string>
      <string name="user_agree">OK</string>
      <string name="user_agreement2">Termini del Servizio</string>
      <string name="user_agreement4">Informativa sulla Privacy</string>
@@ -443,4 +471,5 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="video_effect_entry_holiday">Riflessi</string>
      <string name="video_effect_entry_polaroid">Polaroid</string>
      <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
+     <string name="view_privacy_policy">Visualizza Informativa sulla Privacy</string>
 </resources>

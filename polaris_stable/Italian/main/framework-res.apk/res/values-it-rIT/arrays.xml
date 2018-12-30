@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <integer-array name="config_autoBrightnessDisplayValuesNits">
         <item>6</item>
@@ -143,6 +142,14 @@
         <item>com.android.launcher</item>
         <item>com.google.android.dialer</item>
         <item>com.google.android.apps.messaging</item>
+     </string-array>
+     <string-array name="webview_list">
+        <item>com.tencent.tbs.core.webkit.WebView</item>
+        <item>com.miui.webkit.WebView</item>
+        <item>com.uc.webkit.bf</item>
+        <item>com.baidu.webkit.sdk.WebView</item>
+        <item>com.sogou.webkit.WebView</item>
+        <item>com.qihoo.webkit.WebView</item>
      </string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
         <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>

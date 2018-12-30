@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="FpTest">Esecuzione Test FP</string>
      <string name="FpTest_result">Risultato Test FP:</string>
@@ -105,6 +104,7 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
      <string name="cit_audio_cali_TEMP">Temp:</string>
      <string name="cit_audio_cali_done">Calibrazione eseguita</string>
      <string name="cit_audio_cali_failed">Calibrazione fallita. Riprova.</string>
+     <string name="cit_audio_cali_fast_test_title">Speaker amplifier calibration fast test</string>
      <string name="cit_audio_cali_file_existed">File musicale inesistente, la calibrazione non può essere effettuata!</string>
      <string name="cit_audio_cali_playing">Premi il pulsante per iniziare la calibrazione</string>
      <string name="cit_audio_cali_q">Q:</string>
@@ -142,7 +142,7 @@ Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'alto
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore."</string>
      <string name="cit_audio_loopback_check_summary_second">"Test feedback da microfono secondario all'altoparlante.
 
-Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
+Avvicina il dispositivo al volto e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
      <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
      <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
      <string name="cit_audio_loopback_next">Successivo</string>
@@ -201,6 +201,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
 1. Tocca il pulsante di calibrazione di seguito per avviare la fotocamera
 2. Premi il tasto Indietro per chiudere la fotocamera
 3. Un messaggio ti indicherà che lo stabilizzatore ottico (OIS) è stato calibrato"</string>
+     <string name="cit_camera_fast_check_title">Camera fast test</string>
      <string name="cit_camera_sdcard_error">Impossibile scattare foto. Scheda SD piena.</string>
      <string name="cit_charger_check_title">Charger Test</string>
      <string name="cit_charger_in_check_title">Charger insertion test</string>
@@ -215,6 +216,9 @@ and reverse plug in the charger"</string>
      <string name="cit_def_torch_on_one">Turn on the first flash</string>
      <string name="cit_def_torch_on_three">Turn on the third flash</string>
      <string name="cit_def_torch_on_two">Turn on the second flash</string>
+     <string name="cit_diag_chaging_summary">Copy charge logger files to sdcard</string>
+     <string name="cit_diag_chaging_title">Read charge logger</string>
+     <string name="cit_diag_chaging_wait">Please wait... Copying files</string>
      <string name="cit_dial_emergencycall">Dial 112</string>
      <string name="cit_display_check_summary">Verifica che il file .bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
      <string name="cit_display_check_title">Test Schermo</string>
@@ -226,6 +230,7 @@ and reverse plug in the charger"</string>
      <string name="cit_external_sd_check_summary">Questo test verificherà lo stato della Scheda SD</string>
      <string name="cit_external_sd_check_title">Test Scheda SD</string>
      <string name="cit_fail">Fallito</string>
+     <string name="cit_fast_screen_touch_check_title">Fast touch screen check test</string>
      <string name="cit_finger_check_title">Test Lettore Impronte</string>
      <string name="cit_flash_life_check_summary">Vita stimata flash del dispositivo</string>
      <string name="cit_flash_life_check_title">Vita del flash</string>
@@ -304,8 +309,10 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_pull_detect_summary">Quando le cuffie sono scollegate, il testo \"Cuffie scollegate\" dovrebbe comparire di seguito.</string>
      <string name="cit_headset_pull_detect_title">Test Rimozione cuffie</string>
      <string name="cit_headset_pull_finish">Le cuffie sono state scollegate</string>
+     <string name="cit_headset_pull_finish_test">Disconnected headphones,finished test</string>
      <string name="cit_headset_pull_hint">Scollega le cuffie ora</string>
      <string name="cit_hide_menu">Chiudi menu</string>
+     <string name="cit_hvdcp_charger_in">Charging via (USB_HVDCP)</string>
      <string name="cit_kayboard_home_down">Button: HOME</string>
      <string name="cit_kayboard_power_down">Button: POWER</string>
      <string name="cit_kayboard_volume_down">Pulsante: VOLUME SU</string>
@@ -368,13 +375,15 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
      <string name="cit_proximity_us_sensitivity">Sensibilità:</string>
      <string name="cit_proximity_us_summary">Calibrazione Sensore di Prossimità ad Ultrasuoni</string>
      <string name="cit_rear_dual_camera_check_title">Doppia fotocamera posteriore</string>
+     <string name="cit_rear_dual_second_camera_check_title">dual second camera</string>
      <string name="cit_rear_sub_camera_check_summary">"Test instructions:
 
 1.Tap the Camera button below to enter rear sub Camera interface
 2.Tap the shutter button
 3.System will save the photo automatically after capture
-4.The photo you took must be displayed on the screen, Tap Delete to complete the test."</string>
+4.The photo you took must be displayed on the screen, Tap Pass to complete the test."</string>
      <string name="cit_rear_sub_camera_check_title">Sub fotocamera posteriore</string>
+     <string name="cit_rear_sub_second_camera_check_title">rear sub second camera</string>
      <string name="cit_recovery_signature_failed">firma di recupero FALLITO</string>
      <string name="cit_recovery_signature_passed">firma di recupero PASSATO</string>
      <string name="cit_reset_check_summary">Questo test riavvierà il dispositivo. Tutti i dati dei precedenti test andranno persi.</string>
@@ -499,8 +508,10 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_bluetooth_le_rx_num">num. pacchetti rx:</string>
      <string name="cit_tool_bluetooth_le_tx_4x">TX: BLE 4.x</string>
      <string name="cit_tool_bluetooth_le_tx_4x_channel">canale:</string>
+     <string name="cit_tool_bluetooth_le_tx_4x_payload">carico utile:</string>
      <string name="cit_tool_bluetooth_le_tx_50">TX: BLE 5.0</string>
      <string name="cit_tool_bluetooth_le_tx_50_channel">canale:</string>
+     <string name="cit_tool_bluetooth_le_tx_50_payload">carico utile:</string>
      <string name="cit_tool_bluetooth_le_tx_50_phy">PHY:</string>
      <string name="cit_tool_bluetooth_le_tx_ch0">Avvia la modalità di test Bluetooth LE 2.402GHz test freq. TX</string>
      <string name="cit_tool_bluetooth_le_tx_ch1">Avvia la modalità di test Bluetooth LE 2.404GHz test freq. TX</string>
@@ -549,6 +560,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_bluetooth_on">Attiva Bluetooth</string>
      <string name="cit_tool_bluetooth_tx_h">Avvia la modalità di test Bluetooth freq. BR/EDR 2.480GHz</string>
      <string name="cit_tool_bluetooth_tx_l">Avvia la modalità di test Bluetooth freq. BR/EDR 2.402GHz</string>
+     <string name="cit_tool_bluetooth_tx_m">Enter Bluetooth BR/EDR 2.441GHz Freq Test Mode</string>
      <string name="cit_tool_cal_accelerometer">Utilità di calibrazione Accel.</string>
      <string name="cit_tool_cal_camera">Calibrazione Fotocamera</string>
      <string name="cit_tool_cal_gyroscope">Utilità di calibrazione Giros.</string>
@@ -758,7 +770,7 @@ the specified position"</string>
 1.Tap the Camera button below to enter Ir Camera interface
 2.Tap the shutter button
 3.System will save the photo automatically after capture.
-4.The photo you took must be displayed on the screen. Tap Delete to complete the test."</string>
+4.The photo you took must be displayed on the screen. Tap Pass to complete the test."</string>
      <string name="ir_camera_test_summary_preview">"Test instructions:
 
 1.Tap the Preview button below to enter Camera interface
