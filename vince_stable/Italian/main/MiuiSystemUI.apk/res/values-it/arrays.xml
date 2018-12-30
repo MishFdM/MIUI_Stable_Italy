@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
@@ -23,6 +22,79 @@
         <item>Mostra la percentuale quando in carica (predefinito)</item>
         <item>Non mostrare questa icona</item>
      </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Ottimizzato per la qualità audio</item>
+        <item>Audio bilanciato e qualità di connessione</item>
+        <item>Ottimizzato per la qualità di connessione</item>
+        <item>Migliore possibile (Bit Rate adattivo)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Ottimizzato per qualità audio (990kbps/909kbps)</item>
+        <item>Bilanciato audio e qualità di connessione (660kbps/606kbps)</item>
+        <item>Ottimizzato per qualità di connessione (330kbps/303kbps)</item>
+        <item>MIgliore possibile (Bit Rate adattivo)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+     </string-array>
      <string-array name="clock_options">
         <item>Mostra ore, minuti e secondi</item>
         <item>Mostra ore e minuti (predefinito)</item>
@@ -42,6 +114,10 @@
         <item>Disattivato</item>
         <item>Mostra aree overdraw</item>
         <item>Mostra aree per Deuteranomalia</item>
+     </string-array>
+     <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Predefinito)</item>
+        <item>OpenGL (Skia)</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
@@ -121,6 +197,18 @@
         <item>Info</item>
         <item>Debug</item>
         <item>Verbose</item>
+     </string-array>
+     <string-array name="select_logpersist_summaries">
+        <item>Disattivato</item>
+        <item>Tutti i buffer log</item>
+        <item>Tutti tranne i buffer log radio</item>
+        <item>Solo buffer log</item>
+     </string-array>
+     <string-array name="select_logpersist_titles">
+        <item>Disattivato</item>
+        <item>Tutti</item>
+        <item>Tutti tranne radio</item>
+        <item>Solo kernel</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Disattivato</item>
