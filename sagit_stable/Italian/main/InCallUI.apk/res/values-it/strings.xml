@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="antispam_local_marked">Segnalato localmente</string>
-     <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
      <string name="antispam_notification_title">Numero sconosciuto</string>
      <string name="antispam_provider">Identificato da %s</string>
      <string name="callFailed_cb_enabled">Impossibile effettuare chiamate in uscita con il blocco chiamate attivo.</string>
@@ -46,7 +45,6 @@
      <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa</string>
      <string name="call_recording_notification_title">Chiamata registrata</string>
      <string name="call_recording_notification_title_error">Non è stato possibile registrare la chiamata</string>
-     <string name="call_title_redialing_with_times">Ricomposto %d volte</string>
      <string name="caller_manage_header">Audioconferenza %s</string>
      <string name="can_not_use">Impossibile utilizzare</string>
      <string name="cancel">Annulla</string>
@@ -77,7 +75,6 @@
      <string name="close_camera_failed">Impossibile disattivare la fotocamera…</string>
      <string name="close_camera_requesting">Disattivazione fotocamera...</string>
      <string name="conference_call_description" formatted="false">%s,%s ecc. totale %s</string>
-     <string name="conference_call_number">%s persone</string>
      <string name="conference_call_recorder_title">Conferenza telefonica</string>
      <string name="conference_call_single_description" formatted="false">%s etc. totali %s</string>
      <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
@@ -106,6 +103,7 @@
      <string name="description_image_button_two">due</string>
      <string name="description_image_button_video_answer">Video chiamata</string>
      <string name="description_image_button_zero">zero</string>
+     <string name="description_message_list_title">Elenco di risposte rapide</string>
      <string name="description_target_answer">Rispondi</string>
      <string name="dialpad_abc">ABC</string>
      <string name="dialpad_def">DEF</string>
@@ -196,6 +194,7 @@
      <string name="sim1_description">SIM1</string>
      <string name="sim2_description">SIM2</string>
      <string name="sip_call_not_support_record">Impossibile registrare le chiamate SIP</string>
+     <string name="supp_service_notification_call_waiting">Il numero composto è occupato. Si prega di attendere…</string>
      <string name="suspect_info">"Verifica sempre l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unlock_phone">Sblocca dispositivo</string>
@@ -204,6 +203,7 @@
      <string name="video_conference_caller_info_name">Videoconferenza di %1$s</string>
      <string name="video_crbt_title">È in riproduzione il tono di richiamata di un altro gruppo in videoconferenza</string>
      <string name="voicemail">Segreteria</string>
+     <string name="volume_boost_text">Incremento del volume riuscita</string>
      <string name="wait_prompt_str">Inviare i numeri successivi?</string>
      <string name="waiting_close_airplane_mode">Solo un attimo…</string>
 </resources>
