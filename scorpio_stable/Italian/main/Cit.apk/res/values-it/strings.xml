@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="SDCard">Scheda SD</string>
      <string name="SD_INTERNAL_SDCard_mounted">Rileva Scheda SD interna</string>
@@ -70,7 +69,7 @@ Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'alto
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore."</string>
      <string name="cit_audio_loopback_check_summary_second">"Test feedback da microfono secondario all'altoparlante.
 
-Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
+Avvicina il dispositivo al volto e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
      <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
      <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
      <string name="cit_audio_loopback_next">Successivo</string>
@@ -127,8 +126,8 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_display_check_summary">Verifica che il file .bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
      <string name="cit_display_check_title">Test Schermo</string>
      <string name="cit_display_continue">Tocca lo schermo per iniziare</string>
-     <string name="cit_exit_test_summary">Uscita dalla diagnostica, tutti i relativi dati saranno rimossi.</string>
-     <string name="cit_exit_test_title">Chiudi test</string>
+     <string name="cit_exit_test_summary">Uscire dalla diagnostica? Tutti i relativi dati verranno rimossi.</string>
+     <string name="cit_exit_test_title">Chiusura test</string>
      <string name="cit_external_sd_check_summary">Questo test verificherà lo stato della Scheda SD</string>
      <string name="cit_external_sd_check_title">Test Scheda SD</string>
      <string name="cit_fail">Fallito</string>
@@ -487,8 +486,8 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_usb_OTG_out">Dispositivo USB OTG scollegato</string>
      <string name="cit_usb_charger_in">Ricarica via USB</string>
      <string name="cit_usb_charger_out">Alimentazione USB scollegata</string>
-     <string name="cit_version_check_summary">Di seguito trovi la versione del SO. Verifica che le informazioni evidenziate in verde sono corrette.</string>
-     <string name="cit_version_check_title">Versione Test</string>
+     <string name="cit_version_check_summary">Di seguito troverai la versione del SO. Verifica che le informazioni evidenziate in verde siano corrette.</string>
+     <string name="cit_version_check_title">Test versione</string>
      <string name="cit_vga_camera_capture">Avvia</string>
      <string name="cit_vga_camera_capture_fail">Impossibile scattare una foto</string>
      <string name="cit_vga_camera_delete">Elimina</string>

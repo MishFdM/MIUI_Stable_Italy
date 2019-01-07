@@ -5,6 +5,14 @@
      <string name="agree_terms">Ho letto e accetto i Termini e le Condizioni</string>
      <string name="agree_terms_input_method_facemoji">Ho letto ed accetto la Normativa sulla Privacy di Facemoji.</string>
      <string name="agree_terms_input_method_kika">Ho letto ed accetto la Normativa sulla Privacy di Kika.</string>
+     <string name="ai_button_desc">Usa questo pulsante per attivare Mi AI e completare le attività sul tuo telefono utilizzando solo la tua voce</string>
+     <string name="ai_button_double_press">Doppia pressione</string>
+     <string name="ai_button_double_press_desc">Configura le funzionalità di Mi AI</string>
+     <string name="ai_button_long_press">Premi e tieni premuto</string>
+     <string name="ai_button_long_press_desc">Vocalizza il tuo comando e rilascia il pulsante</string>
+     <string name="ai_button_single_press">Premi</string>
+     <string name="ai_button_single_press_desc">Attivazione Mi AI</string>
+     <string name="ai_button_title">A proposito del pulsante AI</string>
      <string name="app_name">Introduzione</string>
      <string name="application_permissions">Permessi Applicazioni</string>
      <string name="back">Indietro</string>
@@ -45,11 +53,14 @@
      <string name="navigation_picker_radio_text_virtual_key">Modalità tasti virtuali</string>
      <string name="next">Avanti</string>
      <string name="next_fingerprint">Avanti</string>
-     <string name="other_settings">Impostazioni aggiuntive</string>
-     <string name="other_settings_ad_enable">Suggerimenti Pubblicità Consigliati</string>
+     <string name="other_settings">Altro</string>
+     <string name="other_settings_ad_enable">Suggerimenti pubblicità consigliate</string>
      <string name="other_settings_ad_enable_summary">Suggerisci pubblicità personalizzate basate sulle tue abitudini</string>
      <string name="other_settings_auto_update">Aggiorna automaticamente</string>
      <string name="other_settings_auto_update_summary">"MIUI sceglierà il tempo di attesa per scaricare ed installare gli aggiornamenti."</string>
+     <string name="other_settings_enhanced_lockscreen">Carousel sfondi</string>
+     <string name="other_settings_enhanced_lockscreen_summary">Ricevi ogni giorno immagini e storie selezionate, direttamente sulla schermata di blocco. Accetta i Termini e Condizioni.</string>
+     <string name="other_settings_enhanced_lockscreen_summary_index">Termini e Condizioni</string>
      <string name="other_settings_location">Localizzazione</string>
      <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
      <string name="other_settings_upload_debug_log_summary">"I dati per la diagnosi possono includere informazioni sull'utilizzo dell'hardware, sistema e app. I dati verranno utilizzati per individuare e analizzare i problemi nel sistema, non verranno mai utilizzati per rilevare la tua identità."</string>
@@ -57,9 +68,10 @@
      <string name="other_settings_user_experience">Programma Esperienza Utente</string>
      <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
      <string name="other_settings_user_experience_summary_index">Dettagli</string>
+     <string name="poco_agree_terms_other">"(Inclusi l'Informativa sulla Privacy ed l'Accordo Utente di POCO Launcher)"</string>
      <string name="pref_title_data_slot">SIM Dati</string>
      <string name="pref_title_voice_slot">SIM Voce</string>
-     <string name="privacy_policy">Termini sulla Privacy</string>
+     <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="provision_inputmethod_policy_description">"
 Leggi questo documento per la tastiera: "</string>
      <string name="provision_inputmethod_policy_description1">Privacy</string>
@@ -95,10 +107,14 @@ Devi accettare la Normativa sulla Privacy di Kika prima di utilizzare questa fun
      <string name="terms_of_use_lable_smart_cards">, Schede intelligenti</string>
      <string name="terms_privacy_policy_input_method_facemoji">Normativa sulla Privacy di Facemoji</string>
      <string name="terms_privacy_policy_input_method_kika">Normativa sulla Privacy di Kika</string>
-     <string name="title_fingerprint">Aggiungi la tua impronta</string>
+     <string name="title_fingerprint">Aggiungi impronta</string>
      <string name="user_agreement">Condizioni del Servizio</string>
+     <string name="voice_assist_advice">Mi AI ti consente di utilizzare i comandi vocali, ma ciò comporterà un maggior consumo energia (+1% ogni ora).</string>
+     <string name="voice_assist_condition">"Sarai in grado di utilizzare Mi AI in questi casi:
+1. Quando lo schermo è acceso.
+2. Quando ascolti musica a schermo spento."</string>
      <string name="voice_assist_desp">Pronuncia \"Mi AI\" davanti al telefono. Mi AI riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
-     <string name="voice_assist_desp_screen_light">Una volta acceso lo schermo, pronuncia \"Mi AI\". Mi AI riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
      <string name="voice_assist_title">Attiva con la voce</string>
      <string name="welcome">Benvenuto</string>
+     <string name="zone_picker_title">Choose time zone</string>
 </resources>

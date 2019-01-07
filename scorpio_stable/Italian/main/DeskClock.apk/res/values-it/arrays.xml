@@ -53,7 +53,7 @@
         <item>30 minuti</item>
      </string-array>
      <string-array name="countries_names_miui">
-        <item>"Costa d'Avorio"</item>
+	    <item>"Costa d'Avorio"</item>
         <item>Ghana</item>
         <item>Etiopia</item>
         <item>Algeria</item>
@@ -64,13 +64,12 @@
         <item>Guinea</item>
         <item>Senegal</item>
         <item>Tanzania</item>
-        <item>Repubblica di Djibouti</item>
+        <item>Djibouti</item>
         <item>Sierra Leone</item>
         <item>Botswana</item>
         <item>Zimbabwe</item>
         <item>Sud Africa</item>
         <item>Uganda</item>
-        <item>Repubblica del Sudan</item>
         <item>Rwanda</item>
         <item>Repubblica Democratica del Congo</item>
         <item>Nigeria</item>
@@ -83,7 +82,6 @@
         <item>Tunisia</item>
         <item>Stati Uniti</item>
         <item>Argentina</item>
-        <item>Aruba</item>
         <item>Paraguay</item>
         <item>Barbados</item>
         <item>Belize</item>
@@ -102,7 +100,6 @@
         <item>Canada</item>
         <item>El Salvador</item>
         <item>Brasile</item>
-        <item>Isole Turks e Caicos</item>
         <item>Granada</item>
         <item>Guatemala</item>
         <item>Guyana</item>
@@ -118,17 +115,17 @@
         <item>Stati Uniti</item>
         <item>Jamaica</item>
         <item>Bolivia</item>
-        <item>"Peru'"</item>
+        <item>Peru</item>
         <item>Stati Uniti</item>
         <item>Stati Uniti</item>
         <item>Nicaragua</item>
-        <item>Martinica</item>
+        <item>Martinique</item>
         <item>Stati Uniti</item>
         <item>Messico</item>
         <item>Stati Uniti</item>
         <item>Uruguay</item>
         <item>Canada</item>
-        <item>Bahamas</item>
+        <item>Le Bahamas</item>
         <item>Stati Uniti</item>
         <item>Stati Uniti</item>
         <item>Stati Uniti</item>
@@ -137,21 +134,18 @@
         <item>Stati Uniti</item>
         <item>Trinidad e Tobago</item>
         <item>Haiti</item>
-        <item>Porto Rico</item>
-        <item>Repubblica Dominicana</item>
         <item>Brasile</item>
         <item>Canada</item>
         <item>Saint Kitts e Nevis</item>
-        <item>Saint Lucia</item>
-        <item>Isole Vergini degli Stati Uniti</item>
+        <item>Santa Lucia</item>
+        <item>Isole Vergini U.S.</item>
         <item>Messico</item>
         <item>Canada</item>
         <item>Canada</item>
         <item>Canada</item>
-        <item>Antartide</item>
         <item>Svalbard e Jan Mayen</item>
         <item>Kazakhstan</item>
-        <item>Giordania</item>
+        <item>Jordan</item>
         <item>Russia</item>
         <item>Kazakhstan</item>
         <item>Iraq</item>
@@ -163,18 +157,18 @@
         <item>Syria</item>
         <item>Bangladesh</item>
         <item>Emirati Arabi Uniti</item>
-        <item>Stato della Palestine</item>
-        <item>Stato della Palestina</item>
+        <item>Palestina</item>
+        <item>Palestina</item>
         <item>Vietnam</item>
         <item>Cina</item>
         <item>Indonesia</item>
-        <item>Israele</item>
+        <item></item>
         <item>Afghanistan</item>
         <item>Pakistan</item>
         <item>Nepal</item>
-        <item>Malesia</item>
+        <item>Malaysia</item>
         <item>Kuwait</item>
-        <item>Cina</item>
+        <item>China</item>
         <item>Filippine</item>
         <item>Oman</item>
         <item>Cambogia</item>
@@ -182,7 +176,6 @@
         <item>Qatar</item>
         <item>Myanmar</item>
         <item>Arabia Saudita</item>
-        <item>Cina</item>
         <item>Sud Corea</item>
         <item>Cina</item>
         <item>Singapore</item>
@@ -208,14 +201,14 @@
         <item>Canada</item>
         <item>Canada</item>
         <item>Canada</item>
-        <item>Chile</item>
-        <item>Olanda</item>
+        <item>Cile</item>
+        <item>Paesi Bassi</item>
         <item>Andorra</item>
         <item>Grecia</item>
         <item>Regno Unito</item>
         <item>Serbia</item>
         <item>Germania</item>
-        <item>Slovakia</item>
+        <item>Slovacchia</item>
         <item>Belgio</item>
         <item>Romania</item>
         <item>Ungheria</item>
@@ -224,29 +217,29 @@
         <item>Irlanda</item>
         <item>Gibilterra</item>
         <item>Finlandia</item>
-        <item>Isola di Man</item>
-        <item>Turkia</item>
+        <item>Isola of Man</item>
+        <item>Turchia</item>
         <item>Portogallo</item>
         <item>Regno Unito</item>
         <item>Lussemburgo</item>
         <item>Spagna</item>
         <item>Malta</item>
-        <item>Belarus</item>
+        <item>Bielorussia</item>
         <item>Monaco</item>
         <item>Russia</item>
-        <item>Norvegia</item>
+        <item>Norway</item>
         <item>Francia</item>
         <item>Repubblica Ceca</item>
         <item>Lettonia</item>
         <item>Italia</item>
-        <item>San Marino</item>
+        <item></item>
         <item>Bosnia e Herzegovina</item>
-        <item>Ucraina</item>
+        <item></item>
         <item>Macedonia</item>
         <item>Bulgaria</item>
         <item>Svezia</item>
         <item>Estonia</item>
-        <item>Città del Vaticano</item>
+        <item></item>
         <item>Austria</item>
         <item>Lituania</item>
         <item>Polonia</item>
@@ -259,11 +252,8 @@
         <item>Fiji</item>
         <item>Guam</item>
         <item>Stati Uniti</item>
-        <item>Australia</item>
         <item>Nuova Caledonia</item>
-        <item>Samoa</item>
-        <item>Polynesia Francese</item>
-        <item>Antigua e Barbuda</item>
+        <item>Polinesia Francese</item>
         <item>Stati Uniti</item>
         <item>Stati Uniti</item>
         <item>Canada</item>
@@ -337,7 +327,7 @@
         <item>Sri Lanka</item>
         <item>Messico</item>
         <item>India</item>
-        <item>Regno Unito</item>
+        <item>United Kingdom</item>
         <item>Ucraina</item>
         <item>Russia</item>
         <item>Polonia</item>
