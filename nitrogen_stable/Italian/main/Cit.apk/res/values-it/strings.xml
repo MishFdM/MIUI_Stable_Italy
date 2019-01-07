@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="FpTest">Esecuzione Test FP</string>
      <string name="FpTest_result">Risultato Test FP:</string>
@@ -131,7 +130,7 @@ Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'alto
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore."</string>
      <string name="cit_audio_loopback_check_summary_second">"Test feedback da microfono secondario all'altoparlante.
 
-Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
+Avvicina il dispositivo al volto e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
      <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
      <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
      <string name="cit_audio_loopback_next">Successivo</string>
@@ -264,7 +263,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_hall_miui_test_summary">When a magnet is close to the green area, the black screen, otherwise the screen is bright screen.</string>
      <string name="cit_hall_near">vicino</string>
      <string name="cit_hall_test_summary">"Quando un magnete si troverà nell'area verde, il testo dovrebbe avvicinarsi, in alternativa dovrebbe apparire lontano."</string>
-     <string name="cit_hall_test_title">Sala</string>
+     <string name="cit_hall_test_title">Magnetico</string>
      <string name="cit_hd_full">Cit Full Test</string>
      <string name="cit_hd_partial">Cit Partial Test</string>
      <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti sulle cuffie (posizionati solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
@@ -480,8 +479,10 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_bluetooth_le_rx_num">num. pacchetti rx:</string>
      <string name="cit_tool_bluetooth_le_tx_4x">TX: BLE 4.x</string>
      <string name="cit_tool_bluetooth_le_tx_4x_channel">canale:</string>
+     <string name="cit_tool_bluetooth_le_tx_4x_payload">carico utile:</string>
      <string name="cit_tool_bluetooth_le_tx_50">TX: BLE 5.0</string>
      <string name="cit_tool_bluetooth_le_tx_50_channel">canale:</string>
+     <string name="cit_tool_bluetooth_le_tx_50_payload">carico utile:</string>
      <string name="cit_tool_bluetooth_le_tx_50_phy">PHY:</string>
      <string name="cit_tool_bluetooth_le_tx_ch0">Avvia la modalità di test Bluetooth LE 2.402GHz test freq. TX</string>
      <string name="cit_tool_bluetooth_le_tx_ch1">Avvia la modalità di test Bluetooth LE 2.404GHz test freq. TX</string>
