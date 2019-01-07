@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="add_alarm">Aggiungi</string>
      <string name="add_clock">Aggiungi Orologio</string>
      <string name="add_timezone_title">Aggiungi fuso orario</string>
-     <string name="alarm_alert_alert_silenced">Silenzia sveglia dopo %d minuti</string>
-     <string name="alarm_alert_snooze_set">Sospendi per %d minuti.</string>
+     <string name="alarm_alert_alert_silenced">Silenzia sveglia dopo %d minuti.</string>
+     <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
      <string name="alarm_ascending_mode_summary">"Il volume della sveglia aumenta progressivamente."</string>
      <string name="alarm_ascending_mode_title">Volume crescente</string>
      <string name="alarm_clock_more_setting">Impostazioni addizionali</string>
@@ -41,15 +40,15 @@
      <string name="content_desc_keep_screen">Pulsante \"Mantieni schermo attivo\"</string>
      <string name="control_set_alarm">Imposta sveglia</string>
      <string name="control_set_alarm_with_existing">Sveglia impostata: %s</string>
-     <string name="day">1 giorno</string>
+     <string name="day">1 day</string>
      <string name="day_concat">". "</string>
-     <string name="days">%d giorni</string>
+     <string name="days">%d days</string>
      <string name="default_alarm_alert">Imposta suoneria sveglia predefinita</string>
      <string name="default_alarm_title">Suoneria predefinita</string>
      <string name="default_label">Sveglia</string>
      <string name="delete">Elimina</string>
      <string name="delete_alarm">Elimina sveglia</string>
-     <string name="delete_alarm_confirm">Questa sveglia sarà eliminata.</string>
+     <string name="delete_alarm_confirm">Delete selected alarm(s)?</string>
      <string name="delete_selected_timer_item">"Eliminare l'operazione selezionata?"</string>
      <string name="delete_timer_item_title">Elimina operazione</string>
      <string name="delete_timezone_title">Elimina fuso orario</string>
@@ -63,17 +62,19 @@
      <string name="edit_alarm">Modifica sveglia</string>
      <string name="edit_systemtime">"Modifica l'orario di sistema"</string>
      <string name="every_day">tutti i giorni</string>
+     <string name="expired_timers_dismissed">Timer chiuso</string>
      <string name="force_touch_add_alarm">Aggiungi sveglia</string>
      <string name="force_touch_enter_stopwatch">Cronom.</string>
      <string name="force_touch_enter_timer">Timer</string>
      <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
      <string name="go_back">Indietro</string>
-     <string name="hour">1 ora</string>
+     <string name="hour">1 hour</string>
      <string name="hour_unit">O</string>
-     <string name="hours">%d ore</string>
+     <string name="hours">%d hours</string>
      <string name="install_weather_app_error">"Impossibile caricare l'app"</string>
      <string name="install_weather_app_loading">Solo un secondo…</string>
      <string name="invalid_time">Orario non valido: %3$s %1$d: %2$d</string>
+     <string name="invalid_timer_length">Lunghezza timer non valida</string>
      <string name="keep_screen_on">Mantieni schermo attivo</string>
      <string name="label">Nome</string>
      <string name="label_pref_summary">Etichetta</string>
@@ -92,7 +93,7 @@
      <string name="life_post_setting_open_title">Ricevi rapporti del mattino</string>
      <string name="life_post_setting_wake_up_list_title">Cronologia risvegli</string>
      <string name="life_post_wake_up_acumu_day_title">Conteggio giorni</string>
-     <string name="life_post_wake_up_item_acumu_day">%1$s giorni</string>
+     <string name="life_post_wake_up_item_acumu_day">%1$s days</string>
      <string name="life_post_wake_up_item_acumu_day_title">Conteggio giorni</string>
      <string name="life_post_wake_up_item_percentage_title">Mi Fan dietro di te</string>
      <string name="life_post_wake_up_item_time_title">Orario di sveglia</string>
@@ -100,7 +101,7 @@
      <string name="life_post_wake_up_time_title">Orario di sveglia</string>
      <string name="life_post_weather_degree_invalid">--</string>
      <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
-     <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
+     <string name="life_post_weather_description_secondary">%1$s, %2$s, %3$s</string>
      <string name="life_post_weather_description_third">%1$s, %2$s</string>
      <string name="life_post_weather_invalid">Impossibile recuperare informazioni meteo, tocca per riprovare</string>
      <string name="life_post_weather_temperature_centigrade">°</string>
@@ -111,8 +112,8 @@
      <string name="menu_item_dock_settings">Impostazioni dock</string>
      <string name="menu_item_sort_by_gmt_offset">Ordina per data</string>
      <string name="menu_item_sort_by_name">Ordina per nome</string>
-     <string name="minute">1 minuto</string>
-     <string name="minutes">%d minuti</string>
+     <string name="minute">1 minute</string>
+     <string name="minutes">%d minutes</string>
      <string name="module_download_cancel">Non ora</string>
      <string name="module_download_data_msg">"Per rendere disponibili le sveglie intelligenti, i suoni della natura e le sveglie di compleanno, l'orologio dovrà connettersi ad Internet e accedere ai tuoi contatti. Dovrai anche scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio? ""</string>
      <string name="module_download_data_msg_golbal">"Per rendere disponibili le sveglie intelligenti ed i suoni della natura, l'orologio dovrà scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio?"</string>
@@ -130,7 +131,9 @@
      <string name="never">Mai</string>
      <string name="oneshot_alarm">Elimina dopo che ha suonato</string>
      <string name="open_keep_screen">La schermata sarà mantenuta attiva</string>
+     <string name="other_category_title">Altro</string>
      <string name="pause">Pausa</string>
+     <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="remind_ringtone">Suoneria</string>
      <string name="reset">Azzera</string>
      <string name="revert">Ripristina</string>
@@ -175,21 +178,28 @@
      <string name="timer_alarm_cancel_pad">Tocca per interrompere la suoneria</string>
      <string name="timer_alarm_dot_matrix_label">TIMER</string>
      <string name="timer_alert_alert_silenced">Timer interrotto dopo %d minuti.</string>
+     <string name="timer_alert_mute_off">La sveglia suonerà quando il timer si interromperà</string>
+     <string name="timer_alert_mute_on">La sveglia non suonerà quando il timer si interromperà</string>
+     <string name="timer_alert_mute_remind">Tocca per silenziare la sveglia</string>
+     <string name="timer_alert_mute_switch">"Premi l'interruttore per silenziare le sveglie"</string>
      <string name="timer_alert_type_beach">Spiaggia</string>
      <string name="timer_alert_type_forest">Foresta</string>
      <string name="timer_alert_type_mute">Predefinito</string>
      <string name="timer_alert_type_rain">Pioggerella</string>
      <string name="timer_alert_type_stove_fire">Fuoco di stufa</string>
      <string name="timer_alert_type_summer_night">Notte estiva</string>
+     <string name="timer_can_continue_in_timer">"Apri il timer per riprendere l'esecuzione"</string>
      <string name="timer_cancel_hint">Interrompi</string>
      <string name="timer_cancel_timer">Cancella timer</string>
      <string name="timer_clock_alert_text">Imposta timer</string>
      <string name="timer_continue">Continua</string>
      <string name="timer_continue_timer">Riprendi esecuzione timer</string>
+     <string name="timer_created">Timer impostato</string>
      <string name="timer_end_time">Il Timer si fermerà a %s</string>
      <string name="timer_end_time_format">HH:mm dd MMM</string>
      <string name="timer_end_time_format_today">HH:mm</string>
      <string name="timer_got_it">OK</string>
+     <string name="timer_is_paused">Il timer è stato messo in pausa</string>
      <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
      <string name="timer_item_label_hint">Etichetta</string>
      <string name="timer_item_picker_hour">Ora</string>
@@ -220,7 +230,7 @@
      <string name="worldclock_title">Orologio</string>
      <string name="worldclock_world_time">Fusi orari</string>
      <string name="worldcolock_timezone_current">Attuale: %1$s</string>
-     <string name="worldcolock_timezone_date">MMM dd</string>
+     <string name="worldcolock_timezone_date">dd MMM</string>
      <string name="worldcolock_timezone_gap">Ora</string>
      <string name="worldcolock_timezone_local">"Identico all'ora locale"</string>
 </resources>
