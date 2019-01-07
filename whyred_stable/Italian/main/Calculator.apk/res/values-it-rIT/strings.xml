@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="angle">grad</string>
      <string name="app_name">Calcolatrice</string>
@@ -177,6 +176,7 @@
      <string name="negDesc">Passa tra temperature sotto e sopra zero</string>
      <string name="network_confirm_content">Convertitore di valuta e Calcolatore mutuo devono accedere alla connessione internet per funzionare correttamente</string>
      <string name="network_confirm_title">Connessione di rete richiesta</string>
+     <string name="not_supported_due_to_language">Questa funzionalitá è disponibile solo per la lingua Cinese</string>
      <string name="percent" />
      <string name="percentDesc">percentuale</string>
      <string name="pi">π</string>
@@ -202,6 +202,8 @@
      <string name="preference_follow_wechat_title">WeChat</string>
      <string name="preference_follow_weibo_summary">\@MIUI</string>
      <string name="preference_follow_weibo_title">Sina Weibo</string>
+     <string name="preference_other">Altro</string>
+     <string name="preference_privacy_title">Informativa sulla Privacy</string>
      <string name="preference_settings">Impostazioni</string>
      <string name="preference_use_degress_summary">Sostituisci i radianti con gli angoli nelle funzioni trigonometriche</string>
      <string name="preference_use_degress_title">Utilizza angoli</string>
@@ -270,6 +272,8 @@
      <string name="tax_social_insurance">Assicurazione personale</string>
      <string name="tax_thershold_foreign">%s (straniero)</string>
      <string name="tax_thershold_native">%s (nativo)</string>
+     <string name="tax_thershold_native_new">%s (nuovo)</string>
+     <string name="tax_thershold_native_new_description">Le tasse saranno calcolate in base alla nuova legge fiscale in vigore a partire dal 1° Ottobre 2018</string>
      <string name="tax_threshold">Soglia tassa</string>
      <string name="tax_title_primary" />
      <string name="tax_title_secondary" />
