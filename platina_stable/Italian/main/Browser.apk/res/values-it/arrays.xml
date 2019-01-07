@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Pagina avanti indietro</item>
-        <item>Cambia scheda</item>
-        <item>Nessuno</item>
+        <item>Page back forward</item>
+        <item>Switch tabs</item>
+        <item>None</item>
      </string-array>
      <string-array name="pref_homepage_choices">
         <item>Predefinita</item>
@@ -35,6 +34,14 @@
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
+     </string-array>
+     <string-array name="readmode_theme_background_color">
+        <item>bianco</item>
+        <item>beige</item>
+        <item>marrone</item>
+        <item>verde</item>
+        <item>grigio</item>
+        <item>nero</item>
      </string-array>
      <string-array name="shortcut_dialog_delete">
         <item>Cancella</item>

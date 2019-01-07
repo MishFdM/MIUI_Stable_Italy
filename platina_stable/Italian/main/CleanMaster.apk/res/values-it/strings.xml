@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_title_ad">Pubblicità</string>
      <string name="activity_title_apk">Pacchetti</string>
@@ -34,6 +33,10 @@
      <string name="apk_status_installed_old">Vecchia versione</string>
      <string name="apk_status_uninstalled">Non installata</string>
      <string name="apk_title_alipay_plugin">Plugin Alipay</string>
+     <string name="app_clean_group_document_recv">File ricevuti</string>
+     <string name="app_clean_group_document_send">File inviati</string>
+     <string name="app_clean_group_image_recv">Immagini ricevute</string>
+     <string name="app_clean_group_image_send">Immagini inviate</string>
      <string name="app_description_content">"L'app Pulizia trova ed elimina i file inutili per liberare spazio. Assicurati di poter fare a meno di queste funzionalità prima di eliminare l'app."</string>
      <string name="app_description_title">Informazioni</string>
      <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
@@ -42,21 +45,12 @@
      <string name="apps_sort_type_item_size">Dimensione</string>
      <string name="apps_sort_type_item_time">"Frequenza d'uso"</string>
      <string name="apps_sort_type_title">Ordina</string>
-     <string name="auto_clean_notification_content">Cleaned up %s of trash</string>
-     <string name="auto_clean_notification_title">Remind to clean</string>
-     <string name="auto_clean_operation_clean_and_alert">Remind and clean up</string>
-     <string name="auto_clean_operation_dialog_title">Clean up method</string>
-     <string name="auto_clean_operation_just_clean">Only clean up</string>
      <string name="auto_clean_switch_off">Disattivato</string>
      <string name="auto_clean_switch_on">Attivato</string>
      <string name="auto_clean_time_every_day">Ogni giorno</string>
      <string name="auto_clean_time_fifteen_day">Ogni 15 giorni</string>
      <string name="auto_clean_time_seven_day">Ogni 7 giorni</string>
      <string name="auto_clean_time_three_day">Ogni 3 giorni</string>
-     <string name="auto_clean_trigger_dialog_title">Clean up storage</string>
-     <string name="auto_clean_trigger_percent_eighty">When 80% is occupied</string>
-     <string name="auto_clean_trigger_percent_ninety">When 90% is occupied</string>
-     <string name="auto_clean_trigger_percent_sixty">When 60% is occupied</string>
      <string name="auto_cleaner_open">Attiva</string>
      <string name="back">Indietro</string>
      <string name="browser_scan_history_desc">Cronologia browser</string>
@@ -113,6 +107,7 @@
      <string name="cd_list_item_collapse">chiuso</string>
      <string name="cd_list_item_expanded">aperto</string>
      <string name="cd_percent">percentuale</string>
+     <string name="cd_scanning">scansione</string>
      <string name="cd_settings">impostazioni</string>
      <string name="cd_sort_type">tipo di ordinamento</string>
      <string name="clean_content_all">Tutto</string>
@@ -120,6 +115,7 @@
      <string name="clean_content_three">3 file</string>
      <string name="clean_content_two">2 file</string>
      <string name="clean_content_zero">Non pulire niente</string>
+     <string name="clean_summary">%1$s file puliti</string>
      <string name="clear_bigfiles">Elimina file di grosse dimensioni, foto duplicate ed altri file inutili</string>
      <string name="clear_immediately">Ottimizza adesso</string>
      <string name="clear_safe_notify">Barra per le notifiche di sicurezza</string>
@@ -206,6 +202,15 @@
      <string name="engine_cm">Clean Master</string>
      <string name="engine_init">Inizializzazione...</string>
      <string name="engine_tm">Tencent</string>
+     <string name="facebook_clean_exit_confirm_cancel">Continua</string>
+     <string name="facebook_clean_exit_confirm_msg">La scansione di Facebook non é stata completata. Interrompere comunque?</string>
+     <string name="facebook_clean_exit_confirm_ok">Interrompi</string>
+     <string name="facebook_clean_exit_confirm_title">Interrompere la scansione?</string>
+     <string name="facebook_cleaner">Pulitore Facebook</string>
+     <string name="facebook_group_cache">File in cache</string>
+     <string name="facebook_group_gif">GIF</string>
+     <string name="facebook_group_image">Immagini</string>
+     <string name="facebook_group_video">Video</string>
      <string name="file">File</string>
      <string name="file_not_found">File non trovato</string>
      <string name="flow_rank_title">Utilizzo dati</string>
@@ -309,6 +314,8 @@
      <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
      <string name="megabyteShort">MB</string>
      <string name="memeory_check_content">%1$d app, memoria %2$s</string>
+     <string name="memory_clean_icon_text">Pulisci la memoria</string>
+     <string name="memory_clean_no_trash_tip">Sembra tutto OK</string>
      <string name="menu_add_to_white_list">Aggiungi alle eccezioni</string>
      <string name="menu_clear">Cancella</string>
      <string name="menu_install">"Installa con quest'app"</string>
@@ -334,6 +341,12 @@
      <string name="notification_title_of_garbage_cleanup">%s di file da eliminare</string>
      <string name="notify_when">Ricevi una notifica quando il cestino raggiunge 100 MB</string>
      <string name="ok">OK</string>
+     <string name="onekeyclean_boost_available">%s disponibile</string>
+     <string name="onekeyclean_boost_cleaned">%s eliminati</string>
+     <string name="onekeyclean_boosted_title">Eliminati correttamente</string>
+     <string name="onekeyclean_boosting_title">Aumento velocità</string>
+     <string name="onekeyclean_card_btn">Elimina adesso</string>
+     <string name="onekeyclean_card_summery">Elimina file inutili per liberare spazio</string>
      <string name="open">Attiva</string>
      <string name="open_app">Apri</string>
      <string name="open_browser">Apri nel browser</string>
@@ -344,7 +357,7 @@
      <string name="petabyteShort">PB</string>
      <string name="phone_search">Ricerca Google</string>
      <string name="positive_confirm">OK</string>
-     <string name="pref_category_title_auto_clean_config_settings">Automatic cleanups</string>
+     <string name="pref_about_privacy_title">Informativa sulla Privacy</string>
      <string name="pref_category_title_auto_clean_settings">Ottimizza automaticamente</string>
      <string name="pref_category_title_auto_update_cleanup_db">Impostazioni database ottimizzazione</string>
      <string name="pref_category_title_cleanup_white_list">Lista eccezioni</string>
@@ -362,14 +375,12 @@
      <string name="pref_summary_garbage_process_mode">Imposta notifiche per la pulizia</string>
      <string name="pref_summary_open_optimizer_cloud_scan">Carica e confronta il nome dei file sconosciuti con il database online</string>
      <string name="pref_title_apps_cleanup_size">Quando la cache raggiunge</string>
-     <string name="pref_title_auto_clean">Clean up automatically</string>
      <string name="pref_title_auto_clean_content_choose">Seleziona elementi da ottimizzare</string>
-     <string name="pref_title_auto_clean_operation">Clean up method</string>
-     <string name="pref_title_auto_clean_trigger">Clean up storage</string>
      <string name="pref_title_auto_update_cleanup_db">Aggiornamento automatico</string>
      <string name="pref_title_choose_engine">Definizioni</string>
      <string name="pref_title_clean_alert">Ottimizza automaticamente</string>
      <string name="pref_title_cleanup_white_list">Lista eccezioni</string>
+     <string name="pref_title_create_onekeyclean_shortcut">Mostra collegamento Home</string>
      <string name="pref_title_expand_cache_group">Espandi i gruppi della cache</string>
      <string name="pref_title_garbage_cleanup_check_size">Dimensione per allarme cestino</string>
      <string name="pref_title_garbage_cleanup_check_time">Controlla cestino</string>
@@ -493,6 +504,8 @@
      <string name="toast_select_white_need_remove">Seleziona gli elementi da rimuovere</string>
      <string name="toast_selecte_group_restore_succeed">Immagini ripristinate</string>
      <string name="toast_uninstall_success">Disinstallazione completata</string>
+     <string name="toast_updater_close_4g_text">Le app non verranno aggiornate utilizzando i dati mobili (4G)</string>
+     <string name="toast_updater_open_4g_text">Le app verranno aggiornate utilizzando i dati mobili (4G)</string>
      <string name="total_clean">Puliti in totale: %s</string>
      <string name="total_clean_text">Pulisci</string>
      <string name="unlike">No, grazie</string>
@@ -558,10 +571,6 @@
      <string name="whatsapp_group_voice">Voce</string>
      <string name="whatsapp_group_wallpaper">Sfondi</string>
      <string name="whatsapp_title">Pulizia WhatsApp</string>
-     <string name="whatsapp_type_document_recv">Received files</string>
-     <string name="whatsapp_type_document_send">Sent files</string>
-     <string name="whatsapp_type_image_recv">Received images</string>
-     <string name="whatsapp_type_image_send">Sent images</string>
      <string name="white_list_ad_header">File Obsoleti: %d</string>
      <string name="white_list_apk_header">Pacchetti di installazione: %d</string>
      <string name="white_list_cache_header">File nella cache: %d</string>
