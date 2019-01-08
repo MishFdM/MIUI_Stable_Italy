@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Navigate home</string>
      <string name="abc_action_bar_up_description">Navigate up</string>
@@ -282,12 +281,12 @@ Sample Rate"</string>
      <string name="pointer_location">Pointer location</string>
      <string name="pointer_location_summary">Screen overlay showing current touch data</string>
      <string name="power_charging">%1$s - %2$s</string>
-     <string name="power_charging_duration">^1 - ^2 until full</string>
+     <string name="power_charging_duration">^1 - ^2 until fully charged </string>
      <string name="power_discharging_duration">^1 - about ^2 left</string>
      <string name="power_discharging_duration_enhanced">^1 - about ^2 left based on your usage</string>
      <string name="power_discharging_duration_short">^1 - ^2 left</string>
      <string name="power_remaining_charging_duration_only">^1 left until fully charged</string>
-     <string name="power_remaining_duration_only">About ^1 left </string>
+     <string name="power_remaining_duration_only">About ^1 left</string>
      <string name="power_remaining_duration_only_enhanced">About ^1 left based on your usage</string>
      <string name="power_remaining_duration_only_short">^1 left</string>
      <string name="power_remaining_duration_only_short_enhanced">^1 left based on your usage</string>

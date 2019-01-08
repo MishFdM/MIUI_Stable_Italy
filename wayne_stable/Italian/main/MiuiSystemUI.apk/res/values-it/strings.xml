@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="China_Mobile">Cina Mobile</string>
      <string name="China_Mobile_HD">Cina Mobile (HD)</string>
@@ -101,12 +100,16 @@
      <string name="accessibility_enter_lock_wallpaper">Tocca per aprire lo sfondo Carousel</string>
      <string name="accessibility_ethernet_connected">LAN connesso.</string>
      <string name="accessibility_ethernet_disconnected">LAN disconnesso.</string>
+     <string name="accessibility_fingerprint_dialog_app_icon">Icona applicazione</string>
+     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Icona impronta</string>
+     <string name="accessibility_fingerprint_dialog_help_area">Area messaggio di aiuto</string>
      <string name="accessibility_gps_acquiring">GPS acquisito.</string>
      <string name="accessibility_gps_enabled">GPS attivato.</string>
      <string name="accessibility_home">Home</string>
      <string name="accessibility_ime_switch_button">Cambia pulsante tastiera.</string>
      <string name="accessibility_key">Pulsante di navigazione personalizzato</string>
-     <string name="accessibility_left_button">Shortcut</string>
+     <string name="accessibility_left_control_center_button">Collegamento</string>
+     <string name="accessibility_left_lock_screen_magazine_button">Carousel Sfondi</string>
      <string name="accessibility_location_active">Richieste posizione attivate</string>
      <string name="accessibility_managed_profile">Profilo di lavoro</string>
      <string name="accessibility_menu">Menù</string>
@@ -291,6 +294,7 @@
      <string name="available_via_passpoint">Disponibile tramite %1$s</string>
      <string name="back">Indietro</string>
      <string name="battery">Batteria</string>
+     <string name="battery_can_use_time">Rimasto approssimativamente %s</string>
      <string name="battery_detail_charging_summary">Il risparmio della batteria non è disponibile durante la ricarica</string>
      <string name="battery_detail_switch_summary">Riduci prestazioni e dati in background</string>
      <string name="battery_detail_switch_title">Risparmio batteria</string>
@@ -395,7 +399,7 @@ Frequenza Campione"</string>
      <string name="bt_hci_snoop_log">Attiva Bluetooth HCI snoop log</string>
      <string name="bt_hci_snoop_log_summary">Cattura tutti i pacchetti Bluetooth HCI in un file</string>
      <string name="bt_is_off">Bluetooth disattivato</string>
-     <string name="btn_camera">Inserisci il tuo viso</string>
+     <string name="btn_camera">Inserisci il tuo volto</string>
      <string name="bugreport_in_power">Collegamento segnalazione bug</string>
      <string name="bugreport_in_power_summary">Mostra il pulsante per generare una segnalazione bug nel power menù</string>
      <string name="button_convert_fbe">Pulisci e converti…</string>
@@ -433,6 +437,7 @@ Frequenza Campione"</string>
      <string name="clock">Orologio</string>
      <string name="clock_12hr_format">hm</string>
      <string name="clock_24hr_format">Hm</string>
+     <string name="clock_city_name_local">Località</string>
      <string name="clock_seconds">Mostra secondi orologio</string>
      <string name="clock_seconds_desc">"Mostra i secondi dell'orologio nella barra di stato. Può influire sulla durata della batteria."</string>
      <string name="compat_mode_off">Allunga per riempire lo schermo</string>
@@ -528,10 +533,17 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="divider_menu_close">Chiudi</string>
      <string name="divider_menu_select_apps">Seleziona</string>
      <string name="divider_menu_swap_task">Cambia</string>
+     <string name="dlg_cancel">Annulla</string>
+     <string name="dlg_confirm">Attiva</string>
      <string name="dlg_confirm_kill_storage_users_text">"Se attivi l'archivio USB alcune applicazioni potrebbero bloccarsi finché non lo disattivi."</string>
      <string name="dlg_confirm_kill_storage_users_title">Attiva archivio USB</string>
      <string name="dlg_error_title">Operazione USB fallita</string>
      <string name="dlg_ok">OK</string>
+     <string name="dlg_summary_close_app">Limita attività in background e notifiche</string>
+     <string name="dlg_summary_close_theme">Limita temi animati</string>
+     <string name="dlg_summary_close_wifi">Disattiva Wi-Fi, Bluetooth, e hotspot portatile</string>
+     <string name="dlg_summary_nfc">Disattiva NFC</string>
+     <string name="dlg_summary_title">"Il risparmio energetico estremo interromperà tutte le attività in background dopo aver chiuso un'app per tornare alla schermata Home. Se desideri eseguire un'app in background, aggiungila alle eccezioni di esecuzione in background."</string>
      <string name="dnd_is_off">Modalità DND disattivata</string>
      <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione</string>
      <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s</string>
@@ -540,22 +552,26 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="dock_forced_resizable">Questa applicazione potrebbe non funzionare in modalità schermo diviso.</string>
      <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard non supporta il multi finestra, esci dalla modalità multi finestra.</string>
      <string name="dock_non_resizeble_failed_to_dock_text">Questa applicazione non supporta la modalità schermo diviso.</string>
+     <string name="download_lock_wallpaper">Esegui un doppio tocco per scaricare Sfondi Carousel</string>
      <string name="doze_brightness_sensor_type" />
      <string name="doze_pickup_subtype_performs_proximity_check" />
      <string name="drag_to_add_tiles">Trascina per aggiungere delle funzioni</string>
      <string name="drag_to_remove_tiles">Trascina qui per rimuoverle</string>
      <string name="drive_mode_tip">Modalità Auto - Guida con prudenza</string>
      <string name="drive_mode_tip_idle">Tocca per uscire dalla modalità Auto</string>
-     <string name="drive_mode_tip_idle_notch">Tocca per uscire dall modalità Auto</string>
+     <string name="drive_mode_tip_idle_notch">Tocca per uscire dalla modalità Auto</string>
      <string name="drive_mode_tip_notch">Modalità Auto attivata</string>
      <string name="emergency_call_string">Emergenza</string>
      <string name="empty_shade_text">Nessuna notifica</string>
      <string name="enable_adb">Debug USB</string>
      <string name="enable_adb_summary">Abilita modalità debug quando il collegamento USB é attivo</string>
+     <string name="enable_atrace">Attiva ATrace</string>
+     <string name="enable_atrace_summary">Acquisisci gli eventi kernel utilizzando ATrace</string>
      <string name="enable_bluetooth_confirmation_ok">Attiva</string>
      <string name="enable_bluetooth_message">Per collegare la tastiera al tablet, attiva prima il Bluetooth.</string>
      <string name="enable_bluetooth_title">Attivare Bluetooth?</string>
      <string name="enable_demo_mode">Attiva modalità demo</string>
+     <string name="enable_extreme_power_save_mode">Risparmio energetico estremo</string>
      <string name="enable_freeform_support">Abilita finestre a forma libera</string>
      <string name="enable_freeform_support_summary">Abilita supporto sperimentale per finestre a forma libera.</string>
      <string name="enable_opengl_traces_title">Abilita tracce OpenGL</string>
@@ -595,38 +611,39 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_data_input_msg">"Piazza il tuo volto all'interno della cornice"</string>
      <string name="face_data_input_ok">Fatto</string>
      <string name="face_data_input_ok_msg">Ora puoi eseguire sblocchi con il volto.</string>
-     <string name="face_data_input_ok_msg_angle">"Sblocca il dispositivo con il tuo viso quando lo schermo è acceso.
-(Registra i dati del tuo viso inclusi gli angoli richiesti.)"</string>
+     <string name="face_data_input_ok_msg_angle">"Sblocca il dispositivo con il tuo volto quando lo schermo è acceso.
+(Registra i dati del tuo volto inclusi gli angoli richiesti.)"</string>
      <string name="face_data_input_ok_title">Aggiunta riuscita</string>
      <string name="face_data_input_structure_title">Dati volto 3D</string>
      <string name="face_data_input_title">Aggiungi dati volto</string>
-     <string name="face_data_introduction_msg">I dati del viso possono essere utilizzati per sbloccare il dispositivo o verificare la tua identità. Aggiungi la password della schermata di blocco prima di aggiungere i dati del tuo viso.</string>
+     <string name="face_data_introduction_msg">I dati del volto possono essere utilizzati per sbloccare il dispositivo o verificare la tua identità. Aggiungi la password della schermata di blocco prima di aggiungere i dati del tuo volto.</string>
      <string name="face_data_introduction_next">Prossimo</string>
      <string name="face_data_introduction_title">Riconoscimento del volto</string>
      <string name="face_data_manage_delete">Eliminare dati del volto?</string>
      <string name="face_data_manage_delete_msg">Elimina dati del volto</string>
-     <string name="face_data_manage_delete_sure">Non potrai sbloccare il dispositivo utilizzando i dati del tuo viso dopo averlo eliminati.</string>
+     <string name="face_data_manage_delete_sure">Non potrai sbloccare il dispositivo utilizzando i dati del tuo volto dopo averlo eliminati.</string>
      <string name="face_data_manage_delete_title">Dati volto</string>
-     <string name="face_data_manage_unlock_msg">Sblocca il dispositivo usando i dati del tuo viso</string>
+     <string name="face_data_manage_unlock_msg">Sblocca il dispositivo usando i dati del tuo volto</string>
+     <string name="face_data_manage_unlock_slide_msg">Sostituisci i collegamenti dello slider con lo sblocco con il volto</string>
      <string name="face_data_manage_unlock_title">Sblocca utilizzando i dati del volto</string>
      <string name="face_data_siggesstion_next">Prossimo</string>
      <string name="face_data_siggesstion_next_time">Prossimo (%ds)</string>
      <string name="face_data_suggesstion_first">Problema di sicurezza: Lo sblocco con il volto è meno sicuro di un PIN, una password o una sequenza. Il tuo dispositivo potrebbe essere sbloccato con la tua foto, così come da persone o oggetti con aspetto simile.</string>
-     <string name="face_data_suggesstion_second">"Assicurati che tutte le parti del tuo viso non siano coperte da oggetti e siano chiaramente visibili. Anche il tuo volto dovrebbe essere ben illuminato."</string>
-     <string name="face_unlock_adjust_distance">Assicurati che la distanza tra il tuo viso e lo schermo sia ottimale.</string>
+     <string name="face_data_suggesstion_second">"Assicurati che tutte le parti del tuo volto non siano coperte da oggetti e siano chiaramente visibili. Anche il tuo volto dovrebbe essere ben illuminato."</string>
+     <string name="face_unlock_adjust_distance">Assicurati che la distanza tra il tuo volto e lo schermo sia ottimale.</string>
      <string name="face_unlock_be_on_the_screen">Tieni il fermo il dispositivo davanti al tuo volto</string>
-     <string name="face_unlock_by_notification_screen_on_msg">"È possibile sbloccare il dispositivo utilizzando i dati del viso ogni volta che lo schermo si illumina dopo l'arrivo di una notifica. Questo potrebbe velocizzare lo scaricamento della batteria."</string>
-     <string name="face_unlock_by_notification_screen_on_title">Consenti sblocco con il viso quando lo schermo si illumina</string>
+     <string name="face_unlock_by_notification_screen_on_msg">"È possibile sbloccare il dispositivo utilizzando i dati del volto ogni volta che lo schermo si illumina dopo l'arrivo di una notifica. Questo potrebbe velocizzare lo scaricamento della batteria."</string>
+     <string name="face_unlock_by_notification_screen_on_title">Consenti sblocco con il volto quando lo schermo si illumina</string>
      <string name="face_unlock_check_failed">Impossibile riconoscerti</string>
      <string name="face_unlock_close_screen">Mantieniti in prossimità dello schermo</string>
      <string name="face_unlock_down">Alza la testa</string>
      <string name="face_unlock_identify_error">Si è verificato un errore di riconoscimento</string>
      <string name="face_unlock_not_found">Impossibile riconoscerti</string>
-     <string name="face_unlock_offset_bottom">"Abbassa un po' il dispositivo"</string>
+     <string name="face_unlock_offset_bottom">"Abbassa un po\' il dispositivo"</string>
      <string name="face_unlock_offset_left">Muoviti verso destra</string>
      <string name="face_unlock_offset_right">Muoviti verso sinistra</string>
-     <string name="face_unlock_offset_top">"Alza un  po' il dispositivo"</string>
-     <string name="face_unlock_open_eye">"Apri un po' di più gli occhi"</string>
+     <string name="face_unlock_offset_top">"Alza un  po\' il dispositivo"</string>
+     <string name="face_unlock_open_eye">"Apri un po\' di più gli occhi"</string>
      <string name="face_unlock_passwork">Utilizza password</string>
      <string name="face_unlock_passwork_and_fingerprint">Utilizza password o dati volto</string>
      <string name="face_unlock_quality">Impossibile visualizzare chiaramente il tuo volto</string>
@@ -637,11 +654,13 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_unlock_rise">Abbassa la tua testa</string>
      <string name="face_unlock_rotated_left">Muovi la tua testa verso destra</string>
      <string name="face_unlock_rotated_right">Muovi la tua testa verso sinistra</string>
+     <string name="face_unlock_sc_status">Sposta la schermata verso il basso per aprire la camera</string>
      <string name="face_unlock_stay_away_screen">Stai almeno 25/40cm lontano dallo schermo</string>
      <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni per %1$s</string>
      <string name="fingerprint_add_text">"L'interfaccia dell'impronta è stata aggiornata. Aggiungi nuovamente l'impronta."</string>
      <string name="fingerprint_add_title">Aggiungi impronta</string>
      <string name="fingerprint_again_identified_msg">La tua impronta è ora attiva. Utilizzala per sbloccare il dispositivo o inserire la password.</string>
+     <string name="fingerprint_dialog_touch_sensor">Tocca il sensore di impronte</string>
      <string name="fingerprint_enter_second_psw_msg">Immettere la password del Secondo Spazio dopo il riavvio del dispositivo, per poter utilizzare il riconoscimento delle impronte</string>
      <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile entrare nel Secondo Spazio durante l'utilizzo della Modalità Lite"</string>
      <string name="fingerprint_enter_second_psw_title">Immetti password Secondo Spazio</string>
@@ -732,7 +751,6 @@ Una volta raffreddato, funzionerà normalmente."</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossibile passare fra gli spazi quando il controllo parentale è attivo</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Bisogna riavviare il dispositivo prima di poter inserire il Primo Spazio</string>
-     <string name="input_password_handle_sdcard_fs">"Can't enter Second space from Lock screen. Enter from First space."</string>
      <string name="input_password_hint_text">Inserisci password</string>
      <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
      <string name="input_pin_code">Inserisci PIN</string>
@@ -810,6 +828,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
      <string name="keyguard_carrier_default">Nessun servizio</string>
      <string name="keyguard_charged">Carico</string>
+     <string name="keyguard_charging_back_to_lockscreen">Torna alla schermata di blocco</string>
      <string name="keyguard_charging_info_battery_used_time_text">Su batteria</string>
      <string name="keyguard_charging_info_click_to_detail">Mostra dettagli</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Esaurita</string>
@@ -831,6 +850,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="keyguard_left_mi_wallet">Mi Wallet</string>
      <string name="keyguard_left_remotecentral">Mi Remote</string>
      <string name="keyguard_left_smarthome">Mi Home</string>
+     <string name="keyguard_left_torch">Torcia</string>
      <string name="keyguard_left_view_lock_wallpaper">Sfondi Carousel</string>
      <string name="keyguard_low_battery">Collega il tuo caricabatteria.</string>
      <string name="keyguard_missing_sim_instructions">Inserisci una SIM.</string>
@@ -928,12 +948,15 @@ Riprova tra %2$d secondi."</string>
      <string name="local_backup_password_toast_confirmation_mismatch">La nuova password e la relativa conferma non corrispondono</string>
      <string name="local_backup_password_toast_success">Imposta nuova password di backup</string>
      <string name="local_backup_password_toast_validation_failure">Impostazione password di backup fallita</string>
+     <string name="lock_screen_carrier_airplane_mode_on">Modalità aereo</string>
      <string name="lock_screen_date">EEEE, d MMMM</string>
      <string name="lock_screen_date_12">EEEE, d MMMM</string>
+     <string name="lock_screen_magazine_default_content">Immagini nuove tutti i giorni</string>
+     <string name="lock_screen_magazine_default_title">Carousel Sfondi</string>
+     <string name="lock_screen_magazine_global_button_text">more</string>
      <string name="lock_screen_no_sim_card_emergency_only">Solo chiamata di emergenza</string>
      <string name="lock_screen_no_sim_card_no_service">Nessun servizio</string>
      <string name="lock_wallpaper_enter">Inserisci</string>
-     <string name="lock_wallpaper_learn_more">Altro</string>
      <string name="lockscreen_access_pattern_area">Area sequenza</string>
      <string name="lockscreen_access_pattern_cell_added">Aggiunta cella</string>
      <string name="lockscreen_access_pattern_cell_added_verbose">Cella %1$s aggiunta</string>
@@ -989,6 +1012,7 @@ Riprova tra %2$d secondi."</string>
      <string name="miui_ringer_standard_description">Silenzia le suonerie per le chiamate in arrivo e le notifiche</string>
      <string name="miui_ringer_total">NON DIST.</string>
      <string name="miui_ringer_total_description">Silenzia i suoni e disattiva la vibrazione per tutti gli elementi tranne le sveglie</string>
+     <string name="miui_screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
      <string name="miui_toast_zen_dnd_to_off">Suoni e vibrazione ripristinati alla normalità</string>
      <string name="miui_toast_zen_standard_to_off">Suonerie ripristinate alla normalità</string>
      <string name="miui_toast_zen_standard_to_off_when_shield_media">Le suonerie, così come suoni di notifica e multimediali, verranno riprodotti.</string>
@@ -1069,6 +1093,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="no_tiles_add">Nessun elemento da aggiungere</string>
      <string name="no_weather_description">Recupero info meteo</string>
      <string name="not_support_multi_window">Questa applicazione non supporta la modalità a schermo diviso</string>
+     <string name="notch_sos_status_bar_title">SOS</string>
      <string name="notification_all_categories">Tutte le categorie</string>
      <string name="notification_app_settings">Personalizza: %1$s</string>
      <string name="notification_channel_alerts">Avvisi</string>
@@ -1133,6 +1158,8 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="oldman_airplane_mode_text">aereo</string>
      <string name="oldman_incall_text">in chiamata</string>
      <string name="open_camera_hint_text">Scorri a sinistra per avviare la Fotocamera</string>
+     <string name="open_extreme_power_save_mode_title">Attiva Risparmio energetico estremo</string>
+     <string name="open_lock_screen_magazine_hint_text">Scorri a destra per altre opzioni</string>
      <string name="open_remote_center_hint_text">Scorri a destra per avviare Mi Remote</string>
      <string name="other">Altro</string>
      <string name="overlay_display_devices_title">Simula schermi secondari</string>
@@ -1265,6 +1292,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_drivemode_label">Automobile</string>
      <string name="quick_settings_dual_location_label">GPS</string>
      <string name="quick_settings_edit_label">Modifica</string>
+     <string name="quick_settings_extreme_batterysaver_label">Risparmio energetico estremo</string>
      <string name="quick_settings_flashlight_label">Torcia</string>
      <string name="quick_settings_gps_label">GPS</string>
      <string name="quick_settings_hotspot_label">Hotspot</string>
@@ -1304,6 +1332,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_sync_label">Sincr.</string>
      <string name="quick_settings_tethering_label">Tethering</string>
      <string name="quick_settings_time_label">Tempo</string>
+     <string name="quick_settings_toast_drag_to_enable_custom_tile">Per aggiungere un elemento premi e tieni premuto, quindi trascinalo nella parte superiore del pannello.</string>
      <string name="quick_settings_user_label">Me</string>
      <string name="quick_settings_user_new_user">Nuovo utente</string>
      <string name="quick_settings_user_title">Utente</string>
@@ -1346,6 +1375,12 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="recents_multistack_add_stack_dialog_split_vertical">Divisione verticale</string>
      <string name="recents_search_bar_label">cerca</string>
      <string name="recents_stack_action_button_label">Cancella tutto</string>
+     <string name="recents_title_app_manager">Gestisci app</string>
+     <string name="recents_title_game">Giochi</string>
+     <string name="recents_title_garbage_cleanup">Pulizia</string>
+     <string name="recents_title_garbage_deepclean">Pulizia profonda</string>
+     <string name="recents_title_market">Trova app</string>
+     <string name="recents_title_security_scan">Scanner sicurezza</string>
      <string name="reject_call">Rifiuta la chiamata</string>
      <string name="remaining_length_format">%1$s rimanenti</string>
      <string name="remove_from_settings">Rimuovi dalle Impostazioni</string>
@@ -1430,7 +1465,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="show_hw_screen_updates">Mostra aggiornamenti GPU</string>
      <string name="show_hw_screen_updates_summary">Fai lampeggiare la visualizzazione interna alle finestre quando queste vengono disegnate tramite GPU</string>
      <string name="show_non_rect_clip">Debug operazioni di ritaglio non rettangolari</string>
-     <string name="show_notification_channel_warnings">Mostra avvisi canale notiifca</string>
+     <string name="show_notification_channel_warnings">Mostra avvisi canale notifica</string>
      <string name="show_notification_channel_warnings_summary">"Mostra avvisi a schermo quando un'app lascia una notifica senza un canale valido"</string>
      <string name="show_screen_updates">Mostra aggiornamenti superficie</string>
      <string name="show_screen_updates_summary">"Fai lampeggiare l'intera superficie della finestra quando essa si aggiorna"</string>
@@ -1444,6 +1479,8 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="snooze_option_30_min">30 minuti</string>
      <string name="snooze_undo">ANNULLA</string>
      <string name="snoozed_for_time">Silenziato per %1$s</string>
+     <string name="sos_status_bar_summary">clicca per uscire</string>
+     <string name="sos_status_bar_title">SOS</string>
      <string name="speed_bump_explanation">Notifiche meno urgenti in basso</string>
      <string name="ssl_ca_cert_warning">"La rete potrebbe
 essere monitorata"</string>
@@ -1456,6 +1493,8 @@ essere monitorata"</string>
      <string name="status_bar_clear_all_button">Pulisci</string>
      <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
+     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
+     <string name="status_bar_clock_date_time_format_12">aah:mm d MMMM</string>
      <string name="status_bar_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_date_format_12">EEEE, dd MMMM</string>
      <string name="status_bar_ethernet">LAN</string>
@@ -1534,8 +1573,10 @@ scorri in basso per bloccare"</string>
      <string name="structure_face_unlock_model_other_title">Riconoscimento del volto</string>
      <string name="structure_face_unlock_not_same_person">Dovrai completare tutti i passaggi da solo. Non sostituirti a nessuno durante la scansione.</string>
      <string name="structure_face_unlock_really_person">Sembra che tu abbia sostituito il tuo volto con un oggetto in fase di scansione.</string>
+     <string name="structure_face_unlock_tof_covered">"Impossibile aggiungere i dati del volto. Allontanati un pó dallo schermo."</string>
      <string name="switch_bar_off">Disattiva</string>
      <string name="switch_bar_on">Attiva</string>
+     <string name="switch_system_user">Apri Primo Spazio</string>
      <string name="symbol_colon">:</string>
      <string name="system_ui_tuner">Messa a punto UI di Sistema</string>
      <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>
@@ -1642,7 +1683,6 @@ Il tuo telefono potrebbe diventare troppo caldo se:
      <string name="usb_debugging_title">Consentire debug USB?</string>
      <string name="usb_device_confirm_prompt">Aprire %1$s quando questo dispositivo USB è collegato?</string>
      <string name="usb_device_permission_prompt">"Consentire all'applicazione %1$s di accedere al dispositivo USB?"</string>
-     <string name="usb_function_charging_text">Connected in charging mode</string>
      <string name="usb_mode_dont_ask">Non chiedere più</string>
      <string name="usb_mode_mount_storage_title">Apri archivio USB</string>
      <string name="usb_mode_notification">Archivio USB</string>
