@@ -32,6 +32,7 @@
      <string name="pkcs12_file_password_dialog_title">Estrazione da %s</string>
      <string name="pkcs12_password_dialog_title">Estrai certificato</string>
      <string name="sdcard_not_present">Archivio USB non disponibile.</string>
+     <string name="storage_error">"Couldn't save the certificate. Touch OK to retry."</string>
      <string name="unable_to_save_cert">"Impossibile salvare il certificato. L'archivio credenziali non è attivo o non è stato inizializzato correttamente."</string>
      <string name="wifi_cancel_label">Annulla</string>
      <string name="wifi_config_text">"Nome: %1$s

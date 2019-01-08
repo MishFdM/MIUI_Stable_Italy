@@ -43,7 +43,16 @@
      <string name="alipay_sdk_tiemout">Collegamento pagamento (nessuna app richiesta)</string>
      <string name="already">Completato:</string>
      <string name="app_label">Assistente</string>
+     <string name="app_setting">Impostazioni assistente</string>
+     <string name="app_setting_add_header_bg">Immagine copertina</string>
+     <string name="app_setting_datetime">Mostra date</string>
+     <string name="app_setting_dialog_cancel">Annulla</string>
+     <string name="app_setting_has_not_setted">Non impostato</string>
+     <string name="app_setting_has_setted">Impostato</string>
+     <string name="app_setting_more_setting">Impostazioni aggiuntive</string>
+     <string name="app_setting_on_off_setting">Impostazioni generali</string>
      <string name="app_setting_privacy_policy">Informativa sulla Privacy</string>
+     <string name="app_setting_search">Barra di ricerca</string>
      <string name="apps">App consigliate</string>
      <string name="apps_label">App</string>
      <string name="arr_airport">Aeroporto di desitnazione</string>
@@ -93,7 +102,6 @@
      <string name="ball_hupu">Sport HuPu</string>
      <string name="ball_net_errot">Impossibile connettersi alla rete.</string>
      <string name="ball_recent_no_data">Nessuna informazione sui prossimi eventi.</string>
-     <string name="battery_history">Batteria</string>
      <string name="beijing">Pechino</string>
      <string name="bicycle">Bici o veicolo elettrico</string>
      <string name="book_add">Aggiungi prenotazione</string>
@@ -101,6 +109,7 @@
      <string name="book_add_dialog_continue">Non uscire</string>
      <string name="book_add_dialog_exit">Esci</string>
      <string name="book_add_dialog_save">Annullare le modifiche e uscire?</string>
+     <string name="book_arr_station">添加到达站</string>
      <string name="book_assistant">Prenota un viaggio</string>
      <string name="book_assistant_empty">Ancora nessuna prenotazione</string>
      <string name="book_assistant_go">Partenza</string>
@@ -321,7 +330,6 @@
      <string name="express_inquiry">Tracciamento</string>
      <string name="express_inquiry_all_logistics">Tutti</string>
      <string name="express_inquiry_and_send">Tracciamento e invio</string>
-     <string name="express_inquiry_button_text">Traccia</string>
      <string name="express_inquiry_clipboard_number_message">Tracciare numero copiato?</string>
      <string name="express_inquiry_data_owner_prefix">Info tracciamento fornito da</string>
      <string name="express_inquiry_data_owner_suffix" />
@@ -394,6 +402,8 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="express_provider_cainiao">Cainiao</string>
      <string name="express_provider_jingdong">Jingdong</string>
      <string name="express_provider_shunfeng">Shunfeng</string>
+     <string name="express_query">Track</string>
+     <string name="express_query_more">Track more</string>
      <string name="express_region_pick_title">Scegli regione</string>
      <string name="express_select_addressee">A</string>
      <string name="express_select_city">Scegli città</string>
@@ -659,6 +669,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="mi_sport_go_install">Download</string>
      <string name="mi_wallet">Mi Wallet</string>
      <string name="miot_device_card_title">mi home</string>
+     <string name="miot_device_empty_device_hint">Add smart devices such as air purifiers, cameras, and robot vacuums for quick control</string>
      <string name="miuishare_account_activate_confirmation">Attivazione richiesta</string>
      <string name="miuishare_account_activate_ok">Attiva</string>
      <string name="miuishare_account_login_cancel">Annulla</string>
@@ -1055,13 +1066,4 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
      <string name="year_month_day_format">dd/MM/yyyy</string>
      <string name="yesterday">Ieri</string>
-	 <string name="app_setting">Impostazioni assistente</string>
-	 <string name="app_setting_on_off_setting">Impostazioni generali</string>
-	 <string name="app_setting_search">Barra di ricerca</string>
-	 <string name="app_setting_datetime">Mostra date</string>
-	 <string name="app_setting_more_setting">Impostazioni aggiuntive</string>
-	 <string name="app_setting_add_header_bg">Immagine copertina</string>
-	 <string name="app_setting_has_not_setted">Non impostato</string>
-     <string name="app_setting_has_setted">Impostato</string>
-	 <string name="app_setting_dialog_cancel">Annulla</string>
 </resources>

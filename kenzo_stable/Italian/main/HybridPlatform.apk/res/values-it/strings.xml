@@ -82,7 +82,6 @@
      <string name="app_manager_uninstall_dialog_msg">"La disinstallazione rimuoverà tutti i dati dell'app."</string>
      <string name="app_manager_uninstall_dialog_title">Disinstallare ora?</string>
      <string name="app_name">Piattaforma Ibrida</string>
-     <string name="app_notification_channel_push">Push</string>
      <string name="app_settings_disable_notification">Notifiche nascoste</string>
      <string name="app_settings_enable_notification">Mostra notifiche</string>
      <string name="audio_paused_label">In pausa</string>
@@ -113,13 +112,6 @@
      <string name="com_facebook_smart_login_confirmation_title">Conferma Accesso</string>
      <string name="com_facebook_tooltip_default">Hai tutto sotto controllo: scegli le informazioni che desideri condividere con le app.</string>
      <string name="common_google_play_services_unknown_issue">%1$s sta avendo problemi con i servizi di Google Play. Prego riprova.</string>
-     <string name="core_impl_dlg_shortcut_cancel">Annulla</string>
-     <string name="core_impl_dlg_shortcut_message">Crea un collegamento per ritornare rapidamente a questa app la prossima volta</string>
-     <string name="core_impl_dlg_shortcut_message_on_count">Hai usato %1$s più di 3 in questa giornata. Crea un collegamento sulla Home per accedervi più velocemente.</string>
-     <string name="core_impl_dlg_shortcut_message_on_timing">Hai usato %1$s per più di 5 minuti. Crea un collegamento sulla Home per accedervi più velocemente.</string>
-     <string name="core_impl_dlg_shortcut_ok">Crea</string>
-     <string name="core_impl_dlg_shortcut_silent">Ricordamelo tra 7 giorni</string>
-     <string name="core_impl_dlg_shortcut_title">Crea un collegamento in Home per  %1$s </string>
      <string name="create_shortcut">Installa collegamento</string>
      <string name="crop_image_activity_title" />
      <string name="crop_image_menu_crop">Taglia</string>
@@ -137,6 +129,7 @@
      <string name="dlg_permission_reject">Rifiuta</string>
      <string name="dlg_permission_remind">Non chiedere più</string>
      <string name="dlg_shortcut_cancel">No</string>
+     <string name="dlg_shortcut_message">%1$s is trying to create a Home screen shortcut.</string>
      <string name="dlg_shortcut_message_on_count">Lo hai utilizzato più di 3 volte oggi,vuoi creare un collegamento per %1$s?</string>
      <string name="dlg_shortcut_message_on_exit">Vuoi creare un collegamento per %1$s?</string>
      <string name="dlg_shortcut_message_on_timing">Lo stai utilizzando da più di 5 minuti,vuoi creare un collegamento per %1$s?</string>
@@ -148,12 +141,6 @@
      <string name="exception_btn_close">Chiudi</string>
      <string name="exception_btn_copy">Copia</string>
      <string name="feature_barcode_flight">Luce frontale</string>
-     <string name="features_dlg_shortcut_cancel">Annulla</string>
-     <string name="features_dlg_shortcut_message">%1$s sta cercando di creare un collegamento sulla Home.</string>
-     <string name="features_dlg_shortcut_ok">OK</string>
-     <string name="features_dlg_shortcut_title">Crea un collegamento sulla Home</string>
-     <string name="features_notification_channel_audio">Audio</string>
-     <string name="features_notification_channel_default">Notifica App</string>
      <string name="h5_pay_dialog_title">Invio richiesta di pagamento su WeChat...</string>
      <string name="hints_no_any_app">Non hai utilizzato alcuna app</string>
      <string name="inspector_unready">Attendi DevTools per la connessione</string>
@@ -205,8 +192,6 @@ Tocca per riprovare."</string>
      <string name="platform_notification_name">Messaggi istantanei</string>
      <string name="platform_notification_summary">Usa app compatibili senza installarle</string>
      <string name="platform_notification_title">Notifiche</string>
-     <string name="preload_page_name">Precarica le pagine</string>
-     <string name="preload_page_summary">"MIUI analizzerà gli URL e precaricaricherà le pagine che visiti con più frequenza per visualizzarle più rapidamente la prossima volta.​"</string>
      <string name="reject_all">Limita tutto</string>
      <string name="search_menu_title">Cerca</string>
      <string name="send_sms_tip">%1$s vuole inviarti un messaggio breve.</string>
@@ -215,7 +200,6 @@ Tocca per riprovare."</string>
      <string name="setting_category_additional">Impostazioni Addizionali</string>
      <string name="setting_category_apps">Quick App</string>
      <string name="setting_feedback">Segnalazione bug</string>
-     <string name="setting_performance_optimization">Ottimizzazione prestazioni</string>
      <string name="setting_privacy">Informativa sulla Privacy</string>
      <string name="share_dialog_cancel">Annulla</string>
      <string name="share_dialog_title">Condividi con</string>
@@ -235,7 +219,6 @@ Tocca per riprovare."</string>
      <string name="web_dialog_file_name">"Nome file: "</string>
      <string name="web_dialog_file_size">Dimensione file: %s</string>
      <string name="web_dialog_save_file">Salva file</string>
-     <string name="web_download_no_file_name">Il nome del file non può essere vuoto</string>
      <string name="web_download_no_permission">Impossibile scaricare. Controlla i permessi di archiviazione e riprova.</string>
      <string name="webview_loading" />
      <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
