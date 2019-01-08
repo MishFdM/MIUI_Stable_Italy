@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_package_delete_confirm_title">Avviso importante</string>
      <string name="add_frequent_phrases">Aggiungi frase</string>
@@ -119,6 +118,8 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="screenshot_gesture_detect_alert_title">Screenshot con tre dita</string>
      <string name="security_permission_denied_text">Accesso negato</string>
      <string name="security_permission_failed_text">Errore interno, riprova più tardi</string>
+     <string name="security_permission_network_failed_text">Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova.</string>
+     <string name="security_permission_open_wifi_settings">Apri impostazioni Wi-Fi</string>
      <string name="security_permission_validate_warning">Grazie per aver contribuito a rendere MIUI migliore!</string>
      <string name="security_permission_wifi_and_data_opened_text">Wi-Fi e Rete dati attivati</string>
      <string name="security_permission_xiaomi_account_missed_text">"Inserisci l'ID del tuo Mi Account"</string>
@@ -137,6 +138,7 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="standard">Silenzioso</string>
      <string name="standard_description">[Silent] Suonerie silenziose per chiamate e notifiche in arrivo</string>
      <string name="standard_title">Silenzioso</string>
+     <string name="start_dump_log">Avvio raccolta log basati sui problemi</string>
      <string name="start_security_permission_verify_text">Verifica i permessi Mi Account</string>
      <string name="status_bar_toggle_auto_brightness">Luminosità</string>
      <string name="status_bar_toggle_battery_saver">Risparmio</string>
@@ -162,10 +164,12 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
      <string name="status_bar_toggle_wifi_ap">Hotspot</string>
      <string name="subinfo_default_name">SIM %d</string>
-     <string name="super_resolution_maintain_tips">"Super resolution isn't available yet."</string>
+     <string name="super_resolution_maintain_tips">La super risoluzione non è ancora disponibile.</string>
      <string name="switch_brand_desc_tv">Servizi di sicurezza forniti da Graphite</string>
      <string name="switch_desc_tv">Due spazi. Un dispositivo.</string>
      <string name="switching_tv">Cambio in corso…</string>
+     <string name="talk_back_water_mark_string1">TalkBack è attivo</string>
+     <string name="talk_back_water_mark_string2">Mantieni premuti i pulsanti \"Volume +\" e \"Volume-\" per 3 secondi, per spegnere</string>
      <string name="total">Non disturbare</string>
      <string name="total_description">[DND] Silenzia i suoni e disattiva la vibrazione per tutti gli elementi ad esclusione della sveglia</string>
      <string name="total_title">Non disturbare</string>
@@ -183,5 +187,6 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="voice_input_error_other">Si è verificato un errore. Aspetta un minuto o due e riprova.</string>
      <string name="wifi_assistant_wifi_no_internet">Questa rete Wi-Fi non ha accesso ad Internet</string>
      <string name="wifi_assistant_wifi_no_internet_detail">Tocca per visualizzare i dettagli</string>
+     <string name="xspace_head">App clonate</string>
      <string name="xspace_resolver_activity_title">Seleziona app</string>
 </resources>

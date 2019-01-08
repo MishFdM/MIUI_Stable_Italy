@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <integer-array name="config_data_usage_network_types">
-        <item>0</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>14</item>
-     </integer-array>
+     <string-array name="app_ops_labels">
+        <item>Prova ad abilitare il Wi-Fi</item>
+        <item>Prova ad abilitare il Bluetooth</item>
+     </string-array>
      <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Lavoro</item>
@@ -63,6 +55,13 @@
         <item>ICQ</item>
         <item>Jabber</item>
      </string-array>
+     <string-array name="network_switch_type_name">
+        <item>Dati mobile</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>LAN</item>
+        <item>VPN</item>
+     </string-array>
      <string-array name="organizationTypes">
         <item>Lavoro</item>
         <item>Altro</item>
@@ -82,6 +81,16 @@
         <item>Casa</item>
         <item>Lavoro</item>
         <item>Altro</item>
-        <item>Personalizzato</item>
+     <item>Personalizzato</item>
+		</string-array>
+     <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrati con il tuo operatore</item>
+     </string-array>
+     <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s chiamata Wi-Fi</item>
      </string-array>
 </resources>
