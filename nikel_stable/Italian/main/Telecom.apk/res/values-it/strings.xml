@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_call_muted">Chiamata silenziata.</string>
      <string name="accessibility_speakerphone_enabled">Vivavoce attivato.</string>
