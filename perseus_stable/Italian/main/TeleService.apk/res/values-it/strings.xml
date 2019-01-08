@@ -232,24 +232,7 @@
      <string name="auto_redial_pref_title">Ricomposizione automatica</string>
      <string name="auto_retry_mode_summary">Abilita modalità ricomposizione automatica</string>
      <string name="auto_retry_mode_title">Ricomposizione automatica</string>
-     <string name="autoip">Auto IP dialing</string>
-     <string name="autoip_add_zero_prefix">Add 0 prefix for mobile</string>
-     <string name="autoip_areacode_required">Area code required</string>
-     <string name="autoip_areacode_required_accept">OK</string>
      <string name="autoip_areacode_required_for_emergency_number">"Il prefisso dell'area locale è necessario per eseguire chiamate di emergenza"</string>
-     <string name="autoip_autoip_current_areacode_summary">Current area code is %s</string>
-     <string name="autoip_current_areacode">Current area code</string>
-     <string name="autoip_current_areacode_summary">"Current location's area code"</string>
-     <string name="autoip_exception">"Numbers that don't need IP prefix"</string>
-     <string name="autoip_exception_summary">%d total</string>
-     <string name="autoip_exception_summary_more">, %d total</string>
-     <string name="autoip_no_exceptions">"Add numbers that don't require an IP prefix"</string>
-     <string name="autoip_phone">Auto IP dialing</string>
-     <string name="autoip_prefix">IP prefix</string>
-     <string name="autoip_prefix_summary">"Carrier's IP prefix is %s"</string>
-     <string name="autoip_setting">Automatic IP settings</string>
-     <string name="autoip_summary">Add an IP prefix for international numbers</string>
-     <string name="autoip_support_local_numbers">Always use IP prefix</string>
      <string name="available_via_carrier">Available via %1$s</string>
      <string name="available_via_passpoint">Disponibile tramite %1$s</string>
      <string name="back">Indietro</string>
@@ -276,7 +259,7 @@
      <string name="bluetooth_battery_level">%1$s battery</string>
      <string name="bluetooth_connected">Connesso%1$s</string>
      <string name="bluetooth_connected_battery_level">Connected, battery %1$s%2$s</string>
-     <string name="bluetooth_connected_no_a2dp">Connesso (nessun media)%1$s</string>
+     <string name="bluetooth_connected_no_a2dp">Connesso (nessun media) %1$s</string>
      <string name="bluetooth_connected_no_a2dp_battery_level">Connected (no media), battery %1$s%2$s</string>
      <string name="bluetooth_connected_no_headset">Connesso (nessun telefono)%1$s</string>
      <string name="bluetooth_connected_no_headset_battery_level">Connected (no phone), battery %1$s%2$s</string>
@@ -1311,7 +1294,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
      <string name="path_app_name">Applicazioni di sistema/Chiamate</string>
      <string name="path_auto_answer_pref_title">Applicazioni di sistema/Chiamate/Risposta automatica</string>
      <string name="path_auto_retry_mode_title">App di sistema/Telefono/Impostazioni avanzate/Riprova automaticamente</string>
-     <string name="path_autoip">System apps/Phone/Advanced settings/Auto IP dialing</string>
      <string name="path_call_advanced_settings_title">App di sistema/Telefono/Impostazioni avanzate</string>
      <string name="path_call_forwarding_settings">Applicazioni di sistema/Chiamate/Impostazioni inoltro chiamate</string>
      <string name="path_call_record_auto_title">Chiamate/Registra automaticamente</string>
@@ -1488,6 +1470,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_type_title">Tipologia di rete preferita</string>
      <string name="preferred_phone_account">Account chiamata preferito</string>
      <string name="preferred_wificall_title">Preferenze di rete</string>
+     <string name="privacy_policy_title">Informativa sulla Privacy</string>
      <string name="private_dns_mode_off">Off</string>
      <string name="private_dns_mode_opportunistic">Automatic</string>
      <string name="private_dns_mode_provider">Private DNS provider hostname</string>
@@ -1647,6 +1630,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="sim_service_setting">Mi SIM e Mi Roaming</string>
      <string name="simulate_color_space">Simula spazio colore</string>
      <string name="singleContactImportedMsg">Contatto importato</string>
+     <string name="sip_account_disable">Account non attivo. Impossibile accettare le chiamate.</string>
      <string name="sip_account_list">Account SIP</string>
      <string name="sip_accounts">Account chiamate via internet (SIP)</string>
      <string name="sip_accounts_title">Account SIP</string>
@@ -1664,6 +1648,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="sip_menu_discard">Ignora</string>
      <string name="sip_menu_save">Salva</string>
      <string name="sip_profile_create_error">Impossibile creare un nuovo profilo SIP</string>
+     <string name="sip_receive_call_disable">Non è possibile accettare le chiamate. Prima devi consentire le chiamate.</string>
      <string name="sip_receive_calls">Ricezione chiamate entranti</string>
      <string name="sip_receive_calls_summary">Riduce la durata della batteria</string>
      <string name="sip_save_register_error">Non è possibile registrare e salvare un profilo SIP</string>

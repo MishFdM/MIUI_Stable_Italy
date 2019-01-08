@@ -58,6 +58,9 @@
      <string name="other_settings_ad_enable_summary">Suggerisci pubblicità personalizzate basate sulle tue abitudini</string>
      <string name="other_settings_auto_update">Aggiorna automaticamente</string>
      <string name="other_settings_auto_update_summary">"MIUI sceglierà il tempo di attesa per scaricare ed installare gli aggiornamenti."</string>
+     <string name="other_settings_enhanced_lockscreen">Carousel sfondi</string>
+     <string name="other_settings_enhanced_lockscreen_summary">Ricevi ogni giorno immagini e storie selezionate, direttamente sulla schermata di blocco. Accetta i Termini e Condizioni.</string>
+     <string name="other_settings_enhanced_lockscreen_summary_index">Termini e Condizioni</string>
      <string name="other_settings_location">Localizzazione</string>
      <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
      <string name="other_settings_upload_debug_log_summary">"I dati per la diagnosi possono includere informazioni sull'utilizzo dell'hardware, sistema e app. I dati verranno utilizzati per individuare e analizzare i problemi nel sistema, non verranno mai utilizzati per rilevare la tua identità."</string>
@@ -65,6 +68,7 @@
      <string name="other_settings_user_experience">Programma Esperienza Utente</string>
      <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
      <string name="other_settings_user_experience_summary_index">Dettagli</string>
+     <string name="poco_agree_terms_other">"(Inclusi l'Informativa sulla Privacy ed l'Accordo Utente di POCO Launcher)"</string>
      <string name="pref_title_data_slot">SIM Dati</string>
      <string name="pref_title_voice_slot">SIM Voce</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
@@ -110,7 +114,7 @@ Devi accettare la Normativa sulla Privacy di Kika prima di utilizzare questa fun
 1. Quando lo schermo è acceso.
 2. Quando ascolti musica a schermo spento."</string>
      <string name="voice_assist_desp">Pronuncia \"Mi AI\" davanti al telefono. Mi AI riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
-     <string name="voice_assist_desp_screen_light">After the screen lights up, say \"Mi AI\" into your phone. Mi AI will recognize your voice and will be able to control your device.</string>
      <string name="voice_assist_title">Attiva con la voce</string>
      <string name="welcome">Benvenuto</string>
+     <string name="zone_picker_title">Choose time zone</string>
 </resources>

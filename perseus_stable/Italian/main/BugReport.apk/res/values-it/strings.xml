@@ -9,13 +9,40 @@
      <string name="app_search">Cerca app</string>
      <string name="btn_send">Invia</string>
      <string name="bugreport_dialog_not_show_again">Non mostrare più</string>
-     <string name="bugreport_dialog_submit_content"><Data>"You're saving software logs on this device now. Logs may contain personal info and your location data. Don't share logs with anyone else if you don't want this info to be exposed."</Data></string>
+     <string name="bugreport_dialog_submit_content"><Data>"Stai attualmente salvando i log del software su questo dispositivo. I log potrebbero contenere informazioni personali ed i tuoi dati di posizione. Non condividere i log con nessun altro se non vuoi che queste informazioni diventino pubbliche. Cliccando su \"Accetto\" avrai letto e concordato con la nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Informativa sulla Privacy &lt;/a> e &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accordo Utente&lt;/a>."</Data></string>
      <string name="bugreport_dump_complete_notification_summary">Tocca per leggere.</string>
      <string name="bugreport_dump_complete_notification_title">Segnalazione bug creata</string>
      <string name="bugreport_dump_start_notification_summary">Richiede circa un minuto.</string>
      <string name="bugreport_dump_start_notification_title">Creazione segnalazione bug</string>
      <string name="bugreport_tool_log_dumping_desc">Ci vorrà circa un minuto</string>
      <string name="bugreport_tool_log_dumping_title">Creazione segnalazione bug</string>
+     <string name="catch_full_log_action_cancel">Annulla</string>
+     <string name="catch_full_log_action_complete">Termina e invia</string>
+     <string name="catch_full_log_action_start">Genera log</string>
+     <string name="catch_full_log_add_original_photo">Aggiungi foto</string>
+     <string name="catch_full_log_add_photo">Aggiungi foto</string>
+     <string name="catch_full_log_add_photo_dialog_content">"Se il problema che stai segnalando è correlato alla qualità dell'immagine della camera, aggiungi una foto esempio originale (non ritagliata) per aiutarci ad individuare il problema. Vuoi aggiungere una foto adesso?"</string>
+     <string name="catch_full_log_dialog_confirm_text">Vai alla schermata Home</string>
+     <string name="catch_full_log_dialog_content">"La MIUI sta generando un log. Ciò potrebbe influire sulla produttività complessiva del dispositivo. Se non riesci a riprodurre il problema che intendi segnalare, torna ai log e tocca \"Annulla\"."</string>
+     <string name="catch_full_log_dump_hprof_failed">"Impossibile generare log di isolamento"</string>
+     <string name="catch_full_log_item_content_catch_direct">"Passaggi:
+1. Torna alla funzionalità che intendi segnalare e prova a riprodurla.
+2. Torna a questa pagina e tocca \"Termina e carica\"."</string>
+     <string name="catch_full_log_item_content_need_open">"Passaggi:
+1. Tocca \"Genera log\".
+2. Torna alla funzionalità che si intendi segnalare e prova a riprodurla.
+3. Torna a questa pagina e tocca \"Termina e carica\"."</string>
+     <string name="catch_full_log_item_title_audio">Audio, registrazione audio e audio in chiamata</string>
+     <string name="catch_full_log_item_title_bt">Bluetooth</string>
+     <string name="catch_full_log_item_title_dump_heap">Isolamento</string>
+     <string name="catch_full_log_item_title_gps">Servizi di localizzazione</string>
+     <string name="catch_full_log_item_title_sensor">Sensori</string>
+     <string name="catch_full_log_item_title_signal">Telefono, segnale e reti mobili</string>
+     <string name="catch_full_log_item_title_wifi">Wi-Fi e Mi Drop</string>
+     <string name="catch_full_log_notification_content">Tocca per tornare ai log</string>
+     <string name="catch_full_log_notification_title">Generazione log…</string>
+     <string name="catch_full_log_start_dump_hprof">Genera log di isolamento</string>
+     <string name="catch_full_log_submit_directly">Invia</string>
      <string name="close_feedback_main">Nascondi</string>
      <string name="cta_cancel">Annulla</string>
      <string name="cta_confirm">OK</string>
@@ -193,7 +220,7 @@
      <string name="michat_pull_to_refresh_pull_label">Trascina in basso per vedere la cronologia</string>
      <string name="michat_pull_to_refresh_refreshing_label">Caricamento cronologia...</string>
      <string name="michat_pull_to_refresh_release_label">Rilascia per vedere la cronologia</string>
-     <string name="michat_queue_pos_update">Ci sono %1$d persone prima di te, attendere prego...</string>
+     <string name="michat_queue_pos_update">There are %1$d people in front of you, wait a moment…</string>
      <string name="michat_return_to_outside">Esci</string>
      <string name="michat_service_unavailiable">Impossibile recuperare le informazioni, riprova pi? tardi</string>
      <string name="michat_skillset_business_type_title">Seleziona il dispositivo</string>
@@ -252,11 +279,12 @@
      <string name="non_system_app_select">App scaricate</string>
      <string name="open_feedback_main">Altro</string>
      <string name="packaging_dialog_content">Generazione segnalazione bug, si prega di attendere...</string>
-     <string name="permission_granted">%1$s permission granted</string>
      <string name="pic_not_exist">Questa immagine non esiste</string>
      <string name="plus_one_submit_dialog_content">La tua segnalazione, insieme al log di errore, verrà inviata ai server Xiaomi.</string>
      <string name="plus_one_submit_dialog_not_show_again">Ricorda la scelta</string>
      <string name="post_miui_bbs_failed">Impossibile postare sul Forum</string>
+     <string name="privacy_category_title">Privacy</string>
+     <string name="privacy_policy_title">Informativa sulla Privacy</string>
      <string name="pull_to_refresh_pull_label">Trascina per aggiornare</string>
      <string name="pull_to_refresh_refreshing_label">Aggiornamento</string>
      <string name="pull_to_refresh_release_label">Rilascia per aggiornare</string>
@@ -277,8 +305,8 @@
      <string name="select_system_app_tag">Seleziona tag</string>
      <string name="submit_dialog_cancel">Annulla</string>
      <string name="submit_dialog_confirm">Invia</string>
-     <string name="submit_dialog_content"><Data>"Your feedback, along with attachments and logs, will be sent to MIUI's servers. It may contain personal info and your location data."</string>
-     <string name="submit_dialog_content_global"><Data>"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers. The information about your threads and forum activity will also be collected for analysis and further communication. Logs may contain personal info and your location data."</Data></string>
+     <string name="submit_dialog_content"><Data>"La tua segnalazione, comprensiva di allegati e log, verrà inviata ai server MIUI. Questa potrebbe contenere informazioni personali ed i tuoi dati di posizione. Cliccando su \"Accetto\" avrai letto e concordato con la nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"> Informativa sulla Privacy&lt;/a> e &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"> Informativa Utente&lt;/a>."</Data></string>
+     <string name="submit_dialog_content_global"><Data>"La tua segnalazione, comprensiva di allegati (se presenti) e di log (potrai deselezionare le caselle corrispondenti agli elementi che non intendi caricare) verrà inviata ai server MIUI e ad una sezione con accesso limitato del Forum MIUI indirizzata agli sviluppatori. Le informazioni sui tuoi thread e sulle attività del forum verranno raccolte per analisi ed ulteriori comunicazioni. I log potrebbero contenere informazioni personali ed i tuoi dati di posizione. Selezionando \"Accetto\" avrai letto e concordato con la nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Informativa sulla Privacy&lt;/a> e &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\Accordo Utente&lt;/a>."</Data></string>
      <string name="submit_dialog_title">Invia segnalazione</string>
      <string name="submit_feedback_info_failed">Impossibile inviare segnalazione</string>
      <string name="suggestion_description">Scrivi qui i suggerimenti</string>
@@ -286,16 +314,19 @@
      <string name="systemui">Pannello delle notifiche</string>
      <string name="tab_title_chat">FAQ</string>
      <string name="tab_title_my_reports">Le mie segnalazioni</string>
+     <string name="tab_title_preferences">Impostazioni</string>
      <string name="tab_title_report">Segnalazione</string>
-     <string name="time_in_justnow">Just now</string>
      <string name="title_answer_feedback_main">Abbiamo trovato risposte!</string>
-     <string name="title_bbs_feedback_main">Learn more about Mi phones</string>
+     <string name="title_catch_full_log">Log</string>
      <string name="title_customer_service">Servizio clienti</string>
+     <string name="title_first_aid">Pronto soccorso</string>
      <string name="title_frequent_question_feedback_main">FAQ</string>
      <string name="title_mi_family">Negozi Mi Home vicini</string>
      <string name="title_nonsystem_app">Altre app</string>
      <string name="title_same_question_feedback_main">Ci sono informazioni su problemi simili nel forum MIUI</string>
      <string name="title_system_app">App MIUI</string>
+     <string name="toast_catch_full_log_catching">Puoi generare un solo log alla volta.</string>
+     <string name="toast_catch_full_log_open_failed">Impossibile avviare la registrazione del log.</string>
      <string name="toast_description_required">La descrizione della segnalazione non può essere vuota</string>
      <string name="toast_feedback_collect_store">Raccolta log...</string>
      <string name="toast_feedback_network_unavailable">Impossibile collegarsi alla rete</string>

@@ -303,7 +303,7 @@
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
-        <item>AVRCP 1.3</item>
+		<item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
@@ -1099,6 +1099,11 @@
         <item>slide_zippo_open.ogg</item>
         <item>slide_zippo_close.ogg</item>
      </string-array>
+     <string-array name="keyguard_notification_status_entries">
+        <item>Riattiva schermo</item>
+        <item>Mostra animazione</item>
+        <item>Non riattivare lo schermo</item>
+     </string-array>
      <string-array name="led_color_entries">
         <item>Blu</item>
         <item>Rosso</item>
@@ -1396,6 +1401,10 @@
      <string-array name="status_bar_settings_notification_shade_shortcut_entries">
         <item>Ricerca</item>
         <item>Impostazioni</item>
+     </string-array>
+     <string-array name="status_bar_settings_notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
      </string-array>
      <string-array name="timezone_filters">
         <item>America</item>

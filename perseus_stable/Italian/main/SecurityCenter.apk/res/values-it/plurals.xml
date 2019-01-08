@@ -60,6 +60,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Cerca tra %d app</item>
         <item quantity="one">Cerca tra %d app</item>
      </plurals>
+     <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d app potrebbero essere visualizzate in modo errato. Limita le notifiche flottanti.</item>
+        <item quantity="one">%d app potrebbe essere visualizzata in modo errato. Limita le notifiche flottanti.</item>
+     </plurals>
+     <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problemi richiedono ottimizzazione</item>
+        <item quantity="one">%1$d problema richiede ottimizzazione</item>
+     </plurals>
      <plurals name="found_apps_title">
         <item quantity="other">%d app trovate</item>
         <item quantity="zero">0 app trovate</item>
@@ -88,6 +96,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="gb_signed_days_sum">
         <item quantity="other">Registrato %d giorni di seguito</item>
         <item quantity="one">Registrato %d volta</item>
+     </plurals>
+     <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d altri caratteri</item>
+        <item quantity="one">    +%1$d altro carattere</item>
      </plurals>
      <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permessi</item>
@@ -181,6 +193,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">"L'accesso alla rete è limitato per %d app"</item>
         <item quantity="one">"L'accesso alla rete è limitato per %d app"</item>
      </plurals>
+     <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">"%2$d%% di batteria consumata durante gli ultimi %1$d minuti"</item>
+        <item quantity="one">"%2$d%% di batteria consumata in %1$d minuto"</item>
+     </plurals>
      <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">"%d giorni dall'ultimo controllo"</item>
         <item quantity="one">"%d giorno dall'ultimo controllo"</item>
@@ -205,9 +221,9 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d notifiche sono visibili</item>
         <item quantity="one">%d notifica è visibile</item>
      </plurals>
-     <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">"%d apps don't work properly and drain battery"</item>
-        <item quantity="one">"%d app doesn't work properly and drains battery"</item>
+     <plurals name="om_locked_apps_title">
+        <item quantity="other">%d app bloccate</item>
+        <item quantity="one">%d app bloccata</item>
      </plurals>
      <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d punti</item>
@@ -239,6 +255,22 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d mAh</item>
         <item quantity="one">%d mAh</item>
      </plurals>
+     <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Aggiungi %d minuti</item>
+        <item quantity="one">Aggiungi %d minuto</item>
+     </plurals>
+     <plurals name="power_center_menu_text">
+        <item quantity="other">elementi</item>
+        <item quantity="one">elemento</item>
+     </plurals>
+     <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d app sono nascoste</item>
+        <item quantity="one">%d app è nascosta</item>
+     </plurals>
+     <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Puoi nascondere %d app</item>
+        <item quantity="one">Puoi nascondere %d app</item>
+     </plurals>
      <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problemi batteria</item>
         <item quantity="one">%d problema batteria</item>
@@ -254,6 +286,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="quick_optimize_summary_text">
         <item quantity="other">Risolti %d problemi batteria</item>
         <item quantity="one">Risolto %d problema batteria</item>
+     </plurals>
+     <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Ripristino impostazioni di fabbrica(%ds)</item>
+        <item quantity="one">Ripristino impostazioni di fabbrica(%ds)</item>
      </plurals>
      <plurals name="result_sign_header">
         <item quantity="other">Trovate %d app non ufficiali</item>
