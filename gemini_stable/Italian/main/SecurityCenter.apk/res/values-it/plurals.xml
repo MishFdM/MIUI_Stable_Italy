@@ -60,6 +60,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Cerca tra %d app</item>
         <item quantity="one">Cerca tra %d app</item>
      </plurals>
+     <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d app potrebbero essere visualizzate in modo errato. Limita le notifiche flottanti.</item>
+        <item quantity="one">%d app potrebbe essere visualizzata in modo errato. Limita le notifiche flottanti.</item>
+     </plurals>
      <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemi richiedono ottimizzazione</item>
         <item quantity="one">%1$d problema richiede ottimizzazione</item>
@@ -189,6 +193,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">"L'accesso alla rete è limitato per %d app"</item>
         <item quantity="one">"L'accesso alla rete è limitato per %d app"</item>
      </plurals>
+     <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">"%2$d%% di batteria consumata durante gli ultimi %1$d minuti"</item>
+        <item quantity="one">"%2$d%% di batteria consumata in %1$d minuto"</item>
+     </plurals>
      <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">"%d giorni dall'ultimo controllo"</item>
         <item quantity="one">"%d giorno dall'ultimo controllo"</item>
@@ -213,9 +221,9 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d notifiche sono visibili</item>
         <item quantity="one">%d notifica è visibile</item>
      </plurals>
-     <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">"%d app non funzionano correttamente e consumano eccessivamente batteria"</item>
-        <item quantity="one">"%d app non funziona correttamente e consuma eccessivamente batteria"</item>
+     <plurals name="om_locked_apps_title">
+        <item quantity="other">%d app bloccate</item>
+        <item quantity="one">%d app bloccata</item>
      </plurals>
      <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d punti</item>

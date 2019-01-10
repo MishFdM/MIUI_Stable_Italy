@@ -7,7 +7,7 @@
      <string name="abc_action_menu_overflow_description">Piú opzioni</string>
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
-     <string name="abc_activitychooserview_choose_application">"Seleziona un'app"</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">DISATTIVA</string>
      <string name="abc_capital_on">ATTIVA</string>
      <string name="abc_search_hint">Ricerca…</string>
@@ -67,7 +67,8 @@
      <string name="component_category_finest_title">In evidenza</string>
      <string name="component_category_more_title">Altro</string>
      <string name="component_title_ringtone">Suonerie</string>
-     <string name="component_title_video_wallpaper">Wallpaper movies</string>
+     <string name="component_title_settings_video_wallpaper">Sfondi con effetti speciali</string>
+     <string name="component_title_video_wallpaper">Sfondi filmato</string>
      <string name="component_title_wallpaper">Sfondi</string>
      <string name="current_using_desktop_wallpaper_text">Home</string>
      <string name="current_using_lockscreen_wallpaper_text">Schermata di blocco</string>
@@ -88,6 +89,9 @@
      <string name="download_failed">Download fallito</string>
      <string name="download_preview_failed">Impossibile caricare anteprime</string>
      <string name="download_success">Scaricato correttamente</string>
+     <string name="exit_extreme_mode_dialog_agree">Concordo</string>
+     <string name="exit_extreme_mode_dialog_cancel">Annulla</string>
+     <string name="exit_extreme_mode_dialog_title">Disattiva Modalità estrema</string>
      <string name="exo_controls_fastforward_description">Avanti veloce</string>
      <string name="exo_controls_fullscreen_description">Modalità a schermo intero</string>
      <string name="exo_controls_next_description">Prossima traccia</string>
@@ -118,6 +122,9 @@
      <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
      <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
      <string name="exo_track_unknown">Unknown</string>
+     <string name="extreme_mode_dialog_message">Questa funzionalità non è disponibile in modalità Estrema. Disattiva la modalità Estrema per utilizzarla.</string>
+     <string name="extreme_mode_dialog_ok">Fatto</string>
+     <string name="extreme_mode_dialog_title">Avviso</string>
      <string name="fail_to_add_account">Impossibile aggiungere account</string>
      <string name="favorite_list">Preferiti</string>
      <string name="favorite_list_format">%1$s preferiti</string>
@@ -215,7 +222,7 @@
      <string name="my_gifts">Regali</string>
      <string name="my_gifts_purchased">Acquistati</string>
      <string name="my_gifts_received">Ricevuti</string>
-     <string name="no_data">Impossibile collegare alla rete</string>
+     <string name="no_data">Impossibile collegarsi alla rete</string>
      <string name="online_no_network">Impossibile connettere alla rete</string>
      <string name="online_precust_abstract">Astratti</string>
      <string name="online_precust_animal">Animali</string>
@@ -517,6 +524,9 @@
      <string name="theme_current_using_has_update">Il tema attuale è stato aggiornato, premi qui per applicare</string>
      <string name="theme_description_title_customized">Modificato</string>
      <string name="theme_description_title_default">Predefinito</string>
+     <string name="theme_detail_tab_comment">Commenti</string>
+     <string name="theme_detail_tab_recommend">Consigliati</string>
+     <string name="theme_detail_tab_theme">Temi</string>
      <string name="theme_empty_redirect">Torna allo Store dei Temi</string>
      <string name="theme_favorite_add_fail">Impossibile aggiungere ai preferiti</string>
      <string name="theme_favorite_add_success">Tema tra i preferiti</string>
