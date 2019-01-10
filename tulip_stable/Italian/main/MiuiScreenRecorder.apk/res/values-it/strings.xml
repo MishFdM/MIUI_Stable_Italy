@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="app_name">Registrazione schermo</string>
+     <string name="app_name">Reg.Schermo</string>
      <string name="app_notification_info">La Registrazione Schermo sta operando in background</string>
      <string name="app_notification_title">Registrazione schermo</string>
      <string name="auto_stop_title">Video salvato con successo!</string>
@@ -24,8 +24,8 @@
      <string name="description_title">Info su Registrazione Schermo</string>
      <string name="deselect_all">Deseleziona tutto</string>
      <string name="error_open_file_failed_no_app_found">"Impossibile trovare un'applicazione per l'apertura del file"</string>
-     <string name="first_using_mic_dialog_message">Screen recorder needs access to your microphone to record audio. Allow?</string>
-     <string name="first_using_mic_dialog_title">Permissions required</string>
+     <string name="first_using_mic_dialog_message">"Registrazione schermo necessita dell'accesso al tuo microfono per poterne registrare i suoni. Consentire?"</string>
+     <string name="first_using_mic_dialog_title">Permessi richiesti</string>
      <string name="fixed_frame_rate">Sequenza dei fotogrammi fissa</string>
      <string name="fixed_frame_rate_summary">Registrare video con sequenza dei fotogrammi fissa migliora la riproduzione su piattaforme social multimediali ma riduce la durata della batteria.</string>
      <string name="frames">Sequenza dei fotogrammi</string>
@@ -74,6 +74,7 @@
      <string name="show_screen_touch_summary">Visualizza i tocchi attraverso un punto bianco</string>
      <string name="sound_source">Suoni</string>
      <string name="sound_source_summary">Suoni di sistema o microfono</string>
+     <string name="sound_source_summary_without_system_sounds">Utilizza il microfono o silenzia il suono</string>
      <string name="start">Inizia</string>
      <string name="start_recording">Avvia registrazione</string>
      <string name="stop_by_second_space">"Cambiando l'utente si fermerà la registrazione schermo"</string>
@@ -83,6 +84,6 @@
      <string name="storage_location">Memoria</string>
      <string name="storage_location_summary">Seleziona la tua opzione di memorizzazione preferita</string>
      <string name="unchecked">Non selezionato</string>
-     <string name="using_record_confirm_cancel">Restrict</string>
-     <string name="using_record_confirm_ok">Allow</string>
+     <string name="using_record_confirm_cancel">Limita</string>
+     <string name="using_record_confirm_ok">Consenti</string>
 </resources>

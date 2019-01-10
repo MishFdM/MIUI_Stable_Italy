@@ -7,28 +7,6 @@
      <string-array name="config_ephemeralResolverPackage">
         <item>com.google.android.gms</item>
      </string-array>
-     <string-array name="config_nightDisplayColorTemperatureCoefficients">
-        <item>0.0</item>
-        <item>0.0</item>
-        <item>1.0</item>
-        <item>-0.00000000962353339</item>
-        <item>0.000153045476</item>
-        <item>0.390782778</item>
-        <item>-0.0000000189359041</item>
-        <item>0.000302412211</item>
-        <item>-0.198650895</item>
-     </string-array>
-     <string-array name="config_nightDisplayColorTemperatureCoefficientsNative">
-        <item>0.0</item>
-        <item>0.0</item>
-        <item>1.0</item>
-        <item>-0.00000000962353339</item>
-        <item>0.000153045476</item>
-        <item>0.390782778</item>
-        <item>-0.0000000189359041</item>
-        <item>0.000302412211</item>
-        <item>-0.198650895</item>
-     </string-array>
      <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Lavoro</item>
@@ -107,6 +85,20 @@
         <item>Lavoro</item>
         <item>Altro</item>
         <item>Personalizzato</item>
+     </string-array>
+     <string-array name="vendor_required_apps_managed_device">
+        <item>com.android.vending</item>
+        <item>com.google.android.gms</item>
+        <item>com.google.android.contacts</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.launcher</item>
+        <item>com.android.launcher</item>
+        <item>com.google.android.dialer</item>
+        <item>com.google.android.apps.messaging</item>
+        <item>com.google.android.setupwizard</item>
+        <item>com.android.contacts</item>
+        <item>com.miui.home</item>
+        <item>com.mi.android.globallauncher</item>
      </string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
         <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>

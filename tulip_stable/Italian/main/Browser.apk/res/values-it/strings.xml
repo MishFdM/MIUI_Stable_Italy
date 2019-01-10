@@ -17,7 +17,7 @@
      <string name="action_menu_text_bandwidth">Banda</string>
      <string name="action_menu_text_bandwidth_off">Risparmio dati</string>
      <string name="action_menu_text_bandwidth_on">Risparmio dati</string>
-     <string name="action_menu_text_bookmark_added">Segnalibro aggiunto</string>
+     <string name="action_menu_text_bookmark_added">Bookmark added</string>
      <string name="action_menu_text_copy_url">Copia URL</string>
      <string name="action_menu_text_create_qr_code">Codice QR</string>
      <string name="action_menu_text_download">Download</string>
@@ -173,8 +173,8 @@
      <string name="common_open_on_phone">Open on phone</string>
      <string name="common_signin_button_text">Sign in</string>
      <string name="common_signin_button_text_long">Sign in with Google</string>
-     <string name="common_use_phrase_bottom_bar_text_next">Next</string>
-     <string name="common_use_phrase_bottom_bar_text_previous">Prev</string>
+     <string name="common_use_phrase_bottom_bar_text_next">Prossimo</string>
+     <string name="common_use_phrase_bottom_bar_text_previous">Prec</string>
      <string name="contextmenu_add_contact">Aggiungi contatto</string>
      <string name="contextmenu_copy">Copia</string>
      <string name="contextmenu_copylink">Copia URL link</string>
@@ -247,10 +247,10 @@ Pages you view won't appear in history."</string>
      <string name="download_completed">Scaricati</string>
      <string name="download_default_path_txt">Ricorda la mia scelta</string>
      <string name="download_dialog_default_path_invalid">Il percorso per i download non è valido. Verrà usato invece il percorso predefinito per i file scaricati.</string>
-     <string name="download_dialog_file_length_hint_txt">Dimens.:</string>
+     <string name="download_dialog_file_length_hint_txt">"File size: "</string>
      <string name="download_dialog_file_length_lessthan1kb">Meno di 1K</string>
      <string name="download_dialog_file_length_nolength_error_txt">Impossibile scaricare</string>
-     <string name="download_dialog_file_length_nolength_txt">In download…</string>
+     <string name="download_dialog_file_length_nolength_txt">Just a sec…</string>
      <string name="download_failed">Download fallito</string>
      <string name="download_filter_all">Tutto</string>
      <string name="download_filter_apk">Apk</string>
@@ -883,9 +883,9 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="positive_confirm_message">Disattiva comunque</string>
      <string name="pref_accessibility">Accessibility</string>
      <string name="pref_accessibility_title">Accessibilità</string>
-     <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one tap in the address bar</string>
-     <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
-     <string name="pref_adblock_title">Ad blocker</string>
+     <string name="pref_accessibility_url_shortcut_enter_summary">Combinazioni di lettere comuni possono essere inserite con un solo tocco nella barra degli indirizzi</string>
+     <string name="pref_accessibility_url_shortcut_enter_title">Immissione URL veloce</string>
+     <string name="pref_adblock_title">Blocco pubblicitario</string>
      <string name="pref_auto_update">Update automatically</string>
      <string name="pref_auto_update_under_wifi">Aggiorna automaticamente con Wi-Fi</string>
      <string name="pref_automatic_matching_searchengines_title">Passaggio al motore di ricerca più utilizzato</string>
@@ -896,7 +896,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_check_security_url_summary_international">Per fornire un servizio migliore, consenti al browser di accedere ai tuoi URL</string>
      <string name="pref_check_security_url_title">Verifica sicurezza URL</string>
      <string name="pref_check_security_url_title_international">Ottieni gli URL</string>
-     <string name="pref_clear_adblock_statistics">Svuota cronologia Ad blocker</string>
+     <string name="pref_clear_adblock_statistics">Svuota cronologia Blocco pubblicitario</string>
      <string name="pref_clear_adblock_statistics_dlg">Azzerare il conteggio pubblicità bloccate?</string>
      <string name="pref_clear_all_data_dlg">Cancellare tutti i dati di navigazione?</string>
      <string name="pref_clear_all_data_title">Azzera tutto</string>
@@ -912,7 +912,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_content_search_engine">Imposta motore di ricerca preferito</string>
      <string name="pref_content_search_engine_summary">Scegli un motore di ricerca</string>
      <string name="pref_develop_mode">Developer mode</string>
-     <string name="pref_enable_adblock_notification">Notifiche Ad blocker</string>
+     <string name="pref_enable_adblock_notification">Notifiche Blocco pubblicitario</string>
      <string name="pref_enable_news">Nuovi avvisi</string>
      <string name="pref_enable_novels">Libri</string>
      <string name="pref_enable_videos">Video</string>
@@ -927,9 +927,9 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_file_downlaod_save_reset_default_settings">Ripristina impostazioni predefinite</string>
      <string name="pref_file_download_default_path_prefix">Percorso predefinito: %s</string>
      <string name="pref_file_download_save_modify_default_path">Percorso file scaricati</string>
-     <string name="pref_file_download_save_title">Download</string>
-     <string name="pref_fling_on_border">Scorri dal bordo</string>
-     <string name="pref_fling_on_border_title_summary">Scorri dal bordo sinistro dello schermo a quello destro</string>
+     <string name="pref_file_download_save_title">Downloads</string>
+     <string name="pref_fling_on_border">Swipe from edge</string>
+     <string name="pref_fling_on_border_title_summary">Swipe from the left or right edge</string>
      <string name="pref_font_size_category">Dimensioni testo</string>
      <string name="pref_force_userscalable">Attivazione forzata zoom</string>
      <string name="pref_force_userscalable_summary">Ignora richieste dei siti di controllare lo zoom</string>
@@ -989,7 +989,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_set_default_browser_sure_to_clear">Switching browsers?</string>
      <string name="pref_set_default_browser_switch">Switch</string>
      <string name="pref_set_homepage_to">Imposta come</string>
-     <string name="pref_setting_title">Impostazioni pagina</string>
+     <string name="pref_setting_title">Page settings</string>
      <string name="pref_ua_string">Stringa user agent</string>
      <string name="pref_version_info">Info versione</string>
      <string name="pref_volume_key_action">Scorri con i tasti volume</string>
