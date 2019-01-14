@@ -91,6 +91,11 @@
         <item>Ultima fonte aggiornamento</item>
         <item>Ultimo orario aggiornamento</item>
      </string-array>
+     <string-array name="traffic_package_type">
+        <item>Piano dati mensile</item>
+        <item>Piano dati giornaliero</item>
+        <item>Piano dati illimitato</item>
+     </string-array>
      <string-array name="traffic_type">
         <item>"Utilizzo dati "</item>
         <item>"Utilizzo Wi-Fi "</item>

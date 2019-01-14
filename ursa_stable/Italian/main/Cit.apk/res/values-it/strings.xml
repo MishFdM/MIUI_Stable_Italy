@@ -104,6 +104,7 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
      <string name="cit_audio_cali_TEMP">Temp:</string>
      <string name="cit_audio_cali_done">Calibrazione eseguita</string>
      <string name="cit_audio_cali_failed">Calibrazione fallita. Riprova.</string>
+     <string name="cit_audio_cali_fast_test_title">Speaker amplifier calibration fast test</string>
      <string name="cit_audio_cali_file_existed">File musicale inesistente, la calibrazione non può essere effettuata!</string>
      <string name="cit_audio_cali_playing">Premi il pulsante per iniziare la calibrazione</string>
      <string name="cit_audio_cali_q">Q:</string>
@@ -215,6 +216,9 @@ and reverse plug in the charger"</string>
      <string name="cit_def_torch_on_one">Turn on the first flash</string>
      <string name="cit_def_torch_on_three">Turn on the third flash</string>
      <string name="cit_def_torch_on_two">Turn on the second flash</string>
+     <string name="cit_diag_chaging_summary">Copy charge logger files to sdcard</string>
+     <string name="cit_diag_chaging_title">Read charge logger</string>
+     <string name="cit_diag_chaging_wait">Please wait... Copying files</string>
      <string name="cit_dial_emergencycall">Dial 112</string>
      <string name="cit_display_check_summary">Verifica che il file .bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
      <string name="cit_display_check_title">Test Schermo</string>
@@ -226,6 +230,7 @@ and reverse plug in the charger"</string>
      <string name="cit_external_sd_check_summary">Questo test verificherà lo stato della Scheda SD</string>
      <string name="cit_external_sd_check_title">Test Scheda SD</string>
      <string name="cit_fail">Fallito</string>
+     <string name="cit_fast_screen_touch_check_title">Fast touch screen check test</string>
      <string name="cit_finger_check_title">Test Lettore Impronte</string>
      <string name="cit_flash_life_check_summary">Vita stimata flash del dispositivo</string>
      <string name="cit_flash_life_check_title">Vita del flash</string>
@@ -304,6 +309,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_pull_detect_summary">Quando le cuffie sono scollegate, il testo \"Cuffie scollegate\" dovrebbe comparire di seguito.</string>
      <string name="cit_headset_pull_detect_title">Test Rimozione cuffie</string>
      <string name="cit_headset_pull_finish">Le cuffie sono state scollegate</string>
+     <string name="cit_headset_pull_finish_test">Disconnected headphones,finished test</string>
      <string name="cit_headset_pull_hint">Scollega le cuffie ora</string>
      <string name="cit_hide_menu">Chiudi menu</string>
      <string name="cit_hvdcp_charger_in">Charging via (USB_HVDCP)</string>
@@ -375,7 +381,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
 1.Tap the Camera button below to enter rear sub Camera interface
 2.Tap the shutter button
 3.System will save the photo automatically after capture
-4.The photo you took must be displayed on the screen, Tap Delete to complete the test."</string>
+4.The photo you took must be displayed on the screen, Tap Pass to complete the test."</string>
      <string name="cit_rear_sub_camera_check_title">Sub fotocamera posteriore</string>
      <string name="cit_rear_sub_second_camera_check_title">rear sub second camera</string>
      <string name="cit_recovery_signature_failed">firma di recupero FALLITO</string>
@@ -764,7 +770,7 @@ the specified position"</string>
 1.Tap the Camera button below to enter Ir Camera interface
 2.Tap the shutter button
 3.System will save the photo automatically after capture.
-4.The photo you took must be displayed on the screen. Tap Delete to complete the test."</string>
+4.The photo you took must be displayed on the screen. Tap Pass to complete the test."</string>
      <string name="ir_camera_test_summary_preview">"Test instructions:
 
 1.Tap the Preview button below to enter Camera interface
