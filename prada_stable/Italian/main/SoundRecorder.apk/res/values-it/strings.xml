@@ -39,7 +39,7 @@
      <string name="error_sdcard_access">Impossibile accedere alla scheda SD</string>
      <string name="error_sdcard_unmounted">Inserisci scheda SD ora</string>
      <string name="export_to_note">Esporta alle note</string>
-     <string name="head_set_tip_dialog_msg">Disconnetti le cuffie per poter registrare il suono con impostazioni specifiche (es., Musica, Voice).</string>
+     <string name="head_set_tip_dialog_msg">Disconnetti le cuffie per poter registrare il suono con impostazioni specifiche (es., Musica, Voce).</string>
      <string name="head_set_tip_dialog_ok">Ho capito</string>
      <string name="head_set_tip_dialog_title">Usa microfono interno</string>
      <string name="invalid_argument">Argomento illegale</string>
@@ -53,7 +53,7 @@
      <string name="menu">Menu</string>
      <string name="message_file_size_error">La registrazione ha raggiunto la lunghezza massima per %s</string>
      <string name="network_tip_dialog_cancel">Annulla</string>
-     <string name="network_tip_dialog_content">Il motore di riconoscimento vocale deve collegarsi as Internet per funzionare correttamente.</string>
+     <string name="network_tip_dialog_content">Il motore di riconoscimento vocale deve collegarsi ad Internet per funzionare correttamente.</string>
      <string name="network_tip_dialog_ok">Consenti</string>
      <string name="network_tip_dialog_title">"E' richiesta la connessione Internet"</string>
      <string name="new_record_name">Nuova registrazione</string>
