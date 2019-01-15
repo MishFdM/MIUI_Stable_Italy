@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="SDCard">Scheda SD</string>
      <string name="SD_INTERNAL_SDCard_mounted">Rileva Scheda SD interna</string>
@@ -68,7 +67,7 @@ Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'alto
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore."</string>
      <string name="cit_audio_loopback_check_summary_second">"Test feedback da microfono secondario all'altoparlante.
 
-Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
+Avvicina il dispositivo al volto e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
      <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
      <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
      <string name="cit_audio_loopback_next">Successivo</string>
@@ -228,8 +227,8 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità (posizionato in cima al dispositivo, vicino al ricevitore) con una mano, quindi sposta la mano. A questo punto, il valore dovrebbe aumentare.
 Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
      <string name="cit_proximity_sensor_check_title">Test Sensore di prossimità</string>
-     <string name="cit_rear_dual_camera_check_title">Doppia fotocamera posteriore</string>
-     <string name="cit_rear_sub_camera_check_title">Sub fotocamera posteriore</string>
+     <string name="cit_rear_dual_camera_check_title">Rear dual camera</string>
+     <string name="cit_rear_sub_camera_check_title">Rear sub camera</string>
      <string name="cit_recovery_signature_failed">firma di recupero FALLITO</string>
      <string name="cit_recovery_signature_passed">firma di recupero PASSATO</string>
      <string name="cit_reset_check_summary">Questo test riavvierà il dispositivo. Tutti i dati dei precedenti test andranno persi.</string>

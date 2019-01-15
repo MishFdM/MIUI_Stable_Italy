@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="A2DP_StreamOutput_Dump">A2DP Stream Output Dump</string>
      <string name="AGPS">AGPS</string>

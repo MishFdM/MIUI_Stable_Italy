@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD</string>
      <string name="accessibility_shutter_button">Scatta</string>
@@ -127,21 +126,13 @@
      <string name="preparing_sd">Preparazione memoria interna…</string>
      <string name="previous">Indietro</string>
      <string name="qr_code_details">Dettagli codice QR:</string>
-     <string name="recognition_ar_download_data_msg">Download AR recognition engine. Its size is about 13MB. Use mobile data to download?</string>
-     <string name="recognition_ar_download_msg">Download AR recognition engine. Its size is about 13MB.</string>
-     <string name="recognition_download_title">Just a sec…</string>
-     <string name="recognition_error_download_cancel">Later</string>
-     <string name="recognition_error_download_fail">"Couldn't download recognition engine"</string>
-     <string name="recognition_error_download_no_network">"Couldn't download. Make sure you're connected to the network."</string>
-     <string name="recognition_error_download_ok">Download</string>
-     <string name="recognition_error_download_title">Recognition engine is required</string>
-     <string name="recognition_error_downloading">Downloading recognition engine…</string>
      <string name="recognize">Scansione</string>
      <string name="recognize_fail">Impossibile leggere il codice</string>
      <string name="scan_result">Risultato</string>
      <string name="sdk_not_ready">Preparazione SDK. Riprova più tardi.</string>
      <string name="secure_access_web_url">Vai al sito web</string>
      <string name="see_app_details">Visualizza dettagli app</string>
+     <string name="select_dialog_confirm">OK</string>
      <string name="send_mail">Invia email</string>
      <string name="shopping_searching">Ricerca…</string>
      <string name="shopping_title">Acquisisci foto del prodotto</string>
@@ -150,6 +141,19 @@
      <string name="switch_open">Attiva</string>
      <string name="tel">Telefono</string>
      <string name="title">Titolo:</string>
+     <string name="translate_auto_lock">Blocca traduzione</string>
+     <string name="translate_auto_unlock">Sblocca traduzione</string>
+     <string name="translate_copy_success">Copiato con successo</string>
+     <string name="translate_dest_lang">Lingua di destinazione</string>
+     <string name="translate_fail">Impossibile tradurre</string>
+     <string name="translate_loading">Traduzione in corso…</string>
+     <string name="translate_save_fail">Impossibile salvare nota</string>
+     <string name="translate_src_lang">Lingua di origine</string>
+     <string name="translate_text_compare">Confronto</string>
+     <string name="translate_text_compare_copy">Copia</string>
+     <string name="translate_text_compare_save">Salva</string>
+     <string name="translate_try_again">Tocca per riprovare</string>
+     <string name="translate_type_take_pic">Foto</string>
      <string name="translation_language_chinese">Cinese</string>
      <string name="translation_language_english">Inglese</string>
      <string name="translation_language_french">Francese</string>

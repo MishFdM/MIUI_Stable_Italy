@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
      <string name="account_container_title">Importato da</string>
@@ -999,7 +998,7 @@ Scegli una delle seguenti opzioni:"</string>
      <string name="valentines_day">情人节</string>
      <string name="vcard_export_request_rejected_message">Richiesta esportazione vCard rifiutata. Riprova più tardi.</string>
      <string name="vcard_export_will_start_message">La vCard %s verrà esportata a breve.</string>
-     <string name="vcard_import_failed">Impossibile importare vCard.</string>
+     <string name="vcard_import_failed">"Impossibile importare vCard"</string>
      <string name="vcard_import_request_rejected_message">Richiesta importazione vCard rifiutata. Riprova più tardi.</string>
      <string name="vcard_import_will_start_message">La vCard %s verrà importata a breve.</string>
      <string name="vcard_import_will_start_message_with_default_name">Il file sarà importato a breve.</string>

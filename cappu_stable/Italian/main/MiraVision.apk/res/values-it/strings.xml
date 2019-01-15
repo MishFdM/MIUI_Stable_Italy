@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="aal_header">Retroilluminazione schermo</string>
      <string name="aal_item">Regolazione sensibile alla luce ambientale</string>

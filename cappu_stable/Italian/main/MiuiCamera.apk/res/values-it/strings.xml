@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Import</string>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
@@ -405,7 +404,7 @@ touch the Shutter button"</string>
      <string name="pref_camera_video_duration_entry_mms">30 secondi (MMS)</string>
      <string name="pref_camera_video_duration_title">Video duration</string>
      <string name="pref_camera_videoencoder_default">h264</string>
-     <string name="pref_camera_volumekey_function_entry_exposure">Esposizione</string>
+     <string name="pref_camera_volumekey_function_entry_exposure">Exposure</string>
      <string name="pref_camera_volumekey_function_entry_shutter">Scatta foto</string>
      <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
@@ -537,7 +536,7 @@ touch the Shutter button"</string>
      <string name="times">Times</string>
      <string name="title">Title</string>
      <string name="toast_burst_snap_finished_end">photos</string>
-     <string name="toast_burst_snap_finished_start">Burst shot</string>
+     <string name="toast_burst_snap_finished_start">Burst shoot finished:</string>
      <string name="toast_burst_snap_forbidden_when_audio_capture_open">Impossibile acquisire scatti multipli durante la registrazione audio</string>
      <string name="toast_burst_snap_forbidden_when_face_beauty_open">Burst shooting is not supported when enhance skin tones is enabled</string>
      <string name="toast_burst_snap_forbidden_when_hdr_open">Burst shoot is not supported when HDR is ON</string>

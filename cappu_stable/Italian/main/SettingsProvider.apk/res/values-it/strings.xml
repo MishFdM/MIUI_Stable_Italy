@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_label">Impostazioni memoria</string>
      <string name="def_accessibility_screen_reader_url">https://ssl.gstatic.com/accessibility/javascript/android/AndroidVox_v1.js</string>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_label">Archiviazione contatti</string>
      <string name="debug_dump_database_message">"Attenzione: stai per creare una copia di sicurezza di tutte le informazioni di contatto e di tutti i registri chiamate nella memoria interna da inviare tramite email. Ricorda di eliminare la copia in locale non appena ricevi l'email."</string>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_call_muted">Chiamata silenziata.</string>
      <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale e potrebbe influenzare il normale funzionamento.</string>
@@ -106,7 +105,7 @@
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
      <string name="connected_via_passpoint">Connected via %1$s</string>
-     <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+     <string name="connected_via_wfa">Connected via WLAN assistant</string>
      <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
  This feature is alpha, and may not work correctly.
