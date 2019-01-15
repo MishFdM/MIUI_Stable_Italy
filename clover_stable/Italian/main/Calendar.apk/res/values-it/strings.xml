@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
      <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
