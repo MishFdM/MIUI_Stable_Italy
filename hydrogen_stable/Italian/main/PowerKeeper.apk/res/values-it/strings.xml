@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="about_extreme_mode">Risparmio energetico estremo</string>
      <string name="about_hide_mode">Informazioni su Risparmio Batteria MIUI</string>
@@ -9,6 +8,9 @@
      <string name="app_preload_policies_summary">"Usa l'apprendimento macchina per predirre quali app avranno maggiore probabilità di essere utilizzate, e carica le risorse in anticipo."</string>
      <string name="app_preload_policies_title">Pre-caricamento AI</string>
      <string name="appconfig_active_app_dialog_title">Gestione config. app attive</string>
+     <string name="atrace_saved">Salvataggio riuscito</string>
+     <string name="atrace_saving">Salvataggio log atrace…</string>
+     <string name="atrace_start">Registrazione log atrace…</string>
      <string name="base_info">Info base</string>
      <string name="cloud_addr_info">Modalità oscuramento info cloud</string>
      <string name="cloud_china_addr">Aggiorna dati server cinese</string>
@@ -39,6 +41,8 @@
      <string name="failure">fallito</string>
      <string name="hide_mode_desc">" <font color="#000000">"Quando un'app viene eseguita in background, le sue attività verranno monitorate per ridurre l'utilizzo della batteria. Questa funzionalità otterrà ed utilizzerà i dati dell'utente in base alla %s"</font>"</string>
      <string name="hide_system_app">Nascondi app di sistema</string>
+     <string name="high_temp_state">Alta temperatura</string>
+     <string name="high_temp_state_message">La protezione dalle alte temperature, i dati, il wifiap, il gps, la videocamera ecc. Saranno soggetti a restrizioni</string>
      <string name="hints_loading_text">Solo un attimo…</string>
      <string name="important_warning">Attenzione</string>
      <string name="lasttime_applist_cloud">Ultimo aggiornamento lista app：</string>

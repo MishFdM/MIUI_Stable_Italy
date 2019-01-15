@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="admin_has_ability_to_monitor_device">"L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'accesso aziendale, applicazioni e i dati associati a questo dispositivo, tra cui attività di rete e le informazioni sulla posizione del dispositivo."</string>
      <string name="admin_has_ability_to_monitor_profile">"L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'accesso aziendale, applicazioni e i dati associati al profilo, tra cui attività di rete e le informazioni sulla posizione del dispositivo."</string>
