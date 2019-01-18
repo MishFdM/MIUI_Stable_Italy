@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="add_secret_ensure_message">
         <item quantity="other">Nascondere questi file?</item>
@@ -76,6 +75,10 @@
      <plurals name="cloud_storage_video_num">
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
+     </plurals>
+     <plurals name="creation_max_image">
+        <item quantity="other">Seleziona fino a %d foto</item>
+        <item quantity="one">Seleziona fino a %d foto</item>
      </plurals>
      <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elementi selezionati</item>
