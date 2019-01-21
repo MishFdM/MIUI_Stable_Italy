@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="aquarius_info">
         <item>aquario</item>
@@ -46,11 +45,11 @@
         <item>Tutti gli eventi</item>
      </string-array>
      <string-array name="edit_event_dislike">
-        <item>No event type I want to create</item>
-        <item>More Settings</item>
-        <item>Some Settings cannot be determined</item>
-        <item>Just look around</item>
-        <item>"Don't tell you"</item>
+        <item>Nessun tipo di evento che voglio creare</item>
+        <item>Più Impostazioni</item>
+        <item>Alcune impostazioni non possono essere determinate</item>
+        <item>Guardati intorno</item>
+        <item>Non dirlo</item>
      </string-array>
      <string-array name="gemini_info">
         <item>gemelli</item>
