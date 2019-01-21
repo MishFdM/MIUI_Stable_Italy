@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="bluetooth_dun_acceptance_dialog_text">"%1$s vorrebbe utilizzare DUN. Concedere l'accesso a %2$s?"</string>
      <string name="bluetooth_dun_request">Richiesta DUN</string>

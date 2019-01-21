@@ -644,7 +644,7 @@ Per sbloccare, premi e tieni premuti insieme i pulsanti Home e Power."</string>
      <string name="lock_to_app_unlock_password">Richiedi password prima di sbloccare</string>
      <string name="lock_to_app_unlock_pattern">Richiedi sequenza di sblocco prima di sbloccare</string>
      <string name="lock_to_app_unlock_pin">Richiedi il PIN prima di sbloccare</string>
-     <string name="lockscreen_access_pattern_area">Area pattern.</string>
+     <string name="lockscreen_access_pattern_area">Area sequenza</string>
      <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
      <string name="lockscreen_access_pattern_cell_added_verbose">%1$s celle aggiunte</string>
      <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
@@ -883,6 +883,7 @@ Riprova tra %d secondi."</string>
      <string name="notification_channel_voice_mail">Voicemail messages</string>
      <string name="notification_channel_vpn">Stato VPN</string>
      <string name="notification_channel_wfc">Chiamata Wi-Fi</string>
+     <string name="notification_description">Stato chiamata vocale</string>
      <string name="notification_header_divider_symbol">•</string>
      <string name="notification_header_divider_symbol_with_spaces">" • "</string>
      <string name="notification_hidden_text">Contenuto nascosto</string>
@@ -1047,7 +1048,7 @@ Riprova tra %d secondi."</string>
      <string name="permgrouplab_sensors">Sensori</string>
      <string name="permgrouplab_sms">SMS</string>
      <string name="permgrouplab_storage">Archiviazione</string>
-     <string name="permission">Permesso</string>
+     <string name="permission">Permission</string>
      <string name="permission_request_notification_title">Autorizzazione richiesta</string>
      <string name="permission_request_notification_with_subtitle">"Autorizzazione richiesta
 per l'account %s."</string>
@@ -1392,6 +1393,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="status_bar_ethernet">ethernet</string>
      <string name="status_bar_mobile">mobile</string>
      <string name="status_bar_vpn">vpn</string>
+     <string name="status_communication_speaker_summary">A hands-free call is in progress. Audio will still be played through the speaker when headphones are connected.</string>
+     <string name="status_communication_summary">A call is in progress. You can only adjust call volume now.</string>
      <string name="stk_cc_ss_to_dial">La richiesta SS è stata modificata in richiesta DIAL.</string>
      <string name="stk_cc_ss_to_ss">La richiesta SS è stata modificata in nuova richiesta SS.</string>
      <string name="stk_cc_ss_to_ussd">La richiesta SS è stata modificata in richiesta USSD.</string>
@@ -1416,6 +1419,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="system_error_wipe_data">Si è verificato un problema interno con il dispositivo, che potrebbe essere instabile fino al ripristino dei dati di fabbrica.</string>
      <string name="taking_remote_bugreport_notification_title">Esecuzione bug report…</string>
      <string name="tethered_notification_message">Tocca per configurare</string>
+     <string name="tethered_notification_no_device_message">Nessun dispositivo connesso</string>
      <string name="tethered_notification_title">Tethering o hotspot attivo</string>
      <string name="textSelectionCABTitle">Selezione testo</string>
      <string name="text_copied">Testo copiato negli appunti.</string>
