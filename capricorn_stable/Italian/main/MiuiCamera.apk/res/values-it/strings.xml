@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
      <string name="accessibility_audio_shutter_bg">Sfondo scatto vocale</string>
@@ -75,6 +74,8 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
      <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
+     <string name="hint_groupshot">"La fotocamera scatterà foto multiple
+e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="message_snap_double_confirm">La funzionalità attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
      <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
      <string name="not_enough_space">Scheda SD piena.</string>
@@ -297,7 +298,7 @@ lo sfondo sulle tue foto"</string>
      <string name="pref_camera_video_duration_entry_120">2 ore</string>
      <string name="pref_camera_video_duration_entry_30">30 minuti</string>
      <string name="pref_camera_video_duration_entry_mms">30 secondi (MMS)</string>
-     <string name="pref_camera_volumekey_function_entry_exposure">Esposizione</string>
+     <string name="pref_camera_volumekey_function_entry_exposure">Exposure</string>
      <string name="pref_camera_volumekey_function_entry_shutter">Scatta foto</string>
      <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
@@ -315,7 +316,7 @@ lo sfondo sulle tue foto"</string>
      <string name="pref_camera_zsl_entry_on">Attivato</string>
      <string name="pref_capture_settings">Impostazioni fotocamera</string>
      <string name="pref_face_beauty_title">Bellezza</string>
-     <string name="pref_front_mirror_entry_auto">Quando il viso viene rilevato</string>
+     <string name="pref_front_mirror_entry_auto">Quando il volto viene rilevato</string>
      <string name="pref_front_mirror_entry_off">Disattivato</string>
      <string name="pref_front_mirror_entry_on">Attivato</string>
      <string name="pref_front_mirror_label_auto">Auto</string>
@@ -370,7 +371,7 @@ lo sfondo sulle tue foto"</string>
      <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
      <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi contemporaneamente i pulsanti volume su e indietro.</string>
      <string name="screen_on_proximity_sensor_summary">"Non coprire l'area auricolari"</string>
-     <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento viso;Suono fotocamera</string>
+     <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento volto;Suono fotocamera</string>
      <string name="see_qrcode_detals">Dettagli codice QR</string>
      <string name="simple_mode_button_asd_flash">Chiudi scatto Flash</string>
      <string name="simple_mode_button_asd_hdr">Chiudi scatto HDR</string>

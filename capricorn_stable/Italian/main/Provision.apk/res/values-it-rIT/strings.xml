@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_enabled">Accessibilità attivata.</string>
      <string name="agree">OK</string>
@@ -59,6 +58,9 @@
      <string name="other_settings_ad_enable_summary">Suggerisci pubblicità personalizzate basate sulle tue abitudini</string>
      <string name="other_settings_auto_update">Aggiorna automaticamente</string>
      <string name="other_settings_auto_update_summary">"MIUI sceglierà il tempo di attesa per scaricare ed installare gli aggiornamenti."</string>
+     <string name="other_settings_enhanced_lockscreen">Carousel sfondi</string>
+     <string name="other_settings_enhanced_lockscreen_summary">Ricevi ogni giorno immagini e storie selezionate, direttamente sulla schermata di blocco. Accetta i Termini e Condizioni.</string>
+     <string name="other_settings_enhanced_lockscreen_summary_index">Termini e Condizioni</string>
      <string name="other_settings_location">Localizzazione</string>
      <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
      <string name="other_settings_upload_debug_log_summary">"I dati per la diagnosi possono includere informazioni sull'utilizzo dell'hardware, sistema e app. I dati verranno utilizzati per individuare e analizzare i problemi nel sistema, non verranno mai utilizzati per rilevare la tua identità."</string>
@@ -114,4 +116,5 @@ Devi accettare la Normativa sulla Privacy di Kika prima di utilizzare questa fun
      <string name="voice_assist_desp">Pronuncia \"Mi AI\" davanti al telefono. Mi AI riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
      <string name="voice_assist_title">Attiva con la voce</string>
      <string name="welcome">Benvenuto</string>
+     <string name="zone_picker_title">Choose time zone</string>
 </resources>

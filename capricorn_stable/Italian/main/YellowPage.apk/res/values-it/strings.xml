@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="about_privacy">Informativa sulla Privacy</string>
      <string name="about_smart_antispam_summary">Informazioni sul rilevamento di numeri sconosciuti da parte di Smart Antispam</string>
@@ -148,23 +147,6 @@
      <string name="menu_save_contact">Salva come contatto</string>
      <string name="minimum_price">Da %d RMB</string>
      <string name="mishop_web_payment_title">Pagamento Mi Store</string>
-     <string name="miuishare_account_activate_confirmation">Activate Mi Account</string>
-     <string name="miuishare_account_activate_ok">Activate</string>
-     <string name="miuishare_account_login_cancel">Cancel</string>
-     <string name="miuishare_account_login_confirmation">Sign in to Mi Account</string>
-     <string name="miuishare_account_login_ok">Sign in</string>
-     <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activate your Mi Account to continue.</string>
-     <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
-     <string name="miuishare_app_name">MIUI Share</string>
-     <string name="miuishare_no_network">"Couldn't connect to the network."</string>
-     <string name="miuishare_publish">Send</string>
-     <string name="miuishare_qzone_title">Qzone</string>
-     <string name="miuishare_share_done">Shared successfully</string>
-     <string name="miuishare_share_editor_title">Share</string>
-     <string name="miuishare_title_more">More</string>
-     <string name="miuishare_title_share">Share</string>
-     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
-     <string name="miuishare_weibo_title">Weibo</string>
      <string name="more_coupons">Tutti i coupon</string>
      <string name="more_mark_category">Altro</string>
      <string name="navigation_search_all_cities">Tutte</string>

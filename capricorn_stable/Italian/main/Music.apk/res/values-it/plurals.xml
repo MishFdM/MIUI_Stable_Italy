@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="Nalbum_total_songs">
         <item quantity="other">%d brani totale</item>
@@ -24,13 +23,12 @@ Do you want us to help renew it?"</item>
         <item quantity="one">La riproduzione terminerà tra %d minuto</item>
      </plurals>
      <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Creato il %1$s sul totale %2$d brani</item>
-        <item quantity="zero">Creato il %1$s sul totale %2$d brani</item>
-        <item quantity="one">Creato il %1$s sul totale %2$d brano</item>
+        <item quantity="other">Creato %1$s su un totale di %2$d brani</item>
+        <item quantity="one">Creato %1$s su un totale di %2$d brano</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d brani aggiunti alla playlist</item>
-        <item quantity="one">%d  brano aggiunto alla playlist</item>
+        <item quantity="one">%d brano aggiunto alla playlist</item>
      </plurals>
      <plurals name="Ntracks_count">
         <item quantity="other">%d brani</item>
@@ -81,6 +79,14 @@ Note: File will be deleted from this device as well."</item>
      <plurals name="multichoice_title">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
+     </plurals>
+     <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Downloading %1$d songs</item>
+        <item quantity="one">Downloading %1$d song</item>
+     </plurals>
+     <plurals name="notification_download_failed_more">
+        <item quantity="other">"Couldn't download %1$d songs"</item>
+        <item quantity="one">"Couldn't download %1$d song"</item>
      </plurals>
      <plurals name="reader_count">
         <item quantity="other">%d follower</item>
