@@ -15,6 +15,7 @@
      <string name="miota_package">com.android.updater</string>
      <string name="notif_title_file_size">Totale %1$d</string>
      <string name="notif_title_single_downloading">Download in corso %1$s</string>
+     <string name="notification_dld_msg">Manage apps that are being downloaded</string>
      <string name="notification_download_complete">Download completato.</string>
      <string name="notification_download_failed">Download non riuscito.</string>
      <string name="notification_need_wifi_for_size">Wi-Fi richiesto per download</string>

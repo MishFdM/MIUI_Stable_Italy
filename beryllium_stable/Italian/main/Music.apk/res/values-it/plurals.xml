@@ -8,10 +8,6 @@
         <item quantity="other">Associazione album e testi (%1$d/%2$d brani)</item>
         <item quantity="one">Associazione album e testi (%1$d/%2$d brano)</item>
      </plurals>
-     <plurals name="Nbackup_songs">
-        <item quantity="other">Backing up songs, %1$d songs remaining (%2$.1fMB)</item>
-        <item quantity="one">Backing up songs, %1$d song remaining (%2$.1fMB)</item>
-     </plurals>
      <plurals name="Ndialog_renew_content">
         <item quantity="other">"La tua iscrizione scadrà tra %d giorni.
 Desideri aiuto per il rinnovo?"</item>
@@ -30,10 +26,6 @@ Desideri aiuto per il rinnovo?"</item>
         <item quantity="other">Creato %1$s su un totale di %2$d brani</item>
         <item quantity="one">Creato %1$s su un totale di %2$d brano</item>
      </plurals>
-     <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">"%d songs haven't been backed up to Mi Cloud. Stop now?"</item>
-        <item quantity="one">"%d song hasn't been backed up to Mi Cloud. Stop now?"</item>
-     </plurals>
      <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d brani aggiunti alla playlist</item>
         <item quantity="one">%d brano aggiunto alla playlist</item>
@@ -49,14 +41,6 @@ Desideri aiuto per il rinnovo?"</item>
      <plurals name="Ntracks_similar_count">
         <item quantity="other">%d brani simili</item>
         <item quantity="one">%d brano simile</item>
-     </plurals>
-     <plurals name="Nunbackup_audios">
-        <item quantity="other">"%1$d songs haven't been backed up (%2$.1fMB)\""</item>
-        <item quantity="one">"%1$d song hasn't been backed up (%2$.1fMB)"</item>
-     </plurals>
-     <plurals name="Nupload_song_button">
-        <item quantity="other">Back up %1$d songs (%2$.1fMB)</item>
-        <item quantity="one">Back up %1$d song (%2$.1fMB)</item>
      </plurals>
      <plurals name="comment_count">
         <item quantity="other">%d commenti</item>
@@ -80,10 +64,6 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="other">Rimuovere %d brani?</item>
         <item quantity="one">Rimuovere %d brano?</item>
      </plurals>
-     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Delete %d songs from Mi Cloud? They will be deleted from local playlists as well.</item>
-        <item quantity="one">Delete %d song from Mi Cloud? It will be deleted from local playlists as well.</item>
-     </plurals>
      <plurals name="download_finished">
         <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> scaricati</item>
         <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> scaricato</item>
@@ -99,6 +79,14 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
      <plurals name="multichoice_title">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
+     </plurals>
+     <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Downloading %1$d files</item>
+        <item quantity="one">Downloading %1$d file</item>
+     </plurals>
+     <plurals name="notification_download_failed_more">
+        <item quantity="other">"Couldn't download %1$d items"</item>
+        <item quantity="one">"Couldn't download %1$d item"</item>
      </plurals>
      <plurals name="reader_count">
         <item quantity="other">%d follower</item>
@@ -119,6 +107,10 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
      <plurals name="songs_count">
         <item quantity="other">%d brani</item>
         <item quantity="one">%d brano</item>
+     </plurals>
+     <plurals name="video_count">
+        <item quantity="other">Video</item>
+        <item quantity="one">Video</item>
      </plurals>
      <plurals name="video_play_count">
         <item quantity="other">%1$s visualizzazioni</item>

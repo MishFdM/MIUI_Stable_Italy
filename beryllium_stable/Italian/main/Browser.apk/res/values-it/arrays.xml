@@ -105,6 +105,14 @@
         <item>Musica</item>
         <item>http://portal.tre.it/quick/menu?item=12</item>
      </string-array>
+     <string-array name="bookmarks_it_vodafone">
+        <item>My Vodafone</item>
+        <item>http://my190.vodafone.it</item>
+        <item>Apps</item>
+        <item>http://m.vodafone.it/pages/apps</item>
+        <item>Vodafone</item>
+        <item>http://m.vodafone.it</item>
+     </string-array>
      <string-array name="bookmarks_it_wind">
         <item>Google</item>
         <item>https://google.it</item>
