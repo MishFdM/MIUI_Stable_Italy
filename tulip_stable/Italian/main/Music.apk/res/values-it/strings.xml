@@ -731,7 +731,6 @@ E gioiscine"</string>
 
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>
      <string name="wifi_required_title">"File troppo grande per la rete dell'operatore"</string>
-     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
      <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
      <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
 Size: %2$s"</string>
@@ -739,6 +738,4 @@ Size: %2$s"</string>
 Delta update size: %2$s"</string>
      <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
      <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
 </resources>

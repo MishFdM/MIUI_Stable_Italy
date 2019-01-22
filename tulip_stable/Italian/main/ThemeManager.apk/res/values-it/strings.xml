@@ -635,8 +635,6 @@
      <string name="video_data_tips_message">"L'utilizzo di dati mobili può comportare costi aggiuntivi. Continuare comunque?"</string>
      <string name="video_data_tips_title">Avviso utilizzo dati</string>
      <string name="video_silence_apply_success">Configurazione video senza suono riuscita</string>
-     <string name="vip_level_dialog_positive">我知道了</string>
-     <string name="vip_level_dialog_title">温馨提示</string>
      <string name="wallpaper_apply">Applica</string>
      <string name="wallpaper_crop">Taglia</string>
      <string name="wallpaper_decoded_error">Decodifica fallita</string>
