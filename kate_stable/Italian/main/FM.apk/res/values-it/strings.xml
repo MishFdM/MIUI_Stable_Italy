@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="alert_frequency_duplicate">Frequenza già esistente</string>
      <string name="alert_invalid_frequency">Frequenza non valida!</string>

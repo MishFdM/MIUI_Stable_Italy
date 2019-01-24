@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -36,6 +35,7 @@
      <string name="ad_app_is_downloading">Download in corso...</string>
      <string name="add_resource_detail_fail">Impossibile aggiungere risorsa</string>
      <string name="all_resources">Tutto</string>
+     <string name="app_ad_title">Daily Recommendations</string>
      <string name="app_name">Temi</string>
      <string name="apply_default_font_tip">Vuoi continuare a utilizzare il font attuale del sistema?</string>
      <string name="apply_font_btn_exclude">Applica senza font</string>
@@ -64,15 +64,35 @@
      <string name="character_counter_pattern">%1$d di %2$d</string>
      <string name="classification_more_understand_you">Seleziona la tua categoria preferita</string>
      <string name="close">Chiudi</string>
+     <string name="common_google_play_services_enable_button">Enable</string>
+     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+     <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+     <string name="common_google_play_services_install_button">Install</string>
+     <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+     <string name="common_google_play_services_install_title">Get Google Play services</string>
+     <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+     <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+     <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+     <string name="common_google_play_services_update_button">Update</string>
+     <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+     <string name="common_google_play_services_update_title">Update Google Play services</string>
+     <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+     <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+     <string name="common_open_on_phone">Open on phone</string>
+     <string name="common_signin_button_text">Sign in</string>
+     <string name="common_signin_button_text_long">Sign in with Google</string>
      <string name="component_backup_preference_title">Backup tema</string>
      <string name="component_category_finest_title">In evidenza</string>
      <string name="component_category_more_title">Altro</string>
      <string name="component_title_ringtone">Suonerie</string>
+     <string name="component_title_settings_video_wallpaper">Sfondi con effetti speciali</string>
      <string name="component_title_video_wallpaper">Sfondi filmato</string>
      <string name="component_title_wallpaper">Sfondi</string>
      <string name="current_using_desktop_wallpaper_text">Home</string>
      <string name="current_using_lockscreen_wallpaper_text">Schermata di blocco</string>
      <string name="current_version_incompatible">Incompatibilità di versione</string>
+     <string name="default_web_client_id">1067392201555-n4e19u8ssjk67pqha7bqovdlbq4j5r14.apps.googleusercontent.com</string>
      <string name="deleting">Eliminazione…</string>
      <string name="description_author">Autore:</string>
      <string name="description_designer">Designer:</string>
@@ -130,6 +150,8 @@
      <string name="favorite_list_format">%1$s preferiti</string>
      <string name="find_more_theme">Trova altro</string>
      <string name="find_more_wallpapers">Cerca altri</string>
+     <string name="firebase_database_url">https://thememanager-f0d62.firebaseio.com</string>
+     <string name="gcm_defaultSenderId">1067392201555</string>
      <string name="gift_anonymous">Anonimo</string>
      <string name="gift_operation_fail_dlg_abandon">Annulla</string>
      <string name="gift_operation_fail_dlg_retry">Riprova</string>
@@ -162,8 +184,15 @@
      <string name="gift_use_confirmation_dlg_title">Inviare questo regalo?</string>
      <string name="gift_use_fail_dlg_title">Si è verificato un errore</string>
      <string name="gift_used">Inviato</string>
+     <string name="google_api_key">AIzaSyANYOs19YEEcrI_FhJhLXwGFiriEBtY6os</string>
+     <string name="google_app_id">1:1067392201555:android:fb80d52055998cf5</string>
+     <string name="google_crash_reporting_api_key">AIzaSyANYOs19YEEcrI_FhJhLXwGFiriEBtY6os</string>
+     <string name="google_storage_bucket">thememanager-f0d62.appspot.com</string>
      <string name="hide_free">"Nascondi gratis %1$s "</string>
      <string name="hide_incompatible">"Nascondi incompatibili %1$s"</string>
+     <string name="hide_pull_down_message">Hide trinket?</string>
+     <string name="hide_pull_down_negative">"Don't hide"</string>
+     <string name="hide_pull_down_positive">Hide</string>
      <string name="home_apply_failured">Impossibile applicare lo sfondo Home</string>
      <string name="home_apply_success">Sfondo Home applicato</string>
      <string name="in_the_end">"Nient'altro"</string>
@@ -223,6 +252,7 @@
      <string name="my_gifts_purchased">Acquistati</string>
      <string name="my_gifts_received">Ricevuti</string>
      <string name="no_data">Impossibile collegarsi alla rete</string>
+     <string name="no_net_work_connection">Check your network settings and try again.</string>
      <string name="online_no_network">Impossibile connettere alla rete</string>
      <string name="online_precust_abstract">Astratti</string>
      <string name="online_precust_animal">Animali</string>
@@ -240,10 +270,14 @@
      <string name="present_local_themes_subtitle">Personalizza il tuo dispositivo</string>
      <string name="present_official_themes">Selezione ufficiale</string>
      <string name="present_online_themes">Online</string>
+     <string name="project_id">thememanager-f0d62</string>
      <string name="provision_default_theme_title">Predefinito</string>
      <string name="provision_loading_tips">Solo un attimo…</string>
      <string name="provision_second_title">Seleziona uno dei 5 temi predefiniti</string>
      <string name="provision_title">Scegli un tema</string>
+     <string name="pull_down_view_error_message">Whoops! No internet connection found. Check your connection or try again.</string>
+     <string name="pull_down_view_refresh">Refresh</string>
+     <string name="pull_down_view_title">"What's new"</string>
      <string name="purchased_list">Temi acquistati</string>
      <string name="purchased_list_current">MIUI 9</string>
      <string name="purchased_list_legacy">Vecchie versioni</string>
@@ -256,6 +290,7 @@
      <string name="refresh_footer_release">Rilascia per caricare altro</string>
      <string name="region_not_support">Spiacenti, temi non supportati nel tuo Paese.</string>
      <string name="reload">Riprova</string>
+     <string name="request_time_out">Request timed out. Try again.</string>
      <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
      <string name="resource_account_fail_to_add">Impossibile aggiungere account!</string>
      <string name="resource_account_login">Accedi</string>
@@ -467,12 +502,21 @@
      <string name="resource_waiting_pause">Pausa</string>
      <string name="resource_wallpaper_download">Scarica sfondo</string>
      <string name="ringtone_set_success">Impostato correttamente</string>
+     <string name="s1">Save image</string>
+     <string name="s2">Allow Ad to store image in Picture gallery?</string>
+     <string name="s3">Accept</string>
+     <string name="s4">Decline</string>
+     <string name="s5">Create calendar event</string>
+     <string name="s6">Allow Ad to create a calendar event?</string>
+     <string name="s7">Test Ad</string>
      <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora</string>
      <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
      <string name="search_hint_header_text">Parole più ricercate</string>
      <string name="search_menu_title">Cerca</string>
      <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
+     <string name="server_internal_error">A server error occurred. Wait a minute or two and try again.</string>
      <string name="set_color_ring_back_tone">Imposta colore tono di risposta</string>
+     <string name="set_home_wallpaper_failed">"%s. Can't apply Home screen wallpaper."</string>
      <string name="settings">Impostazioni</string>
      <string name="shortcut_add">Aggiungi icona</string>
      <string name="shortcut_cancel">No grazie</string>
@@ -481,6 +525,7 @@
      <string name="shortcut_title">Ti sono piaciuti i nostri sfondi?</string>
      <string name="show_free">Mostra gratuiti %1$s</string>
      <string name="show_incompatible">Mostra non compatibili %1$s</string>
+     <string name="swipe_find_more">Swipe up to view more</string>
      <string name="system_precust">Sfondi di sistema</string>
      <string name="tag_ad">AD</string>
      <string name="the_picture_is_not_support">"L'immagine non è supportata"</string>
@@ -524,6 +569,9 @@
      <string name="theme_current_using_has_update">Il tema attuale è stato aggiornato, premi qui per applicare</string>
      <string name="theme_description_title_customized">Modificato</string>
      <string name="theme_description_title_default">Predefinito</string>
+     <string name="theme_detail_tab_comment">Commenti</string>
+     <string name="theme_detail_tab_recommend">Consigliati</string>
+     <string name="theme_detail_tab_theme">Temi</string>
      <string name="theme_empty_redirect">Torna allo Store dei Temi</string>
      <string name="theme_favorite_add_fail">Impossibile aggiungere ai preferiti</string>
      <string name="theme_favorite_add_success">Tema tra i preferiti</string>

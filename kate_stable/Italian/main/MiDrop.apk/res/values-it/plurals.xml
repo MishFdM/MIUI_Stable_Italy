@@ -1,59 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="sender_file_num">
-        <item quantity="other">In attesa per %1$d file…</item>
-        <item quantity="one">In attesa per %1$d file…</item>
-    </plurals>
-    <plurals name="receiver_file_num">
-        <item quantity="other">%2$d file da %1$s</item>
-        <item quantity="one">%2$d file da %1$s</item>
-    </plurals>
-    <plurals name="receiver_file_current">
-        <item quantity="other">Ricezione di %2$d file da %1$s…</item>
-        <item quantity="one">Recezione di %2$d file da %1$s…</item>
-    </plurals>
-    <plurals name="receiver_pic_file_num">
-        <item quantity="other">%2$d immagini da %1$s</item>
-        <item quantity="one">%2$d immagini da %1$s</item>
-    </plurals>
-    <plurals name="receiver_pic_file_current">
-        <item quantity="other">Ricezione di %2$d immagini da %1$s…</item>
-        <item quantity="one">Ricezione di %2$d immagini da %1$s…</item>
-    </plurals>
-    <plurals name="receiver_audio_file_num">
-        <item quantity="other">%2$d canzoni da %1$s</item>
-        <item quantity="one">%2$d canzoni da %1$s</item>
-    </plurals>
-    <plurals name="receiver_audio_file_current">
-        <item quantity="other">Ricezione di %2$d canzoni da %1$s…</item>
-        <item quantity="one">Ricezione di %2$d canzoni da %1$s…</item>
-    </plurals>
-    <plurals name="receiver_video_file_num">
-        <item quantity="other">%2$d video da %1$s</item>
-        <item quantity="one">%2$d video da %1$s</item>
-    </plurals>
-    <plurals name="receiver_video_file_current">
-        <item quantity="other">Ricezione di %2$d video da %1$s…</item>
-        <item quantity="one">Receiving di %2$d video da %1$s…</item>
-    </plurals>
-    <plurals name="receiver_apk_file_num">
-        <item quantity="other">%2$d app da %1$s</item>
-        <item quantity="one">%2$d app da %1$s</item>
-    </plurals>
-    <plurals name="receiver_apk_file_current">
-        <item quantity="other">Ricezione di %2$d app da %1$s…</item>
-        <item quantity="one">Recezione di %2$d app da %1$s…</item>
-    </plurals>
-    <plurals name="notif_receive_progress">
-        <item quantity="other">Ricezione di %1$s file…</item>
-        <item quantity="one">Ricezione di %1$s file…</item>
-    </plurals>
-    <plurals name="notif_receive_cancel">
-        <item quantity="other">%1$s file non trasferiti</item>
-        <item quantity="one">%1$s file non trasferito</item>
-    </plurals>
-    <plurals name="notif_receive_success">
-        <item quantity="other">Ricevuti %1$s file</item>
-        <item quantity="one">Ricevuti %1$s file</item>
-    </plurals>
+     <plurals name="a">
+        <item quantity="other">Delete %d selected files?</item>
+        <item quantity="one">Delete %d selected file?</item>
+     </plurals>
+     <plurals name="b">
+        <item quantity="other">Canceled transfer from %1$s</item>
+        <item quantity="one">Canceled transfer from %1$s</item>
+     </plurals>
+     <plurals name="c">
+        <item quantity="other">Receiving %1$s files…</item>
+        <item quantity="one">Receiving %1$s file…</item>
+     </plurals>
+     <plurals name="d">
+        <item quantity="other">Received files from %1$s successfully</item>
+        <item quantity="one">Received file from %1$s successfully</item>
+     </plurals>
+     <plurals name="e">
+        <item quantity="other">%2$d files from %1$s</item>
+        <item quantity="one">%2$d file from %1$s</item>
+     </plurals>
+     <plurals name="f">
+        <item quantity="other">%1$s and %2$s other items are already being transferred.</item>
+        <item quantity="one">%1$s and %2$s other item are already being transferred.</item>
+     </plurals>
+     <plurals name="g">
+        <item quantity="other">Selected %d items</item>
+        <item quantity="one">Selected %d item</item>
+     </plurals>
+     <plurals name="h">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+     </plurals>
+     <plurals name="i">
+        <item quantity="other">Receive %1$d files (%2$s)</item>
+        <item quantity="one">Receive %1$d file (%2$s)</item>
+     </plurals>
+     <plurals name="j">
+        <item quantity="other">Send %1$d files (%2$s)</item>
+        <item quantity="one">Send %1$d file (%2$s)</item>
+     </plurals>
+     <plurals name="k">
+        <item quantity="other">Found updates for %d apps</item>
+        <item quantity="one">Found updates for %d app</item>
+     </plurals>
+     <plurals name="l">
+        <item quantity="other">%1$s shared %2$s items</item>
+        <item quantity="one">%1$s shared %2$s item</item>
+     </plurals>
 </resources>

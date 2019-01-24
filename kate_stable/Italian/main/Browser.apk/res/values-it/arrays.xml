@@ -1,10 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
+     <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+     </string-array>
+     <string-array name="bookmarks_at">
+        <item>Planet 3</item>
+        <item>https://mobile.drei.at/redirect/bm_planet3</item>
+        <item>3Kundenzone</item>
+        <item>https://mobile.drei.at/redirect/bm_kundenzone</item>
+        <item>3Film</item>
+        <item>https://mobile.drei.at/redirect/bm_3Film</item>
+        <item>3Kiosk</item>
+        <item>https://mobile.drei.at/redirect/bm_kiosk</item>
+        <item>3MobileTV</item>
+        <item>https://mobile.drei.at/redirect/bm_mobiletv</item>
+        <item>3Newsflash</item>
+        <item>https://mobile.drei.at/redirect/bm_newsflash</item>
+        <item>Spiele</item>
+        <item>https://mobile.drei.at/redirect/bm_spiele</item>
+        <item>News</item>
+        <item>https://mobile.drei.at/redirect/bm_news</item>
+        <item>Wetter</item>
+        <item>https://mobile.drei.at/redirect/bm_wetter</item>
+        <item>Friendfinder</item>
+        <item>https://mobile.drei.at/redirect/bm_friendfinder</item>
+     </string-array>
+     <string-array name="bookmarks_es_telcel">
+        <item>Telcel</item>
+        <item>http://www.telcel.com</item>
+        <item>Mi Telcel</item>
+        <item>http://www.telcel.com/mitelcel</item>
+        <item>Marca Claro</item>
+        <item>http://www.marcaclaro.com</item>
+     </string-array>
+     <string-array name="bookmarks_es_vodafone">
+        <item>Mi Web</item>
+        <item>http://miweb.vodafone.es</item>
+        <item>Vodafone Start</item>
+        <item>http://start.vodafone.com</item>
+        <item>Mi Vodafone</item>
+        <item>http://m.vodafone.es</item>
+     </string-array>
+     <string-array name="bookmarks_ireland">
+        <item>3Plus</item>
+        <item>https://plus.three.ie</item>
+        <item>My3</item>
+        <item>http://mobile.3ireland.ie/sdf/my3home</item>
+        <item>3Money</item>
+        <item>http://Three.ie/money</item>
+        <item>3 Community</item>
+        <item>http://www.three.ie/community/</item>
+        <item>Google</item>
+        <item>http://www.google.ie/m?q=&amp;btnG=Search&amp;site=search&amp;hl=en&amp;gl=ie&amp;ie=utf8&amp;safe=high&amp;client=ms-h3g-ie</item>
+        <item>Twitter</item>
+        <item>http://m.twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://m.facebook.com/</item>
+        <item>YouTube</item>
+        <item>http://m.ie.youtube.com/?client=mv-h3g-ie&amp;safesearch=always</item>
+        <item>RTE</item>
+        <item>http://www.rte.ie/</item>
+     </string-array>
+     <string-array name="bookmarks_it_new_tre">
+        <item>App&amp;Store</item>
+        <item>http://mobile.tre.it/hb/HutchKey</item>
+        <item>Area Clienti</item>
+        <item>http://portal.tre.it/quick/menu?item=8</item>
+        <item>Giochi</item>
+        <item>http://portal.tre.it/quick/menu?item=6</item>
+        <item>Musica</item>
+        <item>http://portal.tre.it/quick/menu?item=12</item>
+     </string-array>
+     <string-array name="bookmarks_it_old_tre">
+        <item>App&amp;Store</item>
+        <item>http://mobile.tre.it/hb/HutchKey</item>
+        <item>Area Clienti</item>
+        <item>http://portal.tre.it/quick/menu?item=8</item>
+        <item>Giochi</item>
+        <item>http://portal.tre.it/quick/menu?item=6</item>
+        <item>Musica</item>
+        <item>http://portal.tre.it/quick/menu?item=12</item>
+     </string-array>
+     <string-array name="bookmarks_it_vodafone">
+        <item>My Vodafone</item>
+        <item>http://my190.vodafone.it</item>
+        <item>Apps</item>
+        <item>http://m.vodafone.it/pages/apps</item>
+        <item>Vodafone</item>
+        <item>http://m.vodafone.it</item>
+     </string-array>
+     <string-array name="bookmarks_it_wind">
+        <item>Google</item>
+        <item>https://google.it</item>
+        <item>Facebook</item>
+        <item>https://www.facebook.com/</item>
+        <item>Youtube</item>
+        <item>https://youtube.com</item>
+     </string-array>
+     <string-array name="bookmarks_sweden">
+        <item>Tre.se</item>
+        <item>https://www.tre.se/valkommen</item>
+     </string-array>
+     <string-array name="bookmarks_uk">
+        <item>Planet 3</item>
+        <item>http://mobile.three.co.uk/sdf/bmplanet3</item>
+     </string-array>
+     <string-array name="menu_theme_setting">
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Grey</item>
+        <item>Brown</item>
+        <item>Green</item>
+        <item>Blue</item>
+     </string-array>
+     <string-array name="only_google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}&amp;client=ms-{clientidbase}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+     </string-array>
      <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Pagina avanti indietro</item>
-        <item>Cambia scheda</item>
-        <item>Nessuno</item>
+        <item>Page back forward</item>
+        <item>Switch tabs</item>
+        <item>None</item>
      </string-array>
      <string-array name="pref_homepage_choices">
         <item>Predefinita</item>
@@ -17,11 +161,6 @@
      <string-array name="pref_navscreen_layoutstate_choices">
         <item>Visualizzazione verticale</item>
         <item>Visualizzazione orizzontale</item>
-     </string-array>
-     <string-array name="pref_tab_restore_array">
-        <item>Always asking</item>
-        <item>Open</item>
-        <item>Close</item>
      </string-array>
      <string-array name="pref_text_zoom_choices">
         <item>Molto piccolo</item>
@@ -36,13 +175,8 @@
         <item>iPhone</item>
         <item>iPad</item>
      </string-array>
-     <string-array name="readmode_theme_background_color">
-        <item>white</item>
-        <item>beige</item>
-        <item>brown</item>
-        <item>green</item>
-        <item>gray</item>
-        <item>black</item>
+     <string-array name="search_bar_search_engines_only_google">
+        <item>google</item>
      </string-array>
      <string-array name="shortcut_dialog_delete">
         <item>Cancella</item>
@@ -56,53 +190,33 @@
         <item>Messaggio dal browser</item>
         <item>Segui le Olimpiadi con Xiaomi</item>
      </string-array>
-     <string-array name="suggestion_topic_tips">
-        <item>Visione focalizzata</item>
-        <item>Pubblicazioni di rilievo</item>
-     </string-array>
-     <string-array name="suggestion_weather_condition_message">
-        <item>Sereno</item>
-        <item>Parzialmente nuvoloso</item>
-        <item>Nuvoloso</item>
-        <item>Piogge</item>
-        <item>Temporali</item>
-        <item>Grandine</item>
-        <item>Nevischio</item>
-        <item>Pioggia leggera</item>
-        <item>Pioggia moderata</item>
-        <item>Forte pioggia</item>
-        <item>Acquazzone</item>
-        <item>Pioggia molto forte</item>
-        <item>Tempesta straordinaria</item>
-        <item>Nevicate</item>
-        <item>Nevicate leggere</item>
-        <item>Nevicate moderate</item>
-        <item>Forti nevicate</item>
-        <item>Bufera di neve</item>
-        <item>Nebbia</item>
-        <item>Grandine</item>
-        <item>Tempesta di sabbia</item>
-        <item>Pioggia da leggera a moderata</item>
-        <item>Pioggia da normale a forte</item>
-        <item>Pioggia da forte  molto forte</item>
-        <item>Pioggia da molto forte a acquazzone</item>
-        <item>Da acquazzone a diluvio</item>
-        <item>Neve da leggera a moderata</item>
-        <item>Neve da moderata a forte</item>
-        <item>Neve da forte a bufera</item>
-        <item>Polvere sospesa</item>
-        <item>"Sabbia nell\'aria"</item>
-        <item>Tempesta di sabbia</item>
-        <item>Nebbia densa</item>
-        <item>Forte nebbia</item>
-        <item>Foschia</item>
-        <item>Foschia moderata</item>
-        <item>Foschia intensa</item>
-        <item>Foschia molto forte</item>
-        <item>Nebbia densa</item>
-        <item>Nebbia forte e densa</item>
-        <item>Niente</item>
-        <item>Pioggia</item>
-        <item>Neve</item>
+     <string-array name="weather_type">
+        <item>Clear</item>
+        <item>Cloudy</item>
+        <item>Overcast</item>
+        <item>Foggy</item>
+        <item>Heavy rainstorm</item>
+        <item>Downpour</item>
+        <item>Rainstorm</item>
+        <item>Thunderstorm</item>
+        <item>Shower</item>
+        <item>Heavy rainfall</item>
+        <item>Moderate rain</item>
+        <item>Light rain</item>
+        <item>Rain and snow mixed</item>
+        <item>Blizzard</item>
+        <item>Snow</item>
+        <item>Heavy snow</item>
+        <item>Moderate snow</item>
+        <item>Light snow</item>
+        <item>Strong sandstorm</item>
+        <item>Sand storm</item>
+        <item>Sand</item>
+        <item>Windy</item>
+        <item>Hail</item>
+        <item>Dust</item>
+        <item>Haze</item>
+        <item>Freezing rain</item>
+        <item></item>
      </string-array>
 </resources>

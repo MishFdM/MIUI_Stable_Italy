@@ -28,6 +28,39 @@
         <item>Avanti</item>
         <item>Indietro</item>
      </string-array>
+     <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+     </string-array>
      <string-array name="default_reminder_labels">
         <item>"Al momento dell'evento"</item>
         <item>5 minuti prima</item>
@@ -44,17 +77,30 @@
         <item>Questo ed eventi futuri</item>
         <item>Tutti gli eventi</item>
      </string-array>
-     <string-array name="edit_event_dislike">
-        <item>Nessun tipo di evento che voglio creare</item>
-        <item>Più Impostazioni</item>
-        <item>Alcune impostazioni non possono essere determinate</item>
-        <item>Guardati intorno</item>
-        <item>Non dirlo</item>
-     </string-array>
      <string-array name="gemini_info">
         <item>gemelli</item>
         <item>Gemelli</item>
         <item>5/21 - 6/21</item>
+     </string-array>
+     <string-array name="global_criket_match">
+        <item>International</item>
+        <item>IPL</item>
+        <item>Domestic</item>
+        <item>T20 Leagues</item>
+     </string-array>
+     <string-array name="hindi_horoscope_names">
+        <item>Mesha</item>
+        <item>Vrishabha</item>
+        <item>Mithun</item>
+        <item>Karka</item>
+        <item>Sinh</item>
+        <item>Kanya</item>
+        <item>Tula</item>
+        <item>Vruschika</item>
+        <item>Dhanu</item>
+        <item>Makar</item>
+        <item>Kumbha</item>
+        <item>Meena</item>
      </string-array>
      <string-array name="leo_info">
         <item>leone</item>
