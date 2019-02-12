@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="bugreport_countdown">
         <item quantity="other">Cattura screenshot per segnalazione bug in %d secondi.</item>
