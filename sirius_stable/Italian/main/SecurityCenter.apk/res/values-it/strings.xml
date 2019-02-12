@@ -432,7 +432,7 @@ se dimenticata"</string>
      <string name="btn_stop_diagnostic">Interrompi</string>
      <string name="btn_text_already_opened">Già attivato</string>
      <string name="btn_text_goto_power_rank">Visualizza i consumi di ogni app</string>
-     <string name="btn_text_goto_setup">Vai alle impostazioni</string>
+     <string name="btn_text_goto_setup">Impostazioni</string>
      <string name="btn_text_network_speed_detail">Connessione</string>
      <string name="btn_text_open_now">Attiva</string>
      <string name="btn_text_optimize_extend_battery_time">Aggiungi %s</string>
@@ -1010,7 +1010,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="info_unantispam_phone">Consenti chiamate</string>
      <string name="info_unantispam_phone_sms">Consenti messaggi e chiamate</string>
      <string name="info_unantispam_sms">Consenti messaggi</string>
-     <string name="information_setting">Notizie impostazioni di sicurezza</string>
+     <string name="information_setting">Impostazioni notizie</string>
      <string name="input_aviable_traffic">Limite utilizzo dati</string>
      <string name="input_password_hint_text">Immetti password</string>
      <string name="input_traffic_pkg">Immetti utilizzo dati</string>
@@ -1060,7 +1060,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
 L'operatore potrebbe addebitarti costi aggiuntivi se continuerai ad utilizzare la connessione dati."</string>
      <string name="leisure_usage_dialog_title">Hai superato la soglia del traffico dati, la connessione è disattivata</string>
      <string name="list_empty_text">Vuoto</string>
-     <string name="load_only_under_wlan">Carica nuove notizie quando sei connesso tramite Wi-Fi</string>
+     <string name="load_only_under_wlan">Mostra solo con connessione Wi-Fi</string>
      <string name="loading">Solo un secondo…</string>
      <string name="local_ip_exception_summary">"Impossibile ottenere l'indirizzo IP. Se questo dovesse accadere nuovamente, considera l'utilizzo di un indirizzo IP statico."</string>
      <string name="lock_mode_title">Impostazioni di blocco</string>
@@ -1720,7 +1720,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="receive_now">Ricevi</string>
      <string name="recently_reject_message">%1$s richieste di installazione ed altre %2$d rifiutate</string>
      <string name="recently_reject_message_one">%1$s richieste di installazione rifiutate</string>
-     <string name="recommend_news">Fonti consigliate</string>
+     <string name="recommend_news">Mostra notizie consigliate</string>
      <string name="recommended">In evidenza</string>
      <string name="reject_all">Nega a tutte</string>
      <string name="reject_countdown">Nega (%d)</string>
