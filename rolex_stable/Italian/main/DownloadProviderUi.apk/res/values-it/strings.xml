@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="DOWNLOAD_UNIT_BIT">B</string>
      <string name="DOWNLOAD_UNIT_GB">GB</string>
@@ -10,6 +9,7 @@
      <string name="about">Informazioni</string>
      <string name="action_back">indietro</string>
      <string name="action_settings">Impostazioni</string>
+     <string name="ad">AD</string>
      <string name="ad_download">Installa</string>
      <string name="ad_mark">AD</string>
      <string name="ad_title">Altre persone hanno scaricato anche %1$s </string>
