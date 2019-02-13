@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="BaMmi">Blocco chiamate</string>
      <string name="CLIRDefaultOffNextCallOff">ID chiamante generalmente non limitato. Prossima chiamata: non limitato</string>
@@ -773,6 +772,7 @@ Riprova tra %d secondi."</string>
      <string name="no_permissions">Nessuna autorizzazione richiesta</string>
      <string name="no_recent_tasks">Nessuna applicazione in esecuzione.</string>
      <string name="noon">mezzogiorno</string>
+     <string name="notification_description">Stato chiamata vocale</string>
      <string name="notification_inbox_ellipsis">…</string>
      <string name="notification_listener_binding_label">Listener di notifica</string>
      <string name="notification_title">Errore di accesso per %1$s</string>
@@ -1254,6 +1254,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="ssl_ca_cert_warning">Network may be monitored</string>
      <string name="ssl_certificate">Certificato di sicurezza</string>
      <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
+     <string name="status_communication_speaker_summary">A hands-free call is in progress. Audio will still be played through the speaker when headphones are connected.</string>
+     <string name="status_communication_summary">A call is in progress. You can only adjust call volume now.</string>
      <string name="stk_cc_ss_to_dial">La richiesta SS è stata modificata in richiesta DIAL.</string>
      <string name="stk_cc_ss_to_ss">La richiesta SS è stata modificata in nuova richiesta SS.</string>
      <string name="stk_cc_ss_to_ussd">La richiesta SS è stata modificata in richiesta USSD.</string>
