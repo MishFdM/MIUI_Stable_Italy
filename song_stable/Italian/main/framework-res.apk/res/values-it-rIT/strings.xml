@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="BaMmi">Blocco chiamate</string>
      <string name="CLIRDefaultOffNextCallOff">ID chiamante generalmente non limitato. Prossima chiamata: non limitato</string>
@@ -819,6 +818,7 @@ Riprova tra %d secondi."</string>
      <string name="no_permissions">Nessuna autorizzazione richiesta</string>
      <string name="no_recent_tasks">Nessuna applicazione in esecuzione.</string>
      <string name="noon">mezzogiorno</string>
+     <string name="notification_description">Stato chiamata vocale</string>
      <string name="notification_header_divider_symbol">•</string>
      <string name="notification_hidden_by_policy_text">Contenuto nascosto da policy</string>
      <string name="notification_hidden_text">Contenuto nascosto</string>
@@ -976,7 +976,7 @@ Riprova tra %d secondi."</string>
      <string name="permgrouplab_sensors">Sensori</string>
      <string name="permgrouplab_sms">SMS</string>
      <string name="permgrouplab_storage">Archiviazione</string>
-     <string name="permission">Permission</string>
+     <string name="permission">Permesso</string>
      <string name="permission_request_notification_title">Autorizzazione richiesta</string>
      <string name="permission_request_notification_with_subtitle">"Autorizzazione richiesta
 per l'account %s."</string>
@@ -1310,6 +1310,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="ssl_ca_cert_noti_managed">Da %s</string>
      <string name="ssl_certificate">Certificato di sicurezza</string>
      <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
+     <string name="status_communication_speaker_summary">A hands-free call is in progress. Audio will still be played through the speaker when headphones are connected.</string>
+     <string name="status_communication_summary">A call is in progress. You can only adjust call volume now.</string>
      <string name="stk_cc_ss_to_dial">La richiesta SS è stata modificata in richiesta DIAL.</string>
      <string name="stk_cc_ss_to_ss">La richiesta SS è stata modificata in nuova richiesta SS.</string>
      <string name="stk_cc_ss_to_ussd">La richiesta SS è stata modificata in richiesta USSD.</string>

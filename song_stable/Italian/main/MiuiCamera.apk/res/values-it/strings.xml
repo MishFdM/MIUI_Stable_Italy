@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
      <string name="accessibility_audio_shutter_bg">Sfondo scatto vocale</string>
@@ -107,7 +106,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Misurazione a punto</string>
      <string name="pref_camera_autoexposure_title">Esposizione automatica</string>
      <string name="pref_camera_beautify_detail_default">0</string>
-     <string name="pref_camera_beautify_entry_auto">Off</string>
+     <string name="pref_camera_beautify_entry_auto">Auto</string>
      <string name="pref_camera_beautify_entry_high">Alto</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
@@ -295,7 +294,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_video_duration_entry_120">2 ore</string>
      <string name="pref_camera_video_duration_entry_30">30 minuti</string>
      <string name="pref_camera_video_duration_entry_mms">30 secondi (MMS)</string>
-     <string name="pref_camera_volumekey_function_entry_exposure">Esposizione</string>
+     <string name="pref_camera_volumekey_function_entry_exposure">Exposure</string>
      <string name="pref_camera_volumekey_function_entry_shutter">Scatta foto</string>
      <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
@@ -313,7 +312,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_camera_zsl_entry_on">Attivato</string>
      <string name="pref_capture_settings">Impostazioni fotocamera</string>
      <string name="pref_face_beauty_title">Bellezza</string>
-     <string name="pref_front_mirror_entry_auto">Quando il viso viene rilevato</string>
+     <string name="pref_front_mirror_entry_auto">Quando il volto viene rilevato</string>
      <string name="pref_front_mirror_entry_off">Disattivato</string>
      <string name="pref_front_mirror_entry_on">Attivato</string>
      <string name="pref_front_mirror_title">Fotoc. frontale (effetto specchio)</string>
@@ -364,7 +363,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="pref_video_time_lapse_frame_interval_title">Intervallo Time-lapse</string>
      <string name="preparing_sd">Preparo scheda SD...</string>
      <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
-     <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento viso;Suono fotocamera</string>
+     <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento volto;Suono fotocamera</string>
      <string name="see_qrcode_detals">Dettagli codice QR</string>
      <string name="simple_mode_button_asd_flash">Chiudi scatto Flash</string>
      <string name="simple_mode_button_asd_hdr">Chiudi scatto HDR</string>

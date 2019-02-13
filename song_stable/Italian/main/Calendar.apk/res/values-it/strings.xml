@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Naviga alla home</string>
      <string name="abc_action_bar_up_description">Naviga in alto</string>
@@ -138,7 +137,7 @@
      <string name="edit_event_confirm_message">Ignorare le modifiche di questo evento?</string>
      <string name="edit_event_countdown_name_empty_hint">Inserisci nome promemoria</string>
      <string name="edit_event_countdown_name_hint">Evento</string>
-     <string name="edit_event_dislike_title">Why did you cancel?</string>
+     <string name="edit_event_dislike_title">Perché hai annullato?</string>
      <string name="edit_event_from_label">Da</string>
      <string name="edit_event_input_year">Inserisci anno</string>
      <string name="edit_event_label">Modifica evento</string>

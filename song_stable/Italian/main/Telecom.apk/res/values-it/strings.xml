@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_call_muted">Chiamata silenziata.</string>
      <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale e potrebbe influenzare il normale funzionamento.</string>
@@ -100,10 +99,10 @@
      <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Work</string>
-     <string name="change_default_dialer_dialog_affirmative">Set as default Phone app</string>
+     <string name="change_default_dialer_dialog_affirmative">Set Default</string>
      <string name="change_default_dialer_dialog_negative">Cancel</string>
-     <string name="change_default_dialer_dialog_title">Set %s as your default Phone app?</string>
-     <string name="change_default_dialer_warning_message">%s will be able to make and control all aspects of calls. Only apps you trust should be set as your default Phone app.</string>
+     <string name="change_default_dialer_dialog_title">Make %s your default Phone app?</string>
+     <string name="change_default_dialer_warning_message">%s will be able to place and control all aspects of calls. Only apps you trust should be set as the default Phone app.</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="choose_profile">Choose Profile</string>
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
@@ -116,7 +115,7 @@
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
      <string name="connected_via_passpoint">Connected via %1$s</string>
-     <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+     <string name="connected_via_wfa">Connected via WLAN assistant</string>
      <string name="content_description_menu_button">Menu</string>
      <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
