@@ -654,7 +654,7 @@ Frequenza Campione"</string>
      <string name="development_settings_not_available">Opzioni sviluppatore non disponibili per questo utente</string>
      <string name="development_settings_summary">Imposta opzioni sviluppo app</string>
      <string name="development_settings_title">Opzioni sviluppatore</string>
-     <string name="dialFailed_low_battery">"Your video call can't be placed due to low battery."</string>
+     <string name="dialFailed_low_battery">Your video call cannot be placed due to low battery.</string>
      <string name="dial_emergency_empty_error">Chiamata non effettuata. Chiama un numero di emergenza.</string>
      <string name="dial_emergency_error">Chiamata non effettuata. %s non è un numero di emergenza.</string>
      <string name="dial_related_setting_catory">Componi</string>
@@ -820,7 +820,7 @@ Frequenza Campione"</string>
      <string name="fdn_with_label">Numeri a Selezione Fissa (%s)</string>
      <string name="flash_when_ring_summary">Notifica lampeggiante per le chiamate in arrivo</string>
      <string name="flash_when_ring_title">Lampeggia in chiamata</string>
-     <string name="forbidden_network">(Restricted)</string>
+     <string name="forbidden_network">(forbidden)</string>
      <string name="force_allow_on_external">Forza ammissione app da esterno</string>
      <string name="force_allow_on_external_summary">Rendi tutte le app idonee per la scrittura su memoria esterna, senza considerare i valori del manifest</string>
      <string name="force_hw_ui">Forza rendering GPU</string>

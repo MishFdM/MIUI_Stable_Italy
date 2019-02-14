@@ -81,8 +81,8 @@
         <item>Casa</item>
         <item>Lavoro</item>
         <item>Altro</item>
-        <item>Personalizzato</item>
-     </string-array>
+     <item>Personalizzato</item>
+		</string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
         <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>
      </string-array>

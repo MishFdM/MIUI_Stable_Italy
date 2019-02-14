@@ -386,7 +386,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="application_permissions">Permessi di applicazioni</string>
      <string name="application_restrictions">Consenti app e contenuti</string>
      <string name="application_size_label">Applicazione</string>
-     <string name="applications_settings">Applicazioni</string>
+     <string name="applications_settings">Gestione app</string>
      <string name="applications_settings_header">Impostazioni applicazioni</string>
      <string name="applications_settings_summary">Gestisci le applicazioni, imposta le scorciatoie di avvio rapido</string>
      <string name="apply_fingerprint_to_category_title">Usa impronta digitale per\u2026</string>
@@ -2867,7 +2867,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_sos_play_voice">Riproduci messaggio SOS</string>
      <string name="miui_sos_remind_add">Aggiungi</string>
      <string name="miui_sos_remind_infocontent">Ti ho aggiunto come mio contatto di emergenza. Riceverai un messaggio con le mie informazioni sulla posizione in caso di pericolo. [Mi Emergency SOS]</string>
-     <string name="miui_sos_remind_open">SOS di Emergenza necessitabdi almeno 1 contatto di emergenza per funzionare normalmente.</string>
+     <string name="miui_sos_remind_open">SOS di Emergenza necessità di almeno 1 contatto di emergenza per funzionare normalmente.</string>
      <string name="miui_sos_remind_sendinfo">Non dimenticare di dire a queste persone che ora sono parte dei tuoi contatti di emergenza. In tal modo saranno in grado di aiutarti più velocemente durante le emergenze.</string>
      <string name="miui_sos_remind_sendnow">Invia ora</string>
      <string name="miui_sos_remind_title">Attenzione</string>
@@ -3404,7 +3404,7 @@ ed esegui il software."</string>
      <string name="pointer_location_summary">Mostra le coordinate dei tocchi a schermo</string>
      <string name="pointer_settings_category">Mouse/trackpad</string>
      <string name="pointer_speed">Velocità del puntatore</string>
-     <string name="popup_window">consenti finestre popup</string>
+     <string name="popup_window">Consenti finestre popup</string>
      <string name="power_apps">App</string>
      <string name="power_autorun_apps_empty">Nessuna applicazione in avvio automatico</string>
      <string name="power_autorun_empty">Nessuna applicazione</string>
@@ -4175,7 +4175,7 @@ Come usare Mantieni su schermo:
      <string name="search_sound_effects_enable_title">Suoni tocco</string>
      <string name="search_sound_settings">Suono;Volume;modalità silenzia;sveglia;musica;Vibrazione;Suoneria telefono;Suono di notifica predefinito;Messaggio ricevuto;Messaggio invitato;Tocco;Suono di blocco schermo;Audio Impostazioni;Soppressione rumori</string>
      <string name="search_status_bar_settings">Notifiche e barra di stato;Notifiche;Barra di stato</string>
-     <string name="search_status_bar_settings_custom_carrier">Modifica nome operatore</string>
+     <string name="search_status_bar_settings_custom_carrier">Nome operatore</string>
      <string name="search_status_bar_settings_expandable_under_keyguard">Mostra sulla Schermata di blocco</string>
      <string name="search_status_bar_settings_manage_notification">Notifiche app;Notifiche</string>
      <string name="search_status_bar_settings_show_carrier">Mostra nome operatore</string>
@@ -4204,7 +4204,7 @@ Come usare Mantieni su schermo:
      <string name="search_vpn_enable">VPN</string>
      <string name="search_vpn_settings_password">Password VPN</string>
      <string name="search_vpn_settings_title">VPN;Aggiungi VPN;Attiva VPN</string>
-     <string name="search_wakeup_for_keyguard_notification_title">Attiva lo schermo al ricevimento di notifiche</string>
+     <string name="search_wakeup_for_keyguard_notification_title">Attiva lo schermo al ricevimento delle notifiche</string>
      <string name="search_wallpaper_settings_title">Sfondo;Schermata home;Schermata di blocco</string>
      <string name="search_wfd_settings_title">Schermo Wireless;Attiva schermo wireless</string>
      <string name="search_wifi_advanced_ip_address_title">Indirizzo IP</string>
@@ -4591,7 +4591,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
      <string name="status_bar_settings_app_notification_preferences">Impostazioni App</string>
      <string name="status_bar_settings_basic_settings">Impostazioni base</string>
-     <string name="status_bar_settings_custom_carrier">"Modifica il nome dell'operatore"</string>
+     <string name="status_bar_settings_custom_carrier">Nome operatore</string>
      <string name="status_bar_settings_custom_wifi_name">Modifica nome rete Wi-Fi</string>
      <string name="status_bar_settings_customer_feedback">Segnalazione bug</string>
      <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
@@ -4600,7 +4600,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_function_description">Info su questa funzionalità</string>
      <string name="status_bar_settings_long_click_sort">Tieni premuto per ordinare</string>
      <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
-     <string name="status_bar_settings_no_carrier">Nessuna</string>
+     <string name="status_bar_settings_no_carrier">Nessuno</string>
      <string name="status_bar_settings_notification_bar">Pannello delle notifiche</string>
      <string name="status_bar_settings_notification_led">LED di notifica</string>
      <string name="status_bar_settings_notification_priority">Priorità</string>
@@ -4918,7 +4918,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="system_alert_window_summary" formatted="false">%d di %d app possono disegnare contenuti sopra ad altre app</string>
      <string name="system_and_device_section_title">Sistema e dispositivo</string>
      <string name="system_app">(Sistema)</string>
-     <string name="system_app_settings">Applicazioni di sistema</string>
+     <string name="system_app_settings">App di sistema</string>
      <string name="system_apps_updater">Aggiornamento app di sistema</string>
      <string name="system_backup_section_title">Backup</string>
      <string name="system_dashboard_summary">Lingue, orario, backup, aggiornamenti</string>
@@ -5546,7 +5546,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vt_provisioned_switch_string">Video Calling Provisioned</string>
      <string name="wait_for_debugger">Attendi debugger</string>
      <string name="wait_for_debugger_summary">"L'applicazione in debug attende il debugger prima dell'esecuzione"</string>
-     <string name="wakeup_for_keyguard_notification_title">Attiva lo schermo al ricevimento di notifiche</string>
+     <string name="wakeup_for_keyguard_notification_title">Attiva lo schermo al ricevimento delle notifiche</string>
      <string name="wallpaper_attributions">Sfondi</string>
      <string name="wallpaper_attributions_values">"Immagini satellitari fornite da:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
@@ -5786,7 +5786,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_more">Altro</string>
      <string name="wifi_multiple_cert_added">(certificati multipli aggiunti)</string>
      <string name="wifi_network_optimization">Connessione ottimizzata</string>
-     <string name="wifi_network_prefix_length">Lunghezza prefisso</string>
+     <string name="wifi_network_prefix_length">Lungh. pref.</string>
      <string name="wifi_network_prefix_length_hint">24</string>
      <string name="wifi_no_domain_warning">Devi specificare un dominio.</string>
      <string name="wifi_no_internet">Nessun accesso a Internet rilevato, non si riconnetterà automaticamente.</string>
