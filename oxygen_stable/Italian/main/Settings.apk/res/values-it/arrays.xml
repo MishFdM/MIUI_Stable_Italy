@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="agps_network_entries">
         <item>Rete domestica</item>
@@ -28,7 +27,7 @@
      </string-array>
      <string-array name="ap_identify">
         <item>Predefinito</item>
-        <item>iPhone</item>
+        <item>Hotspot portatile</item>
      </string-array>
      <string-array name="apn_auth_entries">
         <item>Nessuno</item>
@@ -978,6 +977,11 @@
         <item>Controlla solo contenuti DRM</item>
         <item>Controlla sempre</item>
      </string-array>
+     <string-array name="keyguard_notification_status_entries">
+        <item>Riattiva schermo</item>
+        <item>Mostra animazione</item>
+        <item>Non riattivare lo schermo</item>
+     </string-array>
      <string-array name="led_color_entries">
         <item>Blu</item>
         <item>Rosso</item>
@@ -1263,6 +1267,10 @@
      <string-array name="status_bar_settings_notification_shade_shortcut_entries">
         <item>Ricerca</item>
         <item>Impostazioni</item>
+     </string-array>
+     <string-array name="status_bar_settings_notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
      </string-array>
      <string-array name="timezone_filters">
         <item>America</item>

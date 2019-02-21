@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="FpTest">FpTest Run</string>
      <string name="FpTest_result">FpTest result:</string>
@@ -64,10 +63,10 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
      <string name="cit_accelermeter_sensor_check_title">Test Accelerometro</string>
      <string name="cit_apk_signature_failed">firma apk FALLITO</string>
      <string name="cit_apk_signature_passed">firma apk RIUSCITO</string>
-     <string name="cit_aud_current_state">Current State:</string>
-     <string name="cit_aud_spk_vendor">Speaker Vendor:</string>
+     <string name="cit_aud_current_state">Stato corrente:</string>
+     <string name="cit_aud_spk_vendor">Azienda altoparlante:</string>
      <string name="cit_aud_spkcal">Calibra</string>
-     <string name="cit_aud_test_result">Test Result:</string>
+     <string name="cit_aud_test_result">Risultato test:</string>
      <string name="cit_audio_cali_TEMP">Temp:</string>
      <string name="cit_audio_cali_done">Calibrazione eseguita</string>
      <string name="cit_audio_cali_failed">Calibrazione fallita. Riprova.</string>
@@ -78,7 +77,7 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
      <string name="cit_audio_cali_t0">T0:</string>
      <string name="cit_audio_cali_title">Test calibrazione Altoparlante</string>
      <string name="cit_audio_calibrating">Calibrazione in corso…</string>
-     <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
+     <string name="cit_audio_get_temp_fail">Ottenimento dati temp. data Fallito!</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Test da Microfono post. ad Altoparlante</string>
      <string name="cit_audio_lb_frontmic_to_speaker_title">Test Microfono front. ad Altoparlante</string>
      <string name="cit_audio_lb_mainmic_to_earpiece_title">Test da Microfono princ. a Ricevitore</string>
@@ -99,16 +98,16 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
 
 Gira il dispositivo e parla al microfono: dovresti sentire la tua voce nell'altoparlante."</string>
      <string name="cit_audio_lb_topmic_to_speaker_title">Test da Microfono sup. ad Altoparlante</string>
-     <string name="cit_audio_left_caldata">"Left PA Calibrated Data:
+     <string name="cit_audio_left_caldata">"Dati calibrazione PA sinistro:
 "</string>
-     <string name="cit_audio_left_calfail">Left PA Calibrated Failed!</string>
+     <string name="cit_audio_left_calfail">Calibrazione PA sinistro Fallito!</string>
      <string name="cit_audio_loopback_check_one_title">Test Microfono 1</string>
      <string name="cit_audio_loopback_check_summary_first">"Test feedback da microfono principale al ricevitore.
 
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce nel ricevitore."</string>
      <string name="cit_audio_loopback_check_summary_second">"Test feedback da microfono secondario all'altoparlante.
 
-Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
+Avvicina il dispositivo al volto e parla al ricevitore: dovresti sentire la tua voce nell'altoparlante."</string>
      <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
      <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
      <string name="cit_audio_loopback_next">Successivo</string>
@@ -116,9 +115,9 @@ Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua v
      <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test di riduzione rumore ambientale.
 
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce senza rumori di fondo nel ricevitore."</string>
-     <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
+     <string name="cit_audio_right_caldata">"Dati calibrazione PA destro:
 "</string>
-     <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
+     <string name="cit_audio_right_calfail">Calibrazione PA destro Fallito!</string>
      <string name="cit_battery_check_summary">Statistiche batteria dispositivo</string>
      <string name="cit_battery_check_title">Informazioni batteria</string>
      <string name="cit_battery_temp_fail">La temperatura della batteria non è nella norma (valore: %d)</string>
@@ -506,7 +505,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_wifi_tx_st">Tx: ST</string>
      <string name="cit_tool_wifi_tx_st_chan">canale:</string>
      <string name="cit_tool_wifi_txrx_chain_selection">Seleziona antenna</string>
-     <string name="cit_torch_modify">Modify flash light</string>
+     <string name="cit_torch_modify">Modifica luce flash</string>
      <string name="cit_torch_off">Disattiva Flash</string>
      <string name="cit_torch_on">Attiva Flash</string>
      <string name="cit_touch_calib_fail">Calibrazione Touchscreen fallita. Riprova.</string>

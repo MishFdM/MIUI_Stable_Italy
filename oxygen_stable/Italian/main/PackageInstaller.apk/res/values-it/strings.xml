@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
      <string name="abc_action_bar_home_description">Vai alla home</string>
