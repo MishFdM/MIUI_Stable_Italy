@@ -4,6 +4,16 @@
         <item>Rete domestica</item>
         <item>Tutte le reti</item>
      </string-array>
+     <string-array name="ai_key_item_name">
+        <item>Talk to Google Assistant</item>
+        <item>Open Google search</item>
+        <item>Open rear camera</item>
+        <item>Open front camera</item>
+        <item>Open previous app</item>
+        <item>Turn on flashlight</item>
+        <item>Turn on Reading mode</item>
+        <item>None</item>
+     </string-array>
      <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
         <item>Giorni feriali</item>
@@ -285,10 +295,25 @@
         <item>Attiva Codec Opzionali</item>
         <item>Disattiva Codec Opzionali</item>
      </string-array>
+     <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, active</item>
+        <item>, active (media)</item>
+        <item>, active (phone)</item>
+     </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
+		<item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+     </string-array>
+     <string-array name="bluetooth_max_connected_audio_devices">
+        <item>Use System Default: %1$d</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
      </string-array>
      <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 minuti</item>
@@ -966,6 +991,16 @@
         <item>Compatibilità</item>
         <item>Alta velocità</item>
      </string-array>
+     <string-array name="dark_ui_mode_entries">
+        <item>Automatic (based on time of day)</item>
+        <item>Always on</item>
+        <item>Always off</item>
+     </string-array>
+     <string-array name="dark_ui_mode_values">
+        <item>auto</item>
+        <item>yes</item>
+        <item>no</item>
+     </string-array>
      <string-array name="data_usage_data_range">
         <item>Ultimi 30 giorni</item>
         <item>Imposta ciclo di utilizzo...</item>
@@ -992,10 +1027,6 @@
         <item>Disattivato</item>
         <item>Visualizza le zone di conflitto</item>
         <item>Mostra aree adattate per deuteranomalia</item>
-     </string-array>
-     <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Predefinito)</item>
-        <item>OpenGL (Skia)</item>
      </string-array>
      <string-array name="dream_timeout_entries">
         <item>Mai</item>
@@ -1055,6 +1086,18 @@
         <item>Non controllare mai</item>
         <item>Controlla solo contenuti DRM</item>
         <item>Controlla sempre</item>
+     </string-array>
+     <string-array name="key_slider_voice_choice">
+        <item>slide_keji_open.ogg</item>
+        <item>slide_keji_close.ogg</item>
+        <item>slide_jianghu_open.ogg</item>
+        <item>slide_jianghu_close.ogg</item>
+        <item>slide_jiguan_open.ogg</item>
+        <item>slide_jiguan_close.ogg</item>
+        <item>slide_lingdong_open.ogg</item>
+        <item>slide_lingdong_close.ogg</item>
+        <item>slide_zippo_open.ogg</item>
+        <item>slide_zippo_close.ogg</item>
      </string-array>
      <string-array name="keyguard_notification_status_entries">
         <item>Riattiva schermo</item>
@@ -1510,9 +1553,18 @@
         <item>Solo 5 GHz</item>
         <item>Solo 2,4 GHz</item>
      </string-array>
+     <string-array name="wifi_hidden_entries">
+        <item>No</item>
+        <item>Yes</item>
+     </string-array>
      <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Statico</item>
+     </string-array>
+     <string-array name="wifi_metered_entries">
+        <item>Detect automatically</item>
+        <item>Treat as metered</item>
+        <item>Treat as unmetered</item>
      </string-array>
      <string-array name="wifi_p2p_status">
         <item>Connesso</item>
@@ -1557,16 +1609,6 @@
         <item>Discreta</item>
         <item>Buona</item>
         <item>Eccellente</item>
-     </string-array>
-     <string-array name="wifi_sleep_policy_entries">
-        <item>Sempre</item>
-        <item>Solo se in carica</item>
-        <item>"Mai (aumenta l'utilizzo dei dati)"</item>
-     </string-array>
-     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Sempre</item>
-        <item>Solo se in carica</item>
-        <item>Mai</item>
      </string-array>
      <string-array name="wifi_ssid_type_entries">
         <item>Connetti automaticamente</item>

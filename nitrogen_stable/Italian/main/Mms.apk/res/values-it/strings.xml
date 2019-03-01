@@ -87,7 +87,7 @@
      <string name="complain_ok">OK</string>
      <string name="complain_phone_number">numero di telefono</string>
      <string name="complain_reason">Perché stai segnalando questo messaggio?</string>
-     <string name="complain_success">Grazie per il tuo feedback. Ci stai aiutando a migliorare l\'app Messaggi!</string>
+     <string name="complain_success">"Grazie per il tuo feedback. Ci stai aiutando a migliorare l\'app Messaggi!"</string>
      <string name="complain_tips">"Il contenuto dell'ultimo messaggio segnalato verrà caricato sui nostri server insieme al numero di telefono che hai fornito. I nostri fornitori di servizi esamineranno il messaggio.
 "</string>
      <string name="complain_upload">La segnalazione è stata inviata</string>
@@ -596,8 +596,11 @@
      <string name="security_alert_dialog_title">Segnala</string>
      <string name="select_audio">Seleziona audio</string>
      <string name="select_bottom_text">Testo in basso</string>
-     <string name="select_copy_text">Seleziona e copia il testo del messaggio</string>
-     <string name="select_different_media">Scegli un %1$s diverso.</string>
+     <string name="select_copy_text">Select and copy message text</string>
+     <string name="select_different_attachment">Choose a different attachment.</string>
+     <string name="select_different_audio">Choose a different audio.</string>
+     <string name="select_different_picture">Choose a different image.</string>
+     <string name="select_different_video">Choose a different video.</string>
      <string name="select_link_title">Seleziona azione</string>
      <string name="select_local_audio">Seleziona audio locale</string>
      <string name="select_local_video">Seleziona video locale</string>
