@@ -74,6 +74,10 @@
      <string name="ai_scene_top_moon_off">Low light mode</string>
      <string name="ai_scene_top_tip">Moon mode</string>
      <string name="app_name">algoengine</string>
+     <string name="autozoom_click_hint">Tap an object to start tracking. Stay at least 3 meters away for best effect.</string>
+     <string name="autozoom_disabled_hint">Stopped tracking moving object</string>
+     <string name="autozoom_hint">Track moving object</string>
+     <string name="autozoom_landscape_hint">Shoot in landscape mode for best effect</string>
      <string name="beauty_body">塑型</string>
      <string name="beauty_body_body">瘦身</string>
      <string name="beauty_body_head">头部</string>
@@ -579,6 +583,7 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
      <string name="video_effect_entry_holiday">Riflessi</string>
      <string name="video_effect_entry_polaroid">Polaroid</string>
      <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
+     <string name="video_ultra_clear_tip">4K UHD</string>
      <string name="view_privacy_policy">Visualizza Informativa sulla Privacy</string>
      <string name="zoom_no_support_tip_48M">"Zoom doesn't work in 48MP mode"</string>
 </resources>
