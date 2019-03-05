@@ -3,6 +3,8 @@
      <string name="about_extreme_mode">Risparmio energetico estremo</string>
      <string name="about_hide_mode">Informazioni su Risparmio Batteria MIUI</string>
      <string name="active_classify">Classifica per stato attivo</string>
+     <string name="adaptive_battery_summary">"Limit battery for apps that you don't use often"</string>
+     <string name="adaptive_battery_title">Use Adaptive Battery</string>
      <string name="app_list_title">Scegli applicazioni</string>
      <string name="app_name">Risparmio batteria</string>
      <string name="app_preload_policies_summary">"Usa l'apprendimento macchina per predirre quali app avranno maggiore probabilità di essere utilizzate, e carica le risorse in anticipo."</string>
