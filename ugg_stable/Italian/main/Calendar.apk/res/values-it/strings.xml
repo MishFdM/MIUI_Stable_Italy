@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Naviga alla home</string>
      <string name="abc_action_bar_up_description">Naviga in alto</string>
@@ -22,27 +21,19 @@
      <string name="accessibility_all_day">Tutto il giorno</string>
      <string name="accessibility_pick_start_date">Inizio data</string>
      <string name="accessibility_pick_time_zone">Fuso orario</string>
-     <string name="accessibility_reminder_time">Reminder time</string>
      <string name="accessibility_remove_attendee">Rimuovi partecipante</string>
      <string name="accessibility_repeats">Ripetizione</string>
      <string name="accessibility_sync_cal">Sincronizza calendario</string>
      <string name="account_and_calendar">Account e calendario</string>
-     <string name="accounts">Accounts &amp; sync</string>
-     <string name="acct_not_synced">"This account isn't being synced. Your calendar may not be up-to-date."</string>
-     <string name="acessibility_selected_marker_description">Selected event</string>
      <string name="action_bar_date_button_title">Calcola data</string>
-     <string name="action_bar_more_menu_view_description">More</string>
      <string name="action_bar_return">Invio</string>
      <string name="action_text_card_manager">Canale</string>
-     <string name="action_text_today">Today</string>
      <string name="add_anniversary">Aggiungi anniversario</string>
      <string name="add_countdown">Aggiungi conto alla rovescia</string>
      <string name="add_event">Aggiungi evento</string>
      <string name="agenda_month_empty_hint">Nessun evento oggi</string>
-     <string name="agenda_today">TODAY, %1$s</string>
      <string name="agenda_tomorrow">DOMANI, %1$s</string>
      <string name="agenda_view">Agenda</string>
-     <string name="agenda_yesterday">YESTERDAY, %1$s</string>
      <string name="alarm_label">OK</string>
      <string name="alert_reminder_divider">|</string>
      <string name="alert_reminder_expired">Scaduto</string>
@@ -69,11 +60,6 @@
      <string name="birthday_notification_type_term_lunar" />
      <string name="birthday_saved">Compleanno salvato</string>
      <string name="birthday_term">compleanno</string>
-     <string name="button_day">Day</string>
-     <string name="button_month">Month</string>
-     <string name="button_week">Week</string>
-     <string name="calculate_result">Result</string>
-     <string name="calendar_refresh">Refresh</string>
      <string name="can_not_create_long_event">Contenuto troppo lungo</string>
      <string name="can_not_modify_allday_event">Gli eventi che durano tutto il giorno non possono essere modificati</string>
      <string name="can_not_modify_event">Impossibile modificare</string>
@@ -84,7 +70,6 @@
      <string name="card_detail_dialog_title">Sottoscrivere adesso?</string>
      <string name="card_detail_hint">"Il contenuto verrà mostrato nella home ed aggiornato giornalmente dopo l'iscrizione"</string>
      <string name="card_detail_title">Dettagli</string>
-     <string name="card_manager">Manage subscriptions</string>
      <string name="card_manager_no_data">Ancora nessuna sottoscrizione</string>
      <string name="card_title_change">Altro</string>
      <string name="change_response_title">Cambia risultato</string>
@@ -127,10 +112,8 @@
      <string name="date_today">(oggi)</string>
      <string name="day_view_new_event_hint">+ Nuovo evento</string>
      <string name="default_reminder_mode">Modalità avviso predefinita</string>
-     <string name="delete_calendar">Unsubscribe</string>
      <string name="delete_recurring_event_title">Eliminare %s?</string>
      <string name="delete_this_event_title">Questo evento sarà eliminato.</string>
-     <string name="deleting_calendar">Unsubscribing…</string>
      <string name="description_calendar">Applicazioni di sistema/Calendario</string>
      <string name="description_calendar_edit_event">Applicazioni di sistema/Calendario/Agenda</string>
      <string name="description_calendar_huangli" />
@@ -140,8 +123,6 @@
      <string name="does_not_repeat">Evento singolo</string>
      <string name="done">Ritorna</string>
      <string name="download">Download</string>
-     <string name="download_finished">下载完成</string>
-     <string name="downloaded">已下载</string>
      <string name="edit_date_calculate_days_backward_error_hint">Impossibile calcolare avanti</string>
      <string name="edit_date_calculate_days_empty_hint">Inserisci il numero dei giorni</string>
      <string name="edit_date_calculate_days_forward_error_hint">Impossibile calcolare indietro</string>
@@ -151,13 +132,12 @@
      <string name="edit_event_birthday_import_from_contact">Importa compleanno dai contatti</string>
      <string name="edit_event_birthday_name_empty_hint">Inserisci un nome</string>
      <string name="edit_event_birthday_name_hint">Nome</string>
-     <string name="edit_event_birthday_reminder_3_days_before">Remind 3 days in advance as well</string>
-     <string name="edit_event_birthday_reminder_time">Reminder time</string>
      <string name="edit_event_calendar_label">Calendario</string>
      <string name="edit_event_choose_date">Scegli data</string>
      <string name="edit_event_confirm_message">Ignorare le modifiche di questo evento?</string>
      <string name="edit_event_countdown_name_empty_hint">Inserisci nome promemoria</string>
      <string name="edit_event_countdown_name_hint">Evento</string>
+     <string name="edit_event_dislike_title">Perché hai annullato?</string>
      <string name="edit_event_from_label">Da</string>
      <string name="edit_event_input_year">Inserisci anno</string>
      <string name="edit_event_label">Modifica evento</string>
@@ -199,12 +179,10 @@
      <string name="event_lunar_month" />
      <string name="event_reminder_allday_day_zero">Quel giorno alle %2$s</string>
      <string name="event_reminder_value_zero">"Prima dell'evento"</string>
-     <string name="event_reminders_to_max">Can set up to %d reminders</string>
      <string name="event_title">Titolo</string>
      <string name="event_view">Mostra evento</string>
      <string name="every_weekday">Ogni settimana (Lun–Ven)</string>
      <string name="festival_detail_title">Festival</string>
-     <string name="force_touch_title_add_new_event">Add event</string>
      <string name="from_google_group_calendar">Calendario Google</string>
      <string name="gadget_no_events">Nessun evento</string>
      <string name="gadget_title">Calendario</string>
@@ -251,7 +229,6 @@
      <string name="lunar_to_solar" />
      <string name="match_select_activity_label">Seleziona Affinità</string>
      <string name="menu_general_preferences">Preferenze generali</string>
-     <string name="menu_preferences">Settings</string>
      <string name="menu_reminder_preferences">Promemoria</string>
      <string name="missing_name">(Nessun nome)</string>
      <string name="missing_required_permission">Hai disattivato un permesso richiesto.</string>
@@ -293,8 +270,6 @@
      <string name="monthly_on_day_count">Mensile (ogni %1$s %2$s)</string>
      <string name="network_not_available">Impossibile collegarsi alla rete</string>
      <string name="new_event_description">Nuovo</string>
-     <string name="new_event_dialog_label">New event</string>
-     <string name="new_event_dialog_option">New event</string>
      <string name="no_contact_birthday_hint">Nessun compleanno importato</string>
      <string name="no_events_hint">Nessun evento</string>
      <string name="no_network">"Impossibile collegarsi alla rete.
@@ -304,7 +279,6 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
      <string name="no_visiable_calendar_select_account">Seleziona account</string>
      <string name="no_visiable_calendar_title">Seleziona Account Calendario</string>
-     <string name="not_synced">not synced</string>
      <string name="olympic_vs">VS</string>
      <string name="panchang_amanta">Amanta</string>
      <string name="panchang_amanta_month">Mese Amanta:</string>
@@ -330,7 +304,6 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="path_calendar_settings">Applicazioni di sistema/Calendario/Impostazioni</string>
      <string name="pengzu" />
      <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
-     <string name="pref_error_no_ringtone_select">Default ringtone</string>
      <string name="pref_reminder_time">Orario promemoria</string>
      <string name="pref_title_alarm_remind">Avviso sonoro</string>
      <string name="pref_title_no_remind">Nessun avviso</string>
@@ -386,14 +359,12 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="rest_day_indication">:)</string>
      <string name="saving_event">Evento salvato</string>
      <string name="saving_event_with_guest">Aggiornamenti inviati</string>
-     <string name="search">Search</string>
      <string name="search_calendar">Calendario;Agenda;Promemoria</string>
      <string name="search_calendar_edit_event">Riunione;Promemoria;Agenda</string>
      <string name="search_calendar_huangli" />
      <string name="search_calendar_settings">Calendario;Agenda;Promemoria</string>
      <string name="search_calendar_subscribe_group" />
      <string name="select_date">Seleziona data</string>
-     <string name="select_synced_calendars_title">Calendars to sync</string>
      <string name="setting_about_calendar_version">Versione calendario:\u0020</string>
      <string name="setting_about_imei">IMEI:\u0020</string>
      <string name="setting_about_miui_version">Versione MIUI:\u0020</string>
@@ -416,18 +387,14 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="subscribe_card_success">Iscritto correttamente! Verifica i dettagli sulla home.</string>
      <string name="subscribe_card_success_for_homepage">Iscritto a “%1$s” correttamente</string>
      <string name="subscribe_channel_bottom_hint">—— Mi Calendar ——</string>
-     <string name="subscribe_channel_click_hint">Subscription required</string>
-     <string name="subscribe_channel_footer_button">Manage subscriptions</string>
      <string name="subscribe_channel_footer_desc">Controlla la tua sottoscrizione o annullala</string>
      <string name="subscribe_channel_footer_title">Sottoscritto</string>
-     <string name="subscribe_channel_footer_view">Check</string>
      <string name="subscribe_channel_hint">"Iscriviti al servizio che preferisci e ricevi aggiornamenti quotidiani sulla tua home.
 Puoi anche aggiungere dei promemoria per non perdere niente di importante."</string>
      <string name="subscribe_channel_subscribe">Sottoscrivi</string>
      <string name="subscribe_channel_subscribing">Sottoscrizione in corso</string>
      <string name="subscribe_channel_title">Canale</string>
      <string name="subscribing_card">Annullamento iscrizione</string>
-     <string name="synced">synced</string>
      <string name="tab_title_agenda">Eventi</string>
      <string name="tab_title_day">Giorno</string>
      <string name="tab_title_month">Mese</string>
@@ -436,8 +403,6 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="talk_back_read_date">La data corrente è %1$s,%2$s,</string>
      <string name="talk_back_setting">Impostazioni</string>
      <string name="template_announce_item_index">Evento %1$s di %2$s.</string>
-     <string name="template_week_num">Week %1$s</string>
-     <string name="text_day">日</string>
      <string name="text_year">anno</string>
      <string name="time_zone">Fuso orario</string>
      <string name="timezone_label">Fuso orario</string>
