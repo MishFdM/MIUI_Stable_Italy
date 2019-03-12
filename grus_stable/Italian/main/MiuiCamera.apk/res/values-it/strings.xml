@@ -427,6 +427,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_portrait_with_facebeauty_title">Funzionalità Bellezza in modalità ritratto</string>
      <string name="pref_camera_proximity_lock_summary">Blocca i movimenti touch quando posizionato in una tasca</string>
      <string name="pref_camera_proximity_lock_title">Modalità Pocket</string>
+     <string name="pref_camera_quick_shot_anim_enable_title">Turn on quick shot animation</string>
+     <string name="pref_camera_quick_shot_enable_title">Turn on quick shot</string>
      <string name="pref_camera_recordlocation_title">Memorizza info posizione</string>
      <string name="pref_camera_referenceline_title">Linea di riferimento</string>
      <string name="pref_camera_saturation_title">Saturazione</string>
