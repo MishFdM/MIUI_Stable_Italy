@@ -987,9 +987,9 @@ Apps:
      <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
      <string name="bluetooth_sap_request">Richiesta accesso SIM</string>
      <string name="bluetooth_scan_for_devices">Cerca dispositivi</string>
-     <string name="bluetooth_scanning_on_info_message">"When Bluetooth is turned on, your device can communicate with other nearby Bluetooth devices.
+     <string name="bluetooth_scanning_on_info_message">""When Bluetooth is turned on, your device can communicate with other nearby Bluetooth devices.
 
-To improve device experience, apps and services can still scan for nearby devices at any time, even when Bluetooth is off. This can be used, for example, to improve location-based features and services. you can change this in "<annotation id="link">scanning settings</annotation>.</string>
+To improve device experience, apps and services can still scan for nearby devices at any time, even when Bluetooth is off. This can be used, for example, to improve location-based features and services. you can change this in "<annotation id="link">scanning settings</annotation>."</string>
      <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
      <string name="bluetooth_searching_for_devices">Ricerca…</string>
      <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bit per Campione Audio Bluetooth</string>
@@ -1459,6 +1459,8 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="crypt_keeper_setup_time_remaining">Attendi che il dispositivo venga crittato. Tempo rimanente: ^1</string>
      <string name="crypt_keeper_setup_title">Crittografia</string>
      <string name="crypt_keeper_switch_input_method">Cambia metodo di immissione</string>
+     <string name="crypt_keeper_switch_to_pattern">Use pattern</string>
+     <string name="crypt_keeper_switch_to_pin">Use PIN</string>
      <string name="crypt_keeper_unplugged_text">Collega il caricabatterie e riprova.</string>
      <string name="crypt_keeper_warn_wipe">Avviso: Il dispositivo sarà formattato dopo ^1 altro tentativo fallito!</string>
      <string name="cryptkeeper_emergency_call">Chiamata di emergenza</string>
@@ -5297,9 +5299,9 @@ Per spostare foto, file e dati app su questo dispositivo, vai in Impostazioni > 
      <string name="storage_wizard_ready_title">^1 è pronto</string>
      <string name="storage_wizard_ready_v2_external_body">You can move content to ^1</string>
      <string name="storage_wizard_ready_v2_internal_body">To move content to ^1, go to <b>Settings > Storage</b></string>
-     <string name="storage_wizard_ready_v2_internal_moved_body">"Your content was moved to ^1. 
+     <string name="storage_wizard_ready_v2_internal_moved_body">""Your content was moved to ^1. 
 
-To manage this ^2, go to "<b>Settings > Storage</b>.</string>
+To manage this ^2, go to "<b>Settings > Storage</b>."</string>
      <string name="storage_wizard_slow_body">"^1 sembra lento. 
 
 Puoi continuare, ma le app spostate in questa posizione potrebbero rallentarsi ed il trasferimento potrebbe richiedere più tempo. 
