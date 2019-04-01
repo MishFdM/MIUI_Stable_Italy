@@ -346,6 +346,7 @@ only in frame mode"</string>
      <string name="fail">Fail</string>
      <string name="far">FAR (Tasso di Accettazione Errato):</string>
      <string name="far_away">far away</string>
+     <string name="fido_label">FIDO:</string>
      <string name="field_netinfo">network information</string>
      <string name="field_state">state</string>
      <string name="field_test">Field Test</string>
@@ -436,6 +437,7 @@ only in frame mode"</string>
      <string name="hw_test_fail">IR data send Unsuccess!</string>
      <string name="hw_test_finish">IR data send success</string>
      <string name="hwstart">test running...</string>
+     <string name="ifaa_label">IFAA:</string>
      <string name="image_quality_test">TEST QUALITÀ IMMAGINE</string>
      <string name="imei">[ IMEI]:</string>
      <string name="imei_no">IMEI:</string>
@@ -474,6 +476,7 @@ the selected?"</string>
      <string name="keyboard_test">KEY/OFN</string>
      <string name="keyboardlight">Key Light</string>
      <string name="keyboardlight_info">Please note if the keyboard light blink or not</string>
+     <string name="keybox_label">Keybox:</string>
      <string name="keyled_off">Key led off</string>
      <string name="keyled_on">Key led</string>
      <string name="language">Switching To English...</string>
@@ -911,6 +914,7 @@ pESN:%s
      <string name="waiting">Waiting for 4s.</string>
      <string name="warning">talk to Mic First</string>
      <string name="whiteled">White LED</string>
+     <string name="widevine_label">Widevine:</string>
      <string name="wifi_addr_test">WLAN Address</string>
      <string name="wifi_aw700">Wifi</string>
      <string name="wifi_result">[WIFI]:</string>
