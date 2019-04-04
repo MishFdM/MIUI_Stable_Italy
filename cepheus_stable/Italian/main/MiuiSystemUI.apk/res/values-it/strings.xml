@@ -675,6 +675,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_unlock_check_failed">Impossibile riconoscerti</string>
      <string name="face_unlock_close_screen">Mantieniti in prossimità dello schermo</string>
      <string name="face_unlock_down">Alza la testa</string>
+     <string name="face_unlock_fail">"Couldn't verify face"</string>
+     <string name="face_unlock_fail_retry">"Couldn't verify your face. Tap the icon to try again."</string>
      <string name="face_unlock_identify_error">Si è verificato un errore di riconoscimento</string>
      <string name="face_unlock_not_found">Impossibile riconoscerti</string>
      <string name="face_unlock_offset_bottom">"Abbassa un po\' il dispositivo"</string>
@@ -694,6 +696,9 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_unlock_rotated_right">Muovi la tua testa verso sinistra</string>
      <string name="face_unlock_sc_status">Sposta la schermata verso il basso per aprire la camera</string>
      <string name="face_unlock_stay_away_screen">Stai almeno 25/40cm lontano dallo schermo</string>
+     <string name="face_unlock_success">Verified face data successfully</string>
+     <string name="face_unlock_success_stay_screen_msg">Stay on the Lock screen after your face is verified. Swipe up to open the Home screen.</string>
+     <string name="face_unlock_success_stay_screen_title">Stay on Lock screen after unlocking</string>
      <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni per %1$s</string>
      <string name="fingerprint_add_text">"L'interfaccia dell'impronta è stata aggiornata. Aggiungi nuovamente l'impronta."</string>
      <string name="fingerprint_add_title">Aggiungi impronta</string>

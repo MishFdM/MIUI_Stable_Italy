@@ -44,6 +44,8 @@
      <string name="ad_download_pending">Pending</string>
      <string name="ad_download_resume">Resume</string>
      <string name="ad_downloading_tip">This item is being downloaded. You can view progress in the Notification shade.</string>
+     <string name="ad_tag_text_1">流行</string>
+     <string name="ad_tag_text_2">时尚</string>
      <string name="add_resource_detail_fail">Impossibile aggiungere risorsa</string>
      <string name="all_resources">Tutto</string>
      <string name="app_ad_title">Daily Recommendations</string>
@@ -196,6 +198,7 @@ This video has no sound. The other person will hear their ringtone while it's pl
      <string name="incall_show_remove">Remove profile video</string>
      <string name="incall_show_remove_dialog_message">"You've already set a profile video for outgoing calls. Remove the video now?"</string>
      <string name="incall_show_remove_success">Removed profile video successfully</string>
+     <string name="incall_show_title">Profile videos</string>
      <string name="incompatible_dialog_cancel">Non applicare</string>
      <string name="incompatible_dialog_message">Questo tema non è pienamente compatibile con MIUI 10. Alcuni elementi potrebbero non essere visualizzati correttamente.</string>
      <string name="incompatible_dialog_ok">OK</string>
