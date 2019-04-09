@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="activities_title">
+        <item>Giorno speciale</item>
+        <item>Giorno da ricordare</item>
+        <item>Momenti importanti</item>
+     </string-array>
      <string-array name="baby_sexy">
         <item>Bambino</item>
         <item>Bambina</item>
@@ -57,6 +62,11 @@
         <item>Novembre</item>
         <item>Dicembre</item>
      </string-array>
+     <string-array name="last_weekend_title">
+        <item>I miei weekend</item>
+        <item>Spaccati di vita</item>
+        <item>Ricordi dei weekend</item>
+     </string-array>
      <string-array name="month">
         <item>Gennaio</item>
         <item>Febbraio</item>
@@ -93,6 +103,11 @@
         <item>Nonno materno</item>
         <item>Nonna materna</item>
      </string-array>
+     <string-array name="parties_title">
+        <item>Insieme</item>
+        <item>Bei momenti</item>
+        <item>Insieme</item>
+     </string-array>
      <string-array name="relation_with_me">
         <item>Io</item>
         <item>Figlio</item>
@@ -121,6 +136,10 @@
         <item>Nonna paterna</item>
         <item>Nonno materno</item>
         <item>Nonna materna</item>
+     </string-array>
+     <string-array name="sports_title">
+        <item>Andare avanti</item>
+        <item>Pieno di energia</item>
      </string-array>
      <string-array name="weekend_title">
         <item>Ultimi weekend</item>

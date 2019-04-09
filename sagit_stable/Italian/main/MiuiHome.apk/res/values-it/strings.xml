@@ -105,9 +105,9 @@
      <string name="delete_wallpaper_message">Eliminare %1$d sfondo?</string>
      <string name="deselect_all">Deseleziona tutto</string>
      <string name="disable_wallpaper_scroll">Disattiva scorrimento sfondo</string>
+     <string name="double_tap_to_lock_title">Doppio tocco per bloccare lo schermo</string>
      <string name="download_action">Download</string>
-     <string name="drag_multiple_item_name" />
-     <string name="drag_single_item_name" />
+     <string name="dual_app">Clona app</string>
      <string name="edit_folder_title">Modifica nome cartella</string>
      <string name="edit_mode_group">Gruppo</string>
      <string name="edit_mode_group_error_full">Spazio insufficiente</string>
@@ -263,8 +263,8 @@
      <string name="pref_icon_shadow_title">Ombra icone</string>
      <string name="pref_keep_in_memory_summary">"Mantieni l'applicazione in memoria, in questo modo non verrà terminata."</string>
      <string name="pref_keep_in_memory_title">Mantieni in memoria</string>
-     <string name="pref_keep_layout_summary">Cambiando il layout delle icone si potrebbe modificare il layout della Home.</string>
-     <string name="pref_keep_layout_title">"Mantieni l'attuale layout"</string>
+     <string name="pref_keep_layout_summary">Cambiando la disposizione delle icone si potrebbe modificare il layout della Home.</string>
+     <string name="pref_keep_layout_title">"Mantieni l'attuale disposizione"</string>
      <string name="pref_render_in_truecolor_summary">Disabilitando questa opzione aumenterai le performance grafiche</string>
      <string name="pref_render_in_truecolor_title">Grafica di alta qualità</string>
      <string name="pref_screen_transformation_type_title">Animazioni</string>
@@ -272,7 +272,6 @@
      <string name="preferences_general_title">Impostazioni generali</string>
      <string name="preferences_title">Impostazioni launcher</string>
      <string name="preferred_app_settings_not_selected">Non selezionato</string>
-     <string name="process" />
      <string name="quick_app">App Veloci</string>
      <string name="recents_config_title">Recenti</string>
      <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
@@ -289,10 +288,10 @@
      <string name="reset_description_first_time">Puoi ripristinare la disposizione da %1$s in 2 ore</string>
      <string name="reset_description_others">Puoi ripristinare la disposizione da %1$s</string>
      <string name="reset_fail">Reimpostazione fallita</string>
-     <string name="reset_scene_prompt">La scena verrà ripristinata al layout predefinito</string>
+     <string name="reset_scene_prompt">La scena verrà ripristinata alla disposizione predefinita</string>
      <string name="reset_title">reimposta</string>
-     <string name="screen_cells_config_title">Layout schermata Home</string>
-     <string name="screen_locked_toast">Il layout della home è bloccato</string>
+     <string name="screen_cells_config_title">Disposizione schermata Home</string>
+     <string name="screen_locked_toast">La disposizione della schermata home è bloccata</string>
      <string name="screen_number">Schermata n° %d</string>
      <string name="select_all">Seleziona tutto</string>
      <string name="select_frame">Cornice</string>
@@ -301,7 +300,6 @@
      <string name="settings">Impostazioni</string>
      <string name="settings_shortcut">Impostazioni collegamenti</string>
      <string name="share">Condividi</string>
-     <string name="sharedUserId" />
      <string name="show_all">Mostra tutto</string>
      <string name="show_mem_info_title">Mostra stato memoria</string>
      <string name="show_recents_recommend_title">Mostra suggerimenti</string>
@@ -339,7 +337,7 @@
      <string name="uninstall_xspace_dialog_title_format">Disinstalla clone di \"%s\"</string>
      <string name="unknown_artist_name">Artista sconosciuto</string>
      <string name="unnamed_folder_name">Nuova cartella</string>
-     <string name="use_theme_screen_cells_title">Consenti di sovrascrivere il layout</string>
+     <string name="use_theme_screen_cells_title">Consenti di sovrascrivere le regole di disposizione</string>
      <string name="wallpaper">Sfondo</string>
      <string name="wallpaper_auto_change_title">Schermata di blocco</string>
      <string name="wallpaper_failed_message">Impossibile applicare lo sfondo</string>

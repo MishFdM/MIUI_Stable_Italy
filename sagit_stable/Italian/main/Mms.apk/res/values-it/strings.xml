@@ -44,6 +44,10 @@
      <string name="audio_message_mx_offline">"Impossibile scaricare l'audio. Mi Message è offline o non disponibile."</string>
      <string name="audio_playing_seconds">%d\"</string>
      <string name="audio_sim_card_mismatching">Nessuna connessione di rete o nessuna SIM installata. Installa la SIM dalla quale è stato inviato il messaggio e collegati alla rete.</string>
+     <string name="auto_identify_btn_text_only_smart_messaging">Attiva Messaggi Smart</string>
+     <string name="auto_identify_btn_text_when_all_disabled">Identifica ID Mittente automaticamente</string>
+     <string name="auto_identify_btn_title">Questo messaggio è stato inviato da un numero sconosciuto.</string>
+     <string name="auto_identify_confirmation">"L'attivazione potrebbe richiedere alcuni minuti."</string>
      <string name="back_to_message_list">Torna alla lista messaggi</string>
      <string name="batch_adding_progress_message">Operazione in corso…</string>
      <string name="batch_deleting_message_progress_message">Eliminazione messaggi selezionati</string>
@@ -286,6 +290,7 @@
      <string name="menu_pick_from_contact">Seleziona dai contatti</string>
      <string name="menu_preferences">Impostazioni</string>
      <string name="menu_send_as_common">Invia come SMS</string>
+     <string name="menu_traffic_destination">Destinazione</string>
      <string name="menu_unlock">Sblocca messaggio</string>
      <string name="menu_view_contact">Visualizza contatto</string>
      <string name="message_class_label">"Classe messaggio: "</string>
@@ -394,7 +399,7 @@
      <string name="new_phrase">Nuovo modello</string>
      <string name="new_phrase_hint">Digita nuova frase</string>
      <string name="no">Annulla</string>
-     <string name="no_block_button_msg">Non bloccare messaggi da questo numero</string>
+     <string name="no_block_button_msg">Non bloccare messaggi</string>
      <string name="no_conversations">Nessuna conversazione.</string>
      <string name="no_delivery_report">Nessun rapporto di consegna</string>
      <string name="no_subject">(Nessun oggetto)</string>
@@ -417,6 +422,7 @@
      <string name="notification_multiple">[%s]</string>
      <string name="notification_multiple_title">Nuovi messaggi</string>
      <string name="number_add_hint">Inserisci numero da aggiungere al Contatto Privato</string>
+     <string name="number_recognition_partner">Partner Riconoscimento Numero</string>
      <string name="open_audio_record_panel">Apri pannello registrazione</string>
      <string name="open_edit_sms_panel">Apri il pannello di modifica SMS</string>
      <string name="open_url_with_web">Aprire questo link nel browser?</string>
@@ -740,6 +746,7 @@
      <string name="too_many_attachments">"C'è un limite di %1$s allegati. Verranno aggiunti solo i primi %2$s."</string>
      <string name="too_many_recipients">"Questo messaggio ha troppi destinatari (%1$s). C'è un limite di %2$s destinatari."</string>
      <string name="too_many_unsent_mms">Impossibile inviare il messaggio in questo momento. Troppi messaggi multimediali non inviati.</string>
+     <string name="train_edit_destination">Aggiungi</string>
      <string name="try_to_send">Prova a inviare</string>
      <string name="type_attachment">Allegato</string>
      <string name="type_audio">Audio</string>

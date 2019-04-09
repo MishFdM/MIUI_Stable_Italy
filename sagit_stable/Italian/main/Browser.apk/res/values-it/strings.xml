@@ -248,9 +248,9 @@ stia per accadere"</string>
      <string name="data_traffic_download_cancel">Annulla</string>
      <string name="data_traffic_download_prompt">Il video attuale può essere scaricato solo in ambiente Wi-Fi</string>
      <string name="data_traffic_download_setting">Impostazioni</string>
-     <string name="data_traffic_goto">Traffico dati gratuito</string>
-     <string name="data_traffic_prompt_free_data">"L'utilizzo della rete mobile per la navigazione fra i video aumenterà il consumo di dati. Prego assicurati di ottenere prima del traffico dati gratuito."</string>
-     <string name="data_traffic_prompt_message">"L'utilizzo della rete mobile per la navigazione aumenterà il consumo di dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+     <string name="data_traffic_goto">Piano gratuito</string>
+     <string name="data_traffic_prompt_free_data">"L'utilizzo della rete mobile per i video incrementerà i consumi. Assicurati di possedere del traffico dati gratuito."</string>
+     <string name="data_traffic_prompt_message">"L'utilizzo della rete mobile incrementerà i consumi. Il superamento del limite dati potrebbe comportare costi aggiuntivi."</string>
      <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
      <string name="data_traffic_stop">Ferma</string>
      <string name="delete">Elimina</string>
@@ -422,6 +422,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="hint">Suggerimenti</string>
      <string name="history">Cronologia</string>
      <string name="home_description">Home</string>
+     <string name="home_hybrid_application_tips">Mini Program inclusi</string>
      <string name="homepage_delete_card_menu">Elimina</string>
      <string name="homepage_get_location">Trova posizione</string>
      <string name="homepage_get_location_failed">Impossibile recuperare le informazioni, seleziona una città</string>
@@ -430,6 +431,8 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="homepage_search_hint">Cerca</string>
      <string name="homepage_top_card_menu">In cima</string>
      <string name="hot_words_item_ads_mark">Ads</string>
+     <string name="hybrid_application_no_data_text">Mini Program non inclusi</string>
+     <string name="hybrid_popup_window_delete_button">Elimina</string>
      <string name="ignore_add_pwa_dialog_today">Non mostrare oggi</string>
      <string name="in_secureaccess">Browser passato in modalità provvisoria</string>
      <string name="info_flow_description">Info channel</string>
@@ -1259,13 +1262,13 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggestion_express_title">Query a singolo numero espresso</string>
      <string name="suggestion_hotwords_title_change_button_text">PIÙ CAMBIAMENTI</string>
      <string name="suggestion_hotwords_title_text">Ricerca di maggior interesse</string>
-     <string name="suggestion_input_history_title_text">CRONOLOGIA INPUT</string>
+     <string name="suggestion_input_history_title_text">INPUT HISTORY</string>
      <string name="suggestion_input_hitory_clear_text">PULISCI</string>
      <string name="suggestion_lottery_detail_pour">%s NOTA</string>
      <string name="suggestion_lottery_detail_price">OGNI NOTA %s YUAN</string>
      <string name="suggestion_lottery_detail_text">QUESTO %s</string>
      <string name="suggestion_lottery_period">NO. %s</string>
-     <string name="suggestion_more_button_text">MOSTRA DI PIÙ</string>
+     <string name="suggestion_more_button_text">SEE MORE</string>
      <string name="suggestion_more_news">PIÙ NOTIZIE</string>
      <string name="suggestion_more_news_start_title_text">Notizie Correlate</string>
      <string name="suggestion_sliding_ads_info_mark_text">ADS</string>
@@ -1406,4 +1409,5 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="voice_title_speech_again">Non riesco a comprenderti</string>
      <string name="weather_location_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."</string>
      <string name="webpage_title">Segnalibri e cronologia</string>
+     <string name="window_manager_hybrid_application_list_title_text">Usati di recente</string>
 </resources>
