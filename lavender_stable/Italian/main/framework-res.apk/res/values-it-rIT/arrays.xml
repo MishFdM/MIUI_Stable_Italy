@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <integer-array name="config_autoBrightnessDisplayValuesNits">
-         <item>8</item>
+        <item>8</item>
         <item>24</item>
         <item>46</item>
         <item>64</item>
