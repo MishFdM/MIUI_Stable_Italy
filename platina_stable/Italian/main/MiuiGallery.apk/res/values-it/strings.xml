@@ -149,6 +149,7 @@
      <string name="backup_device_space_low_title">Spazio di archiviazione insufficiente</string>
      <string name="backup_dirty_num">Totale: %s</string>
      <string name="backup_dirty_tip">Backup di foto e video non eseguito</string>
+     <string name="backup_file_over_size_desc">"Photos bigger than %1$s and videos bigger than %2$s can't be backed up."</string>
      <string name="backup_immediately">Backup</string>
      <string name="backup_need_sync_desc">Premi il tasto per continuare il backup</string>
      <string name="backup_need_sync_title">Backup interrotto</string>
@@ -919,15 +920,15 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="filter_master_somber">Tetro</string>
      <string name="filter_original">Nessuno</string>
      <string name="filter_people_fairytale">Bambini</string>
-     <string name="filter_people_heart">Emozioni</string>
+     <string name="filter_people_heart">Emotions</string>
      <string name="filter_people_japanese">Fresco</string>
      <string name="filter_people_maze">Labirinto</string>
-     <string name="filter_people_mint">Menta</string>
+     <string name="filter_people_mint">Mint</string>
      <string name="filter_people_movie">Film</string>
      <string name="filter_people_nature">Naturale</string>
      <string name="filter_people_pink">Arrossamento</string>
      <string name="filter_people_riddle">Enigma</string>
-     <string name="filter_people_roman">Romantico</string>
+     <string name="filter_people_roman">Romantic</string>
      <string name="filter_people_story">Storia</string>
      <string name="filter_scene_city">Città</string>
      <string name="filter_scene_df">Nebbia</string>

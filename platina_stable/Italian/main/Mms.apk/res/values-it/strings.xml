@@ -596,7 +596,7 @@
      <string name="security_alert_dialog_title">Segnala</string>
      <string name="select_audio">Seleziona audio</string>
      <string name="select_bottom_text">Testo in basso</string>
-     <string name="select_copy_text">Seleziona e copia il testo del messaggio</string>
+     <string name="select_copy_text">Select and copy message text</string>
      <string name="select_different_attachment">Choose a different attachment.</string>
      <string name="select_different_audio">Choose a different audio.</string>
      <string name="select_different_picture">Choose a different image.</string>
