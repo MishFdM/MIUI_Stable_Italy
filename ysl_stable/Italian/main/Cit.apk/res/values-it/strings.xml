@@ -269,6 +269,11 @@ only in frame mode"</string>
      <string name="cit2">CIT2:</string>
      <string name="cit2reporttitle">CIT 2 Test Report</string>
      <string name="cit3reporttitle">CIT 3 Test Report</string>
+     <string name="cit_bluetooth_logging_confirm_info">questa registrazione Bluetooth salverà i dati protocollo dei tuoi dispositivi Bluetooth, limitandone la registrando ai soli dispositivi relegati a tale operazione. Verranno inoltre registrati i seguenti dati relativi alle informazioni sulla privacy: Accesso a Rubrica Bluetooth/Cronologia chiamate Telefono/SMS/MMS/File scambiati/Metadata di File Musicali ecc. Questi dati saranno limitati al debug interno di Xiaomi e non verranno utilizzati per altri scopi.</string>
+     <string name="cit_bluetooth_logging_confirm_ng">Rifiuto</string>
+     <string name="cit_bluetooth_logging_confirm_notify">Confermi di voler abilitare la registrazione?</string>
+     <string name="cit_bluetooth_logging_confirm_ok">Concordo</string>
+     <string name="cit_bluetooth_logging_confirm_title">Avviso Privacy Registrazione Bluetooth</string>
      <string name="cit_nv_flag">"CIT NV Flag: "</string>
      <string name="clear">Clear</string>
      <string name="closeradiotest">Close Radio Test</string>

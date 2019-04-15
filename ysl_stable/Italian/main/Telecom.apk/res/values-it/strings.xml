@@ -176,7 +176,7 @@ Sample Rate"</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="choose_profile">Choose Profile</string>
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
-     <string name="close">Close</string>
+     <string name="close">Disattiva</string>
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
      <string name="connected_via_carrier">Connected via %1$s</string>
@@ -315,11 +315,11 @@ Sample Rate"</string>
      <string name="picture_color_mode_desc">Use sRGB</string>
      <string name="pointer_location">Pointer location</string>
      <string name="pointer_location_summary">Screen overlay showing current touch data</string>
-     <string name="power_charging_duration">^1 - ^2 until fully charged</string>
+     <string name="power_charging_duration">^1 - ^2 until fully charged </string>
      <string name="power_discharging_duration">^1 - about ^2 left</string>
      <string name="power_discharging_duration_enhanced">^1 - about ^2 left based on your usage</string>
      <string name="power_discharging_duration_short">^1 - ^2 left</string>
-     <string name="power_remaining_charging_duration_only">^1 left until fully charged </string>
+     <string name="power_remaining_charging_duration_only">^1 left until fully charged</string>
      <string name="power_remaining_duration_only">About ^1 left</string>
      <string name="power_remaining_duration_only_enhanced">About ^1 left based on your usage</string>
      <string name="power_remaining_duration_only_short">^1 left</string>
