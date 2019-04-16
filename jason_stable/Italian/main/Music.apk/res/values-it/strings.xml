@@ -42,17 +42,33 @@
      <string name="add_to_last_of_playlist">Aggiungi alla fine della playlist.</string>
      <string name="add_to_playlist_successful">Aggiunto correttamente</string>
      <string name="added_next_play">Aggiunto alla prossima riproduzione</string>
+     <string name="agreement_desc">Accordo utente (obbligatorio)</string>
      <string name="alaka_required">Questo brano non è disponibile</string>
      <string name="album_label">Album</string>
      <string name="album_name">Album</string>
      <string name="all_album_count">Tutti gli album (%d)</string>
+     <string name="all_albums">Tutti gli album</string>
+     <string name="all_artists">Tutti gli artisti</string>
      <string name="all_playlist_count">Tutte le playlist (%d)</string>
+     <string name="all_playlists">Tutte le playlist</string>
+     <string name="all_songs">Tutti i brani</string>
      <string name="all_tracks">Tutti i brani</string>
+     <string name="all_videos">Tutti i video</string>
      <string name="already_download">Download in corso…</string>
      <string name="already_download_btn">Download…</string>
      <string name="already_favorited">Già nei Preferiti</string>
      <string name="always_use_metered">Utilizza sempre i dati mobili</string>
      <string name="app_label">Download</string>
+     <string name="app_permission_confirm">Ho capito</string>
+     <string name="app_permission_optional">Permessi opzionali</string>
+     <string name="app_permission_require">Permessi obbligatori</string>
+     <string name="app_permission_use_desc">Permessi</string>
+     <string name="app_permission_use_group_account">Account</string>
+     <string name="app_permission_use_group_account_desc">Per il recupero di info su Mi Account</string>
+     <string name="app_permission_use_group_phone">Telefono</string>
+     <string name="app_permission_use_group_phone_desc">Per i servizi Google Pushs</string>
+     <string name="app_permission_use_group_storage">Archiviazione</string>
+     <string name="app_permission_use_group_storage_desc">Per la ricerca e la riprodizione di brani salvati sul dispositivo</string>
      <string name="artist">Artisti</string>
      <string name="artist_area_all">Tutti</string>
      <string name="artist_area_china">Cina</string>
@@ -73,6 +89,7 @@
      <string name="avoid_to_use_traffic_summary">Non utilizzare la rete mobile per riprodurre musica in streaming</string>
      <string name="avoid_to_use_traffic_title">Mostra un avviso nel caso vengano utilizzati i dati mobili per riprodurre i brani</string>
      <string name="back_confirm">Tocca ancora per uscire</string>
+     <string name="banner_op">Mi Music</string>
      <string name="bluetooth_device">Dispositivo Bluetooth</string>
      <string name="browser_error">Temporaneamente non disponibile, riprova più tardi</string>
      <string name="buffering">Buffer in corso…</string>
@@ -120,6 +137,7 @@
      <string name="current_version">Versione</string>
      <string name="data_usage_warning">Utilizzo dati</string>
      <string name="data_usage_warning_summary">Lo streaming in alta qualità tramite rete cellulare può aumentare il traffico dati.</string>
+     <string name="data_use_desc">Documenti legali</string>
      <string name="date_format_str">dd-MM-yyyy</string>
      <string name="delete">Elimina</string>
      <string name="delete_download">Elimina</string>
@@ -151,6 +169,7 @@
      <string name="dialog_media_not_found">Impossibile scaricare. Il supporto esterno non è disponibile.</string>
      <string name="dialog_queued_body">Questo file è in coda per essere scaricato successivamente.</string>
      <string name="dialog_renew_failure">Spiacente, questa azione non è riuscita</string>
+     <string name="dialog_renew_free_end">Il periodo di prova gratuita è scaduto. Vuoi iscriverti a Hungama PRO?​</string>
      <string name="dialog_renew_positive_text">SI! VOGLIO FARE ROCK DA PRO</string>
      <string name="dialog_renew_success">Grazie per la tua conferma</string>
      <string name="dialog_song_sort_type">Definisci ordinamento</string>
@@ -306,6 +325,7 @@
      <string name="favorite_succeed">Aggiunto ai Preferiti</string>
      <string name="favorite_tracks">Preferiti</string>
      <string name="favorites">Preferiti</string>
+     <string name="fcm_fallback_notification_channel_label">Altre</string>
      <string name="feed_back">Segnalazione bug</string>
      <string name="file_not_found">File inesistente</string>
      <string name="filter_by_duration">Per durata</string>
@@ -327,6 +347,7 @@
      <string name="format_not_support">Formato non valido, impossibile salvare.</string>
      <string name="format_unsupported_or_corrupted">Formato non supportato o file corrotto</string>
      <string name="fragment_title_artist_album">ALBUM</string>
+     <string name="gcm_fallback_notification_channel_label">Altre</string>
      <string name="handle_later">Non adesso</string>
      <string name="hd_quality_audio">Qualità audio HD</string>
      <string name="headset_and_audio_effect_category">Auricolari ed effetti audio</string>
@@ -473,11 +494,9 @@ attendere o selezionare Musica Online."</string>
      <string name="not_now">Non ora</string>
      <string name="not_selected">Scegli un brano</string>
      <string name="notif_title_file_size">%1$d totale</string>
-     <string name="notif_title_multiple_downloading">Download di %1$d file</string>
      <string name="notif_title_single_downloading">Download %1$s</string>
      <string name="notification_download_complete">Download completato</string>
      <string name="notification_download_failed">Impossibile scaricare</string>
-     <string name="notification_download_failed_more">Impossibile scaricare %1$d elementi</string>
      <string name="notification_download_success_more">%1$d scaricati</string>
      <string name="notification_need_wifi_for_size">La dimensione del file richiede il Wi-Fi.</string>
      <string name="notification_play_summary">Mostra il brano attuale e quello successivo, mostra i testi sulla Home</string>
@@ -491,6 +510,13 @@ attendere o selezionare Musica Online."</string>
      <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
      <string name="nowplaying_menu_item_delete">Elimina</string>
      <string name="ok">OK</string>
+     <string name="online_apk_download_error_no_enough_space">Impossibile scaricare, spazio insufficiente.</string>
+     <string name="online_apk_downloading">Download in corso…%d%%</string>
+     <string name="online_apk_install_alert_confirm">Scarica</string>
+     <string name="online_apk_install_alert_message">Devi scaricare Yandex.Music plug-in. Scaricare adesso?</string>
+     <string name="online_apk_install_alert_note">Questo servizio è offerto da Yandex.Music</string>
+     <string name="online_apk_install_error_no_enough_space">Impossibile scaricare, spazio insufficiente.</string>
+     <string name="online_apk_install_error_with_reason">Installazione non riuscita (Errore %d)"</string>
      <string name="online_list_delete_message">Tutti i brani scaricati in questa playlist verranno eliminati dal dispositivo.</string>
      <string name="online_recommend">Consigliati</string>
      <string name="online_service_open_tip">Servizi musica online attivati</string>
@@ -544,6 +570,7 @@ attendere o selezionare Musica Online."</string>
      <string name="preset_music_playlist">Playlist Mi Music</string>
      <string name="priority_storage">Usa scheda SD</string>
      <string name="priority_storage_summary">Scarica automaticamente su scheda SD, se disponibile</string>
+     <string name="privacy_desc">Informativa Privacy (obbligatorio)</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="pro_member">Utente PRO</string>
      <string name="project_device">Dispositivo Mi</string>
@@ -552,6 +579,7 @@ attendere o selezionare Musica Online."</string>
      <string name="pulluprefreshrecyclerview_loading_finished">Caricamento riuscito</string>
      <string name="pulluprefreshrecyclerview_loading_running">Caricamento…</string>
      <string name="queue_is_empty">La coda di riproduzione è vuota.</string>
+     <string name="ready_to_play">Tra poco</string>
      <string name="recently_played">Riprodotti di recente</string>
      <string name="recently_played_songs">Recenti</string>
      <string name="recommended_file_size_download_in_mobile">Utilizzare %s di dati su rete cellulare per scaricare questo file?</string>
@@ -583,6 +611,8 @@ E gioiscine"</string>
      <string name="search_for_album">Album</string>
      <string name="search_for_artist">Artista</string>
      <string name="search_hint">Artista, brano o album</string>
+     <string name="search_hint_local">Cerca brani sul dispositivo</string>
+     <string name="search_hint_online">Cerca per artisti, album, brani, playlist e video online online</string>
      <string name="search_history_clear_all">Cancella</string>
      <string name="search_instant_online_music">Online</string>
      <string name="search_menu_title">Cerca</string>
@@ -657,8 +687,10 @@ E gioiscine"</string>
      <string name="tab_artist">Artisti</string>
      <string name="tab_artist_list">Artisti</string>
      <string name="tab_folder">Cartelle</string>
+     <string name="tab_playlist">Playlist</string>
      <string name="tab_track">Brani</string>
      <string name="tab_track_list">Brani</string>
+     <string name="tab_video">Video</string>
      <string name="take_effect_afater_restart">"Devi riavviare l'app Musica affinché questa impostazione abbia effetto."</string>
      <string name="talkback_back">Indietro</string>
      <string name="talkback_batch_process">Elementi multipli</string>
@@ -724,4 +756,11 @@ E gioiscine"</string>
 
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>
      <string name="wifi_required_title">"File troppo grande per la rete dell'operatore"</string>
+     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
+     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
+Size: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
+     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
 </resources>
