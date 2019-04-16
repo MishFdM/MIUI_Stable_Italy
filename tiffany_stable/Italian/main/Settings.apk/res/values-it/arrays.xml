@@ -217,6 +217,14 @@
         <item>IS95B</item>
         <item>IS95A</item>
      </string-array>
+     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>Modalità alta qualità (Predefinito)</item>
+        <item>Modalità bassa latenza</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>Modalità alta qualità (Predefinito)</item>
+        <item>Modalità bassa latenza</item>
+     </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usa selezione di sistema (predefinito)</item>
         <item>16 bit/campione</item>
@@ -269,9 +277,10 @@
         <item>Usa selezione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Attiva Codec Opzionali</item>
         <item>Disattiva Codec Opzionali</item>
      </string-array>
@@ -279,9 +288,10 @@
         <item>Usa selezione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Attiva Codec Opzionali</item>
         <item>Disattiva Codec Opzionali</item>
      </string-array>
@@ -345,14 +355,14 @@
         <item>Password</item>
      </string-array>
      <string-array name="check_importance_entries">
-        <item>Consigliato</item>
-        <item>Importante</item>
-        <item>Non importante</item>
+        <item>Recommended</item>
+        <item>Important</item>
+        <item>Unimportant</item>
      </string-array>
      <string-array name="check_importance_summary">
-        <item>Filtro intelligente, le notifiche non importanti appariranno in una cartella separata</item>
-        <item>Le notifiche compariranno direttamente nel pannello delle notifiche</item>
-        <item>Tutte le notifiche compariranno in una cartella separata</item>
+        <item>MIUI will decide which notifications should appear directly</item>
+        <item>Notifications will appear in the Notification shade</item>
+        <item>Notifications will appear in a separate folder</item>
      </string-array>
      <string-array name="city_name">
         <item>Abidjan</item>
@@ -997,6 +1007,10 @@
         <item>OpenGL (Predefinito)</item>
         <item>OpenGL (Skia)</item>
      </string-array>
+     <string-array name="default_vol_stream_entries">
+        <item>Suoneria</item>
+        <item>Elementi multimediali</item>
+     </string-array>
      <string-array name="device_description_overlay">
         <item>device_description_cpu</item>
         <item>device_description_battery</item>
@@ -1364,12 +1378,16 @@
         <item>Nega</item>
      </string-array>
      <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-        <item>Ricerca</item>
-        <item>Impostazioni</item>
+        <item>Search</item>
+        <item>Settings</item>
      </string-array>
      <string-array name="status_bar_settings_notification_style_entries">
         <item>MIUI</item>
         <item>Android</item>
+     </string-array>
+     <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Predefinito</item>
+        <item>Compatto</item>
      </string-array>
      <string-array name="timezone_filters">
         <item>America</item>

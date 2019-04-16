@@ -1051,7 +1051,7 @@ Riprova tra %d secondi."</string>
      <string name="permgrouplab_sensors">Sensori</string>
      <string name="permgrouplab_sms">SMS</string>
      <string name="permgrouplab_storage">Archiviazione</string>
-     <string name="permission">Permesso</string>
+     <string name="permission">Permission</string>
      <string name="permission_request_notification_title">Autorizzazione richiesta</string>
      <string name="permission_request_notification_with_subtitle">"Autorizzazione richiesta
 per l'account %s."</string>
