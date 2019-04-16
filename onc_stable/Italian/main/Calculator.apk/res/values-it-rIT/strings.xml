@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="allow">Agree</string>
      <string name="angle">grad</string>
      <string name="app_name">Calcolatrice</string>
      <string name="app_name_danfa">Calcolatrice Mi</string>
@@ -14,6 +15,7 @@
      <string name="cal_result_format">= %s</string>
      <string name="cal_text_copied">Testo copiato</string>
      <string name="cancel">Annulla</string>
+     <string name="children_education">"Children's education"</string>
      <string name="choose_currency">Seleziona una valuta</string>
      <string name="choose_unit">Seleziona unità di misura</string>
      <string name="city">Città</string>
@@ -47,6 +49,12 @@
      <string name="description_content">"Oltre alle funzionalità base, l'app Calcolatrice funziona anche da multi convertitore, calcolo finanziamenti e tasse. Assicurati di non aver necessità di queste funzionalità prima di eliminare l'app"</string>
      <string name="description_title">Informazioni</string>
      <string name="devided_by_zero_reminder_message">Impossibile dividere per zero</string>
+     <string name="dialog_privacy_content">Besides the basic features of a calculator, our app also contains a scientific calculator and a multi-purpose converter. Some features need to connect to the internet to work normally. You must read and agree to our %1$s and %2$s before using Calculator.</string>
+     <string name="dialog_privacy_title">Terms and Conditions</string>
+     <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
+     <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
+     <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
+     <string name="dialog_rating_title">Rate our app</string>
      <string name="digit0">0</string>
      <string name="digit1">1</string>
      <string name="digit2">2</string>
@@ -68,6 +76,10 @@
      <string name="equalDesc">uguale</string>
      <string name="error">Errore</string>
      <string name="error_fomrat">Errore formato</string>
+     <string name="exit">Exit</string>
+     <string name="extra_deduction_instruction">Deduction details</string>
+     <string name="extra_deduction_tips">Tap the button in the upper corner of the screen to view deduction details.</string>
+     <string name="extra_deduction_title">Additional deductions</string>
      <string name="factorial">!</string>
      <string name="factorialDesc">fattoriale</string>
      <string name="from_num">100</string>
@@ -76,6 +88,7 @@
      <string name="from_unit_short">km/h</string>
      <string name="fund" />
      <string name="fund_loan" />
+     <string name="further_education">Further education</string>
      <string name="global_network_confirm_content">Il convertitore di valuta deve utilizzare la connessione di rete per funzionare correttamente.</string>
      <string name="global_search_key_area_convertion">Area;Convertitore di Area;Conversione Area</string>
      <string name="global_search_key_calculation">Calcola;Calcolatrice;Unità di conversione;Convertitore;Convertitore di unità</string>
@@ -92,7 +105,10 @@
      <string name="global_search_key_word_figure">Caratteri finanziari</string>
      <string name="golbal_search_calculator_setting">Calcolatrice;Impostazioni Calcolatrice;Impostazioni</string>
      <string name="golbal_search_path_calculator_setting">App di sistema/Calcolatrice/Impostazioni</string>
+     <string name="help_content_desc">Help</string>
+     <string name="home_loan">Mortgage interest</string>
      <string name="home_title_calculator">Calcolatrice</string>
+     <string name="house_rent">Rent</string>
      <string name="income_type" />
      <string name="install">Installa</string>
      <string name="install_scanner_to_continued_use">Scanner non installato. Installare di nuovo</string>
@@ -117,8 +133,15 @@
      <string name="leftParenDesc">parentesi sinistra</string>
      <string name="lg">log</string>
      <string name="lgDesc">logaritmo</string>
+     <string name="license_host_unreachable">"Couldn't connect to the network. Check your network settings and try again."</string>
      <string name="ln">ln</string>
      <string name="lnDesc">logaritmo naturale</string>
+     <string name="loading">Just a sec…</string>
+     <string name="loading_fail_message_no_network">"Couldn't connect to the network. Tap here to try again."</string>
+     <string name="loading_fail_refresh">Refresh</string>
+     <string name="loading_message">Loading app…</string>
+     <string name="loading_slogan">Use apps without installing them</string>
+     <string name="loading_tips">Downloaded settings successfully. Launch Calculator again to apply.</string>
      <string name="loan_edittext_hint_commercial">Mutui commerciali</string>
      <string name="loan_edittext_hint_commercial_combined">Mutui commerciali</string>
      <string name="loan_edittext_hint_fund">Mutui previdenziali</string>
@@ -133,6 +156,7 @@
      <string name="loan_repayment_detail_loading">Caricamento dettagli rimborso…</string>
      <string name="loan_repayment_detail_unit">Dettagli rimborso (CNY)</string>
      <string name="loan_unit">×10K</string>
+     <string name="medical_treatment">Medical treatment</string>
      <string name="menuDesc">menu</string>
      <string name="minus">−</string>
      <string name="minusDesc">meno</string>
@@ -171,12 +195,15 @@
      <string name="mortgage_tab_combining_loan">Combinato</string>
      <string name="mortgage_tab_commercial_loan">Commerciale</string>
      <string name="mortgage_years_amount">Durata mutuo</string>
+     <string name="mt_max">The amount you entered is too big</string>
      <string name="mul">×</string>
      <string name="mulDesc">moltiplica</string>
      <string name="negDesc">Passa tra temperature sotto e sopra zero</string>
      <string name="network_confirm_content">Convertitore di valuta e Calcolatore mutuo devono accedere alla connessione internet per funzionare correttamente</string>
      <string name="network_confirm_title">Connessione di rete richiesta</string>
+     <string name="none">None</string>
      <string name="not_supported_due_to_language">Questa funzionalitá è disponibile solo per la lingua Cinese</string>
+     <string name="ok">OK</string>
      <string name="percent" />
      <string name="percentDesc">percentuale</string>
      <string name="pi">π</string>
@@ -202,11 +229,14 @@
      <string name="preference_follow_wechat_title">WeChat</string>
      <string name="preference_follow_weibo_summary">\@MIUI</string>
      <string name="preference_follow_weibo_title">Sina Weibo</string>
+     <string name="preference_help">Help &amp; feedback</string>
      <string name="preference_other">Altro</string>
      <string name="preference_privacy_title">Informativa sulla Privacy</string>
+     <string name="preference_rating_title">Rate our app</string>
      <string name="preference_settings">Impostazioni</string>
      <string name="preference_use_degress_summary">Sostituisci i radianti con gli angoli nelle funzioni trigonometriche</string>
      <string name="preference_use_degress_title">Utilizza angoli</string>
+     <string name="privacy_policy">Privacy Policy</string>
      <string name="radDesc">Radiali</string>
      <string name="radian">rad</string>
      <string name="rate_data_provider">Tassi di interesse forniti da HeXun</string>
@@ -226,6 +256,7 @@
      <string name="sqrt">√</string>
      <string name="sqrtDesc">radice quadrata</string>
      <string name="start_calculate" />
+     <string name="support_elder">Support for the elderly</string>
      <string name="switchDesc">Cambia</string>
      <string name="tab_title_calculator">Calcolatrice</string>
      <string name="tab_title_convert">Convertitore</string>
@@ -249,6 +280,11 @@
      <string name="tax_credit_mortgage">Mutuo</string>
      <string name="tax_credit_personal_income_tax">Personal income tax</string>
      <string name="tax_credit_pretax_income">"Reddito Lordo D'imposta (CNY)"</string>
+     <string name="tax_detail">Tax details</string>
+     <string name="tax_detail_amount">Tax amount</string>
+     <string name="tax_detail_rate">Tax rate</string>
+     <string name="tax_detail_take_off">Deduction</string>
+     <string name="tax_detail_tax_payed">Amount paid</string>
      <string name="tax_edittext_hint" />
      <string name="tax_endowment">Dotazione</string>
      <string name="tax_fixed_salary_hint">Inserisci il tuo reddito al netto delle tasse</string>
@@ -263,11 +299,14 @@
      <string name="tax_individual_income_tax_result">Risultato tassa di reddito individuale</string>
      <string name="tax_injury">Sinistri</string>
      <string name="tax_insurance_and_fund">Assicurazione e fondo</string>
+     <string name="tax_insurance_and_fund_detail">Insurance details</string>
      <string name="tax_last_salary_hint">Inserisci gli introiti</string>
      <string name="tax_last_salary_number">Introiti</string>
      <string name="tax_location">Posizione</string>
      <string name="tax_medical">Medica</string>
      <string name="tax_param_error">Inserisci il tasso di interesse corretto</string>
+     <string name="tax_payment_period">Number of payments</string>
+     <string name="tax_rate_provider">Calculated according to the new tax regulations. Data is provided by hexun.com and East Money.</string>
      <string name="tax_result_real_get">Reale</string>
      <string name="tax_social_insurance">Assicurazione personale</string>
      <string name="tax_thershold_foreign">%s (straniero)</string>
@@ -283,6 +322,7 @@
      <string name="times" />
      <string name="title_bar">Convertitore di lunghezze</string>
      <string name="to_num">62.7</string>
+     <string name="unKnow_error">Unknown error</string>
      <string name="unit_data_default_area_0">sq.m</string>
      <string name="unit_data_default_area_1">sq.cm</string>
      <string name="unit_data_default_currency_0">CNY</string>
@@ -542,6 +582,8 @@
      <string name="unit_year">Y</string>
      <string name="unit_year_format">Anno %s</string>
      <string name="unit_yuan">CNY</string>
+     <string name="updating">Updating calculator…</string>
+     <string name="user_agreement">User Agreement</string>
      <string name="voiceDesc">Voice controls</string>
      <string name="wf_word_figure">Caratteristiche finanziarie</string>
      <string name="word_figure_guide_text">Premi e tieni premuto il testo per eseguire conversione tra i casi.</string>

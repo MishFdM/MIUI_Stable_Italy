@@ -987,9 +987,9 @@ Apps:
      <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
      <string name="bluetooth_sap_request">Richiesta accesso SIM</string>
      <string name="bluetooth_scan_for_devices">Cerca dispositivi</string>
-     <string name="bluetooth_scanning_on_info_message">"When Bluetooth is turned on, your device can communicate with other nearby Bluetooth devices.
+     <string name="bluetooth_scanning_on_info_message">""When Bluetooth is turned on, your device can communicate with other nearby Bluetooth devices.
 
-To improve device experience, apps and services can still scan for nearby devices at any time, even when Bluetooth is off. This can be used, for example, to improve location-based features and services. you can change this in "<annotation id="link">scanning settings</annotation>.</string>
+To improve device experience, apps and services can still scan for nearby devices at any time, even when Bluetooth is off. This can be used, for example, to improve location-based features and services. you can change this in "<annotation id="link">scanning settings</annotation>."</string>
      <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
      <string name="bluetooth_searching_for_devices">Ricerca…</string>
      <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bit per Campione Audio Bluetooth</string>
@@ -1475,6 +1475,10 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="current_use_uicc_se">Usando elemento di sicurezza sulla scheda SIM</string>
      <string name="current_use_uicc_wallet">Stai utilizzando il Wallet della SIM %1$s</string>
      <string name="current_zone">(attuale)</string>
+     <string name="cutout_mode_always">Always show notch</string>
+     <string name="cutout_mode_default">Auto</string>
+     <string name="cutout_mode_settings_title">Some apps may be displayed incorrectly if you customize the way notch is displayed.</string>
+     <string name="cutout_mode_title">Notch in individual apps</string>
      <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rosso-verde)</string>
      <string name="daltonizer_mode_disabled">Disattivato</string>
      <string name="daltonizer_mode_monochromacy">Monocromia</string>
@@ -5297,9 +5301,9 @@ Per spostare foto, file e dati app su questo dispositivo, vai in Impostazioni > 
      <string name="storage_wizard_ready_title">^1 è pronto</string>
      <string name="storage_wizard_ready_v2_external_body">You can move content to ^1</string>
      <string name="storage_wizard_ready_v2_internal_body">To move content to ^1, go to <b>Settings > Storage</b></string>
-     <string name="storage_wizard_ready_v2_internal_moved_body">"Your content was moved to ^1. 
+     <string name="storage_wizard_ready_v2_internal_moved_body">""Your content was moved to ^1. 
 
-To manage this ^2, go to "<b>Settings > Storage</b>.</string>
+To manage this ^2, go to "<b>Settings > Storage</b>."</string>
      <string name="storage_wizard_slow_body">"^1 sembra lento. 
 
 Puoi continuare, ma le app spostate in questa posizione potrebbero rallentarsi ed il trasferimento potrebbe richiedere più tempo. 
