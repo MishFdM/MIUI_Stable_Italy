@@ -160,7 +160,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_batterylight_green">Verde</string>
      <string name="cit_batterylight_red">Rosso</string>
      <string name="cit_batterylight_rgb">LED batteria</string>
-     <string name="cit_batterylight_white">White</string>
+     <string name="cit_batterylight_white">Bianco</string>
      <string name="cit_blue_tooth_address_check_summary">"L'indirizzo Bluetooth di questo dispositivo dovrebbe comparire di seguito."</string>
      <string name="cit_blue_tooth_address_check_title">Test Bluetooth</string>
      <string name="cit_blue_tooth_scan_check_summary">Le informazioni dei dispositivi Bluetooth nelle vicinanze dovrebbero comparire di seguito.</string>
@@ -203,10 +203,12 @@ and reverse plug in the charger"</string>
      <string name="cit_def_torch_on_one">Turn on the first flash</string>
      <string name="cit_def_torch_on_three">Turn on the third flash</string>
      <string name="cit_def_torch_on_two">Turn on the second flash</string>
-     <string name="cit_dial_emergencycall">Dial 112</string>
+     <string name="cit_dial_emergencycall">Componi il 112</string>
      <string name="cit_display_check_summary">Verifica che il file .bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
      <string name="cit_display_check_title">Test Schermo</string>
      <string name="cit_display_continue">Tocca lo schermo per iniziare</string>
+     <string name="cit_display_test_end">Finish test</string>
+     <string name="cit_display_test_next">Next</string>
      <string name="cit_emergencycall_check_summary">"Clicca sul pulsante Componi 112 per comporre il numero 112 e verificarne l'effettiva possibilità di posizionamento."</string>
      <string name="cit_emergencycall_check_title">Chiamata di Emergenza</string>
      <string name="cit_exit_test_summary">Uscire dalla diagnostica? Tutti i relativi dati verranno rimossi.</string>
@@ -277,7 +279,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_button_previous">Precedente</string>
      <string name="cit_headset_button_reverse">Prego inserisci il connettore delle cuffie USB nel verso opposto</string>
      <string name="cit_headset_button_rewind">Ricomincia</string>
-     <string name="cit_headset_button_stop">Stop</string>
+     <string name="cit_headset_button_stop">Interrompi</string>
      <string name="cit_headset_button_unknown">Sconosciuto</string>
      <string name="cit_headset_loopback_check_summary">"Collega le cuffie al dispositivo e indossale. Parla al microfono (solitamente posizionato lungo il cavo): dovresti sentire la tua voce nelle cuffie."</string>
      <string name="cit_headset_loopback_check_title">Test loopback cuffie</string>
@@ -412,8 +414,8 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_soft_torch_on">Turn on soft flash light</string>
      <string name="cit_start_calibration">Calibra</string>
      <string name="cit_stop_calibration">Ferma calibrazione</string>
-     <string name="cit_tfcard_support_summary">Controlla che la TFCard sia supportata su questo dispositivo</string>
-     <string name="cit_tfcard_support_title">Supporto TFCard</string>
+     <string name="cit_tfcard_support_summary">Controlla che la scheda TF sia supportata su questo dispositivo</string>
+     <string name="cit_tfcard_support_title">Supporto scheda TF</string>
      <string name="cit_tool">Strumenti</string>
      <string name="cit_tool_asdiv_ant_pos_setting">set ant position</string>
      <string name="cit_tool_asdiv_get_result_band_title">Current ant band</string>
@@ -828,6 +830,23 @@ Please plug out the charger and reverse plug in."</string>
      <string name="sar_sensor_calibrate">Start Calibrate</string>
      <string name="sar_sensor_calibrate_fail">Sar Sensor calibrate fail</string>
      <string name="sar_sensor_calibrate_success">Sar Sensor calibrate success</string>
+     <string name="sar_sensor_data_check_description">Sar Sensor Data Collect</string>
+     <string name="sar_sensor_data_check_summary">"Hold the top of the phone with one hand
+Make sure the real time Angle is about 45 degrees
+Keep the other hand away from the phone
+Look at the value of CS0
+After the value of CS0 is less than 500 and the value of CS2 greater than 10000 
+Hold the other hand close to the bottom of the phone
+Look at the value of CS0
+The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</string>
+     <string name="sar_sensor_data_check_summary_1">"Hold the top of the phone with one hand
+Make sure the real time Angle is about 45 degrees
+Keep the other hand away from the phone
+Look at the value of CS0
+After the value of CS0 is less than 500 and the value of CS2 greater than 5000 
+Hold the other hand close to the bottom of the phone
+Look at the value of CS0
+The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</string>
      <string name="sar_sensor_test_description">Sar Sensor Calibrate and Data Collect</string>
      <string name="sar_sensor_test_summary">"Rotate the phone, put it to the fixture
 Click the Start Calibrate button
