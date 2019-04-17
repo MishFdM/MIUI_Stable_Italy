@@ -4,4 +4,8 @@
         <item quantity="other">A fuoco. %d visi rilevati</item>
         <item quantity="one">A fuoco. %d volto rilevato</item>
      </plurals>
+     <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Burst shot done, %1$s photos taken</item>
+        <item quantity="one">Burst shot done, %1$s photo taken</item>
+     </plurals>
 </resources>
