@@ -20,6 +20,10 @@
         <item quantity="other">Ritardo molto breve (%1$d ms)</item>
         <item quantity="one">Ritardo molto breve (%1$d ms)</item>
      </plurals>
+     <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s ore %2$s"</item>
+        <item quantity="one">" %1$s ora %2$s"</item>
+     </plurals>
      <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Disattivato per %d app</item>
         <item quantity="one">Disattivato per %d app</item>
@@ -208,6 +212,9 @@
         <item quantity="other">%s minuti</item>
         <item quantity="one">1 minuto</item>
      </plurals>
+     <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d aggiunti</item>
+     </plurals>
      <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restrizioni</item>
         <item quantity="one">1 restrizione</item>
@@ -277,8 +284,8 @@
         <item quantity="one">Mostra %d elemento nascosto</item>
      </plurals>
      <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d comandi sopra sono attivi</item>
-        <item quantity="one">%1$d comando sopra è attivo</item>
+        <item quantity="other">%1$d toggles will appear in the Notification shade</item>
+        <item quantity="one">%1$d toggle will appear in the Notification shade</item>
      </plurals>
      <plurals name="show_audio_logcat_countdown">
         <item quantity="other">%1$d passaggi prima di ottenere log audio</item>

@@ -56,6 +56,10 @@
         <item quantity="other">Ripristina backup tra %d ore</item>
         <item quantity="one">Ripristina backup tra %d ora</item>
      </plurals>
+     <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d elementi sono troppo grandi per eseguirne il backup</item>
+        <item quantity="one">%d elemento troppo grande per eseguirne il backup</item>
+     </plurals>
      <plurals name="backup_pause_desc">
         <item quantity="other">%d foto e video | Pausa</item>
         <item quantity="one">%d foto o video | Pausa</item>
@@ -140,10 +144,6 @@
         <item quantity="other">%1$d foto saltate perché impossibile visualizzare.</item>
         <item quantity="one">Una foto saltata perché impossibile visualizzare.</item>
      </plurals>
-     <plurals name="file_count_format">
-        <item quantity="other">%1$d elementi</item>
-        <item quantity="one">%1$d elemento</item>
-     </plurals>
      <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d elementi in attesa di sincronizzazione</item>
         <item quantity="one">1 elemento in attesa di sincronizzazione</item>
@@ -175,6 +175,10 @@
      <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d video in attesa di sincronizzazione</item>
         <item quantity="one">1 video da caricare</item>
+     </plurals>
+     <plurals name="photo_count_format">
+        <item quantity="other">%1$d elementi totali</item>
+        <item quantity="one">%1$d elemento totale</item>
      </plurals>
      <plurals name="picker_all_image_need_download">
         <item quantity="other">Le foto selezionate non sono su questo dispositivo. Vuoi scaricarle tramite la rete dati cellulare?</item>
@@ -260,8 +264,16 @@
         <item quantity="other">Non è stato eseguito il backup di %d foto e video</item>
         <item quantity="one">Non è stato eseguito il backup di %d foto o video</item>
      </plurals>
+     <plurals name="sync_oversized_count">
+        <item quantity="other">%d elementi sono troppo grandi per eseguirne il backup</item>
+        <item quantity="one">%d elemento troppo grande per eseguirne il backup</item>
+     </plurals>
      <plurals name="sync_total_count">
         <item quantity="other">%d elementi</item>
         <item quantity="one">%d elemento</item>
+     </plurals>
+     <plurals name="video_count_format">
+        <item quantity="other">%1$d file</item>
+        <item quantity="one">%1$d file</item>
      </plurals>
 </resources>

@@ -369,7 +369,7 @@
      <string name="new_phrase">Nuovo modello</string>
      <string name="new_phrase_hint">Digita nuova frase</string>
      <string name="no">Annulla</string>
-     <string name="no_block_button_msg">Non bloccare messaggi da questo numero</string>
+     <string name="no_block_button_msg">Non bloccare messaggi</string>
      <string name="no_conversations">Nessuna conversazione.</string>
      <string name="no_delivery_report">Nessun rapporto di consegna</string>
      <string name="no_subject">(Nessun oggetto)</string>
@@ -589,8 +589,8 @@
      <string name="security_alert_dialog_title">Segnala</string>
      <string name="select_audio">Seleziona audio</string>
      <string name="select_bottom_text">Testo in basso</string>
-     <string name="select_copy_text">Seleziona e copia il testo del messaggio</string>
-     <string name="select_different_media">Scegli un %1$s diverso.</string>
+     <string name="select_copy_text">Select and copy message text</string>
+     <string name="select_different_media">Choose a different %1$s.</string>
      <string name="select_link_title">Seleziona azione</string>
      <string name="select_local_audio">Seleziona audio locale</string>
      <string name="select_local_video">Seleziona video locale</string>

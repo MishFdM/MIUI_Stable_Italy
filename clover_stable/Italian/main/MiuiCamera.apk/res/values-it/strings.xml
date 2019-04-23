@@ -553,6 +553,7 @@ touch the Shutter button"</string>
      <string name="spaceIsLow_content_external_storage_priority">La scheda SD è quasi esaurita</string>
      <string name="spaceIsLow_content_primary_storage_priority">La memoria interna è quasi esaurita</string>
      <string name="success_message_import_from_account">Imported</string>
+     <string name="super_night_toast">Mantieni fermo il telefono</string>
      <string name="tags">Tags</string>
      <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale."</string>
      <string name="tap_to_focus">Tocca per mettere a fuoco</string>
