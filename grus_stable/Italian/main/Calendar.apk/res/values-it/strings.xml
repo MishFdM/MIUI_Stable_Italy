@@ -17,6 +17,8 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Raggruppa</string>
+     <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
+     <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
      <string name="accessibility_add_attendee">Aggiungi partecipante</string>
      <string name="accessibility_all_day">Tutto il giorno</string>
      <string name="accessibility_pick_start_date">Inizio data</string>
@@ -27,6 +29,7 @@
      <string name="account_and_calendar">Account e calendario</string>
      <string name="action_bar_date_button_title">Calcola data</string>
      <string name="action_bar_return">Invio</string>
+     <string name="action_label">Return</string>
      <string name="action_text_card_manager">Canale</string>
      <string name="add_anniversary">Aggiungi anniversario</string>
      <string name="add_countdown">Aggiungi conto alla rovescia</string>
@@ -74,6 +77,9 @@
      <string name="card_title_change">Altro</string>
      <string name="change_response_title">Cambia risultato</string>
      <string name="chinese_leap" />
+     <string name="chips_action_cancel">Cancel</string>
+     <string name="chips_action_copy">Copy</string>
+     <string name="chips_permission_text">Allow contacts suggestions</string>
      <string name="chongsha" />
      <string name="clear_net_mock_success">Eliminazione rete simulata completata</string>
      <string name="close_alarm">Disattiva</string>
@@ -121,8 +127,8 @@
      <string name="directory_searching_fmt">Ricerca %s…</string>
      <string name="discard_label">Annulla</string>
      <string name="does_not_repeat">Evento singolo</string>
-     <string name="done">Ritorna</string>
      <string name="download">Download</string>
+     <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
      <string name="edit_date_calculate_days_backward_error_hint">Impossibile calcolare avanti</string>
      <string name="edit_date_calculate_days_empty_hint">Inserisci il numero dei giorni</string>
      <string name="edit_date_calculate_days_forward_error_hint">Impossibile calcolare indietro</string>
@@ -283,6 +289,12 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
      <string name="no_visiable_calendar_select_account">Seleziona account</string>
      <string name="no_visiable_calendar_title">Seleziona Account Calendario</string>
+     <string name="notification_channel_description" />
+     <string name="notification_channel_name">Calendar reminders</string>
+     <string name="notification_open_setting_button_exit">No thanks</string>
+     <string name="notification_open_setting_button_ok">Allow</string>
+     <string name="notification_open_setting_message">"You won't be able to receive notifications about events unless you allow Calendar to send you notifications."</string>
+     <string name="notification_open_setting_title">Allow Calendar notifications?</string>
      <string name="olympic_vs">VS</string>
      <string name="panchang_amanta">Amanta</string>
      <string name="panchang_amanta_month">Mese Amanta:</string>
@@ -332,7 +344,6 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="refreshing_hint">Aggiornamento</string>
      <string name="repeat_activity_label">Ripeti</string>
      <string name="repeat_custom_activity_label">Personalizza</string>
-     <string name="repeat_custom_prompt">ogni %1$s alle %2$s</string>
      <string name="repeat_custom_prompt_daily">ogni %1$s</string>
      <string name="repeat_custom_prompt_sentence">"L'evento si ripeterà %1$s"</string>
      <string name="repeat_custom_prompt_splitter">", "</string>
@@ -368,7 +379,9 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="search_calendar_huangli" />
      <string name="search_calendar_settings">Calendario;Agenda;Promemoria</string>
      <string name="search_calendar_subscribe_group" />
+     <string name="search_menu_title">Search</string>
      <string name="select_date">Seleziona data</string>
+     <string name="select_today_tip">Today</string>
      <string name="setting_about_calendar_version">Versione calendario:\u0020</string>
      <string name="setting_about_imei">IMEI:\u0020</string>
      <string name="setting_about_miui_version">Versione MIUI:\u0020</string>
@@ -412,6 +425,7 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="timezone_label">Fuso orario</string>
      <string name="today">Oggi</string>
      <string name="today_at_time_fmt">Oggi alle %s</string>
+     <string name="today_icon_voice_contentdescription">Back to today</string>
      <string name="today_no_events">Nessun evento oggi</string>
      <string name="tomorrow">Domani</string>
      <string name="tomorrow_at_time_fmt">Domani alle %s</string>
@@ -437,7 +451,6 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="train_event_station_stay_time">%1$s minutes</string>
      <string name="travel_airport">Aeroporto</string>
      <string name="travel_carriage_number_text">Macchina</string>
-     <string name="travel_eta_advice">Guida per %2$s minuti fino a %1$s.</string>
      <string name="travel_ets_advice">Guida fino a %2$s prima %1$s.</string>
      <string name="travel_event_add_successfully">Evento creato</string>
      <string name="travel_event_title_flight">Volo: %1$s-%2$s %3$s</string>
