@@ -51,13 +51,13 @@
      <string name="SD1_SDCard_unmounted">SDCard 1 unavailable</string>
      <string name="SD2_SDCard_mounted">Detect SD_2_Card</string>
      <string name="SD2_SDCard_unmounted">SDCard 2 unavailable</string>
-     <string name="SDCard">Scheda SD</string>
-     <string name="SD_INTERNAL_SDCard_mounted">Rileva Scheda SD interna</string>
-     <string name="SD_INTERNAL_SDCard_unmounted">Scheda SD interna non disponibile</string>
-     <string name="SD_SDCard_available_szie">Dimensione disponibile</string>
-     <string name="SD_SDCard_mounted">Rileva Scheda SD</string>
-     <string name="SD_SDCard_total_size">Dimensione totale</string>
-     <string name="SD_SDCard_unmounted">Scheda SD non disponibile</string>
+     <string name="SDCard">SD Card</string>
+     <string name="SD_INTERNAL_SDCard_mounted">Detect Internal SDCard</string>
+     <string name="SD_INTERNAL_SDCard_unmounted">Internal SDCard unavailable</string>
+     <string name="SD_SDCard_available_szie">Available size</string>
+     <string name="SD_SDCard_mounted">Detect SDCard</string>
+     <string name="SD_SDCard_total_size">Total size</string>
+     <string name="SD_SDCard_unmounted">SDCard unavailable</string>
      <string name="SD_SDCard_write_faild">SDCard write test faild</string>
      <string name="SD_SDCard_write_success">SDCard write test faild</string>
      <string name="SIM1_unregistered">Unregistered SIM1</string>
@@ -106,7 +106,7 @@
      <string name="accept">Use this recording</string>
      <string name="accuracy">Accuracy(m) :</string>
      <string name="action_settings">FingerprintUnlockSettings</string>
-     <string name="add">Add</string>
+     <string name="add">Aggiungi</string>
      <string name="add_gps_status_listener">add gps status listener</string>
      <string name="adjust_again">Calibration again</string>
      <string name="adjust_begin">Calibration</string>
@@ -170,7 +170,7 @@ only in frame mode"</string>
      <string name="banding_title">"channel_banding [0-20M  1-40M]"</string>
      <string name="banding_title2">"channel_banding [0-20M  1-40M 3-80M]"</string>
      <string name="baseband_version">Baseband version</string>
-     <string name="battery_info">Impostazioni correlate di carica della batteria</string>
+     <string name="battery_info">Charging battery related information</string>
      <string name="battery_info_ac_current_label">Charge current:</string>
      <string name="battery_info_ac_voltage_label">Charge voltage:</string>
      <string name="battery_info_awake_battery">Awake time on battery:</string>
@@ -244,9 +244,9 @@ only in frame mode"</string>
      <string name="camera_click_to_capture">Click screen to capture</string>
      <string name="camera_test">Camera</string>
      <string name="camera_zoom">Zoom</string>
-     <string name="camerainfo">Informazioni camera</string>
-     <string name="cancel">Cancel</string>
-     <string name="cancelEnrol">CancelEnrol</string>
+     <string name="camerainfo">Camera information</string>
+     <string name="cancel">Annulla</string>
+     <string name="cancelEnrol">Annulla Registrazione</string>
      <string name="cancelling">\u0009Cancelling...</string>
      <string name="cannot_find_file">cannot find music file--speakertest.mp3</string>
      <string name="cannot_open">Cannot open</string>
@@ -277,7 +277,7 @@ only in frame mode"</string>
      <string name="charge_voltage">Charge Voltage：</string>
      <string name="charger_in_test">Charger Test</string>
      <string name="charger_out_test">Charger plug out</string>
-     <string name="checkerboard_test">TEST A SCACCHIERA</string>
+     <string name="checkerboard_test">CHECKERBOARD TEST</string>
      <string name="choose_channel">Channel select</string>
      <string name="cit1">HW1:</string>
      <string name="cit1reporttitle">CIT 1 Test Report</string>
@@ -310,7 +310,7 @@ only in frame mode"</string>
      <string name="customversion">[Version]:</string>
      <string name="customversionandtestinfo">Version and Test Info</string>
      <string name="ddr_test">DDr Test</string>
-     <string name="delete">Delete</string>
+     <string name="delete">Elimina</string>
      <string name="delete_freq_item">Delete frequence list</string>
      <string name="delete_preset_list">Automatic search will cover the current list, Continue?</string>
      <string name="deviceaddr">Device Addr:</string>
@@ -334,16 +334,16 @@ only in frame mode"</string>
      <string name="enable_qxdm_logging">enable QXDM LOG</string>
      <string name="encrypt">"System Encrypt "</string>
      <string name="encrypt_state">System Encrypt State:</string>
-     <string name="enrol">Enrol</string>
-     <string name="enrolCount">EnrolCount</string>
-     <string name="enrolQuality">EnrolQuality</string>
+     <string name="enrol">Registra</string>
+     <string name="enrolCount">Numero di registrazioni</string>
+     <string name="enrolQuality">Qualità registrazioni</string>
      <string name="enrollover">Enroll over,Try to Verify!</string>
-     <string name="error">Errore</string>
-     <string name="error_app_internal">Errore interno applicazione</string>
-     <string name="error_app_unsupported">Formato non supportato</string>
+     <string name="error">Error</string>
+     <string name="error_app_internal">Internal application error</string>
+     <string name="error_app_unsupported">Unsupported format</string>
      <string name="error_mediadb_incall">this option is supported, only while in call</string>
      <string name="error_mediadb_new_record">Unable to save recorded audio</string>
-     <string name="error_sdcard_access">Impossibile accedere allo spazio di sistema!</string>
+     <string name="error_sdcard_access">Unable to access system space!</string>
      <string name="evdoonly">EvDO Only</string>
      <string name="evdoorcdma">CDMA/EvDo</string>
      <string name="exit">Exit</string>
@@ -353,8 +353,8 @@ only in frame mode"</string>
      <string name="external_version">External Version:</string>
      <string name="factory_restore">Factory Restore</string>
      <string name="factoryid">Factory ID:</string>
-     <string name="fail">Fail</string>
-     <string name="far">FAR (Tasso di Accettazione Errato):</string>
+     <string name="fail">Non riuscito</string>
+     <string name="far">FAR(False Accept Rate):</string>
      <string name="far_away">far away</string>
      <string name="fido_label">FIDO:</string>
      <string name="field_netinfo">network information</string>
@@ -364,7 +364,7 @@ only in frame mode"</string>
      <string name="finger">Finger sensor test</string>
      <string name="finger_enrol">Fingerprint Input and verify</string>
      <string name="fingerok">Fingerprint is Good!</string>
-     <string name="fingerprint">Fingerprint:</string>
+     <string name="fingerprint">Lettore di impronte:</string>
      <string name="fingerprint_info">Screen Lock is Pattern,PIN or password, need change to None to test fingerprint.</string>
      <string name="fingers">fingerpirnt(s)</string>
      <string name="fingtestFail">FingerPrint Test Failed!</string>
@@ -439,7 +439,7 @@ only in frame mode"</string>
      <string name="headset_pluged_in">Headset pluged in</string>
      <string name="headset_unplug_err">FM Radio has stopped.</string>
      <string name="height">Height :</string>
-     <string name="hello_world">Hello world!</string>
+     <string name="hello_world">Ciao mondo!</string>
      <string name="home_key">home key</string>
      <string name="hw_acce_adjust_hint">Before the test, please place the phone, and then click the calibrate button</string>
      <string name="hw_acce_test_hint">After the success of the calibration, please place the phone on the test fixture, observe whether the OK button lights up</string>
@@ -448,7 +448,7 @@ only in frame mode"</string>
      <string name="hw_test_finish">IR data send success</string>
      <string name="hwstart">test running...</string>
      <string name="ifaa_label">IFAA:</string>
-     <string name="image_quality_test">TEST QUALITÀ IMMAGINE</string>
+     <string name="image_quality_test">IMAGEQUALITY TEST</string>
      <string name="imei">[ IMEI]:</string>
      <string name="imei_no">IMEI:</string>
      <string name="input_passwords">Please input password!</string>
@@ -479,7 +479,7 @@ the selected?"</string>
      <string name="key_7">7</string>
      <string name="key_8">8</string>
      <string name="key_9">9</string>
-     <string name="keyboard">CHIAVE</string>
+     <string name="keyboard">KEY</string>
      <string name="keyboard_and_motor_test">Key And Motor</string>
      <string name="keyboard_show">The current key button button BACK、button HOME、button MENU、button VOLUME_UP、button VOLUME_DOWN</string>
      <string name="keyboard_show_miui">The current key button VOLUME_UP、button VOLUME_DOWN、button POWER</string>
@@ -493,7 +493,7 @@ the selected?"</string>
      <string name="latitude">Latitude :</string>
      <string name="lcd_click_continue">Click screen to continue</string>
      <string name="lcd_test">Color</string>
-     <string name="lcminfo">Informazioni LCM</string>
+     <string name="lcminfo">LCM information</string>
      <string name="learn_test">"Hello I'm sorry!I said \"sorry!\" "</string>
      <string name="led_info">Please note if the LED blink or not in 3 color</string>
      <string name="led_test">Led</string>
@@ -522,7 +522,7 @@ the selected?"</string>
      <string name="magnetic">Magnetic</string>
      <string name="magnetic_calibration_hint">Please make an ∞ calibration for phone</string>
      <string name="magnetic_info_finish">Finished</string>
-     <string name="magnetic_info_hint">Prego ruotare il dispositivo come nella figura 8</string>
+     <string name="magnetic_info_hint">Please rotate the device like 8 shape</string>
      <string name="magnetic_test">Magnetic sensor</string>
      <string name="magnetic_test_timeout">ERROR: Magnetic test timeout</string>
      <string name="main_channel">Main Channel</string>
@@ -535,7 +535,7 @@ the selected?"</string>
      <string name="menu_key">menu key</string>
      <string name="message_recorded">Message recorded</string>
      <string name="mic1_rec_loop">"Main mic "</string>
-     <string name="mic1_spk_loop">Loop parlato microfono</string>
+     <string name="mic1_spk_loop">Mic speak Loop</string>
      <string name="mic1_toast">voice less than 33.8db Mic1 test fail pull out earphone Mic1 test again</string>
      <string name="mic1test">MIC1</string>
      <string name="mic2_play_in_earphone">Please to MIC, after plug in headphones, listening to the headphones sound, recording, please say some words to mobile phone at the top of the MIC</string>
@@ -544,7 +544,7 @@ the selected?"</string>
      <string name="mic2test">MIC2</string>
      <string name="mic_play_in_earphone">Please to MIC, after plug in headphones, listening to the headphones sound, recording, please say some words opponent main MIC</string>
      <string name="mic_test_pass">Mic Test Pass</string>
-     <string name="micphone_test">MIC e SPK</string>
+     <string name="micphone_test">MIC＆ SPK</string>
      <string name="micrectest">MIC＆ REC</string>
      <string name="midmainboardtest">PCBA test</string>
      <string name="midtest">cit test</string>
@@ -599,7 +599,7 @@ off---Disabling continuous Tx"</string>
      <string name="networktype_sim1">SIM1 Network Type:</string>
      <string name="networktype_sim2">SIM2 Network Type:</string>
      <string name="newinfo">New</string>
-     <string name="next">Avanti</string>
+     <string name="next">Next</string>
      <string name="next_text">next</string>
      <string name="nfc_discovered">Discovered tag</string>
      <string name="nfc_scan">Scan a tag</string>
@@ -637,7 +637,7 @@ off---Disabling continuous Tx"</string>
      <string name="otg_reverse_charge_out">Otg Reverse Charge Test</string>
      <string name="others">Other</string>
      <string name="pa_waiting">﻿Reading calibration valus waiting please...</string>
-     <string name="pass">Pass</string>
+     <string name="pass">Riuscito</string>
      <string name="patterninfo">Pattern:</string>
      <string name="patternlimit">[0-5]</string>
      <string name="patternnum">"0-all zero\u0009 1-all ones
@@ -714,11 +714,11 @@ mod:0-15"</string>
      <string name="radio_info_freq_label">[CHANNEL]:</string>
      <string name="radio_info_mcc_label">"[MCC]    :"</string>
      <string name="radio_info_mnc_label">"[MNC]    :"</string>
-     <string name="radio_info_neighboring_location_label">Informazione cella vicina:</string>
+     <string name="radio_info_neighboring_location_label">Neighbor Cell Info:</string>
      <string name="radio_info_network_type_label">[RFMODE] :</string>
      <string name="radio_info_signal_cid_label">"[CID]    :"</string>
-     <string name="radio_info_signal_location_label">Informazione località cella:</string>
-     <string name="radio_info_signal_strength_label">Potenza segnale:</string>
+     <string name="radio_info_signal_location_label">Cell Location Info:</string>
+     <string name="radio_info_signal_strength_label">Signal Strength:</string>
      <string name="radio_info_state_label">"[STATE]  :"</string>
      <string name="rate">Rate:</string>
      <string name="rateandfreqout">Rate should be from 0 to 11 and Frequency should be from 1 to 13!</string>
@@ -748,10 +748,10 @@ mod:0-15"</string>
      <string name="redledblink">Red led blink?</string>
      <string name="redledtest">Red LED</string>
      <string name="register_listener">register listener</string>
-     <string name="removeFingerprint">Remove Fingerprint</string>
+     <string name="removeFingerprint">Rimuovi Impronta digitale</string>
      <string name="remove_earphone">Please remove earphone</string>
      <string name="remove_headset">Please remove headset</string>
-     <string name="remove_headset_and_starttest">Prego rimuovi gli auricolari e premere start oer eseguire il test</string>
+     <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
      <string name="research_and_development">Research and development</string>
      <string name="reset">Reset</string>
      <string name="result">Result</string>
@@ -803,7 +803,7 @@ mod:0-15"</string>
      <string name="secureboot_state">Secureboot State:</string>
      <string name="seeking">\u0009Searching...</string>
      <string name="selectall">Select all</string>
-     <string name="selftest">SELF-TEST</string>
+     <string name="selftest">SELF TEST</string>
      <string name="send">Send</string>
      <string name="send_test">Send test</string>
      <string name="sensors_test">Sensors</string>
@@ -826,12 +826,12 @@ mod:0-15"</string>
      <string name="softversion_hint">Enter the function test？</string>
      <string name="someinfo">Some info</string>
      <string name="sound_file_delete">sound file is not exit ,can not play！</string>
-     <string name="speak_from_mic">"Parla nel microfono, l'altoparlante riprodurrà il suono. Assicurati che il suono venga riprodotto."</string>
+     <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
      <string name="speak_from_sub_mic">Speaking to the Sub MIC, the speaker playback. The sound must more than <b>29DB</b>.</string>
      <string name="speaker">Speaker</string>
      <string name="speakerinfo">speaker test</string>
      <string name="speed">Speed :</string>
-     <string name="start">inizia</string>
+     <string name="start">Start</string>
      <string name="start_calibrate">Start calibrate...</string>
      <string name="start_get_service">get GPS service</string>
      <string name="start_test">Start test</string>
@@ -856,12 +856,12 @@ mod:0-15"</string>
      <string name="test_pass">Test Pass</string>
      <string name="test_report">Test Report</string>
      <string name="test_result">Test result</string>
-     <string name="testagain">Puoi premere il pulsante Home per testare nuovamente</string>
+     <string name="testagain">You can Press key HOME to test again</string>
      <string name="testagainaftertestover">After test over, before press PASS or FAIL button, You can Press key HOME to test again</string>
      <string name="testerror">Test Again</string>
      <string name="testinf2">TESTINF</string>
      <string name="testinfo">[TESTINF]:</string>
-     <string name="testing">Test in corso...</string>
+     <string name="testing">AutoTest Running...</string>
      <string name="testresult_qrcodetext_hint">"0: Fail
 1: Pass
 N: no test"</string>
@@ -883,14 +883,14 @@ N: no test"</string>
      <string name="tp_autotest_start">Please do not touch the screen and flat on the table during the test...</string>
      <string name="tp_autotest_title">TouchpanelAutoTest</string>
      <string name="tp_black">Black</string>
-     <string name="tp_color">Colore TP:</string>
+     <string name="tp_color">TP Color:</string>
      <string name="tp_golden">Golden</string>
      <string name="tp_lockdown">LockDown:</string>
      <string name="tp_multi_point">And click on the screen of the two points or two gray round, if be blue said it through!</string>
      <string name="tp_selftest">Touchpanel selftest</string>
      <string name="tp_selftest_result">"Selftest result:  "</string>
      <string name="tp_selftest_working">Selftest proceeding, pls keep screen on</string>
-     <string name="tp_version">Versione TP:</string>
+     <string name="tp_version">TP Version:</string>
      <string name="tp_white">White</string>
      <string name="tpversion">TP Version Upgrade</string>
      <string name="twin_front_camera">Twin FrontCamera</string>
@@ -903,10 +903,10 @@ N: no test"</string>
      <string name="uit89">[ UIT89]:</string>
      <string name="unit">" MHz"</string>
      <string name="unknown">unknown</string>
-     <string name="unlock">Unlock</string>
+     <string name="unlock">Sblocca</string>
      <string name="unmodulated">Unmodulated</string>
      <string name="verifiedbootstate">VerifiedBootState:</string>
-     <string name="verify">Verify</string>
+     <string name="verify">Verifica</string>
      <string name="verifying">Verifying</string>
      <string name="version">Version</string>
      <string name="version_fmt" formatted="false">"Software Version: %s
@@ -939,6 +939,6 @@ pESN:%s
      <string name="wifitools">Wifi test Tools</string>
      <string name="work_error">Work error</string>
      <string name="work_well">Work well</string>
-     <string name="yes">Yes</string>
+     <string name="yes">Si</string>
      <string name="you_can_use_vol_key">you can use volume key to adjust frequency</string>
 </resources>
