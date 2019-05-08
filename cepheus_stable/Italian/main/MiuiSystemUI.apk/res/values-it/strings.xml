@@ -757,6 +757,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="guest_wipe_session_message">Vuoi continuare la tua sessione?</string>
      <string name="guest_wipe_session_title">Ben tornato Ospite!</string>
      <string name="guest_wipe_session_wipe">Inizia da capo</string>
+     <string name="gxzw_area">Fingerprint scanner</string>
      <string name="gxzw_long_press_tip">"Don't remove your finger after device unlocks to see available shortcuts"</string>
      <string name="gxzw_press_harder">Premi più forte</string>
      <string name="gxzw_quick_open_add_event">Add Event</string>
