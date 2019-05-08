@@ -103,7 +103,7 @@
      <string name="bluetooth_connected">Connesso%1$s</string>
      <string name="bluetooth_connected_battery_level">Connected, battery %1$s%2$s</string>
      <string name="bluetooth_connected_no_a2dp">Connesso (no media)%1$s </string>
-     <string name="bluetooth_connected_no_a2dp_battery_level">Connected (no media), battery %1$s%2$s</string>->
+     <string name="bluetooth_connected_no_a2dp_battery_level">Connected (no media), battery %1$s%2$s</string>
      <string name="bluetooth_connected_no_headset">Connesso (no phone)%1$s</string>
      <string name="bluetooth_connected_no_headset_battery_level">Connected (no phone), battery %1$s%2$s</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Connected (no phone or media)%1$s</string>
@@ -206,7 +206,7 @@ Sample Rate"</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="choose_profile">Choose Profile</string>
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
-     <string name="close">Close</string>
+     <string name="close">Disattiva</string>
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
      <string name="connected_via_carrier">Connected via %1$s</string>
