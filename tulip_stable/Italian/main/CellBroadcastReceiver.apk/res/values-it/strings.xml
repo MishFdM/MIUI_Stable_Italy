@@ -11,6 +11,8 @@
      <string name="alert_4378">4378</string>
      <string name="alert_4379">4379</string>
      <string name="alert_4380">4380</string>
+     <string name="alert_4381">4381</string>
+     <string name="alert_4382">4382</string>
      <string name="alert_4384">4384</string>
      <string name="alert_4385">4385</string>
      <string name="alert_4386">4386</string>
@@ -21,6 +23,10 @@
      <string name="alert_4391">4391</string>
      <string name="alert_4392">4392</string>
      <string name="alert_4393">4393</string>
+     <string name="alert_4396">4396</string>
+     <string name="alert_4397">4397</string>
+     <string name="alert_4398">4398</string>
+     <string name="alert_4399">4399</string>
      <string name="alert_reminder_interval_summary" />
      <string name="alert_reminder_interval_title">Promemoria allerta</string>
      <string name="app_label">Trasmissione Cella</string>
@@ -161,6 +167,10 @@
      <string name="notification_channel_broadcast_messages">Trasmissione messaggi</string>
      <string name="notification_multiple">%s allarmi non letti.</string>
      <string name="notification_multiple_title">Nuovo allarme</string>
+     <string name="pe_information_alert_dialog_title">Mensaje Informativo</string>
+     <string name="pe_local_alert_dialog_title">Alerta de Emergencia</string>
+     <string name="pe_simulation_alert_dialog_title">Alerta de Emergencia–mensaje de Ejercicio/Simulacro</string>
+     <string name="pe_test_alert_dialog_title">Alerta de Emergencia-mensaje de Prueba</string>
      <string name="presidential_4370">4370</string>
      <string name="presidential_4383">4383</string>
      <string name="pws_other_message_identifiers">Allerta emergenza</string>

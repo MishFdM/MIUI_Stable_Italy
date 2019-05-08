@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="app_ops_labels">
-        <item>Prova ad abilitare il Wi-Fi</item>
-        <item>Prova ad abilitare il Bluetooth</item>
-     </string-array>
+     <integer-array name="config_autoBrightnessDisplayValuesNits">
+        <item>8</item>
+        <item>24</item>
+        <item>46</item>
+        <item>64</item>
+        <item>86</item>
+        <item>185</item>
+        <item>260</item>
+        <item>313</item>
+        <item>344</item>
+        <item>397</item>
+        <item>439</item>
+        <item>542</item>
+     </integer-array>
      <string-array name="config_ephemeralResolverPackage">
         <item>com.google.android.gms</item>
      </string-array>
+     <string-array name="config_nonBlockableNotificationPackages">
+        <item>com.google.android.setupwizard</item>
+        <item>com.google.android.apps.restore</item>
+     </string-array>
+     <integer-array name="config_screenBrightnessBacklight">
+        <item>4</item>
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+        <item>40</item>
+        <item>85</item>
+        <item>120</item>
+        <item>145</item>
+        <item>160</item>
+        <item>185</item>
+        <item>205</item>
+        <item>255</item>
+     </integer-array>
+     <integer-array name="config_screenBrightnessNits">
+        <item>8</item>
+        <item>12</item>
+        <item>25</item>
+        <item>37</item>
+        <item>86</item>
+        <item>185</item>
+        <item>260</item>
+        <item>313</item>
+        <item>344</item>
+        <item>397</item>
+        <item>439</item>
+        <item>542</item>
+     </integer-array>
      <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Lavoro</item>
@@ -99,6 +141,21 @@
         <item>com.android.contacts</item>
         <item>com.miui.home</item>
         <item>com.mi.android.globallauncher</item>
+     </string-array>
+     <string-array name="vendor_required_apps_managed_profile">
+        <item>com.android.vending</item>
+        <item>com.google.android.gms</item>
+        <item>com.google.android.contacts</item>
+     </string-array>
+     <string-array name="vendor_required_apps_managed_user">
+        <item>com.android.vending</item>
+        <item>com.google.android.gms</item>
+        <item>com.google.android.contacts</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.launcher</item>
+        <item>com.android.launcher</item>
+        <item>com.google.android.dialer</item>
+        <item>com.google.android.apps.messaging</item>
      </string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
         <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>

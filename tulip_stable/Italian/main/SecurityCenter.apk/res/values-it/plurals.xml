@@ -60,10 +60,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Cerca tra %d app</item>
         <item quantity="one">Cerca tra %d app</item>
      </plurals>
-     <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d app potrebbero essere visualizzate in modo errato. Limita le notifiche flottanti.</item>
-        <item quantity="one">%d app potrebbe essere visualizzata in modo errato. Limita le notifiche flottanti.</item>
-     </plurals>
      <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemi richiedono ottimizzazione</item>
         <item quantity="one">%1$d problema richiede ottimizzazione</item>
@@ -145,6 +141,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d app trovate</item>
         <item quantity="one">%d app trovata</item>
      </plurals>
+     <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d rischi rilevati, risolvere adesso</item>
+        <item quantity="one">%d rischio rilevato, risolvere adesso</item>
+     </plurals>
      <plurals name="hints_traffic_disable_title">
         <item quantity="other">"Dati sull'utilizzo dati per %d app"</item>
         <item quantity="one">"Dati sull'utilizzo dati per %d app"</item>
@@ -156,6 +156,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="install_game_count_title">
         <item quantity="other">%d giochi aggiunti</item>
         <item quantity="one">%d gioco aggiunto</item>
+     </plurals>
+     <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Collega almeno %d punti</item>
+        <item quantity="one">Collega almeno %d punto</item>
      </plurals>
      <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Attendi %d secondi e prova di nuovo. "</item>
@@ -184,6 +188,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="menu_text_app_manager_2">
         <item quantity="other">%d app</item>
         <item quantity="one">%d app</item>
+     </plurals>
+     <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Inserisci almeno %d caratteri</item>
+        <item quantity="one">Inserisci almeno %d carattere</item>
      </plurals>
      <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d d rimanenti prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete.</item>
@@ -220,6 +228,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="number_to_mask_text">
         <item quantity="other">%d notifiche sono visibili</item>
         <item quantity="one">%d notifica è visibile</item>
+     </plurals>
+     <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Inserisci almeno %d numeri</item>
+        <item quantity="one">Inserisci almeno %d numero</item>
      </plurals>
      <plurals name="om_locked_apps_title">
         <item quantity="other">%d app bloccate</item>
@@ -344,8 +356,8 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorno"</item>
      </plurals>
      <plurals name="system_check_content">
-        <item quantity="other">%1$d elementi sicuri</item>
-        <item quantity="one">%1$d elemento sicuro</item>
+        <item quantity="other">%1$d sicuri</item>
+        <item quantity="one">%1$d sicuro</item>
      </plurals>
      <plurals name="title_virus_clean">
         <item quantity="other">%d virus eliminati</item>
