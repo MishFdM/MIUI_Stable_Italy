@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="activities_title">
+        <item>Giorno speciale</item>
+        <item>Giorno da ricordare</item>
+        <item>Momenti importanti</item>
+     </string-array>
      <string-array name="baby_sexy">
         <item>Bambino</item>
         <item>Bambina</item>
@@ -44,32 +49,37 @@
         <item>Natale nel corso degli anni</item>
      </string-array>
      <string-array name="last_month">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+     </string-array>
+     <string-array name="last_weekend_title">
+        <item>I miei weekend</item>
+        <item>Spaccati di vita</item>
+        <item>Ricordi dei weekend</item>
      </string-array>
      <string-array name="month">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
      </string-array>
      <string-array name="month_last_year">
         <item>Lo scorso Gennaio</item>
@@ -93,6 +103,11 @@
         <item>Nonno materno</item>
         <item>Nonna materna</item>
      </string-array>
+     <string-array name="parties_title">
+        <item>Insieme</item>
+        <item>Bei momenti</item>
+        <item>Insieme</item>
+     </string-array>
      <string-array name="relation_with_me">
         <item>Io</item>
         <item>Figlio</item>
@@ -103,10 +118,10 @@
         <item>Sconosciuto</item>
      </string-array>
      <string-array name="season">
-        <item>Spring</item>
-        <item>Summer</item>
-        <item>Autumn</item>
-        <item>Winter</item>
+        <item>Primavera</item>
+        <item>Estate</item>
+        <item>Autunno</item>
+        <item>Inverno</item>
      </string-array>
      <string-array name="season_last_year">
         <item>La scorsa Primavera</item>
@@ -122,10 +137,14 @@
         <item>Nonno materno</item>
         <item>Nonna materna</item>
      </string-array>
+     <string-array name="sports_title">
+        <item>Andare avanti</item>
+        <item>Pieno di energia</item>
+     </string-array>
      <string-array name="weekend_title">
-        <item>Past weekends</item>
-        <item>Days to remember</item>
-        <item>Daily events</item>
-        <item>Ordinary &amp; Extraordinary</item>
+        <item>Ultimi weekend</item>
+        <item>Giorni da ricordare</item>
+        <item>Eventi giornalieri</item>
+        <item>Ordinari e Straordinari</item>
      </string-array>
 </resources>
