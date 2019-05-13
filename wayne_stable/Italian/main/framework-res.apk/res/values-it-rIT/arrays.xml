@@ -1,9 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="app_ops_labels">
-        <item>Prova ad abilitare il Wi-Fi</item>
-        <item>Prova ad abilitare il Bluetooth</item>
-     </string-array>
+     <integer-array name="config_autoBrightnessDisplayValuesNits">
+       <item>8</item>
+        <item>24</item>
+        <item>46</item>
+        <item>64</item>
+        <item>86</item>
+        <item>185</item>
+        <item>260</item>
+        <item>313</item>
+        <item>344</item>
+        <item>397</item>
+        <item>439</item>
+        <item>542</item>
+     </integer-array>
+     <integer-array name="config_screenBrightnessBacklight">
+        <item>4</item>
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+        <item>40</item>
+        <item>85</item>
+        <item>120</item>
+        <item>145</item>
+        <item>160</item>
+        <item>185</item>
+        <item>205</item>
+        <item>255</item>
+     </integer-array>
+     <integer-array name="config_screenBrightnessNits">
+        <item>8</item>
+        <item>12</item>
+        <item>25</item>
+        <item>37</item>
+        <item>86</item>
+        <item>185</item>
+        <item>260</item>
+        <item>313</item>
+        <item>344</item>
+        <item>397</item>
+        <item>439</item>
+        <item>542</item>
+     </integer-array>
      <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Lavoro</item>

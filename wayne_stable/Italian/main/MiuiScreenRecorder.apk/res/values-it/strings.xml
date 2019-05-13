@@ -56,6 +56,8 @@
      <string name="no_sound">Muto</string>
      <string name="operation_delete">Elimina</string>
      <string name="operation_send">Invia</string>
+     <string name="permission_intro_microphone">Per registrare suoni quando il microfono è impostato come fonte audio</string>
+     <string name="permission_intro_storage">Per salvare le registrazioni dello schermo</string>
      <string name="quit_recording">Uscito da Registrazione schermo</string>
      <string name="recording_failure">Ultima registrazione fallita, avvia di nuovo una registrazione dello schermo</string>
      <string name="recording_max_size">La registrazione è stata interrotta e salvata automaticamente a causa delle dimensioni massime raggiunte. Puoi avviare una nuova registrazione per continuare.</string>
@@ -86,5 +88,5 @@
      <string name="unchecked">Non selezionato</string>
      <string name="using_record_confirm_cancel">Limita</string>
      <string name="using_record_confirm_ok">Consenti</string>
-     <string name="warning_recording_when_a2dp_connect">"Your device doesn't support recording system sounds while Bluetooth headset is being used."</string>
+     <string name="warning_recording_when_a2dp_connect">"Il tuo dispositivo non supporta la registrazione dei suoni di sistema durante l'utilizzo di cuffie Bluetooth."</string>
 </resources>
