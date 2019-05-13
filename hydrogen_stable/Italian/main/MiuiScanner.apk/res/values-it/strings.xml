@@ -104,6 +104,7 @@
      <string name="module_title_business_card">Biglietto da visita</string>
      <string name="module_title_code">Codice QR</string>
      <string name="module_title_document">Documento</string>
+     <string name="module_title_plant">Plant</string>
      <string name="module_title_shopping">Shopping</string>
      <string name="module_title_translation">Traduci</string>
      <string name="name">Nome:</string>
@@ -119,6 +120,11 @@
      <string name="payment_text">Apri con %s</string>
      <string name="phone">Telefono:</string>
      <string name="place_barcode_into_rectangle">"Piazza il codice all'interno della cornice"</string>
+     <string name="plant_fail">"Couldn't recognize"</string>
+     <string name="plant_loading">Identifying…</string>
+     <string name="plant_reg_fail_2">"Couldn't recognize this object. Scanner can only identify plants."</string>
+     <string name="plant_support">" (Technical support)"</string>
+     <string name="plant_title">Scan the plant you want to identify</string>
      <string name="pref_camera_focusmode_default">Immagine continua</string>
      <string name="pref_camera_jpeg_quality_fine">sottile</string>
      <string name="pref_camera_jpeg_quality_normal">normale</string>
