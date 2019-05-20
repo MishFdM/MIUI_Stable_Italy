@@ -173,6 +173,10 @@
      <string name="always_bcc_myself">Mettimi sempre in Ccn nelle mail</string>
      <string name="always_show_images">Mostra sempre le immagini da questo mittente</string>
      <string name="app_name">Email</string>
+     <string name="appraise_des">Lavoriamo duramente allo sviluppo dei prodotti, solo per soddisfarti. Supportaci lasciando un commento.</string>
+     <string name="appraise_good">Complimenti e incoraggiamento</string>
+     <string name="appraise_ignore">Valutazione temporanea</string>
+     <string name="appraise_negative">Commento negativo</string>
      <string name="archive">Archivia</string>
      <string name="archived">Archiviata</string>
      <string name="att_download_failed_content">Download fallito</string>
@@ -521,10 +525,12 @@
      <string name="gmail_server_authorization_deleted">Autenticazione account non riuscita. Prova ad aggiungere di nuovo questo account.</string>
      <string name="gmail_web_login_go">OK</string>
      <string name="gmail_web_login_required_message">Accedi a Gmail</string>
+     <string name="have_auth_code">Accedi da Codice</string>
      <string name="header_category_account">Account</string>
      <string name="header_category_other">Segnalazione bug</string>
      <string name="header_label_general_preferences">Generali</string>
      <string name="help_and_info">Guida</string>
+     <string name="help_me_get_qq_auth">Aiuto con il codice di autorizzaizone QQ</string>
      <string name="hide_elided">▼ Nascondi testo citato</string>
      <string name="hide_password">hide password</string>
      <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -696,6 +702,7 @@ Prova con una diverso account."</string>
      <string name="notify_channel_no_disterb">Nessuna modalità anti-disturbo</string>
      <string name="notify_channel_permission_notice">Promemoria Avviso di autorizzazione</string>
      <string name="notify_channel_send_fail">Notifica in caso di mancata consegna</string>
+     <string name="notify_channel_service">Sincronizzazione background</string>
      <string name="oauth_error_description">Impossibile autenticare</string>
      <string name="oauth_gmail_login_notify">Secondo le procedure richieste da Google, dovresti inserire la tua password nella pagina di autorizzazione Google</string>
      <string name="oauth_login_continue">Continua</string>
@@ -706,6 +713,7 @@ Prova con una diverso account."</string>
      <string name="one_day">Un giorno</string>
      <string name="one_month">Un mese</string>
      <string name="one_week">Una setimana</string>
+     <string name="open_androidp_warning">Avviso apertura SDK unofficial 9.0</string>
      <string name="open_calendar_and_contacts_permission">Attiva i permessi per calendario e contatti nelle Impostazioni di Sistema</string>
      <string name="open_external_storage_and_calendar_permission">"Attiva i permessi per l'archivio esterno ed il Calendario nelle Impostazioni di Sistema"</string>
      <string name="open_external_storage_and_contacts_and_calendar_permission">Attiva i permessi per archivio esterno,calendario,contatti nelle Impostazioni di sistema</string>
@@ -847,11 +855,13 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="qq_bar_send_message">Invia SMS</string>
      <string name="qq_login_basecode">Accedi a QQ Mail da web. Immetti una password indipendente.</string>
      <string name="qq_login_get_auth">Abilita la protezione con password se non ricevi alcun SMS</string>
+     <string name="qq_login_notice">"Avviso importante: Se hai impostato una password indipendente, devi inserire una password indipendente per verificare l'accesso alla casella."</string>
      <string name="qq_login_open_imap">Premi su \"Help\" per abilitare IMAP/SMTP</string>
      <string name="qq_login_origin_setting">Inserisci nome utente e password per accedere ></string>
      <string name="qq_login_send_message">Premi su \"Invia SMS\" per ottenere un codice di verifica</string>
      <string name="qq_login_webview">Accedi alla webmail QQ Mail. Immetti la password.</string>
      <string name="qq_next_generation_auth_toast">Abilita la protezione con password sul tuo browser</string>
+     <string name="qq_pwd_or_qq_auth_code">Codice di autorizzazione QQ o password casella</string>
      <string name="qq_uthentication_failed">Impossibile verificare, accedi di nuovo</string>
      <string name="qq_verify_code">(Codice di verifica QQ necessario)</string>
      <string name="qq_webview_loading">Solo un attimo…</string>
