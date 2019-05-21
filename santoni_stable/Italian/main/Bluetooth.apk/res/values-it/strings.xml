@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="ErrorTooManyRequests">Troppe richieste in fase di elaborazione. Riprova più tardi.</string>
      <string name="ack_record">Registrazione ACK</string>
@@ -142,7 +141,7 @@
      <string name="upload_fail_line1">Impossibile inviare il file a \"%1$s\".</string>
      <string name="upload_fail_line1_2">File: %1$s</string>
      <string name="upload_fail_ok">Riprova</string>
-     <string name="upload_fail_waiting">Preparazione file in uscita, trasmissione automatica successiva</string>
+     <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
      <string name="upload_line1">A: \"%1$s\"</string>
      <string name="upload_line3">Tipo di file: %1$s (%2$s)</string>
      <string name="upload_line5">Invio file…</string>

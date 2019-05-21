@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="agps_network_entries">
         <item>Rete domestica</item>
@@ -28,7 +27,7 @@
      </string-array>
      <string-array name="ap_identify">
         <item>Predefinito</item>
-        <item>iPhone</item>
+        <item>Hotspot portatile</item>
      </string-array>
      <string-array name="apn_auth_entries">
         <item>Nessuno</item>
@@ -271,14 +270,14 @@
         <item>Password</item>
      </string-array>
      <string-array name="check_importance_entries">
-        <item>Consigliato</item>
-        <item>Importante</item>
-        <item>Non importante</item>
+        <item>Recommended</item>
+        <item>Important</item>
+        <item>Unimportant</item>
      </string-array>
      <string-array name="check_importance_summary">
-        <item>Filtro intelligente, le notifiche non importanti appariranno in una cartella separata</item>
-        <item>Le notifiche compariranno direttamente nel pannello delle notifiche</item>
-        <item>Tutte le notifiche compariranno in una cartella separata</item>
+        <item>MIUI will decide which notifications should appear directly</item>
+        <item>Notifications will appear in the Notification shade</item>
+        <item>Notifications will appear in a separate folder</item>
      </string-array>
      <string-array name="city_name">
         <item>Abidjan</item>
@@ -978,6 +977,11 @@
         <item>Controlla solo contenuti DRM</item>
         <item>Controlla sempre</item>
      </string-array>
+     <string-array name="keyguard_notification_status_entries">
+        <item>Riattiva schermo</item>
+        <item>Mostra animazione</item>
+        <item>Non riattivare lo schermo</item>
+     </string-array>
      <string-array name="led_color_entries">
         <item>Blu</item>
         <item>Rosso</item>
@@ -1261,8 +1265,12 @@
         <item>Nega</item>
      </string-array>
      <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-        <item>Ricerca</item>
-        <item>Impostazioni</item>
+        <item>Search</item>
+        <item>Settings</item>
+     </string-array>
+     <string-array name="status_bar_settings_notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
      </string-array>
      <string-array name="timezone_filters">
         <item>America</item>
@@ -1442,14 +1450,14 @@
         <item>Eccellente</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries">
-        <item>Sempre</item>
-        <item>Solo se in carica</item>
-        <item>"Mai (aumenta l'utilizzo dei dati)"</item>
+        <item>Always</item>
+        <item>Only when plugged in</item>
+        <item>Never</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Sempre</item>
-        <item>Solo se in carica</item>
-        <item>Mai</item>
+        <item>Always</item>
+        <item>Only when plugged in</item>
+        <item>Never</item>
      </string-array>
      <string-array name="wifi_ssid_type_entries">
         <item>Connetti automaticamente</item>

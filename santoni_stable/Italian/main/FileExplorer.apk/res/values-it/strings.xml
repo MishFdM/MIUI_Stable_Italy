@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="a_week_share_rank">Classifica settimanale</string>
      <string name="action_mode_deselect_all">Deseleziona tutto</string>
@@ -81,7 +80,7 @@
      <string name="category_type_other">Altro</string>
      <string name="category_video">Video</string>
      <string name="category_zip">File Zip</string>
-     <string name="change_sticker">Scegli un altro</string>
+     <string name="change_sticker">Choose another sticker</string>
      <string name="choose_report_comment_reason">Perché segnali questo commento?</string>
      <string name="choose_report_reason">Perché stai segnalando?</string>
      <string name="clean_hint">Tocca per liberare spazio</string>
@@ -191,16 +190,11 @@
      <string name="error_invalid_path">Percorso non corretto</string>
      <string name="error_not_support">Non supportato</string>
      <string name="error_open_file_failed_no_app_found">"Nessuna applicazione trovata per l'apertura del file"</string>
-     <string name="exo_controls_fastforward_description">Avanti</string>
-     <string name="exo_controls_next_description">Prossima traccia</string>
-     <string name="exo_controls_pause_description">Pausa</string>
-     <string name="exo_controls_play_description">Riproduci</string>
-     <string name="exo_controls_previous_description">Traccia precedente</string>
-     <string name="exo_controls_rewind_description">Indietro</string>
-     <string name="exo_controls_stop_description">Stop</string>
      <string name="extended_storage_file_can_not_open">Impossibile aprire il file. Copia il file nella memoria interna."</string>
      <string name="extract">Estrai</string>
      <string name="fail_to_create_folder_unknown">Impossibile creare: errore sconosciuto.</string>
+     <string name="failed_not_access_sd_card">"Prima concedi l'accesso alla scheda SD"</string>
+     <string name="failed_obtain_permissions">Impossibile ottenere i permessi</string>
      <string name="favorite_photo">Foto</string>
      <string name="favorite_ringtone">Suoneria</string>
      <string name="favorite_screen_cap">Screenshot MIUI</string>
@@ -310,6 +304,7 @@
      <string name="menu_item_sort_name">Nome</string>
      <string name="menu_item_sort_type">Tipo</string>
      <string name="menu_item_usb">USB</string>
+     <string name="menu_set_wallpaper">Imposta come sfondo</string>
      <string name="message_comment_prefix">Commento:</string>
      <string name="message_my_received_notification">Nuovo messaggio</string>
      <string name="message_my_received_praise">Mi piace ricevuti</string>
@@ -365,6 +360,7 @@
      <string name="no_wifi">Nessuna rete Wi-Fi</string>
      <string name="no_wifi_hint">Nessuna rete Wi-Fi</string>
      <string name="not_installed_documentsui">DocumentsUI non installato</string>
+     <string name="not_support_documentui">DocumentUI non è supportato su questo dispositivo</string>
      <string name="notif_server_starting">Avviato server FTP</string>
      <string name="notif_title">Server FTP in esecuzione</string>
      <string name="notification_dialog_confirm">OK</string>
@@ -492,6 +488,7 @@
      <string name="rename_alert">"Modificando l'estensione di questo file potresti non essere più in grado di aprirlo."</string>
      <string name="rename_alert2">Il file verrà nascosto.</string>
      <string name="rename_failed">Impossibile rinominare %1$s</string>
+     <string name="rename_input_null">Nuovo nome file</string>
      <string name="repair_done">Ripristinato</string>
      <string name="repair_error">Impossibile ripristinare</string>
      <string name="repair_file">Ripristina file crittografati</string>
@@ -502,6 +499,8 @@
      <string name="report_politics">Politicamente scorretto</string>
      <string name="report_porn">Porno</string>
      <string name="report_violence">Violenza</string>
+     <string name="request_document_permission">Per gestire il file sulla scheda SD, concedi a File Manager i permessi richiesti.</string>
+     <string name="request_document_permission_title">Permessi richiesti</string>
      <string name="request_timeout">Richiesta di rete scaduta</string>
      <string name="reset_password">Ripristina password</string>
      <string name="restoring">Ripristino…</string>
@@ -651,7 +650,6 @@
      <string name="topic_title">Argomenti</string>
      <string name="transfer_done">File spostati con successo.</string>
      <string name="transfer_private_data">Spostamento dei file nascosti dalla scheda SD…</string>
-     <string name="transition_image">immagine di transizione</string>
      <string name="type_not_support">Questo formato non è supportato. Scompatta questo file e riprova.</string>
      <string name="ui_main_toast_favorite_added">Aggiunto correttamente</string>
      <string name="ui_main_toast_favorite_removed">Preferito(i) rimosso(i)</string>
@@ -786,7 +784,7 @@
      <string name="video_upload_wechat_hint">Carica video WeChat per avere più fan.</string>
      <string name="video_uploaded">Caricati</string>
      <string name="view_master_rank">Mostra Top Youliao</string>
-     <string name="view_more_sticker">Guarda altri adesivi</string>
+     <string name="view_more_sticker">View more stickers</string>
      <string name="view_top_rank">Mostra classifica</string>
      <string name="wb_btn_bind">Weibo</string>
      <string name="wechat_btn_bind">WeChat</string>

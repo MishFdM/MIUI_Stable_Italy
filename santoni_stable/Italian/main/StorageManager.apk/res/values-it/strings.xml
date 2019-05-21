@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Navigate home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -158,7 +157,7 @@
      <string name="deletion_helper_app_summary_never_used">%1$s • Not used in last year</string>
      <string name="deletion_helper_app_summary_unknown_used">%1$s • Not sure when last used</string>
      <string name="deletion_helper_apps_group_summary">%1$s • Last used %2$d days ago</string>
-     <string name="deletion_helper_apps_group_title">Apps (%1$d)</string>
+     <string name="deletion_helper_apps_group_title">Apps (%1$d</string>
      <string name="deletion_helper_automatic_title">Automatic</string>
      <string name="deletion_helper_clear_dialog_message">%1$s will be removed from your device</string>
      <string name="deletion_helper_clear_dialog_message_first_time">%1$s will be removed from your device</string>
@@ -172,7 +171,7 @@
      <string name="deletion_helper_photos_loading_summary">Finding items…</string>
      <string name="deletion_helper_photos_loading_title">Photos &amp; videos</string>
      <string name="deletion_helper_photos_summary">%1$s • Older than %2$d days</string>
-     <string name="deletion_helper_photos_title">Photos &amp; videos (%1$d)</string>
+     <string name="deletion_helper_photos_title">Backed up photos &amp; videos (%1$d)</string>
      <string name="deletion_helper_preference_title">Free space now</string>
      <string name="deletion_helper_title">Choose items to remove</string>
      <string name="deletion_helper_upsell_activate">Turn on</string>

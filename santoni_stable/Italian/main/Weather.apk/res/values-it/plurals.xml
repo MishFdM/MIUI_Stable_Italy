@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">%d ore fa</item>
@@ -13,13 +12,17 @@
         <item quantity="other">%d giorni fa</item>
         <item quantity="one">%d giorno fa</item>
      </plurals>
+     <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Media di %1$s stazioni</item>
+        <item quantity="one">Media di %1$s stazione</item>
+     </plurals>
      <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">Previsione a %1$s giorni</item>
         <item quantity="one">Previsione a %1$s giorno</item>
      </plurals>
      <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s secondi dopo la segnalazione</item>
-        <item quantity="one">%1$s secondo dopo il segnalazione</item>
+        <item quantity="other">%1$s seconds after the feedback</item>
+        <item quantity="one">%1$s second after the feedback</item>
      </plurals>
      <plurals name="no_vote_num">
         <item quantity="other">%1$s persone | </item>
