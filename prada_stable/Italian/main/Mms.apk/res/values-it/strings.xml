@@ -597,7 +597,10 @@
      <string name="select_audio">Seleziona audio</string>
      <string name="select_bottom_text">Testo in basso</string>
      <string name="select_copy_text">Select and copy message text</string>
-     <string name="select_different_media">Choose a different %1$s.</string>
+     <string name="select_different_attachment">Choose a different attachment.</string>
+     <string name="select_different_audio">Choose a different audio.</string>
+     <string name="select_different_picture">Choose a different image.</string>
+     <string name="select_different_video">Choose a different video.</string>
      <string name="select_link_title">Seleziona azione</string>
      <string name="select_local_audio">Seleziona audio locale</string>
      <string name="select_local_video">Seleziona video locale</string>
