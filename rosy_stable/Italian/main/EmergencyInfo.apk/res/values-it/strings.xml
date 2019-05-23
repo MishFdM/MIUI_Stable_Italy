@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="a_negative">A, negativo</string>
-     <string name="a_positive">A, positivo</string>
-     <string name="ab_negative">A B negativo</string>
-     <string name="ab_positive">A B positivo</string>
-     <string name="abc_action_bar_home_description">Vai alla Home</string>
-     <string name="abc_action_bar_up_description">Navigate up</string>
+     <string name="a_negative">A negativo</string>
+     <string name="a_positive">A positivo</string>
+     <string name="ab_negative">AB negativo</string>
+     <string name="ab_positive">AB positivo</string>
+     <string name="abc_action_bar_home_description">Naviga alla Home</string>
+     <string name="abc_action_bar_up_description">Naviga in alto</string>
      <string name="abc_action_menu_overflow_description">Altre opzioni</string>
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
@@ -41,7 +41,7 @@
      <string name="address">Indirizzo</string>
      <string name="age">Anni: %1$d</string>
      <string name="allergies">Allergie</string>
-     <string name="allergies_hint">Per esempio, arachidi</string>
+     <string name="allergies_hint">Ad esempio alle arachidi</string>
      <string name="allow_mock_location">Allow mock locations</string>
      <string name="allow_mock_location_summary">Allow mock locations</string>
      <string name="aminus">A-</string>
@@ -155,7 +155,7 @@ Sample Rate"</string>
      <string name="clear">Pulisci</string>
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
      <string name="clear_all">Pulisci tutto</string>
-     <string name="clear_all_message">Pulire tutte le informazioni e contatti?</string>
+     <string name="clear_all_message">Cancellare tutte le informazioni ed i contatti?</string>
      <string name="config_featureFactory">com.android.emergency.overlay.FeatureFactoryImpl</string>
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
@@ -227,9 +227,9 @@ Anyone can read this information from your lock screen, and dial your contacts b
      <string name="enabled_by_admin">Enabled by admin</string>
      <string name="external_source_trusted">Allowed</string>
      <string name="external_source_untrusted">Not allowed</string>
-     <string name="fail_add_contact">Impossibile leggere correttamente le informazioni del contatto</string>
+     <string name="fail_add_contact">Impossibile leggere correttamente le informazioni di contatto</string>
      <string name="fail_display_contact">Impossibile visualizzare il contatto</string>
-     <string name="fail_load_contact_picker">Impossibile trovare un selezionatore dei contatti</string>
+     <string name="fail_load_contact_picker">Impossibile trovare un selezionatore di contatti</string>
      <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
      <string name="force_allow_on_external">Force allow apps on external</string>
      <string name="force_allow_on_external_summary">Makes any app eligible to be written to external storage, regardless of manifest values</string>
@@ -267,10 +267,10 @@ Anyone can read this information from your lock screen, and dial your contacts b
      <string name="managed_user_title">All work apps</string>
      <string name="media_category">Media</string>
      <string name="medical_conditions">Note mediche</string>
-     <string name="medical_conditions_hint">Per esempio, asma</string>
+     <string name="medical_conditions_hint">"Ad esempio l'asma"</string>
      <string name="medical_info_title">Medical information</string>
      <string name="medications">Farmaci</string>
-     <string name="medications_hint">Per esempio, aspirina</string>
+     <string name="medications_hint">"Ad esempio l'aspirina"</string>
      <string name="mobile_data_always_on">Mobile data always active</string>
      <string name="mobile_data_always_on_summary">Always keep mobile data active, even when WLAN is active (for fast network switching).</string>
      <string name="mock_location_app">Select mock location app</string>
@@ -290,7 +290,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
      <string name="oplus">O+</string>
      <string name="organ_donor">Donatore di organi</string>
      <string name="overlay_display_devices_title">Simulate secondary displays</string>
-     <string name="password_toggle_content_description">Comando visibilità password</string>
+     <string name="password_toggle_content_description">Visibilità password</string>
      <string name="phone_type_and_phone_number">%1$s • %2$s</string>
      <string name="picture_color_mode">Picture color mode</string>
      <string name="picture_color_mode_desc">Use sRGB</string>
@@ -310,7 +310,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
      <string name="process_kernel_label">Android OS</string>
      <string name="remaining_length_format">%1$s left</string>
      <string name="remove">Rimuovi</string>
-     <string name="remove_contact">Rimuovi %1$s dai contatti di emergenza?</string>
+     <string name="remove_contact">Rimuovere %1$s dai contatti di emergenza?</string>
      <string name="remove_contact_icon_text">Rimuovi contatto</string>
      <string name="remove_dob_icon_text">Rimuovi data di nascita</string>
      <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
@@ -364,7 +364,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
      <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
      <string name="tab_title_contacts">Contatti</string>
      <string name="tab_title_info">Informazioni</string>
-     <string name="tap_pencil">"Se questo è il tuo telefono, tocca l'icona fatta a matita per aggiungere informazioni che verranno mostrate qui in caso di emergenza"</string>
+     <string name="tap_pencil">"Se questo è il tuo telefono, tocca l'icona disegnata a matita per aggiungere informazioni che verranno mostrate qui in caso di emergenza"</string>
      <string name="telephony_monitor_switch">Telephony Monitor</string>
      <string name="telephony_monitor_switch_summary">TelephonyMonitor will collect logs when it detects a problem with telephony/modem functionality and prompt notification to user to file a bug</string>
      <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
