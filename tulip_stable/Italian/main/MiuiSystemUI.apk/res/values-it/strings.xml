@@ -1421,6 +1421,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_wifi_off_label">Wi-Fi disattivato</string>
      <string name="quick_settings_wifi_on_label">WLAN attivato</string>
      <string name="quick_settings_work_mode_label">Modalità lavoro</string>
+     <string name="rapid_charge_mode_tip">Quick charge</string>
      <string name="recent_cannot_dock">"impossibile entrare in modalità multi-schermo nel Secondo Spazio"</string>
      <string name="recent_dock_tip">"Clicca per scegliere l'applicazione"</string>
      <string name="recent_menu_item_info">Info</string>

@@ -2897,11 +2897,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
      <string name="lockpassword_choose_your_pin_message">Per sicurezza, imposta un PIN</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 2
-	%s: 0 Original: 0
-	%d: 0 Original: 2 -->
-     <!-- Original string: Enter %d-%d digits -->
-     <string name="lockpassword_choose_your_pin_title">Immetti 4-16 numeri</string>
+     <string name="lockpassword_choose_your_pin_title">Immetti %d-%d numeri</string>
      <string name="lockpassword_choose_your_screen_lock_header">Imposta schermata di blocco</string>
      <string name="lockpassword_clear_label">Pulisci</string>
      <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
@@ -5109,6 +5105,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_led">Notification light</string>
      <string name="status_bar_settings_notification_priority">Priority</string>
      <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
+     <string name="status_bar_settings_notification_ringtone">Ringtone</string>
      <string name="status_bar_settings_notification_shade_shortcut">Notification shade shortcut</string>
      <string name="status_bar_settings_notification_sound">Sound</string>
      <string name="status_bar_settings_notification_sound_custom">Suono personalizzato</string>
@@ -5703,11 +5700,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="unlock_set_unlock_password_title">Password</string>
      <string name="unlock_set_unlock_pattern_summary">Sicurezza media</string>
      <string name="unlock_set_unlock_pattern_title">Sequenza</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 2
-	%s: 0 Original: 0
-	%d: 0 Original: 2 -->
-     <!-- Original string: Enter %d-%d numbers to unlock device -->
-     <string name="unlock_set_unlock_pin_summary">Immetti 4-16 numeri per sbloccare il dispositivo</string>
+     <string name="unlock_set_unlock_pin_summary">Immetti %d-%d numeri per sbloccare il dispositivo</string>
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
      <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni > Schermata di blocco e password.</string>
