@@ -277,6 +277,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="agps_roaming_summary">"Utilizzare l'A-GPS durante il roaming potrebbe comportare dei costi aggiuntivi"</string>
      <string name="ai_button_title">Pulsante Mi AI</string>
      <string name="ai_button_title_global">AI button</string>
+     <string name="ai_settings_click_title">Press</string>
      <string name="ai_settings_double_click_category">Double press AI button</string>
      <string name="ai_settings_double_click_title">Double press</string>
      <string name="ai_settings_long_click_category">Press and hold AI button</string>
@@ -2422,10 +2423,13 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gxzw_anim_rhythm">Ritmo</string>
      <string name="gxzw_anim_star">Starlight</string>
      <string name="gxzw_anim_title">Animazione lettura impronta</string>
+     <string name="gxzw_aod_show_summary">Fingerprint icon will be displayed when the screen is off. This feature increases system power consumption.</string>
+     <string name="gxzw_aod_show_tittle">Show fingerprint icon when the screen is off</string>
      <string name="gxzw_dialog_message">Per essere in grado di utilizzare normalmente il sensore di impronte digitali a schermo, non utilizzare protezioni per lo schermo. Se pensi che sia necessaria una protezione per lo schermo, scegli tra le opzioni compatibili autorizzate.</string>
      <string name="gxzw_dialog_not_show_again">Non mostrare di nuovo</string>
      <string name="gxzw_dialog_ok">Fatto</string>
      <string name="gxzw_dialog_title">Informazioni sul sensore di impronte digitali a schermo</string>
+     <string name="gxzw_enroll_again">Lift your finger and press the fingerprint scanner again</string>
      <string name="handy_mode">Uso con una mano</string>
      <string name="handy_mode_enable">Modalità mano singola</string>
      <string name="handy_mode_size">Dimensione schermo</string>
@@ -2897,11 +2901,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
      <string name="lockpassword_choose_your_pin_message">Per sicurezza, imposta un PIN</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 2
-	%s: 0 Original: 0
-	%d: 0 Original: 2 -->
-     <!-- Original string: Enter %d-%d digits -->
-     <string name="lockpassword_choose_your_pin_title">Immetti 4-16 numeri</string>
+     <string name="lockpassword_choose_your_pin_title">Immetti %d-%d numeri</string>
      <string name="lockpassword_choose_your_screen_lock_header">Imposta schermata di blocco</string>
      <string name="lockpassword_clear_label">Pulisci</string>
      <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
@@ -5109,6 +5109,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_led">Notification light</string>
      <string name="status_bar_settings_notification_priority">Priority</string>
      <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
+     <string name="status_bar_settings_notification_ringtone">Ringtone</string>
      <string name="status_bar_settings_notification_shade_shortcut">Notification shade shortcut</string>
      <string name="status_bar_settings_notification_sound">Sound</string>
      <string name="status_bar_settings_notification_sound_custom">Suono personalizzato</string>
@@ -5703,11 +5704,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="unlock_set_unlock_password_title">Password</string>
      <string name="unlock_set_unlock_pattern_summary">Sicurezza media</string>
      <string name="unlock_set_unlock_pattern_title">Sequenza</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 2
-	%s: 0 Original: 0
-	%d: 0 Original: 2 -->
-     <!-- Original string: Enter %d-%d numbers to unlock device -->
-     <string name="unlock_set_unlock_pin_summary">Immetti 4-16 numeri per sbloccare il dispositivo</string>
+     <string name="unlock_set_unlock_pin_summary">Immetti %d-%d numeri per sbloccare il dispositivo</string>
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
      <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni > Schermata di blocco e password.</string>

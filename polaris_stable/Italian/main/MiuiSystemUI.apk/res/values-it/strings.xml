@@ -763,6 +763,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="guest_wipe_session_message">Vuoi continuare la tua sessione?</string>
      <string name="guest_wipe_session_title">Ben tornato Ospite!</string>
      <string name="guest_wipe_session_wipe">Inizia da capo</string>
+     <string name="gxzw_area">Fingerprint scanner</string>
      <string name="gxzw_long_press_tip">Tieni premuto per vedere le nuove funzioni</string>
      <string name="gxzw_press_harder">Premi più forte</string>
      <string name="gxzw_try_again">Prova di nuovo</string>
@@ -1421,6 +1422,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_wifi_off_label">Wi-Fi disattivato</string>
      <string name="quick_settings_wifi_on_label">WLAN attivato</string>
      <string name="quick_settings_work_mode_label">Modalità lavoro</string>
+     <string name="rapid_charge_mode_tip">Quick charge</string>
      <string name="recent_cannot_dock">"impossibile entrare in modalità multi-schermo nel Secondo Spazio"</string>
      <string name="recent_dock_tip">"Clicca per scegliere l'applicazione"</string>
      <string name="recent_menu_item_info">Info</string>
