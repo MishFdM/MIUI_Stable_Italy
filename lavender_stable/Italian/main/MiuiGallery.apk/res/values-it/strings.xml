@@ -189,6 +189,8 @@
      <string name="backuped_title">Backup eseguito correttamente</string>
      <string name="backuping_title_gprs">Backup tramite rete dati mobile...</string>
      <string name="backuping_title_normal">Backup in corso</string>
+     <string name="base_btn_cancel">Cancel</string>
+     <string name="base_btn_download">Download</string>
      <string name="begin_share">Creazione album bambino \"%s\" completata, condividi adesso</string>
      <string name="begin_share_toast">Il sistema creerà un album bambino basato su questo per la condivisione. Continuare?</string>
      <string name="blank_app_name" />
@@ -923,6 +925,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="filter_category_master">Maestro</string>
      <string name="filter_category_portrait">Verticale</string>
      <string name="filter_category_scene">Orizzontale</string>
+     <string name="filter_category_sky">Sky</string>
      <string name="filter_film_blackwhite">B/N</string>
      <string name="filter_film_dew">Rugiada</string>
      <string name="filter_film_fade">Sfuma</string>
@@ -965,6 +968,17 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="filter_scene_series">Riflessi</string>
      <string name="filter_scene_vivid">Vivido</string>
      <string name="filter_scene_warm">Sole</string>
+     <string name="filter_sky_cloudy">Cloudy</string>
+     <string name="filter_sky_detect_forbidden_tips">"Couldn't detect sky"</string>
+     <string name="filter_sky_download_failed">"Couldn't download plug-in. Check your network settings and try again."</string>
+     <string name="filter_sky_download_finish">Downloaded plug-in successfully</string>
+     <string name="filter_sky_download_sdk_without_wifi_msg">"If you aren't connected to Wi-Fi, you can use mobile data to download the plug-in (%1$dMB) that allows you to replace the sky on your photos."</string>
+     <string name="filter_sky_download_sdk_without_wifi_title">Download plug-in</string>
+     <string name="filter_sky_dusk">Dusk</string>
+     <string name="filter_sky_glow">Glow</string>
+     <string name="filter_sky_rainbow">Rainbow</string>
+     <string name="filter_sky_sunny">Sunny</string>
+     <string name="filter_sky_sunset">Sunset</string>
      <string name="finish_create_baby_album_toast">Album creato su Mi Cloud per \"%s\"</string>
      <string name="finish_fill_baby">Crea</string>
      <string name="flash_off">Niente flash</string>
