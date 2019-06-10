@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="accessibility_enabled">Accessibilità attivata.</string>
+     <string name="agree">OK</string>
+     <string name="agree_terms">Ho letto e accetto i Termini e le Condizioni</string>
+     <string name="agree_terms_input_method_facemoji">Ho letto ed accetto la Normativa sulla Privacy di Facemoji.</string>
+     <string name="agree_terms_input_method_kika">Ho letto ed accetto la Normativa sulla Privacy di Kika.</string>
+     <string name="ai_button_desc">Usa questo pulsante per attivare Mi AI e completare le attività sul tuo telefono utilizzando solo la tua voce</string>
+     <string name="ai_button_double_press">Doppia pressione</string>
+     <string name="ai_button_double_press_desc">Configura le funzionalità di Mi AI</string>
+     <string name="ai_button_long_press">Premi e tieni premuto</string>
+     <string name="ai_button_long_press_desc">Vocalizza il tuo comando e rilascia il pulsante</string>
+     <string name="ai_button_single_press">Premi</string>
+     <string name="ai_button_single_press_desc">Attivazione Mi AI</string>
+     <string name="ai_button_title">A proposito del pulsante AI</string>
+     <string name="app_name">Introduzione</string>
+     <string name="application_permissions">Permessi Applicazioni</string>
+     <string name="back">Indietro</string>
+     <string name="cm_terms_content">Per migliorare i servizi forniti, il tuo gestore potrebbe caricare i tuoi dati personali e informazioni su questo dispositivo sui suoi server tramite rete Wi-Fi o connessione dati mobile. Queste informazioni verranno usati solo per scopi statistici al fine di migliorare la qualità dei servizi e fornire altri contenuti personalizzati. Queste informazioni non verranno utilizzate per identificarti e non verranno divulgate a terze parti"</string>
+     <string name="cm_terms_title">Regolamento Operatore Rete Mobile</string>
+     <string name="congratulation_label" />
+     <string name="congratulation_swipe">Scorri per entrare nel sistema</string>
+     <string name="congratulation_title">Tutto impostato</string>
+     <string name="content_description_complete">Completato</string>
+     <string name="content_description_miui_version">MIUI 9</string>
+     <string name="content_description_start">Avvia</string>
+     <string name="continue_to_enable_accessibility">"Tieni due dita in basso per attivare l'accessibilità"</string>
+     <string name="desc_extra_fingerprint" />
+     <string name="desc_extra_international_fingerprint" />
+     <string name="desc_fingerprint">Utilizza le tue impronte digitali per sbloccare il dispositivo, verificare le transazioni Mi Pay o per accedere ad app e servizi.</string>
+     <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicazioni e servizi.</string>
+     <string name="disagree">Annulla</string>
+     <string name="enable_accessibility_canceled">Accessibilità annullata.</string>
+     <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce un feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
+     <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
+     <string name="enable_accessibility_dialog_positive_btn">OK</string>
+     <string name="ime_privacy_policy">Termini della Privacy per la tastiera selezionata</string>
+     <string name="ime_privacy_policy_no_network">Impossibile connettersi ad internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
+     <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di messaggi, email, note, ecc. Successivamente potrai installare tastiere di terze parti."</string>
+     <string name="input_method_setting">Seleziona tastiera</string>
+     <string name="install_preinstall_app">Caricamento applicazioni…</string>
+     <string name="item_fingerprint">Impronta digitale</string>
+     <string name="item_lock_screen_password">Solo schermata di blocco</string>
+     <string name="language_picker_other_languages_title">Altre lingue</string>
+     <string name="language_settings">Seleziona lingua</string>
+     <string name="locale_picker_title">Scegli il paese</string>
+     <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'informativa sulla privacy su %s"</string>
+     <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i termini del servizio su %s</string>
+     <string name="multisim_settings_category">Impostazioni preferite SIM</string>
+     <string name="multisim_settings_title">Scheda SIM 2 rilevata</string>
+     <string name="navigation_picker_gesture_guide">Guida gesture</string>
+     <string name="navigation_picker_radio_text_full_screen">Modalità schermo intero</string>
+     <string name="navigation_picker_radio_text_virtual_key">Modalità tasti virtuali</string>
+     <string name="next">Avanti</string>
+     <string name="next_fingerprint">Avanti</string>
+     <string name="other_settings">Altro</string>
+     <string name="other_settings_ad_enable">Suggerimenti pubblicità consigliate</string>
+     <string name="other_settings_ad_enable_summary">Suggerisci pubblicità personalizzate basate sulle tue abitudini</string>
+     <string name="other_settings_auto_update">Aggiorna automaticamente</string>
+     <string name="other_settings_auto_update_summary">"MIUI sceglierà il tempo di attesa per scaricare ed installare gli aggiornamenti."</string>
+     <string name="other_settings_enhanced_lockscreen">Carousel sfondi</string>
+     <string name="other_settings_enhanced_lockscreen_summary">Ricevi ogni giorno immagini e storie selezionate, direttamente sulla schermata di blocco. Accetta i Termini e Condizioni.</string>
+     <string name="other_settings_enhanced_lockscreen_summary_index">Termini e Condizioni</string>
+     <string name="other_settings_location">Localizzazione</string>
+     <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
+     <string name="other_settings_upload_debug_log_summary">"I dati per la diagnosi possono includere informazioni sull'utilizzo dell'hardware, sistema e app. I dati verranno utilizzati per individuare e analizzare i problemi nel sistema, non verranno mai utilizzati per rilevare la tua identità."</string>
+     <string name="other_settings_upload_debug_log_title">Invia automaticamente i dati per la diagnosi</string>
+     <string name="other_settings_user_experience">Programma Esperienza Utente</string>
+     <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
+     <string name="other_settings_user_experience_summary_index">Dettagli</string>
+     <string name="poco_agree_terms_other">"(Inclusi l'Informativa sulla Privacy ed l'Accordo Utente di POCO Launcher)"</string>
+     <string name="pref_title_data_slot">SIM Dati</string>
+     <string name="pref_title_voice_slot">SIM Voce</string>
+     <string name="privacy_policy">Informativa sulla Privacy</string>
+     <string name="provision_inputmethod_policy_description">"
+Leggi questo documento per la tastiera: "</string>
+     <string name="provision_inputmethod_policy_description1">Privacy</string>
+     <string name="setting_locale">Impostazione Paese…</string>
+     <string name="shut_down">Spegni</string>
+     <string name="sim_card_detecting">Controllo SIM in corso…</string>
+     <string name="sim_card_detecting_check">Impossibile trovare SIM. Assicurati che la SIM sia correttamente installata e di avere credito sufficiente."</string>
+     <string name="sim_card_detecting_confirm_turn_on_network">Consenti il collegamento a reti dati mobili? Se lo fai, la scheda SIM che si inserisce sarà utilizzata per connettersi alle reti dati mobili.</string>
+     <string name="sim_card_detecting_title">Cerca SIM</string>
+     <string name="sim_card_detection">Nessuna SIM rilevata</string>
+     <string name="sim_card_detection_info">Hai bisogno di una SIM per impostare il tuo Mi Account.</string>
+     <string name="sim_card_detection_mobile_not_available">La scheda SIM non può connettersi alla rete</string>
+     <string name="sim_dectection_next">Continua</string>
+     <string name="sim_redetection">Cerca SIM</string>
+     <string name="sim_scard_detecting_check_mobile_not_available">La tua scheda SIM non può connettersi ad una rete operatore valida. Assicurati di avere fondi sufficienti sul tuo saldo e prova a connetterti nuovamente.</string>
+     <string name="skip_gesture_guide_dialog_message">Make sure you know how to use full screen gestures before selecting this option.</string>
+     <string name="skip_gesture_guide_dialog_negative_btn">Cancel</string>
+     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+     <string name="skip_gesture_guide_dialog_title">Full screen gestures</string>
+     <string name="skip_underline"><u>Salta questo passaggio</u></string>
+     <string name="start_up_slogan" />
+     <string name="summary_not_set">Non impostato</string>
+     <string name="system_navigation_mode">Modalità di navigazione di sistema</string>
+     <string name="terms_of_use">Condizioni del Servizio</string>
+     <string name="terms_of_use_label">"La tua privacy è molto importante per noi. Leggi i nostri Termini di servizio e la Normativa sulla privacy per sapere quali informazioni raccogliamo, come le usiamo e quali sono le opzioni disponibili.
+     
+Devi accettare i nostri Termini di servizio e l'Informativa sulla Privacy prima di poter utilizzare la MIUI. Le componenti %s ed il Mi Account si connetteranno ad Internet e acquisiranno la tua posizione."</string>
+     <string name="terms_of_use_label_systemhelper">Servizio Auto-registrato</string>
+     <string name="terms_of_use_label_updater">, Updater</string>
+     <string name="terms_of_use_lable_apps">Servizi Mi, servizi di attivazione Mi SIM, Mi Cloud, Trova dispositivo, schermata Home, Centro di gioco, MAB, MIUI Daemon e componenti di sistema MSA, Sistemi di traduzione, Quick app, Assistente app, statistiche, Mi Link</string>
+     <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Devi accettare la Normativa sulla Privacy di Facemoji prima di utilizzare questa funzionalità."</string>
+     <string name="terms_of_use_lable_default_input_method_kika">"
+
+Devi accettare la Normativa sulla Privacy di Kika prima di utilizzare questa funzionalità."</string>
+     <string name="terms_of_use_lable_gms">, Servizi di Google Play</string>
+     <string name="terms_of_use_lable_smart_cards">, Schede intelligenti</string>
+     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+     <string name="terms_privacy_policy_input_method_facemoji">Normativa sulla Privacy di Facemoji</string>
+     <string name="terms_privacy_policy_input_method_kika">Normativa sulla Privacy di Kika</string>
+     <string name="title_fingerprint">Aggiungi impronta</string>
+     <string name="user_agreement">Condizioni del Servizio</string>
+     <string name="voice_assist_advice">Mi AI ti consente di utilizzare i comandi vocali, ma ciò comporterà un maggior consumo energia (+1% ogni ora).</string>
+     <string name="voice_assist_condition">"Sarai in grado di utilizzare Mi AI in questi casi:
+1. Quando lo schermo è acceso.
+2. Quando ascolti musica a schermo spento."</string>
+     <string name="voice_assist_desp">Pronuncia \"Mi AI\" davanti al telefono. Mi AI riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
+     <string name="voice_assist_title">Attiva con la voce</string>
+     <string name="welcome">Benvenuto</string>
+     <string name="zone_picker_title">Choose time zone</string>
+</resources>
