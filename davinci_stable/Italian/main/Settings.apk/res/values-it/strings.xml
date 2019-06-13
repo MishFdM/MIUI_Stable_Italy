@@ -1261,6 +1261,8 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="checking_find_device_status">Verifica stato Trova dispositivo\u2026</string>
      <string name="checking_for_updates">Ricerca aggiornamenti in corso\u2026</string>
      <string name="choose_a_card_to_reset">Seleziona scheda SIM da reimpostare</string>
+     <string name="choose_keyguard_clock_style">Lock screen clock format</string>
+     <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
      <string name="choose_profile">Scegli il profilo</string>
      <string name="choose_smartcover_type">Scegli il tipo di custodia</string>
      <string name="choose_spell_checker">Scegli controllo ortografico</string>
@@ -2413,7 +2415,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gxzw_add_fingerprint_put_finger_title">Premi più forte, solleva dopo la vibrazione</string>
      <string name="gxzw_add_fingerprint_title">"Aggiungi un'impronta digitale"</string>
      <string name="gxzw_anim_light">Neon</string>
-     <string name="gxzw_anim_metal">Metallo</string>
      <string name="gxzw_anim_pulse">Pulsazione</string>
      <string name="gxzw_anim_rhythm">Ritmo</string>
      <string name="gxzw_anim_star">Starlight</string>
@@ -4507,6 +4508,7 @@ Come usare Mantieni su schermo:
      <string name="search_advanced_settings">Impostazioni avanzate;Wifi;Impostazioni Wifi;Impostazioni WLAN</string>
      <string name="search_airplane_mode">Modalità aereo;Modalità aeroplano;Modalità volo;Aereo;Aeroplano;Volo</string>
      <string name="search_alarm_sound_title">Suono sveglia</string>
+     <string name="search_ambient_display_screen_title">Ambient display</string>
      <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
      <string name="search_apn_settings">APN;Nome Punti di Accesso</string>
      <string name="search_app_invisible">App invisibile;App invisibili</string>
@@ -4545,6 +4547,7 @@ Come usare Mantieni su schermo:
      <string name="search_dndm_vip_call_setting_title">ViP;Eccezioni</string>
      <string name="search_dndm_wristband">Attiva con Mi Band</string>
      <string name="search_do_not_disturb_mode">Non disturbare</string>
+     <string name="search_doze_always_on_title">Always on</string>
      <string name="search_dtmf_tone_enable_title">Toni tastierino</string>
      <string name="search_empty">Nessun risultato</string>
      <string name="search_enable_adb">Debug USB</string>
@@ -5121,6 +5124,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_led">Notification light</string>
      <string name="status_bar_settings_notification_priority">Priority</string>
      <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
+     <string name="status_bar_settings_notification_ringtone">Ringtone</string>
      <string name="status_bar_settings_notification_shade_shortcut">Notification shade shortcut</string>
      <string name="status_bar_settings_notification_sound">Sound</string>
      <string name="status_bar_settings_notification_sound_custom">Suono personalizzato</string>

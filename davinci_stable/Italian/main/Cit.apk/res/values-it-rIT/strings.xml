@@ -739,6 +739,7 @@ test fail!"</string>
      <string name="cit_wifi_fail_to_scan">"Couldn't scan for networks"</string>
      <string name="cit_wifi_state_refresh">Refresh</string>
      <string name="cit_yellow_torch_on">Turn on yellow flash light</string>
+     <string name="close_third_color_led">close three color led</string>
      <string name="confirm">Confirm</string>
      <string name="continue_vibrator">Continue vibrator</string>
      <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
@@ -874,6 +875,7 @@ the specified position"</string>
      <string name="none">N/A</string>
      <string name="ok">Ok</string>
      <string name="open_dc_backlight_summary">"Certain display settings aren't compatible with DC backlight mode. However, they will be restored once you turn this mode off. Turn on DC backlight mode?"</string>
+     <string name="open_third_color_led">open three color led</string>
      <string name="pass">Riuscito</string>
      <string name="phone_not_been_restarted">Phone not been restarted</string>
      <string name="picture">Picture</string>

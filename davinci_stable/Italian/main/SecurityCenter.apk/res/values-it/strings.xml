@@ -946,6 +946,11 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gamebooster_network_dialog_title">Alcune funzionalità non sono disponibili</string>
      <string name="gamebox_app_not_find">"Installa prima l'app."</string>
      <string name="gamebox_browser_not_find">Installa prima Mi Browser</string>
+     <string name="gamebox_display_1">None</string>
+     <string name="gamebox_display_2">Saturated</string>
+     <string name="gamebox_display_3">Bright</string>
+     <string name="gamebox_display_4">Bright &amp; saturated</string>
+     <string name="gamebox_display_set">"Visual enhancement: "</string>
      <string name="gamebox_dnd">DND</string>
      <string name="gamebox_func_antimsg_close">Le notifiche flottanti adesso sono consentite</string>
      <string name="gamebox_func_antimsg_open">Le notifiche flottanti adesso sono limitate</string>
