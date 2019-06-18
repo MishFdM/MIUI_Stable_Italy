@@ -21,8 +21,8 @@
         <item quantity="one">Previsione a %1$s giorno</item>
      </plurals>
      <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s secondi dopo la segnalazione</item>
-        <item quantity="one">%1$s secondo dopo il segnalazione</item>
+        <item quantity="other">%1$s seconds after the feedback</item>
+        <item quantity="one">%1$s second after the feedback</item>
      </plurals>
      <plurals name="no_vote_num">
         <item quantity="other">%1$s persone | </item>

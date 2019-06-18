@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="allow">Consento</string>
      <string name="angle">grad</string>
      <string name="app_name">Calcolatrice</string>
      <string name="app_name_danfa">Calcolatrice Mi</string>
@@ -14,6 +15,7 @@
      <string name="cal_result_format">= %s</string>
      <string name="cal_text_copied">Testo copiato</string>
      <string name="cancel">Annulla</string>
+     <string name="children_education">Educazione dei bambini</string>
      <string name="choose_currency">Seleziona una valuta</string>
      <string name="choose_unit">Seleziona unità di misura</string>
      <string name="city">Città</string>
@@ -47,6 +49,12 @@
      <string name="description_content">"Oltre alle funzionalità base, l'app Calcolatrice funziona anche da multi convertitore, calcolo finanziamenti e tasse. Assicurati di non aver necessità di queste funzionalità prima di eliminare l'app"</string>
      <string name="description_title">Informazioni</string>
      <string name="devided_by_zero_reminder_message">Impossibile dividere per zero</string>
+     <string name="dialog_privacy_content">In aggiunte alle funzioni base di una calcolatrice, la nostra app contiene anche quelle di una calcolatrice scentifica ed un covertitore multifunzionale. Alcune funzioni necessitano di una connessione internet per funzionare correttamente. Devi l eggere ed accettare i nostri %1$s e %2$s prima di utilizzare la Calcolatrice.</string>
+     <string name="dialog_privacy_title">Termini e Condizioni</string>
+     <string name="dialog_rating_desc_ask">Cosa te ne are di questa CAlcolatrice?</string>
+     <string name="dialog_rating_desc_less">Puoi darci anche il tuo feedback?</string>
+     <string name="dialog_rating_desc_perfect">"Ottimo! Vuoi valutarla anche nell'App Store?"</string>
+     <string name="dialog_rating_title">Valuta la nostra app</string>
      <string name="digit0">0</string>
      <string name="digit1">1</string>
      <string name="digit2">2</string>
@@ -68,6 +76,10 @@
      <string name="equalDesc">uguale</string>
      <string name="error">Errore</string>
      <string name="error_fomrat">Errore formato</string>
+     <string name="exit">Exit</string>
+     <string name="extra_deduction_instruction">Dettagli detrazioni</string>
+     <string name="extra_deduction_tips">"Tocca il tasto nell'angolo alto dello schermo per vedere i dettagli delle detrazioni."</string>
+     <string name="extra_deduction_title">Detrazioni aggiuntive</string>
      <string name="factorial">!</string>
      <string name="factorialDesc">fattoriale</string>
      <string name="from_num">100</string>
@@ -76,6 +88,7 @@
      <string name="from_unit_short">km/h</string>
      <string name="fund" />
      <string name="fund_loan" />
+     <string name="further_education">Educazione aggiuntiva</string>
      <string name="global_network_confirm_content">Il convertitore di valuta deve utilizzare la connessione di rete per funzionare correttamente.</string>
      <string name="global_search_key_area_convertion">Area;Convertitore di Area;Conversione Area</string>
      <string name="global_search_key_calculation">Calcola;Calcolatrice;Unità di conversione;Convertitore;Convertitore di unità</string>
@@ -92,7 +105,10 @@
      <string name="global_search_key_word_figure">Caratteri finanziari</string>
      <string name="golbal_search_calculator_setting">Calcolatrice;Impostazioni Calcolatrice;Impostazioni</string>
      <string name="golbal_search_path_calculator_setting">App di sistema/Calcolatrice/Impostazioni</string>
+     <string name="help_content_desc">Aiuto</string>
+     <string name="home_loan">Interessi mutuo</string>
      <string name="home_title_calculator">Calcolatrice</string>
+     <string name="house_rent">Affitto</string>
      <string name="income_type" />
      <string name="install">Installa</string>
      <string name="install_scanner_to_continued_use">Scanner non installato. Installare di nuovo</string>
@@ -117,8 +133,15 @@
      <string name="leftParenDesc">parentesi sinistra</string>
      <string name="lg">log</string>
      <string name="lgDesc">logaritmo</string>
+     <string name="license_host_unreachable">Impossibile collegarsi alla rete. Controlla le impostazioni della tua rete e riprova.</string>
      <string name="ln">ln</string>
      <string name="lnDesc">logaritmo naturale</string>
+     <string name="loading">Solo un secondo…</string>
+     <string name="loading_fail_message_no_network">"Impossibile collegarsi alla rete. Tocca qui per provare di nuovo."</string>
+     <string name="loading_fail_refresh">Aggiorna</string>
+     <string name="loading_message">Caricamento app…</string>
+     <string name="loading_slogan">Usa le app senza installarle</string>
+     <string name="loading_tips">Impostazioni scaricate correttamente. Riavvia la Calcolatrice per apllicare.</string>
      <string name="loan_edittext_hint_commercial">Mutui commerciali</string>
      <string name="loan_edittext_hint_commercial_combined">Mutui commerciali</string>
      <string name="loan_edittext_hint_fund">Mutui previdenziali</string>
@@ -129,10 +152,11 @@
      <string name="loan_interest_rate">Costo del denaro</string>
      <string name="loan_pay_years">Periodo prestito</string>
      <string name="loan_payback_way">Pagamento</string>
-     <string name="loan_repayment_detail">Rimborso dettagliato</string>
+     <string name="loan_repayment_detail">Detailed repayment</string>
      <string name="loan_repayment_detail_loading">Caricamento dettagli rimborso…</string>
-     <string name="loan_repayment_detail_unit">Dettagli rimborso (CNY)</string>
+     <string name="loan_repayment_detail_unit">Detailed repayment (CNY)</string>
      <string name="loan_unit">×10K</string>
+     <string name="medical_treatment">Trattamenti medici</string>
      <string name="menuDesc">menu</string>
      <string name="minus">−</string>
      <string name="minusDesc">meno</string>
@@ -171,12 +195,15 @@
      <string name="mortgage_tab_combining_loan">Combinato</string>
      <string name="mortgage_tab_commercial_loan">Commerciale</string>
      <string name="mortgage_years_amount">Durata mutuo</string>
+     <string name="mt_max">La somma inserita è troppo grande</string>
      <string name="mul">×</string>
      <string name="mulDesc">moltiplica</string>
      <string name="negDesc">Passa tra temperature sotto e sopra zero</string>
      <string name="network_confirm_content">Convertitore di valuta e Calcolatore mutuo devono accedere alla connessione internet per funzionare correttamente</string>
      <string name="network_confirm_title">Connessione di rete richiesta</string>
+     <string name="none">Nessuno</string>
      <string name="not_supported_due_to_language">Questa funzionalitá è disponibile solo per la lingua Cinese</string>
+     <string name="ok">OK</string>
      <string name="percent" />
      <string name="percentDesc">percentuale</string>
      <string name="pi">π</string>
@@ -202,11 +229,14 @@
      <string name="preference_follow_wechat_title">WeChat</string>
      <string name="preference_follow_weibo_summary">\@MIUI</string>
      <string name="preference_follow_weibo_title">Sina Weibo</string>
+     <string name="preference_help">Aiuto e feedback</string>
      <string name="preference_other">Altro</string>
      <string name="preference_privacy_title">Informativa sulla Privacy</string>
+     <string name="preference_rating_title">Valuta la nostra app</string>
      <string name="preference_settings">Impostazioni</string>
      <string name="preference_use_degress_summary">Sostituisci i radianti con gli angoli nelle funzioni trigonometriche</string>
      <string name="preference_use_degress_title">Utilizza angoli</string>
+     <string name="privacy_policy">Informativa Privacy</string>
      <string name="radDesc">Radiali</string>
      <string name="radian">rad</string>
      <string name="rate_data_provider">Tassi di interesse forniti da HeXun</string>
@@ -226,6 +256,7 @@
      <string name="sqrt">√</string>
      <string name="sqrtDesc">radice quadrata</string>
      <string name="start_calculate" />
+     <string name="support_elder">Supporto per la vecchiaia</string>
      <string name="switchDesc">Cambia</string>
      <string name="tab_title_calculator">Calcolatrice</string>
      <string name="tab_title_convert">Convertitore</string>
@@ -249,6 +280,11 @@
      <string name="tax_credit_mortgage">Mutuo</string>
      <string name="tax_credit_personal_income_tax">Personal income tax</string>
      <string name="tax_credit_pretax_income">"Reddito Lordo D'imposta (CNY)"</string>
+     <string name="tax_detail">Dettagi tasse</string>
+     <string name="tax_detail_amount">Totale tasse</string>
+     <string name="tax_detail_rate">Percentuale tasse</string>
+     <string name="tax_detail_take_off">Detrazioni</string>
+     <string name="tax_detail_tax_payed">Totale pagato</string>
      <string name="tax_edittext_hint" />
      <string name="tax_endowment">Dotazione</string>
      <string name="tax_fixed_salary_hint">Inserisci il tuo reddito al netto delle tasse</string>
@@ -263,11 +299,14 @@
      <string name="tax_individual_income_tax_result">Risultato tassa di reddito individuale</string>
      <string name="tax_injury">Sinistri</string>
      <string name="tax_insurance_and_fund">Assicurazione e fondo</string>
+     <string name="tax_insurance_and_fund_detail">Dettagli assicurazione</string>
      <string name="tax_last_salary_hint">Inserisci gli introiti</string>
      <string name="tax_last_salary_number">Introiti</string>
      <string name="tax_location">Posizione</string>
      <string name="tax_medical">Medica</string>
      <string name="tax_param_error">Inserisci il tasso di interesse corretto</string>
+     <string name="tax_payment_period">Numero di pagamenti</string>
+     <string name="tax_rate_provider">Dati forniti da hexun.com e East Money</string>
      <string name="tax_result_real_get">Reale</string>
      <string name="tax_social_insurance">Assicurazione personale</string>
      <string name="tax_thershold_foreign">%s (straniero)</string>
@@ -283,6 +322,7 @@
      <string name="times" />
      <string name="title_bar">Convertitore di lunghezze</string>
      <string name="to_num">62.7</string>
+     <string name="unKnow_error">Errore sconosciuto</string>
      <string name="unit_data_default_area_0">sq.m</string>
      <string name="unit_data_default_area_1">sq.cm</string>
      <string name="unit_data_default_currency_0">CNY</string>
@@ -542,6 +582,8 @@
      <string name="unit_year">Y</string>
      <string name="unit_year_format">Anno %s</string>
      <string name="unit_yuan">CNY</string>
+     <string name="updating">Aggiornamento calcolatrice…</string>
+     <string name="user_agreement">Accordo utente</string>
      <string name="voiceDesc">Voice controls</string>
      <string name="wf_word_figure">Caratteristiche finanziarie</string>
      <string name="word_figure_guide_text">Premi e tieni premuto il testo per eseguire conversione tra i casi.</string>
