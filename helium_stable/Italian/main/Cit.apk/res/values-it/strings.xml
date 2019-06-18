@@ -171,7 +171,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_button_play_pause">Riproduci/Pausa</string>
      <string name="cit_headset_button_previous">Precedente</string>
      <string name="cit_headset_button_rewind">Ricomincia</string>
-     <string name="cit_headset_button_stop">Stop</string>
+     <string name="cit_headset_button_stop">Interrompi</string>
      <string name="cit_headset_button_unknown">Sconosciuto</string>
      <string name="cit_headset_loopback_check_summary">"Collega le cuffie al dispositivo e indossale. Parla al microfono (solitamente posizionato lungo il cavo): dovresti sentire la tua voce nelle cuffie."</string>
      <string name="cit_headset_loopback_check_title">Test loopback cuffie</string>
@@ -277,8 +277,8 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_sim_state_unkown">Sconosciuto</string>
      <string name="cit_start_calibration">Calibra</string>
      <string name="cit_stop_calibration">Ferma calibrazione</string>
-     <string name="cit_tfcard_support_summary">Controlla che la TFCard sia supportata su questo dispositivo</string>
-     <string name="cit_tfcard_support_title">Supporto TFCard</string>
+     <string name="cit_tfcard_support_summary">Controlla che la scheda TF sia supportata su questo dispositivo</string>
+     <string name="cit_tfcard_support_title">Supporto scheda TF</string>
      <string name="cit_tool">Strumenti</string>
      <string name="cit_tool_bluetooth">Diagnostica Bluetooth</string>
      <string name="cit_tool_bluetooth_dut">Avvia la modalità di test Bluetooth</string>

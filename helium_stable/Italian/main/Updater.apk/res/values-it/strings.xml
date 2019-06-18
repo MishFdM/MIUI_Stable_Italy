@@ -7,8 +7,8 @@
      <string name="accessibility_image">Immagine</string>
      <string name="accessibility_play">Riproduci</string>
      <string name="accessibility_video">Video</string>
-     <string name="active_xiaomi_account">Attiva</string>
-     <string name="active_xiaomi_account_title">Attiva Mi Account</string>
+     <string name="active_xiaomi_account">Active</string>
+     <string name="active_xiaomi_account_title">Activate Mi Account</string>
      <string name="alpha_cancel">Esci dal programma di beta test</string>
      <string name="alpha_cancel_cancel">Annulla</string>
      <string name="alpha_cancel_ok">OK</string>
@@ -31,7 +31,7 @@
      <string name="autosetmode">Impostazioni aggiornamento</string>
      <string name="battery_islow">&lt;font color=#f37981&gt;Connetti il tuo caricabatterie&lt;/font&gt;</string>
      <string name="battery_islow_desc">Il livello della batteria è troppo basso per installare questo file .zip in maniera sicura, connetti il tuo caricabatterie e riprova più tardi!</string>
-     <string name="best_update">Il migliore aggiornamento finora</string>
+     <string name="best_update">Best update so far</string>
      <string name="boot_recovery">Riavvia in Recovery</string>
      <string name="btn_changelog">Changelog</string>
      <string name="btn_download">Download (%1$s)</string>
@@ -50,8 +50,8 @@
      <string name="button_text_update">Aggiorna</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
-     <string name="check_local_package_nonsupport_exfat_msg">"Android devices can't install ROM from exFAT SD cards. Copy the ROM package to internal storage and try again."</string>
-     <string name="check_local_package_nonsupport_exfat_title">"Can't install ROM from this SD card"</string>
+     <string name="check_local_package_nonsupport_exfat_msg">I dispositivi Android non possono installare ROM da schede SD exFAT. Copia il pacchetto della ROM nella memoria interna e prova di nuovo.</string>
+     <string name="check_local_package_nonsupport_exfat_title">Impossibile installare la ROM da questa scheda SD</string>
      <string name="check_local_package_suggest_wipe_checkbox">Cancella dati</string>
      <string name="check_local_package_suggest_wipe_msg">"Il pacchetto di aggiornamento selezionato (%s) è di una versione precedente a quella attuale. L'installazione di questo pacchetto potrebbe generare errori. Si consiglia di eseguire una cancellazione dei dati prima di procedere al prossimo passaggio"</string>
      <string name="check_local_package_suggest_wipe_title">Cancella dati e aggiorna</string>
@@ -68,7 +68,7 @@
      <string name="check_network">Impossibile connettersi alla rete</string>
      <string name="check_new_version">Cerca</string>
      <string name="clean_up_button">Cancella</string>
-     <string name="comment_publish">Invia</string>
+     <string name="comment_publish">Submit</string>
      <string name="confirm_local_package_wipe_btn">Cancella e aggiorna</string>
      <string name="confirm_local_package_wipe_msg">I tuoi dati personali verranno eliminati. Assicurati di aver eseguito il backup dei dati importanti prima di iniziare.</string>
      <string name="confirm_local_package_wipe_title">Eliminare i dati?</string>
@@ -143,7 +143,7 @@
      <string name="exo_track_surround_5_point_1">Suono sorround 5.1 canali</string>
      <string name="exo_track_surround_7_point_1">Suono sorround 7.1 canali</string>
      <string name="exo_track_unknown">Sconosciuto</string>
-     <string name="expect">Aspettative</string>
+     <string name="expect">Expectations</string>
      <string name="experimental_build">Sperimentale</string>
      <string name="express_entry_none">Nessuno</string>
      <string name="express_entry_not_reserve">Non ho fatto richiesta</string>
@@ -165,15 +165,15 @@
      <string name="file_path_error_msg">Assicurati che la destinazione del pacchetto di aggiornamento contenga solo lettere e numeri.</string>
      <string name="file_path_error_title">Destinazione non corretta</string>
      <string name="finish">Finito</string>
-     <string name="format_cache_msg">"There isn't enough free space for an update in the cache partition of your device's storage. Tap \"Reboot\" to clear the cache partition and reboot your device. Your data won't be affected by this action."</string>
-     <string name="format_cache_positive_button">Reboot</string>
-     <string name="format_cache_title">Not enough space in cache partition</string>
-     <string name="fourgrid_hint_text">Grazie per aver scelto la versione Developer di MIUI! Raccontaci cosa ne pensi ed aiutaci a migliorare MIUI.</string>
-     <string name="fourgrid_no_notificaiont">Non mostrare nella barra di stato</string>
-     <string name="fourgrid_notificaiont">Mostra nella barra di stato</string>
+     <string name="format_cache_msg">"Spazio insufficiente per un aggiornamento nella partizione cache della memoria del dispositivo. Tocca \"Riavvia\" per cancellare la partizione cache e riavviare il dispositivo. I tuoi dati non verranno modificati da questa azione."</string>
+     <string name="format_cache_positive_button">Riavvia</string>
+     <string name="format_cache_title">Spazio insufficiente nella partizione cache</string>
+     <string name="fourgrid_hint_text">Thank you for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
+     <string name="fourgrid_no_notificaiont">"Don't show in status bar"</string>
+     <string name="fourgrid_notificaiont">Show in status bar</string>
      <string name="get_auto">Ricevi mod. auto.</string>
      <string name="get_current">Attuale</string>
-     <string name="get_update_error">Impossibile recuperare informazioni di aggiornamento</string>
+     <string name="get_update_error">"Can't get update info"</string>
      <string name="go_on_download">Continua</string>
      <string name="home_delay_cancel">Annulla</string>
      <string name="home_delay_msg">Gli aggiornamenti verranno installati fra le 2:00 e le 5:00 del mattino se la batteria risulterà essere carica al %s.</string>
@@ -194,8 +194,8 @@ I dati non verranno cancellati."</string>
      <string name="install_local">Installa localmente</string>
      <string name="install_title">Sei sicuro di voler continuare?</string>
      <string name="internal_build">Interna</string>
-     <string name="join_preview_plan_sum">Use this feature to receive updates earlier than other people</string>
-     <string name="join_preview_plan_title">Receive updates early</string>
+     <string name="join_preview_plan_sum">Usa questa funzione per ricevere aggiornamenti prima degli altri</string>
+     <string name="join_preview_plan_title">Ricevi prima gli aggiornamenti</string>
      <string name="keywords_auto_setting">Aggiornamenti automatici;Scarica automaticamente;Installa automaticamente;aggiornamenti automatici;auto-aggiornamenti; aggiorna automaticamente</string>
      <string name="keywords_updater">"Aggiornamento MIUI;aggiornamento di sistema;aggiornamento software;ROM;aggiornamento ROM;aggiornamento;aggiornamenti;verifica aggiornamenti;verifica aggiornamenti;trova aggiornamenti;scarica aggiornamenti;upgrade;upgrade;upgrade software;nuova versione;versione software;testing;cosa c'è di nuovo;cosa c'è di nuovo;log;log aggiornamento;apk;pacchetto di aggiornamento;pacchetto ROM;aggiornamenti automatici;aggiornamenti automatici;aggiornamenti automatici;versione MIUI;versione;aggiornamenti"</string>
      <string name="keywords_updater_settings">"Aggiornamenti;aggiornamento MIUI;aggiornamento di sistema;aggiornamento software;ROM;aggiornamento ROM;aggiornamento;aggiornamenti;verifica aggiornamenti;verifica aggiornamenti;trova aggiornamenti;scarica aggiornamenti;upgrade;upgrade;upgrade software;nuova versione;versione software;testing;cosa c'è di nuovo;cosa c'è di nuovo;log;log aggiornamento;apk;pacchetto di aggiornamento;pacchetto ROM;aggiornamenti automatici;aggiornamenti automatici; aggiornamenti automatici;versione MIUI;versione;aggiornamenti;Aggiornamenti;Scarica automaticamente;Installa automaticamente;Programma di segnalazioni Beta;rom"</string>
@@ -230,11 +230,11 @@ I dati non verranno cancellati."</string>
      <string name="mobile_download_sum">Scarica aggiornamenti durante il periodo di tempo impostato utilizzando i dati mobili</string>
      <string name="mobile_download_title">Aggiornare utilizzando i dati mobili?</string>
      <string name="monthly_build">Mensile</string>
-     <string name="my_best_update">Miglior aggiornamento</string>
-     <string name="my_expect_update">Aspettative</string>
+     <string name="my_best_update">Best update</string>
+     <string name="my_expect_update">Expectations</string>
      <string name="my_rank">Mia posizione:</string>
-     <string name="my_update_feel">La mia segnalazione</string>
-     <string name="my_worst_update">Peggior aggiornamento</string>
+     <string name="my_update_feel">My feedback</string>
+     <string name="my_worst_update">Worst update</string>
      <string name="new_version">Nuova versione trovata!</string>
      <string name="next">Avanti</string>
      <string name="no_info">Nessuna informazione disponibile.</string>
@@ -374,9 +374,9 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="space_not_enough_title">Spazio insufficiente</string>
      <string name="stable">stabile</string>
      <string name="stable_build">Stabile</string>
-     <string name="submit_fail">Invio fallito</string>
-     <string name="submit_progress">Invio</string>
-     <string name="submit_success">Inviato correttamente</string>
+     <string name="submit_fail">"Can't send"</string>
+     <string name="submit_progress">Sending…</string>
+     <string name="submit_success">Sent</string>
      <string name="test">Test</string>
      <string name="tip_drag_last_toast">"Dai un'occhiata alle novità della MIUI 10"</string>
      <string name="title_can_download_update">Opzioni disponibili</string>
@@ -389,21 +389,21 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="uncrypt_title">Decrittazione (%s)</string>
      <string name="unkown_error_title">Si è verificato un errore</string>
      <string name="unstable_build">Non Stabile</string>
-     <string name="update_comment_title">Commenta</string>
+     <string name="update_comment_title">Comment</string>
      <string name="update_downfull_no_info_sum">Impossibile scaricare, controlla di nuovo con il tasto di aggiornamento.</string>
      <string name="update_downfull_no_info_title">Impossibile scaricare</string>
-     <string name="update_feedback">Segnalazione aggiornamento</string>
-     <string name="update_feedback_end">Ti sei perso la griglia di questa settimana</string>
-     <string name="update_feedback_end_sum">Puoi accedere ogni martedì</string>
-     <string name="update_feedback_expired">"Ti sei perso la griglia segnalazione di questa settimana.
-	 Potrai partecipare il prossimo martedì"</string>
-     <string name="update_feedback_need_account">Devi prima accedere al tuo Mi Account</string>
-     <string name="update_feedback_need_network">Collegati prima alla rete</string>
-     <string name="update_feedback_need_update">"Devi prima aggiornare il sistema all'ultima versione."</string>
-     <string name="update_feel">Cosa ne pensi?</string>
-     <string name="update_general">Così così</string>
-     <string name="update_happy">Grandioso!</string>
-     <string name="update_sad">Mediocre</string>
+     <string name="update_feedback">Rate this update</string>
+     <string name="update_feedback_end">"You missed this week's vote"</string>
+     <string name="update_feedback_end_sum">You can join in every Monday.</string>
+     <string name="update_feedback_expired">"You missed this week's vote.
+But you can take part next Monday."</string>
+     <string name="update_feedback_need_account">You need to sign in to your Mi Account first</string>
+     <string name="update_feedback_need_network">Connect to network first</string>
+     <string name="update_feedback_need_update">You need to update your system to the latest build first.</string>
+     <string name="update_feel">What do you think?</string>
+     <string name="update_general">So-so</string>
+     <string name="update_happy">Satisfied!</string>
+     <string name="update_sad">Disappointed</string>
      <string name="update_setting">Aggiornamenti</string>
      <string name="update_success">Aggiornamento riuscito</string>
      <string name="update_success_reboot_immediately">Dispositivo aggiornato</string>
@@ -442,5 +442,5 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="weekly">settimanale</string>
      <string name="weekly_build">Settimanale</string>
      <string name="wifi_recommended">Nessuna connessione Wi-Fi per iniziare il download in modo sicuro!</string>
-     <string name="worst_update">Il peggiore aggiornamento fino ad ora</string>
+     <string name="worst_update">Worst update so far</string>
 </resources>

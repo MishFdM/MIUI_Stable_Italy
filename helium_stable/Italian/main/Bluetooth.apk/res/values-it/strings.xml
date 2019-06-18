@@ -141,7 +141,7 @@
      <string name="upload_fail_line1">Impossibile inviare il file a \"%1$s\".</string>
      <string name="upload_fail_line1_2">File: %1$s</string>
      <string name="upload_fail_ok">Riprova</string>
-     <string name="upload_fail_waiting">Preparazione file in uscita, trasmissione automatica successiva</string>
+     <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
      <string name="upload_line1">A: \"%1$s\"</string>
      <string name="upload_line3">Tipo di file: %1$s (%2$s)</string>
      <string name="upload_line5">Invio file…</string>
