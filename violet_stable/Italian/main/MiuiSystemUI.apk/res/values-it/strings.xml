@@ -468,6 +468,9 @@ Frequenza Campione"</string>
      <string name="change_theme_reboot">Il cambio del tema richiede un riavvio.</string>
      <string name="charge_length_format">%1$s fa</string>
      <string name="chooseUsbActivity">Scegli come utilizzare il collegamento USB</string>
+     <string name="choose_clock_title_left_top">Left-aligned</string>
+     <string name="choose_clock_title_middle">Centered</string>
+     <string name="choose_clock_title_vertical">Vertical</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debugging USB</string>
      <string name="clear_all_notifications_text">Pulisci tutto</string>
@@ -1421,6 +1424,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_wifi_off_label">Wi-Fi disattivato</string>
      <string name="quick_settings_wifi_on_label">WLAN attivato</string>
      <string name="quick_settings_work_mode_label">Modalità lavoro</string>
+     <string name="rapid_charge_mode_tip">Quick charge</string>
      <string name="recent_cannot_dock">"impossibile entrare in modalità multi-schermo nel Secondo Spazio"</string>
      <string name="recent_dock_tip">"Clicca per scegliere l'applicazione"</string>
      <string name="recent_menu_item_info">Info</string>
