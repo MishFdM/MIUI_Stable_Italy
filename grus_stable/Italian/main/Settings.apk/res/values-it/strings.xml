@@ -602,6 +602,19 @@ Per limitare l'app, dovrai innanzitutto attivare l'ottimizzazione della batteria
      <string name="backup_pw_cancel_button_text">Annulla</string>
      <string name="backup_pw_set_button_text">Imposta password di backup</string>
      <string name="backup_section_title">Backup e ripristino</string>
+     <string name="backup_set_clear_success">Turned off backup password successfully</string>
+     <string name="backup_set_clear_title">Turn off backup password</string>
+     <string name="backup_set_confirm">OK</string>
+     <string name="backup_set_confirm_clear">Turn off</string>
+     <string name="backup_set_enter_new_pw">Enter new backup password</string>
+     <string name="backup_set_enter_new_pw_again">Confirm new backup password</string>
+     <string name="backup_set_enter_old_pw">Enter old backup password</string>
+     <string name="backup_set_enter_pw_title">Enter backup password</string>
+     <string name="backup_set_error_pw">The password you entered is incorrect</string>
+     <string name="backup_set_modify_title">Change backup password</string>
+     <string name="backup_set_new_pw_title">Enter new backup password</string>
+     <string name="backup_set_null_pw">Enter password first</string>
+     <string name="backup_set_pw_confirm_title">Confirm new backup password</string>
      <string name="band_mode_failed">Non riuscita</string>
      <string name="band_mode_loading">Caricamento lista bande…</string>
      <string name="band_mode_set">Imposta</string>
@@ -2419,7 +2432,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gxzw_add_fingerprint_put_finger_title">Premi più forte, solleva dopo la vibrazione</string>
      <string name="gxzw_add_fingerprint_title">"Aggiungi un'impronta digitale"</string>
      <string name="gxzw_anim_light">Neon</string>
-     <string name="gxzw_anim_metal">Metallo</string>
      <string name="gxzw_anim_pulse">Pulsazione</string>
      <string name="gxzw_anim_rhythm">Ritmo</string>
      <string name="gxzw_anim_star">Starlight</string>
@@ -5116,6 +5128,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_led">Notification light</string>
      <string name="status_bar_settings_notification_priority">Priority</string>
      <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
+     <string name="status_bar_settings_notification_ringtone">Ringtone</string>
      <string name="status_bar_settings_notification_shade_shortcut">Notification shade shortcut</string>
      <string name="status_bar_settings_notification_sound">Sound</string>
      <string name="status_bar_settings_notification_sound_custom">Suono personalizzato</string>

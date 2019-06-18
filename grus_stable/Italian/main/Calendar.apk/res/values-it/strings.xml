@@ -17,6 +17,8 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Raggruppa</string>
+     <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
+     <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
      <string name="accessibility_add_attendee">Aggiungi partecipante</string>
      <string name="accessibility_all_day">Tutto il giorno</string>
      <string name="accessibility_pick_start_date">Inizio data</string>
@@ -27,6 +29,7 @@
      <string name="account_and_calendar">Account e calendario</string>
      <string name="action_bar_date_button_title">Calcola data</string>
      <string name="action_bar_return">Invio</string>
+     <string name="action_label">Return</string>
      <string name="action_text_card_manager">Canale</string>
      <string name="add_anniversary">Aggiungi anniversario</string>
      <string name="add_countdown">Aggiungi conto alla rovescia</string>
@@ -64,6 +67,7 @@
      <string name="can_not_modify_allday_event">Gli eventi che durano tutto il giorno non possono essere modificati</string>
      <string name="can_not_modify_event">Impossibile modificare</string>
      <string name="can_not_modify_repeating_acrossing_days_event">Gli eventi ripetuti e quelli in corso non possono essere modificati</string>
+     <string name="cancel_reminder_later">Cancel reminder</string>
      <string name="card_detail_dialog_message">%1$s si aggiornerà ogni giorno. Iscriviti per ricevere aggiornamenti quotidiani.</string>
      <string name="card_detail_dialog_negative">Iscriviti più tardi</string>
      <string name="card_detail_dialog_positive">Iscriviti adesso</string>
@@ -74,6 +78,9 @@
      <string name="card_title_change">Altro</string>
      <string name="change_response_title">Cambia risultato</string>
      <string name="chinese_leap" />
+     <string name="chips_action_cancel">Cancel</string>
+     <string name="chips_action_copy">Copy</string>
+     <string name="chips_permission_text">Allow contacts suggestions</string>
      <string name="chongsha" />
      <string name="clear_net_mock_success">Eliminazione rete simulata completata</string>
      <string name="close_alarm">Disattiva</string>
@@ -110,6 +117,7 @@
      <string name="date_jump_title">Salta ad una data</string>
      <string name="date_today">(oggi)</string>
      <string name="day_view_new_event_hint">+ Nuovo evento</string>
+     <string name="default_reminder_later_time">Default interval for \"Remind later\"</string>
      <string name="default_reminder_mode">Modalità avviso predefinita</string>
      <string name="delete_recurring_event_title">Eliminare %s?</string>
      <string name="delete_this_event_title">Questo evento sarà eliminato.</string>
@@ -120,8 +128,8 @@
      <string name="directory_searching_fmt">Ricerca %s…</string>
      <string name="discard_label">Annulla</string>
      <string name="does_not_repeat">Evento singolo</string>
-     <string name="done">Return</string>
      <string name="download">Download</string>
+     <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
      <string name="edit_date_calculate_days_backward_error_hint">Impossibile calcolare avanti</string>
      <string name="edit_date_calculate_days_empty_hint">Inserisci il numero dei giorni</string>
      <string name="edit_date_calculate_days_forward_error_hint">Impossibile calcolare indietro</string>
@@ -251,6 +259,7 @@
      <string name="miuishare_title_more">Altro</string>
      <string name="miuishare_title_share">Condividi</string>
      <string name="miuishare_wechat_timeline_title">Momenti WeChat</string>
+     <string name="miuishare_wechat_title">WeChat</string>
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="modify_all">Cambia tutti gli eventi in serie.</string>
      <string name="modify_all_following">Cambia questo e tutti gli eventi futuri.</string>
@@ -270,9 +279,10 @@
      <string name="month_view">Mese</string>
      <string name="monthly">Mensile</string>
      <string name="monthly_on_day">Mensile (stesso giorno)</string>
-     <string name="monthly_on_day_count">Mensile (ogni %1$s %2$s)</string>
+     <string name="monthly_on_day_count">Mensile (%1$s di ogni mese)</string>
      <string name="network_not_available">Impossibile collegarsi alla rete</string>
      <string name="new_event_description">Nuovo</string>
+     <string name="next_alarm_time">Next reminder at %1$s</string>
      <string name="no_contact_birthday_hint">Nessun compleanno importato</string>
      <string name="no_events_hint">Nessun evento</string>
      <string name="no_network">"Impossibile collegarsi alla rete.
@@ -280,6 +290,7 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="no_network_btn">Riprova</string>
      <string name="no_title_label">(Senza titolo)</string>
      <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
+     <string name="no_visiable_calendar_message_only_for_xiaomi_account">You need to add a calendar account. Tap \"Add account\" to continue.</string>
      <string name="no_visiable_calendar_select_account">Seleziona account</string>
      <string name="no_visiable_calendar_title">Seleziona Account Calendario</string>
      <string name="notification_channel_description" />
@@ -335,9 +346,9 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="receive_net_mock_success">Ricezione su rete simulata riuscita</string>
      <string name="refresh">Aggiorna</string>
      <string name="refreshing_hint">Aggiornamento</string>
+     <string name="reminder_later">Remind later</string>
      <string name="repeat_activity_label">Ripeti</string>
      <string name="repeat_custom_activity_label">Personalizza</string>
-     <string name="repeat_custom_prompt">every %1$s on %2$s</string>
      <string name="repeat_custom_prompt_daily">ogni %1$s</string>
      <string name="repeat_custom_prompt_sentence">"L'evento si ripeterà %1$s"</string>
      <string name="repeat_custom_prompt_splitter">", "</string>
@@ -387,6 +398,8 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="setting_others">Aggiuntive</string>
      <string name="setting_title_about">Informazioni</string>
      <string name="setting_title_holiday_display">Mostra festività</string>
+     <string name="share_not_install_wechat">Please install wechat.</string>
+     <string name="share_not_install_weibo">Please install weibo.</string>
      <string name="share_title">Condividi</string>
      <string name="show_day_view">Mostra giorno</string>
      <string name="solar_lunar_convert_date" />
@@ -444,7 +457,6 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="train_event_station_stay_time">%1$s minuti</string>
      <string name="travel_airport">Aeroporto</string>
      <string name="travel_carriage_number_text">Macchina</string>
-     <string name="travel_eta_advice">%2$s minute drive to %1$s.</string>
      <string name="travel_ets_advice">Guida fino a %2$s prima %1$s.</string>
      <string name="travel_event_add_successfully">Evento creato</string>
      <string name="travel_event_title_flight">Volo: %1$s-%2$s %3$s</string>
