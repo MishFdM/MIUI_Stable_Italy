@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="abc_action_bar_home_description">Naviga la Home</string>
+     <string name="abc_action_bar_home_description">Naviga alla Home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-     <string name="abc_action_bar_up_description">Navigate up</string>
+     <string name="abc_action_bar_up_description">Naviga in alto</string>
      <string name="abc_action_menu_overflow_description">Altre opzioni</string>
      <string name="abc_action_mode_done">OK</string>
      <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
@@ -57,7 +57,7 @@
      <string name="menu_move">Sposta in…</string>
      <string name="menu_new_window">Nuova finestra</string>
      <string name="menu_open">Apri</string>
-     <string name="menu_paste_from_clipboard">Paste</string>
+     <string name="menu_paste_from_clipboard">Incolla</string>
      <string name="menu_rename">Rinomina</string>
      <string name="menu_save">Salva</string>
      <string name="menu_search">Cerca</string>

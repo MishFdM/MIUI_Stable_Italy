@@ -60,7 +60,7 @@
      <string name="bluetooth_connected_no_a2dp">Connected (no media)</string>
      <string name="bluetooth_connected_no_headset">Connected (no phone)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Connected (no phone or media)</string>
-     <string name="bluetooth_connected_no_map">Connected (no message access)</string>
+     <string name="bluetooth_connected_no_map">Connected (no message access) </string>
      <string name="bluetooth_connecting">Connecting…</string>
      <string name="bluetooth_disable_absolute_volume">Disable absolute volume</string>
      <string name="bluetooth_disable_absolute_volume_summary">Disables the Bluetooth absolute volume feature in case of volume issues with remote devices such as unacceptably loud volume or lack of control.</string>
@@ -152,7 +152,7 @@
      <string name="debug_networking_category">Networking</string>
      <string name="debug_view_attributes">Enable view attribute inspection</string>
      <string name="deletion_helper_app_summary">%1$s • %2$d days ago</string>
-     <string name="deletion_helper_app_summary_never_used">%1$s • Never used before</string>
+     <string name="deletion_helper_app_summary_never_used">%1$s • Not used in last year</string>
      <string name="deletion_helper_app_summary_unknown_used">%1$s • Not sure when last used</string>
      <string name="deletion_helper_apps_group_summary">%1$s • Last used %2$d days ago</string>
      <string name="deletion_helper_apps_group_title">Apps (%1$d)</string>
@@ -169,7 +169,7 @@
      <string name="deletion_helper_photos_loading_summary">Finding items…</string>
      <string name="deletion_helper_photos_loading_title">Photos &amp; videos</string>
      <string name="deletion_helper_photos_summary">%1$s • Older than %2$d days</string>
-     <string name="deletion_helper_photos_title">Photos &amp; videos (%1$d)</string>
+     <string name="deletion_helper_photos_title">Backed up photos &amp; videos)(%1$d)</string>
      <string name="deletion_helper_preference_title">Free space now</string>
      <string name="deletion_helper_title">Choose items to remove</string>
      <string name="deletion_helper_upsell_activate">Turn on</string>

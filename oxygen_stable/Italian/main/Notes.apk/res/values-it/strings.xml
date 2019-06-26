@@ -85,8 +85,6 @@
      <string name="force_touch_menu_add">Aggiungi nota</string>
      <string name="format_move_note_out_folder">Spostato fuori</string>
      <string name="format_move_note_to_folder">Spostato in %1$s</string>
-     <string name="format_move_notes_out_folder">%1$s spostata(e) fuori</string>
-     <string name="format_move_notes_to_folder">%1$s spostata(e) in %2$s</string>
      <string name="hidden_notes_fragment_title">Note nascoste</string>
      <string name="hide_arrow_description">Nascondi</string>
      <string name="hint_cannot_view_hidden_note_content">Impossibile vedere il contenuto delle note nascoste</string>
@@ -130,6 +128,10 @@
      <string name="notealert_ok">Ignora</string>
      <string name="notify_alarm_title">Promemoria sveglia</string>
      <string name="permdesc_accessNote">Le applicazioni dannose potrebbero sfruttare questa possibilità per accedere alle tue informazioni personali.</string>
+     <string name="permission_intro_contact">Per prendere note durante le chiamate</string>
+     <string name="permission_intro_microphone">Per registrare note vocali</string>
+     <string name="permission_intro_phone">Per prendere note durante le chiamate</string>
+     <string name="permission_intro_storage">Per salvare note e allegati</string>
      <string name="permlab_accessNote">Accedi alle note</string>
      <string name="pref_desc_skip_confirm_for_quick_delete">Non chiedere conferme quando si eliminano note con una gesture</string>
      <string name="pref_title_cloud_trash_bin">Elimina note dal Mi Cloud</string>
@@ -200,16 +202,22 @@
      <string name="toast_cancel_to_insert_image">Annulla per inserire immagini.</string>
      <string name="toast_message_add_image_fail">Impossibile inserire immagine.</string>
      <string name="toast_notes_delete_success">Eliminate correttamente</string>
-     <string name="toast_notes_hidden_count">%1$s nascoste correttamente</string>
      <string name="toast_notes_hidden_edit">Questa nota è stata nascosta. Tira verso il basso per visualizzare le note nascoste.</string>
      <string name="toast_notes_hidden_home">Questa nota è stata nascosta. Tira verso il basso per visualizzare le note nascoste.</string>
      <string name="toast_notes_unhidden">Visualizzate correttamente</string>
-     <string name="toast_notes_unhidden_count">%1$s visualizzate correttamente</string>
      <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
      <string name="toast_reach_text_limit_checkbox">Impossibile aggiungere checkbox di spunta perché la nota è troppo lunga</string>
      <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>
      <string name="toast_refuse_to_record_when_in_call">Impossibile utilizzare questa funzionalità durante le chiamate</string>
      <string name="toast_refuse_to_record_when_in_multi_window">Impossibile utilizzare questa funzionalità in modalità multi-finestra</string>
+     <string name="toast_refuse_to_use_contact">"I permessi dei contatti sono ristretti.
+Consenti di leggere i tuoi contatti e trovare account nel dispositivo."</string>
+     <string name="toast_refuse_to_use_external_storage">"I permessi di memoria sono ristretti.
+Consenti di leggere i contenuti della tua scheda SD."</string>
+     <string name="toast_refuse_to_use_phone_state">"I permessi del telefono sono ristretti.
+Consenti di leggere di leggere lo stato del telefono e l'identità."</string>
+     <string name="toast_refuse_to_use_record_audio">"I permessi del microfono sono ristretti.
+Consenti di registrare audio."</string>
      <string name="toolbar_check_description">Aggiungi checkbox</string>
      <string name="toolbar_delete_description">Elimina questa nota</string>
      <string name="toolbar_gallery_description">Aggiungi immagine</string>
@@ -221,6 +229,7 @@
      <string name="toolbar_voice_description">Voce</string>
      <string name="trash_folder_name">Cestino</string>
      <string name="trash_folder_reminder">Le note eliminate verranno cancellate permanentemente tra 30 giorni.</string>
+     <string name="unclassfied_folder_name">Non categorizzato</string>
      <string name="undo">Annulla</string>
      <string name="unknown_source">Fonte sconosciuta</string>
      <string name="widget_content_loading">Caricamento…</string>
