@@ -602,6 +602,19 @@ Per limitare l'app, dovrai innanzitutto attivare l'ottimizzazione della batteria
      <string name="backup_pw_cancel_button_text">Annulla</string>
      <string name="backup_pw_set_button_text">Imposta password di backup</string>
      <string name="backup_section_title">Backup e ripristino</string>
+     <string name="backup_set_clear_success">Turned off backup password successfully</string>
+     <string name="backup_set_clear_title">Turn off backup password</string>
+     <string name="backup_set_confirm">OK</string>
+     <string name="backup_set_confirm_clear">Turn off</string>
+     <string name="backup_set_enter_new_pw">Enter new backup password</string>
+     <string name="backup_set_enter_new_pw_again">Confirm new backup password</string>
+     <string name="backup_set_enter_old_pw">Enter old backup password</string>
+     <string name="backup_set_enter_pw_title">Enter backup password</string>
+     <string name="backup_set_error_pw">The password you entered is incorrect</string>
+     <string name="backup_set_modify_title">Change backup password</string>
+     <string name="backup_set_new_pw_title">Enter new backup password</string>
+     <string name="backup_set_null_pw">Enter password first</string>
+     <string name="backup_set_pw_confirm_title">Confirm new backup password</string>
      <string name="band_mode_failed">Non riuscita</string>
      <string name="band_mode_loading">Caricamento lista bande…</string>
      <string name="band_mode_set">Imposta</string>
@@ -1123,6 +1136,15 @@ Frequenza Campione"</string>
      <string name="brightness_summary">Regola la luminosità dello schermo</string>
      <string name="brightness_title">Luminosità</string>
      <string name="bssid_label">BSSID:</string>
+     <string name="bt_aac_dialog_summary">"Current device supports AAC codec. However, AAC may fail to play sound due to compatibility issues. Your device switched to SBC codec automatically.
+You can change this in the Settings."</string>
+     <string name="bt_aac_dialog_title">Bluetooth connection</string>
+     <string name="bt_aac_open_dialog_summary">"AAC may fail to play sound due to compatibility issues.
+You can turn this feature off in the Settings > Bluetooth > Paired devices."</string>
+     <string name="bt_aac_open_dialog_title">Switching to AAC codec</string>
+     <string name="bt_aac_pre_title">AAC</string>
+     <string name="bt_dialog_remember_choice">Remember choice</string>
+     <string name="bt_dialog_settings">Settings</string>
      <string name="bt_hci_snoop_log">Attiva log di esame HCI Bluetooth</string>
      <string name="bt_hci_snoop_log_summary">Acquisisci tutti i pacchetti HCI Bluetooth in un file</string>
      <string name="bt_ldac_declaration">"Quando il dispositivo Bluetooth supporta la funzionalità LDAC, questo verrà connesso per impostazione predefinita. LDAC offre un'esperienza audio di alta qualità ma a discapito del consumo energetico. La riproduzione potrebbe non verificarsi a causa delle limitazioni dell'hardware Bluetooth"</string>
@@ -1131,11 +1153,9 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="bt_ldac_dialog_title">Il dispositivo attuale collegato per impostazione predefinita, che supporta la funzionalità LDAC:</string>
      <string name="bt_ldac_open_dialog_summary">"LDAC fornisce un'esperienza audio di alta qualità ma a discapito del consumo energetico. La riproduzione potrebbe non verificarsi a causa delle limitazioni dell'hardware Bluetooth"</string>
      <string name="bt_ldac_open_dialog_title">Sei sicuro di voler attivare la funzionalità LDAC?</string>
-     <string name="bt_ldac_pre_summary">"Fornisce un'esperienza audio di alta qualità"</string>
      <string name="bt_ldac_pre_title">LDAC</string>
      <string name="bt_ldac_property">Attributi</string>
-     <string name="bt_ldac_remember_choice">Ricorda scelta</string>
-     <string name="bt_ldac_settings">Impostazioni</string>
+     <string name="bt_pre_summary">Provide a high-quality audio experience</string>
      <string name="bt_rarely_used_device_title">Dispositivi utilizzati raramente (%d)</string>
      <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
      <string name="bt_trace_log_summary">Abilita trace log del Bluetooth</string>
