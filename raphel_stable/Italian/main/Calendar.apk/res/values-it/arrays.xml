@@ -86,6 +86,11 @@
         <item>Pesci</item>
         <item>2/19 - 3/20</item>
      </string-array>
+     <string-array name="prefEntries_alerts_popup">
+        <item>Off</item>
+        <item>For all events</item>
+        <item>For most relevant events</item>
+     </string-array>
      <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
         <item>Solo quando silenzioso</item>

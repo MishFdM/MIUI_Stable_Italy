@@ -163,6 +163,7 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
      <string name="feature_title_call_log">Registro chiamate</string>
      <string name="feature_title_contacts">Contatti</string>
      <string name="feature_title_mms">MMS</string>
+     <string name="feature_title_mms_setting">Messaging settings</string>
      <string name="feature_title_sms">Messaggi</string>
      <string name="file_uploading">Caricamento…</string>
      <string name="files_backup_info">Tutti i file sulla scheda SD (incluse foto, canzoni, video, dati app, etc.)</string>
@@ -295,6 +296,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
      <string name="perm_read_phone_state">Visualizza stato del telefono</string>
      <string name="perm_read_sms">Visualizza SMS</string>
      <string name="perm_storage">Leggi e scrivi su memoria esterna</string>
+     <string name="phone_title">Phone settings</string>
      <string name="platform_chooser_item_android_mi">Mi phone</string>
      <string name="platform_chooser_item_android_others">Altri brand</string>
      <string name="platform_chooser_item_ios">Importa da dispositivo Apple</string>
