@@ -463,6 +463,9 @@ Frequenza Campione"</string>
      <string name="change_theme_reboot">Il cambio del tema richiede un riavvio.</string>
      <string name="charge_length_format">%1$s fa</string>
      <string name="chooseUsbActivity">Scegli come utilizzare il collegamento USB</string>
+     <string name="choose_clock_title_left_top">Left-aligned</string>
+     <string name="choose_clock_title_middle">Centered</string>
+     <string name="choose_clock_title_vertical">Vertical</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debugging USB</string>
      <string name="clear_all_notifications_text">Pulisci tutto</string>
@@ -1645,6 +1648,7 @@ scorri in basso per bloccare"</string>
      <string name="stream_system">Sistema</string>
      <string name="stream_system_enforced">Sistema applicato</string>
      <string name="stream_tts">"Trasmesso Attraverso l'Altoparlante"</string>
+     <string name="stream_voice_assist">Voice Assist</string>
      <string name="stream_voice_call">Chiamata</string>
      <string name="strict_mode">Abilita modalità rigorosa</string>
      <string name="strict_mode_summary">"Fai lampeggiare lo schermo quando un'applicazione esegue un'operazione lunga sul thread principale"</string>

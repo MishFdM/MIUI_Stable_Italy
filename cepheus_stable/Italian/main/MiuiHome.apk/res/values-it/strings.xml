@@ -92,6 +92,7 @@
      <string name="defalut_launcher_title">Launcher predefinito</string>
      <string name="default_folder_title_claro">Claro</string>
      <string name="default_folder_title_game">Giochi</string>
+     <string name="default_folder_title_meitu">Meitu apps</string>
      <string name="default_folder_title_microsoft">Microsoft</string>
      <string name="default_folder_title_recommend">Preferiti</string>
      <string name="default_folder_title_security">Sistema</string>
@@ -191,7 +192,6 @@
      <string name="invalid_contact_shortcut">Collegamento non valido</string>
      <string name="is_setting_wallpaper_message">Applico lo sfondo…</string>
      <string name="is_system_wallpaper_message">Impossibile eliminare risorse di sistema</string>
-     <string name="launcher_auto_fill_empty_title">Auto-riempimento</string>
      <string name="launcher_not_exist">La Home si è bloccata, torna indietro e prova di nuovo.</string>
      <string name="launcher_title">Schermata Home e Recenti</string>
      <string name="like">Mi piace</string>
@@ -207,7 +207,7 @@
      <string name="memory_clear_nothing_result">Niente da eliminare nella cache</string>
      <string name="memory_clear_result">%1$sB cancellati</string>
      <string name="menu_add">Aggiungi</string>
-     <string name="menu_auto_fill">Auto-riempimento</string>
+     <string name="menu_auto_fill_of_uninstall">Fill cells of uninstalled apps</string>
      <string name="menu_back_desktop">Torna alla Home</string>
      <string name="menu_cell_setting">Configurazione spazio schermo</string>
      <string name="menu_customize">Personalizza impostazioni</string>

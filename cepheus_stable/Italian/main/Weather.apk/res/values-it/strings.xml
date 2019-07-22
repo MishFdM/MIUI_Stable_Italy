@@ -6,6 +6,7 @@
      <string name="act_find_city_hint">Inserisci località</string>
      <string name="act_find_city_hot_attractions_title">Luoghi popolari</string>
      <string name="act_find_city_hot_city_title">Città frequenti</string>
+     <string name="act_location_error_to_find_city">"Couldn't get location info. You can add a city manually."</string>
      <string name="act_set_city_find_side">Localizzazione in corso…</string>
      <string name="act_set_city_find_side_error">Impossibile trovare la località.</string>
      <string name="act_weather_find_city_added">Aggiunto</string>
@@ -17,6 +18,7 @@
      <string name="activity_find_city_dialog_cancel">Annulla</string>
      <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
      <string name="activity_find_city_dialog_message_global">Consenti a Meteo di accedere alla tua posizione e passa alla modalità di localizzazione ad alta precisione per ottenere informazioni pertinenti sulla posizione.</string>
+     <string name="activity_find_city_dialog_message_location_service">To get relevant weather info, allow Weather to access your location.</string>
      <string name="activity_find_city_dialog_set">Impostazioni</string>
      <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
      <string name="activity_main_clickable">></string>
@@ -62,6 +64,8 @@
      <string name="aqi_quality_pm10_desc">Grandi particelle non inalabili</string>
      <string name="aqi_quality_pm25_desc">Polveri sottili</string>
      <string name="aqi_quality_so2_desc">Diossido solfuro</string>
+     <string name="aqi_settings_summary">AQI alerts</string>
+     <string name="aqi_settings_title">AQI</string>
      <string name="aqi_station_best_quality_station">La migliore più vicina</string>
      <string name="aqi_station_min_distance_station">Stazione più vicina</string>
      <string name="aqi_sub_desc">IQA</string>
@@ -105,6 +109,9 @@
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
      <string name="data_provided_by">Fornito da</string>
      <string name="edit_city">Modifica</string>
+     <string name="empty_view_net_loading">Updating…</string>
+     <string name="empty_view_net_unavailable">"Couldn't connect to the network"</string>
+     <string name="empty_view_refresh">Try again</string>
      <string name="eu_region_version_first_start_network_msg">"Utilizzando questo prodotto, l'utente accetta che Xiaomi raccoglierà, elaborerà e utilizzerà le informazioni personali dell'utente, comprese le coordinate delle città che si cercano e altri tipi di dati specificati nella nostra Informativa sulla Privacy. Fai riferimento alla nostra Informativa sulla Privacy per sapere come raccogliamo ed elaboriamo le informazioni. Toccando \"Accetto\", accetti che Xiaomi %1$s e %2$s."</string>
      <string name="feedback_cloudy">Nuvoloso</string>
      <string name="feedback_foggy">Nebbioso</string>
@@ -124,12 +131,14 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="hourly_forecast_date">d/M</string>
      <string name="hourly_forecast_title_24_hours_desc">Previsioni per 24 ore</string>
      <string name="hourly_forecast_title_hourly_desc">Previsioni orarie</string>
+     <string name="index_item_downloading">Downloading</string>
      <string name="index_item_experience_now">Installa adesso</string>
      <string name="index_item_install_dialog" />
      <string name="index_item_install_dialog_cancel" />
      <string name="index_item_install_dialog_open" />
      <string name="index_item_install_now">Installa adesso</string>
      <string name="index_item_installing">Installazione</string>
+     <string name="index_item_installing2">Installing</string>
      <string name="indices_desc_humidity">Umidità %1$s%%</string>
      <string name="indices_desc_pressure">%1$s hPa</string>
      <string name="indices_title_feel">Percepita</string>
@@ -143,6 +152,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="it_is_going_to_rain">Sta iniziando a piovere</string>
      <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
+     <string name="location_provider_btn_text">Turn on location services</string>
      <string name="location_tag">Individua</string>
      <string name="menu_location">Località</string>
      <string name="menu_speaker">Trasmissione voce</string>
@@ -175,6 +185,14 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="particulate_matter_exceeded">Alto</string>
      <string name="particulate_matter_not_exceeded">Normale</string>
      <string name="particulate_matter_serious_exceeded">Troppo alto</string>
+     <string name="permission_device_info">Device info</string>
+     <string name="permission_device_introduce">For recognizing device ID based on device model and IMEI, and providing localized services based on language preferences</string>
+     <string name="permission_exit">Exit</string>
+     <string name="permission_privacy">Privacy Policy (mandatory)</string>
+     <string name="permission_select_all">Select all</string>
+     <string name="permission_storage">Storage</string>
+     <string name="permission_storage_introduce">For accessing items on device and saving files</string>
+     <string name="permission_user_protocol">User Agreement (mandatory)</string>
      <string name="policy_settings">Termini e condizioni</string>
      <string name="precipitation_degree_five">temporale</string>
      <string name="precipitation_degree_four">forte</string>
@@ -207,9 +225,9 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="retry">Riprova</string>
      <string name="search_weather">Meteo</string>
      <string name="search_weather_keywords">"Temperatura;Previsioni del tempo;Previsioni;Qualità dell'aria;Grado di inquinamento;Umidità"</string>
-     <string name="set">Impostazioni</string>
      <string name="set_degree_centigrade">°C</string>
      <string name="set_fahrenheit">°F</string>
+     <string name="settings">Settings</string>
      <string name="share">Condividi</string>
      <string name="share_button">Condividi</string>
      <string name="share_menu_title">Condividi</string>
@@ -217,6 +235,8 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="share_weather_desc">\#MIUI Meteo#Oggi %1$s %2$s</string>
      <string name="share_weather_desc_split">,</string>
      <string name="share_weather_save_pic_fail">Impossibile salvare lo screenshot</string>
+     <string name="shortcut_short_label_24_hour_forecast">24-hour forecast</string>
+     <string name="shortcut_short_label_recent_forecast">Check the weather</string>
      <string name="some_where_on_earth">In qualche luogo nel mondo</string>
      <string name="sunrise">Alba</string>
      <string name="sunset">Tramonto</string>
@@ -231,13 +251,13 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="traffic_control_today_numbers">Oggi: %1$s</string>
      <string name="traffic_control_tomorrow_numbers">Domani: %1$s</string>
      <string name="traffic_controls">Razionalizzazione dello spazio stradale</string>
+     <string name="translate_notification_info">Translating in the background…</string>
+     <string name="tts_best_aqi">Best air quality</string>
+     <string name="tts_hour_weather_date_time">From %2$s on %1$s to %4$s on %3$s</string>
+     <string name="tts_max_wind_power">Highest wind speed</string>
      <string name="tts_report_aqi" />
      <string name="tts_report_defautl_head" />
      <string name="tts_report_split" />
-     <string name="tts_report_temperature_high_centigrade" />
-     <string name="tts_report_temperature_high_fahrenheit" />
-     <string name="tts_report_temperature_low_centigrade" />
-     <string name="tts_report_temperature_low_fahrenheit" />
      <string name="tts_report_weather_desc" />
      <string name="tts_report_wind" />
      <string name="twc_logo_title" />
@@ -246,6 +266,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="unit_wind">Unità forza vento</string>
      <string name="update_night_setting_summary_text">Nessun aggiornamento automatico dalle 23:00 alle 07:00 dopo la chiusura</string>
      <string name="update_night_setting_title_text">Blocca aggiornamento notturno</string>
+     <string name="update_notification_info">Updating data in the background…</string>
      <string name="update_setting_title_text">Impostazioni di aggiornamento</string>
      <string name="updated_a_moment_ago">Aggiornato poco fa</string>
      <string name="updating">Aggiornamento…</string>
@@ -257,6 +278,10 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="view_forecast_item_yesterday">Ieri</string>
      <string name="view_indexes_item_today">Oggi</string>
      <string name="view_indexes_item_tommorrow">Domani</string>
+     <string name="weather_alert_channel_name">Alerts</string>
+     <string name="weather_introduce">Always with you, rain or shine.</string>
+     <string name="weather_permission_agree">Accept</string>
+     <string name="weather_service_channel_name">Background services</string>
      <string name="wind_direction_no_data">Vento</string>
      <string name="wind_unit">%1$s km/h</string>
      <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzionalità prima di eliminare l'app."</string>
