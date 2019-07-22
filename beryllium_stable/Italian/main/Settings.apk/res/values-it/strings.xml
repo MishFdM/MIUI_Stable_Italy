@@ -603,6 +603,19 @@ Per limitare l'app, dovrai innanzitutto attivare l'ottimizzazione della batteria
      <string name="backup_pw_cancel_button_text">Annulla</string>
      <string name="backup_pw_set_button_text">Imposta password di backup</string>
      <string name="backup_section_title">Backup e ripristino</string>
+     <string name="backup_set_clear_success">Turned off backup password successfully</string>
+     <string name="backup_set_clear_title">Turn off backup password</string>
+     <string name="backup_set_confirm">OK</string>
+     <string name="backup_set_confirm_clear">Turn off</string>
+     <string name="backup_set_enter_new_pw">Enter new backup password</string>
+     <string name="backup_set_enter_new_pw_again">Confirm new backup password</string>
+     <string name="backup_set_enter_old_pw">Enter old backup password</string>
+     <string name="backup_set_enter_pw_title">Enter backup password</string>
+     <string name="backup_set_error_pw">The password you entered is incorrect</string>
+     <string name="backup_set_modify_title">Change backup password</string>
+     <string name="backup_set_new_pw_title">Enter new backup password</string>
+     <string name="backup_set_null_pw">Enter password first</string>
+     <string name="backup_set_pw_confirm_title">Confirm new backup password</string>
      <string name="band_mode_failed">Non riuscita</string>
      <string name="band_mode_loading">Caricamento lista bande…</string>
      <string name="band_mode_set">Imposta</string>
@@ -1262,6 +1275,8 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="checking_find_device_status">Verifica stato Trova dispositivo\u2026</string>
      <string name="checking_for_updates">Ricerca aggiornamenti in corso\u2026</string>
      <string name="choose_a_card_to_reset">Seleziona scheda SIM da reimpostare</string>
+     <string name="choose_keyguard_clock_style">Lock screen clock format</string>
+     <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
      <string name="choose_profile">Scegli il profilo</string>
      <string name="choose_smartcover_type">Scegli il tipo di custodia</string>
      <string name="choose_spell_checker">Scegli controllo ortografico</string>
@@ -2418,15 +2433,17 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gxzw_add_fingerprint_put_finger_title">Premi più forte, solleva dopo la vibrazione</string>
      <string name="gxzw_add_fingerprint_title">"Aggiungi un'impronta digitale"</string>
      <string name="gxzw_anim_light">Neon</string>
-     <string name="gxzw_anim_metal">Metallo</string>
      <string name="gxzw_anim_pulse">Pulsazione</string>
      <string name="gxzw_anim_rhythm">Ritmo</string>
      <string name="gxzw_anim_star">Starlight</string>
      <string name="gxzw_anim_title">Animazione lettura impronta</string>
+     <string name="gxzw_aod_show_summary">Raise the device or tap the screen to make the fingerprint icon appear. This feature increases system power consumption.</string>
+     <string name="gxzw_aod_show_tittle">Show fingerprint icon when the screen is off</string>
      <string name="gxzw_dialog_message">Per essere in grado di utilizzare normalmente il sensore di impronte digitali a schermo, non utilizzare protezioni per lo schermo. Se pensi che sia necessaria una protezione per lo schermo, scegli tra le opzioni compatibili autorizzate.</string>
      <string name="gxzw_dialog_not_show_again">Non mostrare di nuovo</string>
      <string name="gxzw_dialog_ok">Fatto</string>
      <string name="gxzw_dialog_title">Informazioni sul sensore di impronte digitali a schermo</string>
+     <string name="gxzw_enroll_again">Lift your finger and press the fingerprint scanner again</string>
      <string name="handy_mode">Uso con una mano</string>
      <string name="handy_mode_enable">Modalità mano singola</string>
      <string name="handy_mode_size">Dimensione schermo</string>
@@ -2898,7 +2915,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
      <string name="lockpassword_choose_your_pin_message">Per sicurezza, imposta un PIN</string>
-     <string name="lockpassword_choose_your_pin_title">Immetti %d-%d numeri</string>
+     <string name="lockpassword_choose_your_pin_title" formatted="false">Immetti %d-%d numeri</string>
      <string name="lockpassword_choose_your_screen_lock_header">Imposta schermata di blocco</string>
      <string name="lockpassword_clear_label">Pulisci</string>
      <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
@@ -4492,6 +4509,7 @@ Come usare Mantieni su schermo:
      <string name="search_advanced_settings">Impostazioni avanzate;Wifi;Impostazioni Wifi;Impostazioni WLAN</string>
      <string name="search_airplane_mode">Modalità aereo;Modalità aeroplano;Modalità volo;Aereo;Aeroplano;Volo</string>
      <string name="search_alarm_sound_title">Suono sveglia</string>
+     <string name="search_ambient_display_screen_title">Ambient display</string>
      <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
      <string name="search_apn_settings">APN;Nome Punti di Accesso</string>
      <string name="search_app_invisible">App invisibile;App invisibili</string>
@@ -4530,6 +4548,7 @@ Come usare Mantieni su schermo:
      <string name="search_dndm_vip_call_setting_title">ViP;Eccezioni</string>
      <string name="search_dndm_wristband">Attiva con Mi Band</string>
      <string name="search_do_not_disturb_mode">Non disturbare</string>
+     <string name="search_doze_always_on_title">Always on</string>
      <string name="search_dtmf_tone_enable_title">Toni tastierino</string>
      <string name="search_empty">Nessun risultato</string>
      <string name="search_enable_adb">Debug USB</string>
@@ -5106,6 +5125,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_led">Notification light</string>
      <string name="status_bar_settings_notification_priority">Priority</string>
      <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
+     <string name="status_bar_settings_notification_ringtone">Ringtone</string>
      <string name="status_bar_settings_notification_shade_shortcut">Notification shade shortcut</string>
      <string name="status_bar_settings_notification_sound">Sound</string>
      <string name="status_bar_settings_notification_sound_custom">Suono personalizzato</string>
@@ -5700,7 +5720,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="unlock_set_unlock_password_title">Password</string>
      <string name="unlock_set_unlock_pattern_summary">Sicurezza media</string>
      <string name="unlock_set_unlock_pattern_title">Sequenza</string>
-     <string name="unlock_set_unlock_pin_summary">Immetti %d-%d  numeri per sbloccare il dispositivo</string>
+     <string name="unlock_set_unlock_pin_summary" formatted="false">Immetti %d-%d  numeri per sbloccare il dispositivo</string>
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
      <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni > Schermata di blocco e password.</string>

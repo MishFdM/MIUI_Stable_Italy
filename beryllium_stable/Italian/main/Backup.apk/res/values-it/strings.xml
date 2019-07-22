@@ -120,6 +120,13 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
      <string name="delete_backup_title">Elimina backup</string>
      <string name="delete_failed_backup_confirm">Si è verificato un errore. Impossibile ripristinare da questo backup.</string>
      <string name="deselect_all">Deseleziona tutto</string>
+     <string name="dialog_app_upgrade_download">Update</string>
+     <string name="dialog_app_upgrade_exit">Exit</string>
+     <string name="dialog_app_upgrade_message">A new version of Mi Mover is available. Update Mi Mover now?</string>
+     <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
+     <string name="dialog_backup_password_cancel">Cancel</string>
+     <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
+     <string name="dialog_backup_password_to_settings">Settings</string>
      <string name="disable_encrypt_description">Nessuna crittografia</string>
      <string name="disable_encrypt_title">Crittografia disabilitata</string>
      <string name="enable_encrypt">Abilita adesso</string>
@@ -137,6 +144,7 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
      <string name="err_binder_died">"L'app si è bloccata in modo inatteso."</string>
      <string name="err_filesystem_mount">Impossibile accedere alla memoria del router</string>
      <string name="err_low_storage">Spazio insufficiente</string>
+     <string name="err_no_gms">Incompatible app version. Install this app separately.</string>
      <string name="err_not_allow">Non supportato</string>
      <string name="err_pkg_not_exist">"Impossibile trovare l'app."</string>
      <string name="err_router_disconnected">Controlla la connessione del tuo router e riprova</string>
@@ -168,6 +176,7 @@ Assicurati che la memoria USB abbia abbastanza spazio libero prima di iniziare."
      <string name="flash_drive_restore_btn">Ripristina da memoria USB</string>
      <string name="flash_drive_search_backup_files">"Ricerca backup USB…
 Non cambiare o rinominare i file di backup."</string>
+     <string name="gallery_summary">Gallery settings (not including photos)</string>
      <string name="guarded_mode_dialog_backup_message">I backup non sono consentiti in modalità Ospite</string>
      <string name="guarded_mode_dialog_title">Sei in modalità Ospite</string>
      <string name="guarded_mode_dialog_transfer_message">Impossibile utilizzare Mi Mover in modalità Ospite</string>
@@ -437,6 +446,7 @@ Libera almeno %s"</string>
      <string name="trans_detail_category_userdata">App</string>
      <string name="trans_detail_category_wechat_qq">Dati WeChat e QQ (inclusa cronologia chat)</string>
      <string name="trans_detail_item_app_data_selected_tip">Selezionate anche app corrispondenti.</string>
+     <string name="trans_detail_item_app_data_skip_data">"Can't transfer app data"</string>
      <string name="trans_detail_item_app_data_too_large_tip">Sembra che il file sia troppo grande per essere trasferito.</string>
      <string name="trans_detail_list_footer">Nota: puoi scegliere di trasferire le app separatamente. Comunque, se selezioni i dati app, verranno trasferite anche le app corrispondenti.</string>
      <string name="trans_detail_page_tip">Più elementi selezioni  più tempo richiederà il trasferimento.</string>
@@ -609,6 +619,7 @@ Libera spazio o effettua trasferimenti multipli più piccoli."</string>
      <string name="usb_trans_old_phone_low_space_title">Spazio di memorizzazione non sufficiente</string>
      <string name="usb_trans_select_data_no_space">"Solo %s è disponibile sulla tua memoria USB.
 Libera spazio o trasferisci solo gli elementi più importanti."</string>
+     <string name="user_feedback">Feedback</string>
      <string name="user_name">Apple ID o email</string>
      <string name="user_name_null">Il nome utente non può essere vuoto</string>
      <string name="user_notice_declaration_ignore">Non mostrare più</string>
