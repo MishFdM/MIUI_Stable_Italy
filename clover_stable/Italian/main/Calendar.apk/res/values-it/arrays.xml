@@ -1,98 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="availability">
-        <item>Busy</item>
-        <item>Available</item>
-        <item>Tentative</item>
+     <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Aquarius</item>
+        <item>1/20 - 2/18</item>
      </string-array>
-     <integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </integer-array>
-     <string-array name="backup_country_codes">
-        <item>SX</item>
-        <item>BQ</item>
-        <item>CW</item>
-        <item>SS</item>
+     <string-array name="aries_info">
+        <item>aries</item>
+        <item>Aries</item>
+        <item>3/21 - 4/19</item>
      </string-array>
-     <string-array name="backup_country_names">
-        <item>Sint Maarten</item>
-        <item>Caribbean Netherlands</item>
-        <item>Curaçao</item>
-        <item>South Sudan</item>
+     <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Cancer</item>
+        <item>6/22 - 7/22</item>
      </string-array>
-     <string-array name="buttons_list">
-        <item>Day</item>
-        <item>Week</item>
-        <item>Month</item>
-        <item>Agenda</item>
+     <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Capricorn</item>
+        <item>12/22 - 1/19</item>
      </string-array>
      <string-array name="change_response_labels">
         <item>Solo questa istanza</item>
         <item>Tutti gli eventi della serie</item>
+     </string-array>
+     <string-array name="close_alarm_repeating_labels">
+        <item>Just for this time</item>
+        <item>Turn off repeated reminder</item>
+     </string-array>
+     <string-array name="date_calculate_spinner">
+        <item>Forwards</item>
+        <item>Backwards</item>
+     </string-array>
+     <string-array name="default_reminder_labels">
+        <item>At event time</item>
+        <item>5 minutes before</item>
+        <item>10 minutes before</item>
+        <item>15 minutes before</item>
+        <item>30 minutes before</item>
+        <item>1 hour before</item>
+        <item>1 day before</item>
+        <item>2 days before</item>
+        <item>1 week before</item>
+     </string-array>
+     <string-array name="default_reminder_later_time_labels">
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
      </string-array>
      <string-array name="delete_repeating_labels">
         <item>Solo questo evento</item>
         <item>Questo ed eventi futuri</item>
         <item>Tutti gli eventi</item>
      </string-array>
-     <string-array name="delete_repeating_labels_no_selected">
-        <item>This &amp; future events</item>
-        <item>All events</item>
+     <string-array name="edit_event_dislike">
+        <item>没有我想创建的事件类型</item>
+        <item>设置项有点多，懒得填写</item>
+        <item>有些设置信息无法确定</item>
+        <item>只是随便看看</item>
+        <item>不告诉你</item>
      </string-array>
-     <string-array name="ordinal_labels">
-        <item>primo</item>
-        <item>secondo</item>
-        <item>terzo</item>
-        <item>quarto</item>
-        <item>ultimo</item>
+     <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Gemini</item>
+        <item>5/21 - 6/21</item>
      </string-array>
-     <string-array name="preferences_default_reminder_labels">
-        <item>None</item>
-        <item>0 minutes</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
-        <item>45 minutes</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>3 hours</item>
-        <item>12 hours</item>
-        <item>24 hours</item>
-        <item>2 days</item>
-        <item>1 week</item>
+     <string-array name="leo_info">
+        <item>leo</item>
+        <item>Leo</item>
+        <item>7/23 - 8/22</item>
+     </string-array>
+     <string-array name="libra_info">
+        <item>libra</item>
+        <item>Libra</item>
+        <item>9/23 - 10/23</item>
+     </string-array>
+     <string-array name="open_alarm_repeating_labels">
+        <item>Just for this time</item>
+        <item>Set repeated reminder</item>
+     </string-array>
+     <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Pisces</item>
+        <item>2/19 - 3/20</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_popup">
+        <item>Off</item>
+        <item>For all events</item>
+        <item>For most relevant events</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Always</item>
+        <item>Only when ringer is silenced</item>
+        <item>Never</item>
      </string-array>
      <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
         <item>0</item>
-        <item>1</item>
         <item>5</item>
         <item>10</item>
         <item>15</item>
-        <item>20</item>
-        <item>25</item>
         <item>30</item>
-        <item>45</item>
         <item>60</item>
-        <item>120</item>
-        <item>180</item>
-        <item>720</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
-     </string-array>
-     <string-array name="preferences_skip_reminders_labels">
-        <item>Only if declined</item>
-        <item>If declined or not responded</item>
-     </string-array>
-     <string-array name="preferences_skip_reminders_values">
-        <item>declined</item>
-        <item>not_responded</item>
      </string-array>
      <string-array name="preferences_week_start_day_labels">
         <item>Definito dalla regione</item>
@@ -100,96 +113,93 @@
         <item>Domenica</item>
         <item>Lunedì</item>
      </string-array>
-     <string-array name="quick_response_defaults">
-        <item>Running just a couple of minutes late.</item>
-        <item>Be there in about 10 minutes.</item>
-        <item>Go ahead and start without me.</item>
-        <item>"Sorry, I can't make it. We'll have to reschedule."</item>
+     <string-array name="repeat_choose_end">
+        <item>Never</item>
+        <item>Time</item>
+        <item>Count</item>
      </string-array>
-     <string-array name="recurrence_freq">
-        <item>REPEAT DAILY</item>
-        <item>REPEAT WEEKLY</item>
-        <item>REPEAT MONTHLY</item>
-        <item>REPEAT YEARLY</item>
+     <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
      </string-array>
-     <string-array name="reminder_methods_labels">
-        <item>Notification</item>
-        <item>Email</item>
-        <item>SMS</item>
-        <item>Alarm</item>
+     <string-array name="repeat_choose_week_left">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>last</item>
      </string-array>
-     <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-     </integer-array>
-     <string-array name="reminder_minutes_labels">
-        <item>0 minutes</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
-        <item>45 minutes</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>3 hours</item>
-        <item>12 hours</item>
-        <item>24 hours</item>
-        <item>2 days</item>
-        <item>1 week</item>
+     <string-array name="repeat_choose_week_right">
+        <item>Mon - Fri</item>
+        <item>Weekend</item>
+        <item>Whole week</item>
      </string-array>
-     <string-array name="repeat_by_nth_fri">
-        <item>on every first Friday</item>
-        <item>on every second Friday</item>
-        <item>on every third Friday</item>
-        <item>on every fourth Friday</item>
-        <item>on every last Friday</item>
+     <string-array name="repeat_choose_weekday">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thur</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
      </string-array>
-     <string-array name="repeat_by_nth_mon">
-        <item>on every first Monday</item>
-        <item>on every second Monday</item>
-        <item>on every third Monday</item>
-        <item>on every fourth Monday</item>
-        <item>on every last Monday</item>
+     <string-array name="repeat_countdown">
+        <item>Never</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
      </string-array>
-     <string-array name="repeat_by_nth_sat">
-        <item>on every first Saturday</item>
-        <item>on every second Saturday</item>
-        <item>on every third Saturday</item>
-        <item>on every fourth Saturday</item>
-        <item>on every last Saturday</item>
+     <string-array name="repeat_frequency_spinner">
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
      </string-array>
-     <string-array name="repeat_by_nth_sun">
-        <item>on every first Sunday</item>
-        <item>on every second Sunday</item>
-        <item>on every third Sunday</item>
-        <item>on every fourth Sunday</item>
-        <item>on every last Sunday</item>
-     </string-array>
-     <string-array name="repeat_by_nth_thurs">
-        <item>on every first Thursday</item>
-        <item>on every second Thursday</item>
-        <item>on every third Thursday</item>
-        <item>on every fourth Thursday</item>
-        <item>on every last Thursday</item>
-     </string-array>
-     <string-array name="repeat_by_nth_tues">
-        <item>on every first Tuesday</item>
-        <item>on every second Tuesday</item>
-        <item>on every third Tuesday</item>
-        <item>on every fourth Tuesday</item>
-        <item>on every last Tuesday</item>
-     </string-array>
-     <string-array name="repeat_by_nth_wed">
-        <item>on every first Wednesday</item>
-        <item>on every second Wednesday</item>
-        <item>on every third Wednesday</item>
-        <item>on every fourth Wednesday</item>
-        <item>on every last Wednesday</item>
+     <string-array name="repeat_monthly_on_day_count_values">
+        <item>first Monday</item>
+        <item>first Tuesday</item>
+        <item>first Wednesday</item>
+        <item>first Thursday</item>
+        <item>first Friday</item>
+        <item>first Saturday</item>
+        <item>first Sunday</item>
+        <item>second Monday</item>
+        <item>second Tuesday</item>
+        <item>second Wednesday</item>
+        <item>second Thursday</item>
+        <item>second Friday</item>
+        <item>second Saturday</item>
+        <item>second Sunday</item>
+        <item>third Monday</item>
+        <item>third Tuesday</item>
+        <item>third Wednesday</item>
+        <item>third Thursday</item>
+        <item>third Friday</item>
+        <item>third Saturday</item>
+        <item>third Sunday</item>
+        <item>fourth Monday</item>
+        <item>fourth Tuesday</item>
+        <item>fourth Wednesday</item>
+        <item>fourth Thursday</item>
+        <item>fourth Friday</item>
+        <item>fourth Saturday</item>
+        <item>fourth Sunday</item>
+        <item>last Monday</item>
+        <item>last Tuesday</item>
+        <item>last Wednesday</item>
+        <item>last Thursday</item>
+        <item>last Friday</item>
+        <item>last Saturday</item>
+        <item>last Sunday</item>
      </string-array>
      <string-array name="response_labels1">
         <item>Senza risposta</item>
@@ -197,59 +207,44 @@
         <item>Forse</item>
         <item>No</item>
      </string-array>
-     <string-array name="timezone_rename_ids">
-        <item>Australia/Darwin</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Brisbane</item>
-        <item>Australia/Sydney</item>
-        <item>America/Dawson_Creek</item>
-        <item>America/Regina</item>
-        <item>America/Atikokan</item>
-        <item>America/Blanc-Sablon</item>
-        <item>Pacific/Honolulu</item>
-        <item>America/Adak</item>
-        <item>America/Metlakatla</item>
-        <item>America/Phoenix</item>
-        <item>America/Tijuana</item>
-        <item>America/Ojinaga</item>
-        <item>America/Matamoros</item>
-        <item>America/Hermosillo</item>
-        <item>Africa/Juba</item>
-        <item>America/Kralendijk</item>
-        <item>America/Lower_Princes</item>
-        <item>Europe/Minsk</item>
-        <item>Europe/Kaliningrad</item>
-        <item>America/Porto_Velho</item>
-        <item>America/Belem</item>
+     <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Sagittarius</item>
+        <item>11/23 - 12/21</item>
      </string-array>
-     <string-array name="timezone_rename_labels">
-        <item>Australian Central - NT</item>
-        <item>Australian Central - SA</item>
-        <item>Australian Eastern - QLD</item>
-        <item>Australian Eastern - NSW</item>
-        <item>Mountain Standard - Dawson Creek</item>
-        <item>Central Standard - Saskatchewan</item>
-        <item>Eastern Standard - Atikokan</item>
-        <item>Atlantic Standard - Quebec</item>
-        <item>Hawaii-Aleutian - Hawaii</item>
-        <item>Hawaii-Aleutian - Alaska</item>
-        <item>Pacific Standard - Metlakatla</item>
-        <item>Mountain Standard - Arizona</item>
-        <item>Pacific - Baja California</item>
-        <item>Mountain - Chihuahua</item>
-        <item>Central - Tamaulipas</item>
-        <item>Mountain - Sonora</item>
-        <item>East Africa Time</item>
-        <item>Atlantic Standard Time</item>
-        <item>Atlantic Standard Time</item>
-        <item>Eastern European Time</item>
-        <item>Kaliningrad Time</item>
-        <item>Amazon - Rondônia</item>
-        <item>Brasilia - Pará</item>
+     <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Scorpio</item>
+        <item>10/24 - 11/22</item>
      </string-array>
-     <string-array name="visibility">
-        <item>Default</item>
-        <item>Private</item>
-        <item>Public</item>
+     <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Taurus</item>
+        <item>4/20 - 5/20</item>
+     </string-array>
+     <string-array name="travel_reminder_minutes_labels">
+        <item>3 hours before</item>
+        <item>4 hours before</item>
+        <item>5 hours before</item>
+        <item>6 hours before</item>
+        <item>1 day before</item>
+     </string-array>
+     <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Virgo</item>
+        <item>8/23 - 9/22</item>
+     </string-array>
+     <string-array name="week_header_name">
+        <item>SUN</item>
+        <item>MON</item>
+        <item>TUE</item>
+        <item>WED</item>
+        <item>THU</item>
+        <item>FRI</item>
+        <item>SAT</item>
+     </string-array>
+     <string-array name="widget_style_list">
+        <item>Transparent</item>
+        <item>White background</item>
      </string-array>
 </resources>
