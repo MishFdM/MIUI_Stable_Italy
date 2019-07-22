@@ -603,6 +603,19 @@ Per limitare l'app, dovrai innanzitutto attivare l'ottimizzazione della batteria
      <string name="backup_pw_cancel_button_text">Annulla</string>
      <string name="backup_pw_set_button_text">Imposta password di backup</string>
      <string name="backup_section_title">Backup e ripristino</string>
+     <string name="backup_set_clear_success">Turned off backup password successfully</string>
+     <string name="backup_set_clear_title">Turn off backup password</string>
+     <string name="backup_set_confirm">OK</string>
+     <string name="backup_set_confirm_clear">Turn off</string>
+     <string name="backup_set_enter_new_pw">Enter new backup password</string>
+     <string name="backup_set_enter_new_pw_again">Confirm new backup password</string>
+     <string name="backup_set_enter_old_pw">Enter old backup password</string>
+     <string name="backup_set_enter_pw_title">Enter backup password</string>
+     <string name="backup_set_error_pw">The password you entered is incorrect</string>
+     <string name="backup_set_modify_title">Change backup password</string>
+     <string name="backup_set_new_pw_title">Enter new backup password</string>
+     <string name="backup_set_null_pw">Enter password first</string>
+     <string name="backup_set_pw_confirm_title">Confirm new backup password</string>
      <string name="band_mode_failed">Non riuscita</string>
      <string name="band_mode_loading">Caricamento lista bande…</string>
      <string name="band_mode_set">Imposta</string>
@@ -1170,6 +1183,12 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="call_manager_enable_summary">Consenti questo servizio per gestire come sono state fatte le vostre chiamate.</string>
      <string name="call_manager_enable_title">Attiva il Manager chiamate</string>
      <string name="call_manager_title">Manager chiamate</string>
+     <string name="call_records_name_1">Debbie Smith</string>
+     <string name="call_records_name_2">Jason Lee</string>
+     <string name="call_records_name_3">Tom Fowles</string>
+     <string name="call_records_summary_1">9:35 AM | 26 seconds | China Unicom</string>
+     <string name="call_records_summary_2">August 16 | 1m 16s | China Mobile</string>
+     <string name="call_records_summary_3">August 16 | 2m 24s | China Unicom</string>
      <string name="call_settings_primary_user_only">Modifica le impostazioni di chiamata nel Primo Spazio</string>
      <string name="call_settings_summary">Imposta segreteria, deviazione chiamate, avviso di chiamata, ID chiamante</string>
      <string name="call_settings_title">Chiamate</string>
@@ -1262,6 +1281,8 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="checking_find_device_status">Verifica stato Trova dispositivo\u2026</string>
      <string name="checking_for_updates">Ricerca aggiornamenti in corso\u2026</string>
      <string name="choose_a_card_to_reset">Seleziona scheda SIM da reimpostare</string>
+     <string name="choose_keyguard_clock_style">Lock screen clock format</string>
+     <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
      <string name="choose_profile">Scegli il profilo</string>
      <string name="choose_smartcover_type">Scegli il tipo di custodia</string>
      <string name="choose_spell_checker">Scegli controllo ortografico</string>
@@ -1504,6 +1525,8 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="dangerous_option_switch_title">Notifica funzionalità ad alto rischio</string>
      <string name="dark_color_mode">Modalità scura</string>
      <string name="dark_color_summary">Utilizza tavolozza di colori scuri per lo sfondo di sistema e le app compatibili</string>
+     <string name="dark_color_summary_lcd">"Use darker color palette for system backgrounds and compatible apps. Dark mode can help you to relieve eye strain when you're using your device in the dark."</string>
+     <string name="dark_color_summary_oled">Use darker color palette for system backgrounds and compatible apps. Dark mode reduces power consumption and helps to relieve eye strain.</string>
      <string name="dark_ui_mode">Modalità notturna</string>
      <string name="dark_ui_mode_title">Imposta modalità notturna</string>
      <string name="dashboard_suggestion_condition_footer_content_description">Raggruppa</string>
@@ -1755,6 +1778,7 @@ avviso"</string>
      <string name="device_miui_more">Vedi altro</string>
      <string name="device_miui_version">Versione MIUI</string>
      <string name="device_miui_version_for_POCO">Versione MIUI (POCOPHONE)</string>
+     <string name="device_miui_version_parameters">MIUI version</string>
      <string name="device_miui_version_update">"E' disponibile un aggiornamento MIUI"</string>
      <string name="device_name">Nome dispositivo</string>
      <string name="device_name_input_error">Impossibile salvare il nome del dispositivo</string>
@@ -2418,7 +2442,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gxzw_add_fingerprint_put_finger_title">Premi più forte, solleva dopo la vibrazione</string>
      <string name="gxzw_add_fingerprint_title">"Aggiungi un'impronta digitale"</string>
      <string name="gxzw_anim_light">Neon</string>
-     <string name="gxzw_anim_metal">Metallo</string>
      <string name="gxzw_anim_pulse">Pulsazione</string>
      <string name="gxzw_anim_rhythm">Ritmo</string>
      <string name="gxzw_anim_star">Starlight</string>
@@ -2711,10 +2734,14 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="launch_recents">Apri Recenti</string>
      <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
      <string name="launch_wifi_text">Visualizza dettagli</string>
+     <string name="launcher_icon">Icons</string>
      <string name="launcher_title">Launcher</string>
      <string name="launching_cit">Avvio Rilevamento Hardware, attendere\u2026</string>
      <string name="launching_pho">Caricamento informazioni dispositivo, attendere\u2026</string>
      <string name="launching_rep">Segnalazione bug in corso, attendere\u2026</string>
+     <string name="layout_exhuge_font_take_effect_tips">XXL text size works only in Phone, Messaging, and Contacts</string>
+     <string name="layout_exhuge_font_tips">More options are available in %1$s</string>
+     <string name="layout_exhuge_font_tips_reg">Accessibility > Display size</string>
      <string name="layout_size_exhuge">XXL</string>
      <string name="layout_size_exhuge_text">XXL</string>
      <string name="layout_size_huge">XL</string>
@@ -2901,7 +2928,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
      <string name="lockpassword_choose_your_pin_message">Per sicurezza, imposta un PIN</string>
-     <string name="lockpassword_choose_your_pin_title">Immetti %d-%d numeri</string>
+     <string name="lockpassword_choose_your_pin_title" formatted="false">Immetti %d-%d numeri</string>
      <string name="lockpassword_choose_your_screen_lock_header">Imposta schermata di blocco</string>
      <string name="lockpassword_clear_label">Pulisci</string>
      <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
@@ -3671,8 +3698,6 @@ ed esegui il software."</string>
      <string name="onehour">30 minuti</string>
      <string name="onekey_migrate">Trasferisci</string>
      <string name="onscreen_keyboard_settings_summary">Impostazioni tastiera sullo schermo</string>
-     <string name="open_dark_mode_dialog_summary">"Certain display settings aren't compatible with Dark mode. However, they will be restored once you turn Dark mode off. Turn on Dark mode?"</string>
-     <string name="open_dark_mode_dialog_title">Dark mode compatibility</string>
      <string name="open_demo_mode">Apri</string>
      <string name="open_demo_mode_warning_message">"Quando la modalità Demo è attiva, l'orologio nella barra di stato si fermerà, la batteria e le icone di segnale verranno mostrate come piene. Puoi disattivare la funzionalità Demo o riavviare il dispositivo per modificare questa impostazione."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
@@ -3721,6 +3746,8 @@ ed esegui il software."</string>
      <string name="page_layout_31">Jack Tang</string>
      <string name="page_layout_32">Play Store</string>
      <string name="page_layout_33">Google</string>
+     <string name="page_layout_34">Phone</string>
+     <string name="page_layout_35">Notes</string>
      <string name="page_layout_4">Musica</string>
      <string name="page_layout_5">Video</string>
      <string name="page_layout_6">App</string>
@@ -3728,7 +3755,11 @@ ed esegui il software."</string>
      <string name="page_layout_8">Mi Life</string>
      <string name="page_layout_9">Temi</string>
      <string name="page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche.</string>
+     <string name="page_layout_confirm_message_enlarge">Text, images, and icons will be enlarged. Some icons might change their places.</string>
+     <string name="page_layout_confirm_message_narrow">Text, images, and icons will become smaller. Some icons might change their places.</string>
      <string name="page_layout_confirm_title">Cambia impostazioni di visualizzazione</string>
+     <string name="page_layout_confirm_title_enlarge">Bigger items</string>
+     <string name="page_layout_confirm_title_narrow">Smaller items</string>
      <string name="page_layout_godzilla_title">XXL</string>
      <string name="page_layout_huge_title">Molto grande</string>
      <string name="page_layout_large_title">Grande</string>
@@ -4411,6 +4442,7 @@ Come usare Mantieni su schermo:
      <string name="screen_timeout_summary">Dopo %1$s di inattività</string>
      <string name="screen_timeout_title">Disattivazione schermo</string>
      <string name="screen_usage_summary">"Tempo di attivazione dello schermo dall'ultima carica completa"</string>
+     <string name="screen_zoom_big">L</string>
      <string name="screen_zoom_conversation_icon_alex">A</string>
      <string name="screen_zoom_conversation_icon_pete">P</string>
      <string name="screen_zoom_conversation_message_1">Ciao Carlo!</string>
@@ -4424,8 +4456,10 @@ Come usare Mantieni su schermo:
      <string name="screen_zoom_keywords">Densità schermo, zoom schermo, scala, dimensioni</string>
      <string name="screen_zoom_make_larger_desc">Allarga</string>
      <string name="screen_zoom_make_smaller_desc">Restringi</string>
+     <string name="screen_zoom_normal">S</string>
      <string name="screen_zoom_preview_title">Anteprima</string>
      <string name="screen_zoom_short_summary">Rendi gli oggetti su schermo più grandi o più piccoli</string>
+     <string name="screen_zoom_small">XS</string>
      <string name="screen_zoom_summary">Rendi gli oggetti su schermo più grandi o più piccoli. Alcune app potrebbero cambiare posizione.</string>
      <string name="screen_zoom_summary_custom">Personalizza (%d)</string>
      <string name="screen_zoom_summary_default">Predefinito</string>
@@ -4495,6 +4529,7 @@ Come usare Mantieni su schermo:
      <string name="search_advanced_settings">Impostazioni avanzate;Wifi;Impostazioni Wifi;Impostazioni WLAN</string>
      <string name="search_airplane_mode">Modalità aereo;Modalità aeroplano;Modalità volo;Aereo;Aeroplano;Volo</string>
      <string name="search_alarm_sound_title">Suono sveglia</string>
+     <string name="search_ambient_display_screen_title">Ambient display</string>
      <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
      <string name="search_apn_settings">APN;Nome Punti di Accesso</string>
      <string name="search_app_invisible">App invisibile;App invisibili</string>
@@ -4533,6 +4568,7 @@ Come usare Mantieni su schermo:
      <string name="search_dndm_vip_call_setting_title">ViP;Eccezioni</string>
      <string name="search_dndm_wristband">Attiva con Mi Band</string>
      <string name="search_do_not_disturb_mode">Non disturbare</string>
+     <string name="search_doze_always_on_title">Always on</string>
      <string name="search_dtmf_tone_enable_title">Toni tastierino</string>
      <string name="search_empty">Nessun risultato</string>
      <string name="search_enable_adb">Debug USB</string>
@@ -5524,6 +5560,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
+     <string name="toggle_auto_speaker_preference_summary">Device will switch to speaker when you move it away from your ear during calls. This feature works only when TalkBack is on.</string>
+     <string name="toggle_auto_speaker_preference_title">Switch to speaker automatically</string>
      <string name="total">Non disturbare</string>
      <string name="total_info">Silenzia i suoni e disattiva la vibrazione, eccetto per le sveglie</string>
      <string name="total_info_no_vibrator">Silenzia i suoni eccetto le sveglie</string>
@@ -5704,7 +5742,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="unlock_set_unlock_password_title">Password</string>
      <string name="unlock_set_unlock_pattern_summary">Sicurezza media</string>
      <string name="unlock_set_unlock_pattern_title">Sequenza</string>
-     <string name="unlock_set_unlock_pin_summary">Immetti %d-%d numeri per sbloccare il dispositivo</string>
+     <string name="unlock_set_unlock_pin_summary" formatted="false">Immetti %d-%d numeri per sbloccare il dispositivo</string>
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
      <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni > Schermata di blocco e password.</string>
@@ -6662,6 +6700,7 @@ La memorizzazione delle credenziali potrebbe non essere stata attivata"</string>
      <string name="wizard_back">Indietro</string>
      <string name="wizard_finish">Fine</string>
      <string name="wizard_next">Avanti</string>
+     <string name="words_title">Text</string>
      <string name="work_alarm_ringtone_title">Suono predefinito della sveglia lavoro</string>
      <string name="work_mode_label">Modalità operativa</string>
      <string name="work_mode_off_summary">Le app e le notifiche sono state disattivate</string>
