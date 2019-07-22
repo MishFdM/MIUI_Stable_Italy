@@ -144,6 +144,7 @@
      <string name="confirm_exit">Salvare i cambiamenti?</string>
      <string name="connect_now">Connetti</string>
      <string name="connecting_apk">Connessione...</string>
+     <string name="count_million_format">%2$1.2fM</string>
      <string name="create_playlist">Crea playlist</string>
      <string name="create_playlist_failure">Impossibile creare la playlist</string>
      <string name="current_album">Album attuale</string>
