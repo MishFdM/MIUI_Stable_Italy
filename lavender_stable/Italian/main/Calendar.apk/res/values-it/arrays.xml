@@ -24,6 +24,10 @@
         <item>Solo questa istanza</item>
         <item>Tutti gli eventi della serie</item>
      </string-array>
+     <string-array name="close_alarm_repeating_labels">
+        <item>Just for this time</item>
+        <item>Turn off repeated reminder</item>
+     </string-array>
      <string-array name="date_calculate_spinner">
         <item>Avanti</item>
         <item>Indietro</item>
@@ -38,6 +42,13 @@
         <item>1 giorno prima</item>
         <item>2 giorni prima</item>
         <item>1 settimana prima</item>
+     </string-array>
+     <string-array name="default_reminder_later_time_labels">
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
      </string-array>
      <string-array name="delete_repeating_labels">
         <item>Solo questo evento</item>
@@ -66,12 +77,9 @@
         <item>Bilancia</item>
         <item>9/23 - 10/23</item>
      </string-array>
-     <string-array name="ordinal_labels">
-        <item>primo</item>
-        <item>secondo</item>
-        <item>terzo</item>
-        <item>quarto</item>
-        <item>ultimo</item>
+     <string-array name="open_alarm_repeating_labels">
+        <item>Just for this time</item>
+        <item>Set repeated reminder</item>
      </string-array>
      <string-array name="pisces_info">
         <item>pesci</item>
@@ -150,6 +158,43 @@
         <item>settimana</item>
         <item>mese</item>
         <item>anno</item>
+     </string-array>
+     <string-array name="repeat_monthly_on_day_count_values">
+        <item>first Monday</item>
+        <item>first Tuesday</item>
+        <item>first Wednesday</item>
+        <item>first Thursday</item>
+        <item>first Friday</item>
+        <item>first Saturday</item>
+        <item>first Sunday</item>
+        <item>second Monday</item>
+        <item>second Tuesday</item>
+        <item>second Wednesday</item>
+        <item>second Thursday</item>
+        <item>second Friday</item>
+        <item>second Saturday</item>
+        <item>second Sunday</item>
+        <item>third Monday</item>
+        <item>third Tuesday</item>
+        <item>third Wednesday</item>
+        <item>third Thursday</item>
+        <item>third Friday</item>
+        <item>third Saturday</item>
+        <item>third Sunday</item>
+        <item>fourth Monday</item>
+        <item>fourth Tuesday</item>
+        <item>fourth Wednesday</item>
+        <item>fourth Thursday</item>
+        <item>fourth Friday</item>
+        <item>fourth Saturday</item>
+        <item>fourth Sunday</item>
+        <item>last Monday</item>
+        <item>last Tuesday</item>
+        <item>last Wednesday</item>
+        <item>last Thursday</item>
+        <item>last Friday</item>
+        <item>last Saturday</item>
+        <item>last Sunday</item>
      </string-array>
      <string-array name="response_labels1">
         <item>Senza risposta</item>
