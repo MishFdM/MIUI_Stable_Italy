@@ -207,7 +207,7 @@
      <string name="facebook_clean_exit_confirm_ok">Interrompi</string>
      <string name="facebook_clean_exit_confirm_title">Interrompere la scansione?</string>
      <string name="facebook_cleaner">Pulizia Facebook</string>
-	 <string name="facebook_function_summery">Pulisci gli elementi salvati da Facebook</string>
+     <string name="facebook_function_summery">Pulisci gli elementi salvati da Facebook</string>
      <string name="facebook_function_title">Pulizia Facebook</string>
      <string name="facebook_group_cache">File in cache</string>
      <string name="facebook_group_gif">GIF</string>
@@ -338,9 +338,13 @@
      <string name="news_change">Cambia</string>
      <string name="no_network">Impossibile collegarsi alla rete, riprova più tardi</string>
      <string name="no_network_btn">Riprova</string>
+     <string name="notification_garbage_cleanup_summary">Trash size reached %s</string>
+     <string name="notification_garbage_cleanup_title">Clear trash files</string>
+     <string name="notification_low_memory_cache_summary">Less than 1.5GB of storage space available</string>
+     <string name="notification_low_memory_cache_title">Clear cache</string>
+     <string name="notification_low_memory_deepclean_summary">Deep clean can free up storage on your device</string>
+     <string name="notification_low_memory_deepclean_title">Storage space running low</string>
      <string name="notification_summary_after_auto_cleanup">Pulito %s.</string>
-     <string name="notification_summary_of_garbage_cleanup">Tocca per liberare spazio.</string>
-     <string name="notification_title_of_garbage_cleanup">%s di file da eliminare</string>
      <string name="notify_when">Ricevi una notifica quando il cestino raggiunge 100 MB</string>
      <string name="ok">OK</string>
      <string name="one_tap_clean_GB">%sG</string>
@@ -432,6 +436,7 @@
      <string name="sc_allow_network_dialog_message">Consentire a questa applicazione di connettersi alla rete per ricevere i dati?</string>
      <string name="scanning">Scansione…</string>
      <string name="search_history">Cronologia di ricerca</string>
+     <string name="security_center_slogan">Security. Always on guard.</string>
      <string name="see_more">Altro</string>
      <string name="set_immediately">Imposta</string>
      <string name="seton_immediately">Attiva</string>

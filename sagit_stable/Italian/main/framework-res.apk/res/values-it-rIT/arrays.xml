@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="app_ops_labels">
-        <item>Prova ad abilitare il Wi-Fi</item>
-        <item>Prova ad abilitare il Bluetooth</item>
-     </string-array>
+     <integer-array name="config_autoBrightnessDisplayValuesNits">
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>10</item>
+        <item>23</item>
+        <item>23</item>
+        <item>38</item>
+        <item>38</item>
+        <item>73</item>
+        <item>73</item>
+        <item>80</item>
+        <item>80</item>
+        <item>101</item>
+        <item>101</item>
+        <item>115</item>
+        <item>115</item>
+        <item>151</item>
+        <item>167</item>
+        <item>190</item>
+        <item>345</item>
+        <item>408</item>
+        <item>432</item>
+     </integer-array>
      <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Lavoro</item>
@@ -81,8 +104,8 @@
         <item>Casa</item>
         <item>Lavoro</item>
         <item>Altro</item>
-     <item>Personalizzato</item>
-		</string-array>
+        <item>Personalizzato</item>
+     </string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
         <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>
      </string-array>
