@@ -57,6 +57,8 @@
      <string name="action_menu_text_share">Condividi</string>
      <string name="action_menu_text_snapshot">Salva pagina</string>
      <string name="action_menu_text_video">Video</string>
+     <string name="action_menu_toast_incognito_off">Disattiva la modalità incognito</string>
+     <string name="action_menu_toast_incognito_on">Attiva la modalità incognito</string>
      <string name="action_menu_toolbox">Strumenti</string>
      <string name="action_menu_useful_page">Aggiungi utilità</string>
      <string name="action_menu_useful_page_added">Utilità aggiunta</string>
@@ -104,6 +106,8 @@
      <string name="agree_permissions_request">OK</string>
      <string name="alert_tips">Questo sito potrebbe essere un rischio per la sicurezza</string>
      <string name="allow">Consenti</string>
+     <string name="app_download_market_text">Usa Mi Downloader per scaricare più velocemente e in modo più sicuro</string>
+     <string name="app_name">InfoStream</string>
      <string name="app_new_version">"Hai già l'ultima versione"</string>
      <string name="app_update_install">"Nuova versione scaricata e pronta per l'installazione"</string>
      <string name="application_name">Browser</string>
@@ -133,6 +137,7 @@
      <string name="bookmark_btn_select_none">Deseleziona tutto</string>
      <string name="bookmark_cannot_save_url">"L'URL non può essere aggiunto ai segnalibri."</string>
      <string name="bookmark_deleted">Elimina segnalibro</string>
+     <string name="bookmark_error_page_title">Si è verificato un errore</string>
      <string name="bookmark_folder_needs_title">Inserisci il nome della cartella</string>
      <string name="bookmark_group_lable">Gruppo</string>
      <string name="bookmark_move_to">Sposta in</string>
@@ -171,6 +176,7 @@
      <string name="cast_video">Streaming video</string>
      <string name="check_security_tip_privacy_policy">Informativa sulla Privacy</string>
      <string name="check_security_tip_user_agreement">Accordo Utente</string>
+     <string name="checking_now">Verifica in corso...</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
      <string name="clear_history">Cancella cronologia</string>
      <string name="clear_search_history">Cancella cronologia</string>
@@ -199,6 +205,7 @@
      <string name="comment_max_length">Spiacente, la casella di input è piena.</string>
      <string name="comment_menu">Commenti</string>
      <string name="comment_num_description">Numero commento</string>
+     <string name="comment_publish_to_topic">Commenti sincronizzati con</string>
      <string name="common_use_phrase_bottom_bar_text_next">Prossimo</string>
      <string name="common_use_phrase_bottom_bar_text_previous">Prec</string>
      <string name="context_menu_add_to_desk_id">Aggiungi alla Home</string>
@@ -209,6 +216,7 @@
      <string name="contextmenu_dial_dot">Componi…</string>
      <string name="contextmenu_download_image">Salva immagine</string>
      <string name="contextmenu_download_image_as">Salva immagine</string>
+     <string name="contextmenu_incognito">Modalità incognito</string>
      <string name="contextmenu_manually_block_ad">Segna come pubblicità</string>
      <string name="contextmenu_map">Mappa</string>
      <string name="contextmenu_openlink">Apri</string>
@@ -232,6 +240,7 @@
      <string name="current_version_phone">Telefono</string>
      <string name="custom_head_card_text">"Pensa sempre che qualcosa di stupendo
 stia per accadere"</string>
+     <string name="custom_head_content_pull_down_text">trascina in basso</string>
      <string name="custom_head_pull_down_text">Entra nel flusso di informazioni</string>
      <string name="data_monitor">Monitor dati</string>
      <string name="data_monitor_dialog_message">Sembra che qualcosa stia consumando il traffico dati. Apri la pagina iniziale per interrompere.</string>
@@ -239,9 +248,9 @@ stia per accadere"</string>
      <string name="data_traffic_download_cancel">Annulla</string>
      <string name="data_traffic_download_prompt">Il video attuale può essere scaricato solo in ambiente Wi-Fi</string>
      <string name="data_traffic_download_setting">Impostazioni</string>
-     <string name="data_traffic_goto">Traffico dati gratuito</string>
-     <string name="data_traffic_prompt_free_data">"L'utilizzo della rete mobile per la navigazione fra i video aumenterà il consumo di dati. Prego assicurati di ottenere prima del traffico dati gratuito."</string>
-     <string name="data_traffic_prompt_message">"L'utilizzo della rete mobile per la navigazione aumenterà il consumo di dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+     <string name="data_traffic_goto">Piano gratuito</string>
+     <string name="data_traffic_prompt_free_data">"L'utilizzo della rete mobile per i video incrementerà i consumi. Assicurati di possedere del traffico dati gratuito."</string>
+     <string name="data_traffic_prompt_message">"L'utilizzo della rete mobile incrementerà i consumi. Il superamento del limite dati potrebbe comportare costi aggiuntivi."</string>
      <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
      <string name="data_traffic_stop">Ferma</string>
      <string name="delete">Elimina</string>
@@ -262,15 +271,20 @@ stia per accadere"</string>
      <string name="dialog_insufficient_space_on_external">Spazio insufficiente sulla memoria removibile</string>
      <string name="dialog_media_not_found">Impossibile scaricare: memoria rimovibile non rilevata</string>
      <string name="dialog_queued_body">Questo file è in coda essere scaricato in futuro.</string>
+     <string name="dialog_recovery_tabs_action">Tocca per ripristinare</string>
      <string name="dialog_recovery_tabs_disc">Il rilevamento delle pagine non chiuse richiede il recupero completo.</string>
+     <string name="dialog_recovery_tabs_tip">"Webview non è stato chiuso l'ultima volta"</string>
      <string name="dialog_recovery_tabs_title">Recupero pagine</string>
      <string name="dialog_title_not_available">Impossibile scaricare</string>
      <string name="dialog_title_queued_body">File ancora non disponibile</string>
      <string name="document_download_background_btn">Scarica in background</string>
      <string name="document_download_cancel_btn">Annulla</string>
      <string name="document_download_failed">Download fallito</string>
+     <string name="document_download_immediate">Scarica subito</string>
+     <string name="document_download_normal">Download normale</string>
      <string name="document_download_official">Download ufficiale</string>
      <string name="document_download_open_direct">Apri direttamente</string>
+     <string name="document_download_recommending">Download sicuro(consigliato)</string>
      <string name="document_download_title">Download in corso</string>
      <string name="document_open_file">Apri %s</string>
      <string name="document_open_message">"Per migliorare la tua esperienza di lettura e garantire la sicurezza, si consiglia l'utilizzo di versioni WPS personalizzate ufficialmente"</string>
@@ -283,10 +297,9 @@ stia per accadere"</string>
      <string name="download_completed">Scaricati</string>
      <string name="download_default_path_txt">Ricorda la mia scelta</string>
      <string name="download_dialog_default_path_invalid">Il percorso per i download non è valido. Verrà usato invece il percorso predefinito per i file scaricati.</string>
-     <string name="download_dialog_file_length_hint_txt">"File size: "</string>
+     <string name="download_dialog_file_length_default_txt">Solo un attimo…</string>
      <string name="download_dialog_file_length_lessthan1kb">Meno di 1K</string>
      <string name="download_dialog_file_length_nolength_error_txt">Impossibile scaricare</string>
-     <string name="download_dialog_file_length_nolength_txt">Just a sec…</string>
      <string name="download_failed">Download fallito</string>
      <string name="download_filter_all">Tutto</string>
      <string name="download_filter_apk">Apk</string>
@@ -409,6 +422,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="hint">Suggerimenti</string>
      <string name="history">Cronologia</string>
      <string name="home_description">Home</string>
+     <string name="home_hybrid_application_tips">Mini Program inclusi</string>
      <string name="homepage_delete_card_menu">Elimina</string>
      <string name="homepage_get_location">Trova posizione</string>
      <string name="homepage_get_location_failed">Impossibile recuperare le informazioni, seleziona una città</string>
@@ -417,6 +431,8 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="homepage_search_hint">Cerca</string>
      <string name="homepage_top_card_menu">In cima</string>
      <string name="hot_words_item_ads_mark">Ads</string>
+     <string name="hybrid_application_no_data_text">Mini Program non inclusi</string>
+     <string name="hybrid_popup_window_delete_button">Elimina</string>
      <string name="ignore_add_pwa_dialog_today">Non mostrare oggi</string>
      <string name="in_secureaccess">Browser passato in modalità provvisoria</string>
      <string name="info_flow_description">Info channel</string>
@@ -481,6 +497,8 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">La memoria USB è richiesta per modificare questo percorso</string>
      <string name="more_description">Menu</string>
      <string name="more_option">Altre opzioni</string>
+     <string name="movie_player_3g_tip_retry">Continua</string>
+     <string name="movie_player_loading">In arrivo：%s</string>
      <string name="mw_abc_action_bar_home_description">Vai in Home</string>
      <string name="mw_abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="mw_abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -885,6 +903,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="navigationbar_rightbutton_actiontext_cancle">Annulla</string>
      <string name="navigationbar_rightbutton_actiontext_go">Vai</string>
      <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
+     <string name="network_error_tips">Errore di rete, riprova</string>
      <string name="network_not_available_comment">Nessuna connessione internet, impossibile commentare</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Connetti a questa rete</string>
      <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
@@ -899,6 +918,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="not_now">Non ora</string>
      <string name="not_remind_again">Ricorda la mia scelta</string>
      <string name="notif_install_successful">Download completato</string>
+     <string name="novel_toast_hint">Sito aggiunto nella libreria</string>
      <string name="ok">OK</string>
      <string name="open_app_confirm_message">Consentire a questa pagina di aprire %s?</string>
      <string name="open_cloud_sync">Apri sincronizzazione cloud</string>
@@ -923,11 +943,18 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="permission_unknown">Opzione sconosciuta</string>
      <string name="permissions_prompt_message">"%s vuole "</string>
      <string name="play_pause_video">Riproduci o metti in pausa video</string>
+     <string name="play_retry">Riproduci di nuovo</string>
      <string name="play_video">Riproduci video</string>
+     <string name="player_3g_tip_sub_title">La riproduzione causerà un consumo di traffico dati</string>
+     <string name="player_3g_tip_title">Attualmente è in uso la connessione dati, proseguendo la riproduzione si verificherà un consumo di traffico dati</string>
+     <string name="player_data_error_tip">Il video non è momentaneamente disponibile. Riprova più tardi</string>
+     <string name="player_net_error">Rete non connessa, controlla le impostazioni d rete</string>
+     <string name="player_no_data">Spiacenti, il video richiesto non è disponibile.</string>
      <string name="popup_video">Popup video</string>
      <string name="popup_window_attempt">Consentire al sito di aprire una finestra popup?</string>
      <string name="positive_confirm_message">Disattiva comunque</string>
      <string name="pref_accept_quicklink_push">Avvia push pagina</string>
+     <string name="pref_accessibility_recommending_search_title">Ricerca tra i suggeriti</string>
      <string name="pref_accessibility_title">Accessibilità</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">Combinazioni di lettere comuni possono essere inserite con un solo tocco nella barra degli indirizzi</string>
      <string name="pref_accessibility_url_shortcut_enter_title">Immissione URL veloce</string>
@@ -974,8 +1001,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_file_downlaod_save_reset_default_settings">Ripristina impostazioni predefinite</string>
      <string name="pref_file_download_default_path_prefix">Percorso predefinito: %s</string>
      <string name="pref_file_download_save_modify_default_path">Percorso file scaricati</string>
-     <string name="pref_fling_on_border">Swipe from edge</string>
-     <string name="pref_fling_on_border_title_summary">Swipe from the left or right edge</string>
+     <string name="pref_fling_gesture">Gesture di scorrimento</string>
      <string name="pref_font_size_category">Dimensioni testo</string>
      <string name="pref_force_userscalable">Attivazione forzata zoom</string>
      <string name="pref_force_userscalable_summary">Ignora richieste dei siti di controllare lo zoom</string>
@@ -1028,12 +1054,14 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_security_show_security_warning">Mostra avvisi sicurezza</string>
      <string name="pref_security_show_security_warning_summary">Mostra un avviso se esiste un problema di sicurezza con un sito</string>
      <string name="pref_set_homepage_to">Imposta come</string>
-     <string name="pref_slide_back_forward">Slide back or forward</string>
      <string name="pref_tab_restore">"Ripristina l'ultima pagina aperta all'avvio"</string>
      <string name="pref_ua_string">Stringa user agent</string>
      <string name="pref_version_info">Info versione</string>
      <string name="pref_volume_key_action">Scorri con i tasti volume</string>
      <string name="progress_dialog_setting_wallpaper">Impostazione sfondo…</string>
+     <string name="pull_refresh_begin">Trascina in basso per aggiornare</string>
+     <string name="pull_refresh_end">Rilascia per aggiornare</string>
+     <string name="pull_refresh_refreshing">Aggiornaemnto</string>
      <string name="pull_to_refresh_pull_label">Trascina per aggiornare…</string>
      <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
      <string name="pwa_app_name">Web App</string>
@@ -1067,7 +1095,9 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="readmode_recommend_message">Hai letto tutti i capitoli di questo libro. Passa alla lettura di un altro.</string>
      <string name="readmode_refresh">Aggiorna</string>
      <string name="readmodelist_bookmarks_to_show">Lista di lettura</string>
+     <string name="recommending_close_toast_text">Disattiva questa funzione nelle Impostazioni avanzate</string>
      <string name="refresh_description">Ricarica</string>
+     <string name="refresh_text">Aggiorna</string>
      <string name="refuse_permissions_request">Rifiuta</string>
      <string name="remember_passwords_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."."</string>
      <string name="remove_bookmark">Elimina segnalibro</string>
@@ -1164,6 +1194,13 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="skip_button_label">Salta</string>
      <string name="skip_current_version">Salta questa versione</string>
      <string name="slide_guide">Scorri per tornare</string>
+     <string name="small_video_boba_tab">Trasmissione</string>
+     <string name="small_video_load_failed">Caricamento fallito</string>
+     <string name="small_video_loading">Caricamento...</string>
+     <string name="small_video_main_tab">Suggeriti</string>
+     <string name="small_video_native_tab">Video brevi</string>
+     <string name="small_video_net_error">Errore di connessione</string>
+     <string name="small_video_no_more_date">Nessun dato</string>
      <string name="snapshot">Locale</string>
      <string name="snapshot_failed">Salvataggio per lettura offline non riuscito.</string>
      <string name="snapshot_successed">Salvataggio per lettura offline riuscito.</string>
@@ -1225,16 +1262,17 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggestion_express_title">Query a singolo numero espresso</string>
      <string name="suggestion_hotwords_title_change_button_text">PIÙ CAMBIAMENTI</string>
      <string name="suggestion_hotwords_title_text">Ricerca di maggior interesse</string>
-     <string name="suggestion_input_history_title_text">CRONOLOGIA INPUT</string>
+     <string name="suggestion_input_history_title_text">INPUT HISTORY</string>
      <string name="suggestion_input_hitory_clear_text">PULISCI</string>
      <string name="suggestion_lottery_detail_pour">%s NOTA</string>
      <string name="suggestion_lottery_detail_price">OGNI NOTA %s YUAN</string>
      <string name="suggestion_lottery_detail_text">QUESTO %s</string>
      <string name="suggestion_lottery_period">NO. %s</string>
-     <string name="suggestion_more_button_text">MOSTRA DI PIÙ</string>
+     <string name="suggestion_more_button_text">SEE MORE</string>
      <string name="suggestion_more_news">PIÙ NOTIZIE</string>
      <string name="suggestion_more_news_start_title_text">Notizie Correlate</string>
      <string name="suggestion_sliding_ads_info_mark_text">ADS</string>
+     <string name="suggestion_sliding_item_more_text">VEDI ALTRO</string>
      <string name="suggestion_topic_subtitle_hyphen">Focalizzazione</string>
      <string name="suggestion_translation_more">PIÙ TRADUZIONI</string>
      <string name="switchText">SI</string>
@@ -1256,6 +1294,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="title_notice_push">Posticipazione notifica</string>
      <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>
      <string name="too_many_windows_dialog_title">Limite schede raggiunto</string>
+     <string name="topic_content_default">argomento</string>
      <string name="transfer_prompt_0">Avvia video</string>
      <string name="transfer_restart">Riavvia</string>
      <string name="translation_copy">Copia</string>
@@ -1370,4 +1409,5 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="voice_title_speech_again">Non riesco a comprenderti</string>
      <string name="weather_location_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."</string>
      <string name="webpage_title">Segnalibri e cronologia</string>
+     <string name="window_manager_hybrid_application_list_title_text">Usati di recente</string>
 </resources>

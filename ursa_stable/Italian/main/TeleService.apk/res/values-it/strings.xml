@@ -259,7 +259,7 @@
      <string name="bluetooth_battery_level">%1$s battery</string>
      <string name="bluetooth_connected">Connesso%1$s</string>
      <string name="bluetooth_connected_battery_level">Connected, battery %1$s%2$s</string>
-     <string name="bluetooth_connected_no_a2dp">Connesso (nessun media) %1$s</string>
+     <string name="bluetooth_connected_no_a2dp">Connesso (nessun media)%1$s</string>
      <string name="bluetooth_connected_no_a2dp_battery_level">Connected (no media), battery %1$s%2$s</string>
      <string name="bluetooth_connected_no_headset">Connesso (nessun telefono)%1$s</string>
      <string name="bluetooth_connected_no_headset_battery_level">Connected (no phone), battery %1$s%2$s</string>
@@ -1014,6 +1014,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="ivr_type_cu_3">China Unicom 2G</string>
      <string name="ivr_type_settings">Impostazioni piano dati</string>
      <string name="ivr_type_settings_hint">Inserisci il codice del tuo piano dati</string>
+     <string name="jump_to_mobile_network_setting">Mobile network settings</string>
      <string name="keep_screen_on">Rimani sveglio</string>
      <string name="keep_screen_on_summary">Lo schermo non andrà in standby durante la ricarica</string>
      <string name="keywords_carrier_settings_euicc">carrier, esim, sim, euicc, switch carriers, add carrier</string>
@@ -1403,28 +1404,17 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preference_telocation_summary_teloc_off">Nascondi posizione contatto</string>
      <string name="preference_telocation_summary_teloc_on">Mostra posizione contatto</string>
      <string name="preference_telocation_title">Posizione</string>
-     <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo auto</string>
-     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_choice">CDMA/EvDo/GSM/WCDMA</string>
      <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: CDMA/EvDo/GSM/WCDMA</string>
      <string name="preferred_network_mode_cdma_evdo_summary">Modalità di rete preferita: CDMA / EvDo</string>
-     <string name="preferred_network_mode_cdma_lte_evdo_choice">CDMA + LTE/EvDo</string>
      <string name="preferred_network_mode_cdma_only_summary">Modalità di rete preferita: solo CDMA</string>
      <string name="preferred_network_mode_cdma_summary">Modalità di rete preferita: CDMA</string>
-     <string name="preferred_network_mode_cdma_wo_evdo_choice">CDMA con/senza EvDo</string>
      <string name="preferred_network_mode_dialogtitle">Tipologia rete preferita</string>
-     <string name="preferred_network_mode_evdo_only_choice">Solo EvDo</string>
      <string name="preferred_network_mode_evdo_only_summary">Modalità di rete preferita: solo EvDo</string>
-     <string name="preferred_network_mode_global_choice">Globale</string>
      <string name="preferred_network_mode_global_summary">Modalità di rete preferita: Globale (CDMA/EVDO/LTE/GSM/WCDMA)</string>
-     <string name="preferred_network_mode_gsm_only_choice">Solo GSM</string>
      <string name="preferred_network_mode_gsm_only_summary">Modalità di rete preferita: solo GSM</string>
-     <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA auto</string>
-     <string name="preferred_network_mode_gsm_wcdma_lte_choice">GSM/WCDMA/LTE</string>
-     <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferiti</string>
      <string name="preferred_network_mode_gsm_wcdma_summary">Modalità di rete preferita: GSM / WCDMA</string>
      <string name="preferred_network_mode_lte_cdma_evdo_summary">Modalità di rete preferita: CDMA+LTE/EVDO</string>
      <string name="preferred_network_mode_lte_cdma_summary">Modalità di rete preferita: LTE/CDMA</string>
-     <string name="preferred_network_mode_lte_choice">LTE</string>
      <string name="preferred_network_mode_lte_gsm_umts_summary">Modalità di rete preferita: LTE/GSM/UMTS</string>
      <string name="preferred_network_mode_lte_gsm_wcdma_summary">Modalità di rete preferita: GSM/WCDMA/LTE</string>
      <string name="preferred_network_mode_lte_summary">Modalità di rete preferita: LTE</string>
@@ -1433,26 +1423,14 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">Preferred network mode: LTE/TDSCDMA/GSM/WCDMA</string>
      <string name="preferred_network_mode_lte_tdscdma_summary">Preferred network mode: LTE / TDSCDMA</string>
      <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">Preferred network mode: LTE/TDSCDMA/WCDMA</string>
-     <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
      <string name="preferred_network_mode_lte_wcdma_summary">Modalità di rete preferita: LTE / WCDMA</string>
      <string name="preferred_network_mode_summary">Cambia la modalità operativa della rete</string>
-     <string name="preferred_network_mode_td_scdma_gsm_choice">TD-SCDMA/GSM</string>
-     <string name="preferred_network_mode_td_scdma_gsm_lte_choice">TD-SCDMA/GSM/LTE</string>
-     <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/GSM/WCDMA/CDMA/EVDO</string>
-     <string name="preferred_network_mode_td_scdma_gsm_wcdma_choice">TD-SCDMA/GSM/WCDMA</string>
-     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_choice">TD-SCDMA/GSM/WCDMA/LTE</string>
-     <string name="preferred_network_mode_td_scdma_lte_choice">TD-SCDMA/LTE</string>
-     <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</string>
-     <string name="preferred_network_mode_td_scdma_only_choice">Solo TD-SCDMA</string>
-     <string name="preferred_network_mode_td_scdma_wcdma_choice">TD-SCDMA/WCDMA</string>
-     <string name="preferred_network_mode_td_scdma_wcdma_lte_choice">TD-SCDMA/WCDMA/LTE</string>
      <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
      <string name="preferred_network_mode_tdscdma_gsm_summary">Preferred network mode: TDSCDMA / GSM</string>
      <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">Preferred network mode: TDSCDMA/GSM/WCDMA</string>
      <string name="preferred_network_mode_tdscdma_summary">Modalità rete preferita: TDSCDMA</string>
      <string name="preferred_network_mode_tdscdma_wcdma_summary">Preferred network mode: TDSCDMA / WCDMA</string>
      <string name="preferred_network_mode_title">Tipologia rete preferita</string>
-     <string name="preferred_network_mode_wcdma_only_choice">Solo WCDMA</string>
      <string name="preferred_network_mode_wcdma_only_summary">Modalità di rete preferita: solo WCDMA</string>
      <string name="preferred_network_mode_wcdma_perf_summary">Modalità di rete preferita: WCDMA preferita</string>
      <string name="preferred_network_restrict_network_changed_incall">Impossibile cambiare rete durante una chiamata</string>
@@ -1573,6 +1551,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="selectContact">Seleziona contatto</string>
      <string name="select_application">Seleziona applicazione</string>
      <string name="select_automatically">Scegli automaticamente</string>
+     <string name="select_dds_dialog_title">Select default mobile data SIM</string>
      <string name="select_logd_size_dialog_title">Scegli dimensione Logger per il buffer del log</string>
      <string name="select_logd_size_title">Dimensione buffer log</string>
      <string name="select_logpersist_dialog_title">Selezione buffer log da memorizzare in modo persistente su questo dispositivo</string>
@@ -1921,6 +1900,16 @@ Questo tablet non ha un auricolare. È possibile passare alla modalità vivavoce
      <string name="volte_switch_title">VoLTE attivato</string>
      <string name="volte_switch_title_ct">VoLTE abilitato</string>
      <string name="volte_tips_when_turn_on">China Telecom VoLTE services are only provided in the areas with LTE network coverage.</string>
+     <string name="vowifi_emergency_notification_channel">Avviso di chimata di emergenza Wi-Fi</string>
+     <string name="vowifi_emergency_notification_content">Le chiamate di emergenza sono possibili nelle aree con copertura della rete mobile</string>
+     <string name="vowifi_emergency_notification_title">Chiamata Wi-Fi Vodafone</string>
+     <string name="vowifi_emergency_warning_check">Non mostrare più</string>
+     <string name="vowifi_emergency_warning_message">"Le chiamate Wi-Fi non possono essere utilizzate per le chiamate di emergenza.
+
+Il dispositivo passerà automaticamente a una rete mobile (2G/3G) per effettuare una chiamata di emergenza.
+
+Le chiamate di emergenza sono possibili solo in aree con copertura di rete mobile."</string>
+     <string name="vowifi_emergency_warning_title">Chiamate ECC tramite Chiamata Wi-Fi</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
      <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
      <string name="wait_for_debugger">Attendi il debugger</string>
@@ -1950,6 +1939,8 @@ Questo tablet non ha un auricolare. È possibile passare alla modalità vivavoce
      <string name="wifi_ap_unable_to_handle_new_sta">Access point temporarily full</string>
      <string name="wifi_auto_sel_wapi_cert">Seleziona automaticamente</string>
      <string name="wifi_call_setting">Chiamate Wi-Fi</string>
+     <string name="wifi_call_setting_vodafone_de">Chiamata Wi-Fi</string>
+     <string name="wifi_call_setting_vodafone_uk">Chiamata Wi-Fi</string>
      <string name="wifi_calling">Chiamate Wi-Fi</string>
      <string name="wifi_calling_settings_title">WLAN calling</string>
      <string name="wifi_cant_connect">"Can't connect"</string>

@@ -87,6 +87,10 @@ Leggi questo documento per la tastiera: "</string>
      <string name="sim_dectection_next">Continua</string>
      <string name="sim_redetection">Cerca SIM</string>
      <string name="sim_scard_detecting_check_mobile_not_available">La tua scheda SIM non può connettersi ad una rete operatore valida. Assicurati di avere fondi sufficienti sul tuo saldo e prova a connetterti nuovamente.</string>
+     <string name="skip_gesture_guide_dialog_message">Make sure you know how to use full screen gestures before selecting this option.</string>
+     <string name="skip_gesture_guide_dialog_negative_btn">Cancel</string>
+     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+     <string name="skip_gesture_guide_dialog_title">Full screen gestures</string>
      <string name="skip_underline"><u>Salta questo passaggio</u></string>
      <string name="start_up_slogan" />
      <string name="summary_not_set">Non impostato</string>
@@ -96,6 +100,7 @@ Leggi questo documento per la tastiera: "</string>
      
 Devi accettare i nostri Termini di servizio e l'Informativa sulla Privacy prima di poter utilizzare la MIUI. Le componenti %s ed il Mi Account si connetteranno ad Internet e acquisiranno la tua posizione."</string>
      <string name="terms_of_use_label_systemhelper">Servizio Auto-registrato</string>
+     <string name="terms_of_use_label_updater">, Updater</string>
      <string name="terms_of_use_lable_apps">Servizi Mi, servizi di attivazione Mi SIM, Mi Cloud, Trova dispositivo, schermata Home, Centro di gioco, MAB, MIUI Daemon e componenti di sistema MSA, Sistemi di traduzione, Quick app, Assistente app, statistiche, Mi Link</string>
      <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -105,6 +110,7 @@ Devi accettare la Normativa sulla Privacy di Facemoji prima di utilizzare questa
 Devi accettare la Normativa sulla Privacy di Kika prima di utilizzare questa funzionalità."</string>
      <string name="terms_of_use_lable_gms">, Servizi di Google Play</string>
      <string name="terms_of_use_lable_smart_cards">, Schede intelligenti</string>
+     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
      <string name="terms_privacy_policy_input_method_facemoji">Normativa sulla Privacy di Facemoji</string>
      <string name="terms_privacy_policy_input_method_kika">Normativa sulla Privacy di Kika</string>
      <string name="title_fingerprint">Aggiungi impronta</string>
