@@ -1183,6 +1183,12 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="call_manager_enable_summary">Consenti questo servizio per gestire come sono state fatte le vostre chiamate.</string>
      <string name="call_manager_enable_title">Attiva il Manager chiamate</string>
      <string name="call_manager_title">Manager chiamate</string>
+     <string name="call_records_name_1">Debbie Smith</string>
+     <string name="call_records_name_2">Jason Lee</string>
+     <string name="call_records_name_3">Tom Fowles</string>
+     <string name="call_records_summary_1">9:35 AM | 26 seconds | China Unicom</string>
+     <string name="call_records_summary_2">August 16 | 1m 16s | China Mobile</string>
+     <string name="call_records_summary_3">August 16 | 2m 24s | China Unicom</string>
      <string name="call_settings_primary_user_only">Modifica le impostazioni di chiamata nel Primo Spazio</string>
      <string name="call_settings_summary">Imposta segreteria, deviazione chiamate, avviso di chiamata, ID chiamante</string>
      <string name="call_settings_title">Chiamate</string>
@@ -1519,6 +1525,8 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="dangerous_option_switch_title">Notifica funzionalità ad alto rischio</string>
      <string name="dark_color_mode">Modalità scura</string>
      <string name="dark_color_summary">Utilizza tavolozza di colori scuri per lo sfondo di sistema e le app compatibili</string>
+     <string name="dark_color_summary_lcd">"Use darker color palette for system backgrounds and compatible apps. Dark mode can help you to relieve eye strain when you're using your device in the dark."</string>
+     <string name="dark_color_summary_oled">Use darker color palette for system backgrounds and compatible apps. Dark mode reduces power consumption and helps to relieve eye strain.</string>
      <string name="dark_ui_mode">Modalità notturna</string>
      <string name="dark_ui_mode_title">Imposta modalità notturna</string>
      <string name="dashboard_suggestion_condition_footer_content_description">Raggruppa</string>
@@ -1770,6 +1778,7 @@ avviso"</string>
      <string name="device_miui_more">Vedi altro</string>
      <string name="device_miui_version">Versione MIUI</string>
      <string name="device_miui_version_for_POCO">Versione MIUI (POCOPHONE)</string>
+     <string name="device_miui_version_parameters">MIUI version</string>
      <string name="device_miui_version_update">"E' disponibile un aggiornamento MIUI"</string>
      <string name="device_name">Nome dispositivo</string>
      <string name="device_name_input_error">Impossibile salvare il nome del dispositivo</string>
@@ -2725,10 +2734,14 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="launch_recents">Apri Recenti</string>
      <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
      <string name="launch_wifi_text">Visualizza dettagli</string>
+     <string name="launcher_icon">Icons</string>
      <string name="launcher_title">Launcher</string>
      <string name="launching_cit">Avvio Rilevamento Hardware, attendere\u2026</string>
      <string name="launching_pho">Caricamento informazioni dispositivo, attendere\u2026</string>
      <string name="launching_rep">Segnalazione bug in corso, attendere\u2026</string>
+     <string name="layout_exhuge_font_take_effect_tips">XXL text size works only in Phone, Messaging, and Contacts</string>
+     <string name="layout_exhuge_font_tips">More options are available in %1$s</string>
+     <string name="layout_exhuge_font_tips_reg">Accessibility > Display size</string>
      <string name="layout_size_exhuge">XXL</string>
      <string name="layout_size_exhuge_text">XXL</string>
      <string name="layout_size_huge">XL</string>
@@ -3685,8 +3698,6 @@ ed esegui il software."</string>
      <string name="onehour">30 minuti</string>
      <string name="onekey_migrate">Trasferisci</string>
      <string name="onscreen_keyboard_settings_summary">Impostazioni tastiera sullo schermo</string>
-     <string name="open_dark_mode_dialog_summary">"Certain display settings aren't compatible with Dark mode. However, they will be restored once you turn Dark mode off. Turn on Dark mode?"</string>
-     <string name="open_dark_mode_dialog_title">Dark mode compatibility</string>
      <string name="open_demo_mode">Apri</string>
      <string name="open_demo_mode_warning_message">"Quando la modalità Demo è attiva, l'orologio nella barra di stato si fermerà, la batteria e le icone di segnale verranno mostrate come piene. Puoi disattivare la funzionalità Demo o riavviare il dispositivo per modificare questa impostazione."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
@@ -3735,6 +3746,8 @@ ed esegui il software."</string>
      <string name="page_layout_31">Jack Tang</string>
      <string name="page_layout_32">Play Store</string>
      <string name="page_layout_33">Google</string>
+     <string name="page_layout_34">Phone</string>
+     <string name="page_layout_35">Notes</string>
      <string name="page_layout_4">Musica</string>
      <string name="page_layout_5">Video</string>
      <string name="page_layout_6">App</string>
@@ -3742,7 +3755,11 @@ ed esegui il software."</string>
      <string name="page_layout_8">Mi Life</string>
      <string name="page_layout_9">Temi</string>
      <string name="page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche.</string>
+     <string name="page_layout_confirm_message_enlarge">Text, images, and icons will be enlarged. Some icons might change their places.</string>
+     <string name="page_layout_confirm_message_narrow">Text, images, and icons will become smaller. Some icons might change their places.</string>
      <string name="page_layout_confirm_title">Cambia impostazioni di visualizzazione</string>
+     <string name="page_layout_confirm_title_enlarge">Bigger items</string>
+     <string name="page_layout_confirm_title_narrow">Smaller items</string>
      <string name="page_layout_godzilla_title">XXL</string>
      <string name="page_layout_huge_title">Molto grande</string>
      <string name="page_layout_large_title">Grande</string>
@@ -4425,6 +4442,7 @@ Come usare Mantieni su schermo:
      <string name="screen_timeout_summary">Dopo %1$s di inattività</string>
      <string name="screen_timeout_title">Disattivazione schermo</string>
      <string name="screen_usage_summary">"Tempo di attivazione dello schermo dall'ultima carica completa"</string>
+     <string name="screen_zoom_big">L</string>
      <string name="screen_zoom_conversation_icon_alex">A</string>
      <string name="screen_zoom_conversation_icon_pete">P</string>
      <string name="screen_zoom_conversation_message_1">Ciao Carlo!</string>
@@ -4438,8 +4456,10 @@ Come usare Mantieni su schermo:
      <string name="screen_zoom_keywords">Densità schermo, zoom schermo, scala, dimensioni</string>
      <string name="screen_zoom_make_larger_desc">Allarga</string>
      <string name="screen_zoom_make_smaller_desc">Restringi</string>
+     <string name="screen_zoom_normal">S</string>
      <string name="screen_zoom_preview_title">Anteprima</string>
      <string name="screen_zoom_short_summary">Rendi gli oggetti su schermo più grandi o più piccoli</string>
+     <string name="screen_zoom_small">XS</string>
      <string name="screen_zoom_summary">Rendi gli oggetti su schermo più grandi o più piccoli. Alcune app potrebbero cambiare posizione.</string>
      <string name="screen_zoom_summary_custom">Personalizza (%d)</string>
      <string name="screen_zoom_summary_default">Predefinito</string>
@@ -5540,6 +5560,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
+     <string name="toggle_auto_speaker_preference_summary">Device will switch to speaker when you move it away from your ear during calls. This feature works only when TalkBack is on.</string>
+     <string name="toggle_auto_speaker_preference_title">Switch to speaker automatically</string>
      <string name="total">Non disturbare</string>
      <string name="total_info">Silenzia i suoni e disattiva la vibrazione, eccetto per le sveglie</string>
      <string name="total_info_no_vibrator">Silenzia i suoni eccetto le sveglie</string>
@@ -6678,6 +6700,7 @@ La memorizzazione delle credenziali potrebbe non essere stata attivata"</string>
      <string name="wizard_back">Indietro</string>
      <string name="wizard_finish">Fine</string>
      <string name="wizard_next">Avanti</string>
+     <string name="words_title">Text</string>
      <string name="work_alarm_ringtone_title">Suono predefinito della sveglia lavoro</string>
      <string name="work_mode_label">Modalità operativa</string>
      <string name="work_mode_off_summary">Le app e le notifiche sono state disattivate</string>

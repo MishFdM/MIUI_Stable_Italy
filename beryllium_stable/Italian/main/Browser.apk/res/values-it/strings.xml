@@ -21,7 +21,6 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Raggruppa</string>
-     <string name="accept">Accept</string>
      <string name="accept_cookies_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="accessibility_button_clear">Cancella</string>
      <string name="account_prifix">Account:</string>
@@ -141,8 +140,12 @@
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
      <string name="cast_video">Streaming video</string>
      <string name="change_news_language">Change news language?</string>
+     <string name="channel_manager">Manage channels</string>
+     <string name="channel_reset">Reset</string>
      <string name="channels_edit">Edit</string>
      <string name="channels_finish">Finish</string>
+     <string name="check_nf_info">Check news item info</string>
+     <string name="check_nf_info_desc">Long press item to show info</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
      <string name="clear_history">Cancella cronologia</string>
      <string name="clear_most_visited">Recent history</string>
@@ -214,8 +217,6 @@
      <string name="contextmenu_webpage_snapshot">Salva pagina</string>
      <string name="copy_url">Copia URL</string>
      <string name="could_not_load_data">"Couldn't load data, refresh and try again"</string>
-     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
-     <string name="create_calendar_title">Create calendar event</string>
      <string name="create_qr_code">Codice QR</string>
      <string name="current_version_pad">Tablet</string>
      <string name="current_version_pc">Desktop</string>
@@ -225,13 +226,9 @@ stia per accadere"</string>
      <string name="custom_head_card_text_incognito">"You're incognito!
 Pages you view won't appear in history."</string>
      <string name="data_error">Data error</string>
+     <string name="data_format_ymd">MM/dd/yyyy</string>
      <string name="data_traffic_prompt_message">"L'utilizzo della rete mobile incrementerà i consumi. Il superamento del limite dati potrebbe comportare costi aggiuntivi."</string>
      <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
-     <string name="debug_menu_ad_information">Ad Information</string>
-     <string name="debug_menu_creative_preview">Creative Preview</string>
-     <string name="debug_menu_title">Select a Debug Mode</string>
-     <string name="debug_menu_troubleshooting">Troubleshooting</string>
-     <string name="decline">Decline</string>
      <string name="default_web_client_id">136396934609-49b12dj5k0rhhj1oi7f6am88lslhgqdu.apps.googleusercontent.com</string>
      <string name="delete">Elimina</string>
      <string name="delete_bookmark">Elimina</string>
@@ -313,6 +310,7 @@ Pages you view won't appear in history."</string>
      <string name="enable_geolocation_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="enter_developer_mode">Modalità sviluppatore</string>
      <string name="enter_incongnito_mode">Entra in modalità incognito</string>
+     <string name="enter_news_by_pull_down">Release to open news feed</string>
      <string name="error_console_eval_button_text">Abilita</string>
      <string name="error_console_eval_text_hint">Abilita JavaScript</string>
      <string name="error_console_header_text_maximized">JavaScript console</string>
@@ -438,22 +436,7 @@ Pages you view won't appear in history."</string>
      <string name="miui_search_notification_message">Tocca per aprire la barra di ricerca.</string>
      <string name="miui_search_notification_title">Cerca</string>
      <string name="miui_startpage">Pagina iniziale</string>
-     <string name="miuishare_account_activate_confirmation">Attivazione necessaria</string>
-     <string name="miuishare_account_activate_ok">Attiva</string>
-     <string name="miuishare_account_login_cancel">Annulla</string>
-     <string name="miuishare_account_login_confirmation">Registrazione necessaria</string>
-     <string name="miuishare_account_login_ok">Accedi</string>
-     <string name="miuishare_account_need_activate">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account attualmente non è attivo. Vuoi attivare il tuo account adesso?</string>
-     <string name="miuishare_account_need_login">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account attualmente attivo. Accedere e condividere adesso?</string>
-     <string name="miuishare_app_name">MiuiShare</string>
-     <string name="miuishare_no_network">Nessuna rete disponibile per la condivisione</string>
-     <string name="miuishare_publish">Invia</string>
-     <string name="miuishare_share_done">Contenuto condiviso inviato.</string>
-     <string name="miuishare_share_editor_title">Condividi</string>
-     <string name="miuishare_title_more">Altro</string>
      <string name="miuishare_title_share">Condividi</string>
-     <string name="miuishare_wechat_timeline_title">Cronologia Wechat</string>
-     <string name="miuishare_weibo_title">Weibo</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">La memoria USB è richiesta per modificare questo percorso</string>
      <string name="more_description">Menu</string>
      <string name="more_option">Altre opzioni</string>
@@ -851,6 +834,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_webviewchromium_private_browsing_warning">Questa funzione non è supportata con questa versione di Android.</string>
      <string name="mw_week_picker_dialog_title">Imposta settimana</string>
      <string name="my_cahnnel">My channels</string>
+     <string name="my_channel">My channels</string>
      <string name="nav_bottom_bar_back">Indietro</string>
      <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
      <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
@@ -867,8 +851,10 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="network_show_wifi_setting_tip_dialog_description">Connetti a questa rete</string>
      <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
      <string name="new_version_name">New version %s</string>
+     <string name="news_flow_more_recommend">More recommended items</string>
      <string name="news_load_failed">Tap to try again</string>
      <string name="news_loading">Loading…</string>
+     <string name="news_native_see_all">Full article</string>
      <string name="next_button_label">Avanti</string>
      <string name="nf_choose_reason">Describe the issue</string>
      <string name="nf_dislike">Not interesting</string>
@@ -876,6 +862,11 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="nf_feedback_tips1">"You'll see fewer items of this kind"</string>
      <string name="nf_feedback_tips2">Thanks for your feedback</string>
      <string name="nf_go_source">Source</string>
+     <string name="nf_new_feed_language">NEW</string>
+     <string name="nf_product_buy">Buy now</string>
+     <string name="nf_product_discount">Save %s</string>
+     <string name="nf_product_more">Details</string>
+     <string name="nf_select_language">Select News feed language</string>
      <string name="nf_submit">Submit</string>
      <string name="no_app_open_document">Nessuna app disponibile per gestire questa azione</string>
      <string name="no_items">No more items here.</string>
@@ -933,6 +924,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="permission_service">Terms and conditions</string>
      <string name="permission_storage">Storage</string>
      <string name="permission_use">Permissions</string>
+     <string name="personalized_services">Personalized services</string>
+     <string name="personalized_services_desc">Receive personalized content recommendations and ads</string>
      <string name="play_pause_video">Riproduci o metti in pausa video</string>
      <string name="play_video">Riproduci video</string>
      <string name="popup_video">Popup video</string>
@@ -946,7 +939,6 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_auto_update">Update automatically</string>
      <string name="pref_auto_update_under_wifi">Aggiorna automaticamente con Wi-Fi</string>
      <string name="pref_automatic_matching_searchengines_title">Passaggio al motore di ricerca più utilizzato</string>
-     <string name="pref_check_recommendation_app_quicklink">Recommended for you</string>
      <string name="pref_check_security_url_summary">Invia ai server Xiaomi per verificarne la sicurezza</string>
      <string name="pref_check_security_url_summary_international">Per fornire un servizio migliore, consenti al browser di accedere ai tuoi URL</string>
      <string name="pref_check_security_url_title">Verifica sicurezza URL</string>
@@ -1045,6 +1037,16 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_volume_key_action">Scorri con i tasti volume</string>
      <string name="privacy_accept">Agree &amp; continue</string>
      <string name="privacy_agreement">User Agreement</string>
+     <string name="privacy_authorize_network_error">Connect to the network and try again.</string>
+     <string name="privacy_authorize_revoke">Revoke</string>
+     <string name="privacy_authorize_revoke_dialog_msg">After you revoke authorization, Mi Browser will stop collecting data, and all the related data will be deleted from the servers. This might make Mi Browser virtually unusable. Revoke authorization anyway?</string>
+     <string name="privacy_authorize_revoke_dialog_title">Revoking authorization</string>
+     <string name="privacy_authorize_revoke_failed">"Couldn't revoke authorization"</string>
+     <string name="privacy_authorize_revoke_success">Revoked authorization successfully</string>
+     <string name="privacy_authorize_revoke_time">Revoke (%1$ds)</string>
+     <string name="privacy_authorize_revoking">Revoking authorization…</string>
+     <string name="privacy_authorize_summary">Toggle the switch on and off to grant or revoke your authorization</string>
+     <string name="privacy_authorize_title">Authorization</string>
      <string name="privacy_message">Read and agree to our %1$s and %2$s to continue.</string>
      <string name="privacy_policy">Privacy Policy</string>
      <string name="privacy_title">Welcome to Mi Browser</string>
@@ -1101,6 +1103,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="remove_from_bookmarks">Rimuovi dai segnalibri</string>
      <string name="remove_history_item">Rimuovi da cronologia</string>
      <string name="remove_snapshot">Elimina pagina salvata</string>
+     <string name="removed_channel">Not added</string>
      <string name="removed_from_bookmarks">Rimosso dai segnalibri.</string>
      <string name="replace">Sostituisci</string>
      <string name="replay">Play again</string>
@@ -1159,6 +1162,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="save_to_camera_success">Salvato in Fotocamera</string>
      <string name="scanner_uninstalled_text">Continua ad utilizzare, installa lo scanner</string>
      <string name="scanner_uninstalled_title">Lo scanner è stato disinstallato</string>
+     <string name="screenshot_loading_dialog_title">Capturing</string>
      <string name="sdcard_error">Verifica la tua scheda SD</string>
      <string name="search">Cerca</string>
      <string name="search_baidu">Baidu</string>
@@ -1195,6 +1199,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="send_comment_title">commenti</string>
      <string name="senddesktop">Home</string>
      <string name="sendstartpage">Pagina iniziale</string>
+     <string name="setting_app_language">Browser language</string>
+     <string name="setting_feed_language">News feed language</string>
      <string name="share_image_text">Sto guardando una foto bellissima</string>
      <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
      <string name="share_slide_video_text">Look what I shared: %1$s</string>
@@ -1228,8 +1234,6 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="storage_permission_request_toast">Download richiede permessi di archiviazione, si prega di concederli</string>
      <string name="storage_sd_card">Scheda SD</string>
      <string name="storage_usb">Memoria USB</string>
-     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
-     <string name="store_picture_title">Save image</string>
      <string name="suggest_access_appstore">Mi App Store</string>
      <string name="suggest_access_btn_install">Installa</string>
      <string name="suggest_access_btn_open">Apri</string>
@@ -1250,10 +1254,6 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="tab_quicklinks">Utilità</string>
      <string name="tab_yellowpage">In evidenza</string>
      <string name="tabs_description">Tab</string>
-     <string name="tae_sdk_login_qr_icon_close"></string>
-     <string name="tae_sdk_login_qr_icon_taobao"></string>
-     <string name="tae_sdk_qr_login_icon_password"></string>
-     <string name="tae_sdk_qr_login_icon_scan"></string>
      <string name="tip_drag">Long press to edit and drag to sort.</string>
      <string name="title_bar_loading">Caricamento…</string>
      <string name="title_command_mode">Command mode</string>
