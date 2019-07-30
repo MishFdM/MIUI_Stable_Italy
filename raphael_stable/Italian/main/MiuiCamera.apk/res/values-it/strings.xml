@@ -397,12 +397,14 @@ in modalità Portrait"</string>
      <string name="lighting_pattern_rainbow">Arcobaleno</string>
      <string name="lighting_pattern_shutter">Oscuro</string>
      <string name="lighting_pattern_stage">Palcoscenico</string>
+     <string name="live_appid">100072</string>
      <string name="live_edit_exit_confirm">Interrompi</string>
      <string name="live_edit_exit_message">Interrompere adesso?</string>
      <string name="live_edit_share_title">Condividi</string>
      <string name="live_error_confirm">Regola orario</string>
      <string name="live_error_message">"Alcune funzioni potrebbero non funzionare correttamente quando l'orario di sistema non è impostato correttamente."</string>
      <string name="live_error_title">"L'orario di sistema non è corretto"</string>
+     <string name="live_license">9ac2ed462d28187ae35e2ce2dd8ca53783059abaa5214122ecd0bd1dad7531698b50df8091f74ae264af4a45f55d97ff24aeee16bc62fd9a67d70eac8dc5572066f1c03f2181027b24a7ad252a068788</string>
      <string name="live_music_change_bgm">Cambia la musica di sfondo</string>
      <string name="live_music_close_cancel_message">Annulla</string>
      <string name="live_music_close_message">Disattivare la  musica adesso?</string>

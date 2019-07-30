@@ -1389,12 +1389,15 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione del dispositivo non funzionerà mentre questa opzione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
      <string name="confirm_erase">Elimina</string>
+     <string name="confirm_fingerprint">Verify your fingerprint</string>
      <string name="confirm_fingerprint_icon_content_description">Usa la tua impronta per continuare.</string>
      <string name="confirm_fingerprint_msg">Appoggia il dito sul lettore di impronte</string>
      <string name="confirm_frp_credential_message">Il tuo dispositivo verrà ripristinato alle impostazioni di fabbrica, potrai sbloccarlo con i tuoi precedenti dati segreti.</string>
      <string name="confirm_frp_credential_skip_txt">UTILIZZA UN ACCOUNT GOOGLE INVECE</string>
      <string name="confirm_frp_credential_title">Protezione Reset di Fabbrica</string>
      <string name="confirm_new_backup_pw_prompt">"Digita nuovamente la nuova password di backup completo qui"</string>
+     <string name="confirm_password_with_fingerprint">Use fingerprint</string>
+     <string name="confirm_password_with_password">Enter password</string>
      <string name="confirm_privacy_password">Inserisci la password di protezione privacy</string>
      <string name="confirm_privacy_password_fingerprint">"Scansiona l'impronta digitale o inserisci la Password di protezione privacy"</string>
      <string name="confirm_reset_aaid">OK</string>
@@ -1533,6 +1536,8 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="dangerous_option_switch_title">Notifica funzionalità ad alto rischio</string>
      <string name="dark_color_mode">Modalità scura</string>
      <string name="dark_color_summary">Utilizza tavolozza di colori scuri per lo sfondo di sistema e le app compatibili</string>
+     <string name="dark_color_summary_lcd">"Use darker color palette for system backgrounds and compatible apps. Dark mode can help you to relieve eye strain when you're using your device in the dark."</string>
+     <string name="dark_color_summary_oled">Use darker color palette for system backgrounds and compatible apps. Dark mode reduces power consumption and helps to relieve eye strain.</string>
      <string name="dark_ui_mode">Modalità notturna</string>
      <string name="dark_ui_mode_title">Imposta modalità notturna</string>
      <string name="dashboard_suggestion_condition_footer_content_description">Raggruppa</string>
@@ -3714,8 +3719,6 @@ ed esegui il software."</string>
      <string name="onehour">30 minuti</string>
      <string name="onekey_migrate">Trasferisci</string>
      <string name="onscreen_keyboard_settings_summary">Impostazioni tastiera sullo schermo</string>
-     <string name="open_dark_mode_dialog_summary">"Certain display settings aren't compatible with Dark mode. However, they will be restored once you turn Dark mode off. Turn on Dark mode?"</string>
-     <string name="open_dark_mode_dialog_title">Dark mode compatibility</string>
      <string name="open_demo_mode">Apri</string>
      <string name="open_demo_mode_warning_message">"Quando la modalità Demo è attiva, l'orologio nella barra di stato si fermerà, la batteria e le icone di segnale verranno mostrate come piene. Puoi disattivare la funzionalità Demo o riavviare il dispositivo per modificare questa impostazione."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
@@ -5589,6 +5592,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
+     <string name="toggle_auto_speaker_preference_summary">Device will switch to speaker when you move it away from your ear during calls. This feature works only when TalkBack is on.</string>
+     <string name="toggle_auto_speaker_preference_title">Switch to speaker automatically</string>
      <string name="total">Non disturbare</string>
      <string name="total_info">Silenzia i suoni e disattiva la vibrazione, eccetto per le sveglie</string>
      <string name="total_info_no_vibrator">Silenzia i suoni eccetto le sveglie</string>
