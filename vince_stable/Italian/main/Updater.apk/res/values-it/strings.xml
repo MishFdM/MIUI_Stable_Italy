@@ -7,8 +7,6 @@
      <string name="accessibility_image">Immagine</string>
      <string name="accessibility_play">Riproduci</string>
      <string name="accessibility_video">Video</string>
-     <string name="active_xiaomi_account">Active</string>
-     <string name="active_xiaomi_account_title">Activate Mi Account</string>
      <string name="alpha_cancel">Esci dal programma di beta test</string>
      <string name="alpha_cancel_cancel">Annulla</string>
      <string name="alpha_cancel_ok">OK</string>
@@ -31,7 +29,6 @@
      <string name="autosetmode">Impostazioni aggiornamento</string>
      <string name="battery_islow">&lt;font color=#f37981&gt;Connetti il tuo caricabatterie&lt;/font&gt;</string>
      <string name="battery_islow_desc">Il livello della batteria è troppo basso per installare questo file .zip in maniera sicura, connetti il tuo caricabatterie e riprova più tardi!</string>
-     <string name="best_update">Best update so far</string>
      <string name="boot_recovery">Riavvia in Recovery</string>
      <string name="btn_changelog">Changelog</string>
      <string name="btn_download">Download (%1$s)</string>
@@ -44,7 +41,12 @@
      <string name="btn_stop">Ferma</string>
      <string name="btn_yes">Si</string>
      <string name="button_delay_update_reboot">Riavvia e aggiorna</string>
+     <string name="button_text_cancel">Cancel</string>
      <string name="button_text_check">Cerca</string>
+     <string name="button_text_next_step">Next</string>
+     <string name="button_text_next_step_timer">Next step (%d)</string>
+     <string name="button_text_ok">OK</string>
+     <string name="button_text_ok_timer">OK (%d)</string>
      <string name="button_text_reboot">Riavvia adesso</string>
      <string name="button_text_reboot_hm">Riavvia adesso</string>
      <string name="button_text_update">Aggiorna</string>
@@ -68,7 +70,6 @@
      <string name="check_network">Impossibile connettersi alla rete</string>
      <string name="check_new_version">Cerca</string>
      <string name="clean_up_button">Cancella</string>
-     <string name="comment_publish">Submit</string>
      <string name="confirm_local_package_wipe_btn">Cancella e aggiorna</string>
      <string name="confirm_local_package_wipe_msg">I tuoi dati personali verranno eliminati. Assicurati di aver eseguito il backup dei dati importanti prima di iniziare.</string>
      <string name="confirm_local_package_wipe_title">Eliminare i dati?</string>
@@ -143,7 +144,6 @@
      <string name="exo_track_surround_5_point_1">Suono sorround 5.1 canali</string>
      <string name="exo_track_surround_7_point_1">Suono sorround 7.1 canali</string>
      <string name="exo_track_unknown">Sconosciuto</string>
-     <string name="expect">Expectations</string>
      <string name="experimental_build">Sperimentale</string>
      <string name="express_entry_none">Nessuno</string>
      <string name="express_entry_not_reserve">Non ho fatto richiesta</string>
@@ -168,12 +168,8 @@
      <string name="format_cache_msg">"Spazio insufficiente per un aggiornamento nella partizione cache della memoria del dispositivo. Tocca \"Riavvia\" per cancellare la partizione cache e riavviare il dispositivo. I tuoi dati non verranno modificati da questa azione."</string>
      <string name="format_cache_positive_button">Riavvia</string>
      <string name="format_cache_title">Spazio insufficiente nella partizione cache</string>
-     <string name="fourgrid_hint_text">Thank you for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
-     <string name="fourgrid_no_notificaiont">"Don't show in status bar"</string>
-     <string name="fourgrid_notificaiont">Show in status bar</string>
      <string name="get_auto">Ricevi mod. auto.</string>
      <string name="get_current">Attuale</string>
-     <string name="get_update_error">"Can't get update info"</string>
      <string name="go_on_download">Continua</string>
      <string name="home_delay_cancel">Annulla</string>
      <string name="home_delay_msg">Gli aggiornamenti verranno installati fra le 2:00 e le 5:00 del mattino se la batteria risulterà essere carica al %s.</string>
@@ -205,6 +201,8 @@ I dati non verranno cancellati."</string>
      <string name="log_share">Condividi</string>
      <string name="log_status_locked_info">Spiacente, Non hai i permessi per accedere al log di aggiornamento</string>
      <string name="log_status_locked_summary">Prova ad accedere al sistema con uno Xiaomi ID autorizzato</string>
+     <string name="master_clear_apply_title">Attention</string>
+     <string name="menu_back_button">Back</string>
      <string name="menu_more_button">Menu</string>
      <string name="menu_title_apply_for_alpha">Accedi al programma di beta test</string>
      <string name="menu_title_current_version_log">Riepilogo aggiornamento</string>
@@ -215,9 +213,10 @@ I dati non verranno cancellati."</string>
      <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
      <string name="menu_title_privacy">Informativa sulla Privacy</string>
      <string name="menu_title_recovery">Riavvia in Recovery</string>
+     <string name="menu_title_switch_dev">Switch to Beta</string>
+     <string name="menu_title_switch_stable">Switch to stable ROM</string>
      <string name="message_checkbox">Nascondi messaggi futuri dal team di Miui.it</string>
      <string name="message_title">NOTA!</string>
-     <string name="miui_BBS">" "<a href="http://www.miui.it/forum">Vai sul forum di MIUI Italia</a>" "</string>
      <string name="miui_summary_has_new_version">" È disponibile un aggiornamento  "</string>
      <string name="miui_summary_no_new_version">Nessun aggiornamento disponibile</string>
      <string name="miui_summary_now_version">"Versione attuale "</string>
@@ -230,11 +229,7 @@ I dati non verranno cancellati."</string>
      <string name="mobile_download_sum">Scarica aggiornamenti durante il periodo di tempo impostato utilizzando i dati mobili</string>
      <string name="mobile_download_title">Aggiornare utilizzando i dati mobili?</string>
      <string name="monthly_build">Mensile</string>
-     <string name="my_best_update">Best update</string>
-     <string name="my_expect_update">Expectations</string>
      <string name="my_rank">Mia posizione:</string>
-     <string name="my_update_feel">My feedback</string>
-     <string name="my_worst_update">Worst update</string>
      <string name="new_version">Nuova versione trovata!</string>
      <string name="next">Avanti</string>
      <string name="no_info">Nessuna informazione disponibile.</string>
@@ -374,9 +369,8 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="space_not_enough_title">Spazio insufficiente</string>
      <string name="stable">stabile</string>
      <string name="stable_build">Stabile</string>
-     <string name="submit_fail">"Can't send"</string>
-     <string name="submit_progress">Sending…</string>
-     <string name="submit_success">Sent</string>
+     <string name="switch_version_cancel">Cancel switching</string>
+     <string name="switch_version_warning">Switching to a different ROM requires erasing data on your device. Erased items include photos, songs, notes, and other items. The items will be erased after you tap Reboot now when the new version is downloaded. Back up all important items to be able to restore them in the future.</string>
      <string name="test">Test</string>
      <string name="tip_drag_last_toast">"Dai un'occhiata alle novità della MIUI 10"</string>
      <string name="title_can_download_update">Opzioni disponibili</string>
@@ -389,21 +383,8 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="uncrypt_title">Decrittazione (%s)</string>
      <string name="unkown_error_title">Si è verificato un errore</string>
      <string name="unstable_build">Non Stabile</string>
-     <string name="update_comment_title">Comment</string>
      <string name="update_downfull_no_info_sum">Impossibile scaricare, controlla di nuovo con il tasto di aggiornamento.</string>
      <string name="update_downfull_no_info_title">Impossibile scaricare</string>
-     <string name="update_feedback">Rate this update</string>
-     <string name="update_feedback_end">"You missed this week's vote"</string>
-     <string name="update_feedback_end_sum">You can join in every Monday.</string>
-     <string name="update_feedback_expired">"You missed this week's vote.
-But you can take part next Monday."</string>
-     <string name="update_feedback_need_account">You need to sign in to your Mi Account first</string>
-     <string name="update_feedback_need_network">Connect to network first</string>
-     <string name="update_feedback_need_update">You need to update your system to the latest build first.</string>
-     <string name="update_feel">What do you think?</string>
-     <string name="update_general">So-so</string>
-     <string name="update_happy">Satisfied!</string>
-     <string name="update_sad">Disappointed</string>
      <string name="update_setting">Aggiornamenti</string>
      <string name="update_success">Aggiornamento riuscito</string>
      <string name="update_success_reboot_immediately">Dispositivo aggiornato</string>
@@ -422,25 +403,8 @@ But you can take part next Monday."</string>
      <string name="validate_pkg_failed_msg">"L'aggiornamento che hai scaricato non corrisponde con i nostri dati. Prova a scaricarlo di nuovo."</string>
      <string name="validate_pkg_failed_title">"Impossibile verificare l'aggiornamento"</string>
      <string name="version">Attualmente installato:</string>
-     <string name="vote_beta">Programma Segnalazioni Bug Beta</string>
-     <string name="vote_error1">"Sembra che tu non sia un membro
- del Programma Segnalazioni Bug Beta"</string>
-     <string name="vote_error2">"Impossibile inviare segnalazione.
- Aggiorna il tuo dispositivo e riprova"</string>
-     <string name="vote_error3">"Impossibile accedere.
- Prova ad accedere di nuovo col tuo Mi Account."</string>
-     <string name="vote_error4">Hai già inviato la tua segnalazione</string>
-     <string name="vote_error5">"Si è verificato un errore.
- Impossibile inviare la segnalazione"</string>
      <string name="vote_error_nonetwork">Impossibile collegarsi alla rete</string>
-     <string name="vote_experience">Esperienza forum</string>
-     <string name="vote_hint">Ricevi 20 punti esperienza sul forum MIUI quando voti</string>
-     <string name="vote_join">Votato</string>
-     <string name="vote_not_recommend">Non consigliare</string>
-     <string name="vote_recommend">Consiglia questo aggiornamento</string>
-     <string name="vote_submit">Invia</string>
      <string name="weekly">settimanale</string>
      <string name="weekly_build">Settimanale</string>
      <string name="wifi_recommended">Nessuna connessione Wi-Fi per iniziare il download in modo sicuro!</string>
-     <string name="worst_update">Worst update so far</string>
 </resources>
