@@ -523,6 +523,19 @@ Ultimo utilizzo il %2$s"</string>
      <string name="backup_pw_cancel_button_text">Annulla</string>
      <string name="backup_pw_set_button_text">Imposta password di backup</string>
      <string name="backup_section_title">Backup e ripristino</string>
+     <string name="backup_set_clear_success">Turned off backup password successfully</string>
+     <string name="backup_set_clear_title">Turn off backup password</string>
+     <string name="backup_set_confirm">OK</string>
+     <string name="backup_set_confirm_clear">Turn off</string>
+     <string name="backup_set_enter_new_pw">Enter new backup password</string>
+     <string name="backup_set_enter_new_pw_again">Confirm new backup password</string>
+     <string name="backup_set_enter_old_pw">Enter old backup password</string>
+     <string name="backup_set_enter_pw_title">Enter backup password</string>
+     <string name="backup_set_error_pw">The password you entered is incorrect</string>
+     <string name="backup_set_modify_title">Change backup password</string>
+     <string name="backup_set_new_pw_title">Enter new backup password</string>
+     <string name="backup_set_null_pw">Enter password first</string>
+     <string name="backup_set_pw_confirm_title">Confirm new backup password</string>
      <string name="band_mode_failed">Non riuscita</string>
      <string name="band_mode_loading">Caricamento lista bande…</string>
      <string name="band_mode_set">Imposta</string>
@@ -1088,6 +1101,8 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="checking_for_updates">Ricerca aggiornamenti in corso\u2026</string>
      <string name="child_mode_settings">Controlli parentali</string>
      <string name="choose_a_card_to_reset">Seleziona scheda SIM da reimpostare</string>
+     <string name="choose_keyguard_clock_style">Lock screen clock format</string>
+     <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
      <string name="choose_profile">Scegli il profilo</string>
      <string name="choose_smartcover_type">Scegli il tipo di custodia</string>
      <string name="choose_spell_checker">Scegli controllo ortografico</string>
@@ -1526,6 +1541,7 @@ avviso"</string>
      <string name="device_miui_more">Vedi altro</string>
      <string name="device_miui_version">Versione MIUI</string>
      <string name="device_miui_version_for_POCO">Versione MIUI (POCOPHONE)</string>
+     <string name="device_miui_version_parameters">MIUI version</string>
      <string name="device_miui_version_update">"E' disponibile un aggiornamento MIUI"</string>
      <string name="device_name">Nome dispositivo</string>
      <string name="device_name_input_error">Impossibile salvare il nome del dispositivo</string>
@@ -3623,6 +3639,7 @@ ed esegui il software."</string>
      <string name="privacy_password_remind_bindaccount_title">Aggiungi Mi Account</string>
      <string name="privacy_password_settings">Usa la password di protezione privacy</string>
      <string name="privacy_password_settings_next">Avanti</string>
+     <string name="privacy_password_settings_summary">Privacy protection password is used for the apps that might contain sensitive information</string>
      <string name="privacy_password_settings_titles">La password di protezione privacy protegge i tuoi messaggi, foto, file, note e app.</string>
      <string name="privacy_password_settings_titles_elder_mode">La password di protezione privacy tiene al sicuro le tue foto, file e note.</string>
      <string name="privacy_password_settings_titles_second_space">La password di protezione privacy tiene al sicuro i tuoi messaggi, le tue foto, file e note.</string>
@@ -4676,6 +4693,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_led">Notification light</string>
      <string name="status_bar_settings_notification_priority">Priority</string>
      <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
+     <string name="status_bar_settings_notification_ringtone">Ringtone</string>
      <string name="status_bar_settings_notification_shade_shortcut">Notification shade shortcut</string>
      <string name="status_bar_settings_notification_sound">Sound</string>
      <string name="status_bar_settings_notification_sound_custom">Suono personalizzato</string>
@@ -5070,6 +5088,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
+     <string name="toggle_auto_speaker_preference_summary">Device will switch to speaker when you move it away from your ear during calls. This feature works only when TalkBack is on.</string>
+     <string name="toggle_auto_speaker_preference_title">Switch to speaker automatically</string>
      <string name="total">Non disturbare</string>
      <string name="total_info">Silenzia i suoni e disattiva la vibrazione, eccetto per le sveglie</string>
      <string name="total_info_no_vibrator">Silenzia i suoni eccetto le sveglie</string>
