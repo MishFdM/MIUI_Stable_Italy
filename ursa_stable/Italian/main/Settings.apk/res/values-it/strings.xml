@@ -1668,6 +1668,10 @@ avviso"</string>
      <string name="date_time_set_timezone_title">Fuso orario</string>
      <string name="date_time_settings">Data e ora</string>
      <string name="day_of_week">Giorno della settimana</string>
+     <string name="dc_light_dialog_summary">Image quality might be affected when Anti-flicker mode is on. Turn on anyway?</string>
+     <string name="dc_light_summary">Apply DC dimming to reduce eye strain</string>
+     <string name="dc_light_summary_new">DC dimming reduces eye strain in low light conditions. However, image quality might be affected when Anti-flicker mode is on.</string>
+     <string name="dc_light_title">Anti-flicker mode</string>
      <string name="debug_app">"Seleziona l'applicazione per il debug"</string>
      <string name="debug_app_not_set">Nessuna applicazione impostata per il debug</string>
      <string name="debug_app_set">"Debug dell'applicazione: %1$s"</string>
@@ -4401,6 +4405,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="screen_paper_mode_global_summary">Utilizza la modalità Lettura per tutte le applicazioni</string>
      <string name="screen_paper_mode_global_title">Tutte le applicazioni</string>
      <string name="screen_paper_mode_hdr_toast">"La modalità lettura verrà disattivata durante la riproduzione di video HDR. Verrà riattivata automaticamente al termine della riproduzione."</string>
+     <string name="screen_paper_mode_hdr_toast_new">Reading mode will be turned off automatically during HDR video playback and fingerprint verification. Your device will switch back to Reading mode once these actions are completed.</string>
      <string name="screen_paper_mode_local_summary">Utilizza la modalità Lettura solo per le applicazioni selezionate</string>
      <string name="screen_paper_mode_local_title">Applicazioni selezionate</string>
      <string name="screen_paper_mode_off_apps_title">Non utilizzano la modalità Lettura</string>
