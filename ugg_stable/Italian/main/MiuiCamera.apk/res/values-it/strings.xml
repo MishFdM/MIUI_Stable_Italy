@@ -58,7 +58,7 @@
      <string name="config_name_scene">Scena</string>
      <string name="config_name_setting">Impostazioni</string>
      <string name="config_name_sound">Audio</string>
-     <string name="config_name_straighten">Raddrizza</string>
+     <string name="config_name_straighten">Riallinea</string>
      <string name="config_name_tilt">Tilt-Shift</string>
      <string name="config_name_timer">Timer</string>
      <string name="confirm_install_scanner_message">Lo scanner ti permette di scansionare codici QR, a barre, ed altri. E non dovrai connetterti ad internet per installarlo.</string>
@@ -299,7 +299,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>
      <string name="pref_camera_portrait_mode_title">Modalità ritratto</string>
      <string name="pref_camera_portrait_with_facebeauty_title">Funzionalità Bellezza in modalità ritratto</string>
-     <string name="pref_camera_proximity_lock_summary">Blocca i movimenti touch quando posizionato in una tasca</string>
+     <string name="pref_camera_proximity_lock_summary">Impedisci il funzionamento del touch quando il dispositivo si trova in tasca</string>
      <string name="pref_camera_proximity_lock_title">Modalità Pocket</string>
      <string name="pref_camera_recordlocation_entry_off">Disattivato</string>
      <string name="pref_camera_recordlocation_entry_on">Attivato</string>
@@ -462,11 +462,11 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="start_capture">OK</string>
      <string name="sticker_tab1">Carino</string>
      <string name="sticker_tab2">Divertente</string>
+     <string name="super_night_toast">Mantieni fermo il telefono</string>
      <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale."</string>
      <string name="tap_to_focus">Tocca per mettere a fuoco</string>
      <string name="time_lapse_error">Dimensione video non valida per il Time-lapse.</string>
      <string name="title_snap_double_confirm">Conferma di nuovo</string>
-     <string name="toast_burst_snap_finished_summary">Burst shot done, %1$s photos taken</string>
      <string name="toast_burst_snap_forbidden_when_audio_capture_open">Impossibile acquisire scatti multipli durante la registrazione audio</string>
      <string name="toast_saving">Salvataggio foto...</string>
      <string name="toast_start_audio_capture">Riproduci un suono al momento dello scatto</string>

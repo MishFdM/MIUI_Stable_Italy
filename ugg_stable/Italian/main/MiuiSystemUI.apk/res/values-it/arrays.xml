@@ -114,9 +114,9 @@
         <item>16M</item>
      </string-array>
      <string-array name="select_logd_system_levels">
-        <item>Disattivato</item>
-        <item>Errore</item>
-        <item>Avviso</item>
+        <item>Off</item>
+        <item>Error</item>
+        <item>Warn</item>
         <item>Info</item>
         <item>Debug</item>
         <item>Verbose</item>

@@ -33,7 +33,7 @@
      <string name="device_owner_error_package_invalid">"Non è possibile utilizzare l'app admin. Alcuni componenti sono mancanti o danneggiati. Contatta il reparto IT."</string>
      <string name="device_owner_error_reset">Reset</string>
      <string name="device_owner_error_wifi">Impossibile connettersi alla rete Wi-Fi</string>
-     <string name="device_owner_exists">I profili di lavoro non possono essere impostati o gestiti</string>
+     <string name="device_owner_exists">Work profiles can not be setup on a managed device</string>
      <string name="encrypt_device_launch_settings">Encrypt</string>
      <string name="encrypt_device_text_for_device_owner_setup">"Per continuare ad impostare il profilo di lavoro, dovrai crittografarlo. Questo potrebbe richiedere un po' di tempo."</string>
      <string name="encrypt_device_text_for_profile_owner_setup">"Per continuare ad impostare il profilo di lavoro, dovrai crittografare il tuo dispositivo. Questo potrebbe richiedere un po' di tempo."</string>
