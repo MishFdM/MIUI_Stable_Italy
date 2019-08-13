@@ -36,6 +36,10 @@
         <item quantity="other">Dopo %d secondi verrà creata automaticamente una nuova pagina</item>
         <item quantity="one">Dopo %d secondo verrà creata automaticamente una nuova pagina</item>
      </plurals>
+     <plurals name="nf_item_like">
+        <item quantity="other">%s likes</item>
+        <item quantity="one">%s like</item>
+     </plurals>
      <plurals name="pref_adblock_counts">
         <item quantity="other">%d blocked</item>
         <item quantity="one">%d blocked</item>

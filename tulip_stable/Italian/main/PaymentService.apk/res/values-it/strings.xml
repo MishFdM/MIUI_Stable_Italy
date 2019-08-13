@@ -19,6 +19,7 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Chiudi</string>
+     <string name="app_name">Mi Credit</string>
      <string name="hybrid_provider">Fornito da %1$s</string>
      <string name="mibi_all_license_message">Stai per utilizzare del Mi Credit, un servizio fornito da Xiaomi Inc. Prima che tu possa utilizzare questo servizio, dovrai concordare con i Termini di Servizio. Tocca OK se hai concordato con i termini e le condizioni descritte in %1$s e %2$s. Dovrai connetterti ad Internet, localizzare il tuo dispositivo ed utilizzare i Mi Credit."</string>
      <string name="mibi_app_name">Mi Credit</string>

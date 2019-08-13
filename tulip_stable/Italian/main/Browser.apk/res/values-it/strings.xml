@@ -21,7 +21,6 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Raggruppa</string>
-     <string name="accept">Accept</string>
      <string name="accept_cookies_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="accessibility_button_clear">Cancella</string>
      <string name="account_prifix">Account:</string>
@@ -141,8 +140,12 @@
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
      <string name="cast_video">Streaming video</string>
      <string name="change_news_language">Change news language?</string>
+     <string name="channel_manager">Manage channels</string>
+     <string name="channel_reset">Reset</string>
      <string name="channels_edit">Edit</string>
      <string name="channels_finish">Finish</string>
+     <string name="check_nf_info">Check news item info</string>
+     <string name="check_nf_info_desc">Long press item to show info</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
      <string name="clear_history">Cancella cronologia</string>
      <string name="clear_most_visited">Recent history</string>
@@ -214,8 +217,6 @@
      <string name="contextmenu_webpage_snapshot">Salva pagina</string>
      <string name="copy_url">Copia URL</string>
      <string name="could_not_load_data">"Couldn't load data, refresh and try again"</string>
-     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
-     <string name="create_calendar_title">Create calendar event</string>
      <string name="create_qr_code">Codice QR</string>
      <string name="current_version_pad">Tablet</string>
      <string name="current_version_pc">Desktop</string>
@@ -225,13 +226,9 @@ stia per accadere"</string>
      <string name="custom_head_card_text_incognito">"You're incognito!
 Pages you view won't appear in history."</string>
      <string name="data_error">Data error</string>
+     <string name="data_format_ymd">MM/dd/yyyy</string>
      <string name="data_traffic_prompt_message">"L'utilizzo della rete mobile incrementerà i consumi. Il superamento del limite dati potrebbe comportare costi aggiuntivi."</string>
      <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
-     <string name="debug_menu_ad_information">Ad Information</string>
-     <string name="debug_menu_creative_preview">Creative Preview</string>
-     <string name="debug_menu_title">Select a Debug Mode</string>
-     <string name="debug_menu_troubleshooting">Troubleshooting</string>
-     <string name="decline">Decline</string>
      <string name="default_web_client_id">136396934609-49b12dj5k0rhhj1oi7f6am88lslhgqdu.apps.googleusercontent.com</string>
      <string name="delete">Elimina</string>
      <string name="delete_bookmark">Elimina</string>
@@ -313,6 +310,7 @@ Pages you view won't appear in history."</string>
      <string name="enable_geolocation_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="enter_developer_mode">Modalità sviluppatore</string>
      <string name="enter_incongnito_mode">Entra in modalità incognito</string>
+     <string name="enter_news_by_pull_down">Release to open news feed</string>
      <string name="error_console_eval_button_text">Abilita</string>
      <string name="error_console_eval_text_hint">Abilita JavaScript</string>
      <string name="error_console_header_text_maximized">JavaScript console</string>
@@ -836,6 +834,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_webviewchromium_private_browsing_warning">Questa funzione non è supportata con questa versione di Android.</string>
      <string name="mw_week_picker_dialog_title">Imposta settimana</string>
      <string name="my_cahnnel">My channels</string>
+     <string name="my_channel">My channels</string>
      <string name="nav_bottom_bar_back">Indietro</string>
      <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
      <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
@@ -855,6 +854,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="news_flow_more_recommend">More recommended items</string>
      <string name="news_load_failed">Tap to try again</string>
      <string name="news_loading">Loading…</string>
+     <string name="news_native_see_all">Full article</string>
      <string name="next_button_label">Avanti</string>
      <string name="nf_choose_reason">Describe the issue</string>
      <string name="nf_dislike">Not interesting</string>
@@ -863,6 +863,9 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="nf_feedback_tips2">Thanks for your feedback</string>
      <string name="nf_go_source">Source</string>
      <string name="nf_new_feed_language">NEW</string>
+     <string name="nf_product_buy">Buy now</string>
+     <string name="nf_product_discount">Save %s</string>
+     <string name="nf_product_more">Details</string>
      <string name="nf_select_language">Select News feed language</string>
      <string name="nf_submit">Submit</string>
      <string name="no_app_open_document">Nessuna app disponibile per gestire questa azione</string>
@@ -1100,6 +1103,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="remove_from_bookmarks">Rimuovi dai segnalibri</string>
      <string name="remove_history_item">Rimuovi da cronologia</string>
      <string name="remove_snapshot">Elimina pagina salvata</string>
+     <string name="removed_channel">Not added</string>
      <string name="removed_from_bookmarks">Rimosso dai segnalibri.</string>
      <string name="replace">Sostituisci</string>
      <string name="replay">Play again</string>
@@ -1230,8 +1234,6 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="storage_permission_request_toast">Download richiede permessi di archiviazione, si prega di concederli</string>
      <string name="storage_sd_card">Scheda SD</string>
      <string name="storage_usb">Memoria USB</string>
-     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
-     <string name="store_picture_title">Save image</string>
      <string name="suggest_access_appstore">Mi App Store</string>
      <string name="suggest_access_btn_install">Installa</string>
      <string name="suggest_access_btn_open">Apri</string>
